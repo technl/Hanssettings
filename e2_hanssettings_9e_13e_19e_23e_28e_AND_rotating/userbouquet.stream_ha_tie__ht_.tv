@@ -1,0 +1,21 @@
+#NAME Stream Haïtie (HT)
+#SERVICE 1:64:196b:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_122/amlst%3a202174-1345576/chunklist_.m3u8:RTH TV 1
+#DESCRIPTION RTH TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_118/amlst%3a202174-1337254/chunklist_.m3u8:RTH TV 2
+#DESCRIPTION RTH TV 2
+#SERVICE 1:64:196c:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//209.91.213.10%3a8088/play/a027:Claro Musica
+#DESCRIPTION Claro Musica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//209.91.213.10%3a8088/play/a024:Claro Sports
+#DESCRIPTION Claro Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.244.81.145%3a3333/live/telebostonrtb/chunklist_w352358317.m3u8:Radio Tele Boston
+#DESCRIPTION Radio Tele Boston
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watch.haitilive.net/app/eclairtv/tracks-v1a1/mono.m3u8:Tele Eclair Chaine 4
+#DESCRIPTION Tele Eclair Chaine 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.175.238.147%3a1935/live/myStream/playlist.m3u8:Tele Haïti
+#DESCRIPTION Tele Haïti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8:Tele Louange
+#DESCRIPTION Tele Louange

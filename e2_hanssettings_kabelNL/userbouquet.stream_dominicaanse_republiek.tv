@@ -1,0 +1,101 @@
+#NAME Stream Dominicaanse Republiek (DO)
+#SERVICE 1:64:19e:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8:Viva Canal 5
+#DESCRIPTION Viva Canal 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/ReadyTV/ReadyHD/playlist.m3u8:Ready TV Canal 6 HD
+#DESCRIPTION Ready TV Canal 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newyorkstream.ddns.net%3a1935/telenord8/telenord8/playlist.m3u8:Telenord Canal 8
+#DESCRIPTION Telenord Canal 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudflare.streamgato.us%3a3352/live/ghtelevisionhdlive.m3u8:GH Television Canal 10 HD
+#DESCRIPTION GH Television Canal 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/live/MicroHD/chunklist_w1468779956.m3u8:Microvision 10
+#DESCRIPTION Microvision 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newyorkstream.ddns.net%3a1935/telenord10/telenord10/playlist.m3u8:Telenord Canal 10
+#DESCRIPTION Telenord Canal 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss6.domint.net%3a2060/tvm_str/montanatv/master.m3u8:TV Montaña Canal 10
+#DESCRIPTION TV Montaña Canal 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn4.hostlagarto.com%3a8081/static/telecanal12/chunks.m3u8:Tele Canal 12 HD
+#DESCRIPTION Tele Canal 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newyorkstream.ddns.net%3a1935/telenord12/telenord12/playlist.m3u8:Telenord 12
+#DESCRIPTION Telenord 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//server3.prostudionetwork.com%3a1945/teleunion/TU/playlist.m3u8:Teleunion Canal 16 Santiago
+#DESCRIPTION Teleunion Canal 16 Santiago
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.teledom.info%3a3713/live/cinevisionlive.m3u8:Cinevision Canal 19
+#DESCRIPTION Cinevision Canal 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/Tvstv/TvstvHD.myStream/chunks.m3u8:TVS Canal 22
+#DESCRIPTION TVS Canal 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss8.domint.net%3a2118/tf_str/futu/master.m3u8:Telefuturo Canal 23
+#DESCRIPTION Telefuturo Canal 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.122.96.186%3a8888/http/005:Super Canal 33
+#DESCRIPTION Super Canal 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cm.hostlagarto.com%3a4445/phtv/Phtv.myStream/chunks.m3u8:PHTV Canal 34
+#DESCRIPTION PHTV Canal 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.romanatv42.com/hls/live.m3u8:Romana TV Canal 42
+#DESCRIPTION Romana TV Canal 42
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss6.domint.net%3a2028/ame_str/amecanal47/master.m3u8:Canal Amé 47
+#DESCRIPTION Canal Amé 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/Telemilenio/Telemilenio.myStream/playlist.m3u8:Telemilenio Canal 50
+#DESCRIPTION Telemilenio Canal 50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss8.domint.net%3a3128/stv_str/tv55/master.m3u8:Super TV 55 Santiago
+#DESCRIPTION Super TV 55 Santiago
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudflare.streamgato.us%3a3549/live/canal56live.m3u8:Canal 56
+#DESCRIPTION Canal 56
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss3.domint.net%3a3120/dv6_str/digitalvision/playlist.m3u8:Digital Vision 63
+#DESCRIPTION Digital Vision 63
+#SERVICE 1:64:19f:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//azxtv.com/hls/stream.m3u8:Anime Zone TV
+#DESCRIPTION Anime Zone TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss6.domint.net%3a2012/tes_str/teleelsalvador/playlist.m3u8:Carivision
+#DESCRIPTION Carivision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.30.37.36%3a1935/live/stream/chunklist_w1329394356.m3u8:Comunion TV
+#DESCRIPTION Comunion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//184.173.181.2%3a1935/8060/8060/playlist.m3u8:Faro Vision
+#DESCRIPTION Faro Vision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8:Fuego TV
+#DESCRIPTION Fuego TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss2.domint.net%3a3200/gdm_str/gdmtv/playlist.m3u8:GDM Television
+#DESCRIPTION GDM Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp%3aHilandoFinoTV_all/playlist.m3u8:Hilando Fino
+#DESCRIPTION Hilando Fino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/hits360tv/hits360HD.myStream/playlist.m3u8:Hits 360 TV
+#DESCRIPTION Hits 360 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8:La Voz de Maria la Vega
+#DESCRIPTION La Voz de Maria la Vega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.222.85.85%3a81/hls/loco/index.m3u8:Locomotion TV
+#DESCRIPTION Locomotion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8:LVM
+#DESCRIPTION LVM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//server3.prostudionetwork.com%3a1943/megavision/MV/chunklist.m3u8:Megavisión
+#DESCRIPTION Megavisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss3.domint.net%3a3134/otv_str/orbittv/playlist.m3u8:Orbit TV
+#DESCRIPTION Orbit TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/Punaltv/punaltvHD.myStream/chunks.m3u8:Puñal TV
+#DESCRIPTION Puñal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudflare.streamgato.us%3a3901/live/radio105live.m3u8:Radio 105 Full
+#DESCRIPTION Radio 105 Full
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/ReadyTV/ReadyHD/chunklist.m3u8:Ready TV
+#DESCRIPTION Ready TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss2.domint.net%3a3202/rnn_str/canal27/playlist.m3u8:RNN
+#DESCRIPTION RNN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.122.104.221/Player/sitv.m3u8:SiTV
+#DESCRIPTION SiTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//108.175.14.125%3a1935/tdn/tdn/chunklist.m3u8:TDN TV
+#DESCRIPTION TDN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss8.domint.net%3a2124/tbt_str/telebendicion/playlist.m3u8:Tele Bendicion
+#DESCRIPTION Tele Bendicion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/Telecibao/Telecibao/playlist.m3u8:TeleCibao
+#DESCRIPTION TeleCibao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.122.96.188%3a8888/http/013:Teleimpacto
+#DESCRIPTION Teleimpacto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/ESTV/estv.myStream/playlist.m3u8:Television del Este
+#DESCRIPTION Television del Este
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8:Vallevision TV
+#DESCRIPTION Vallevision TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss6.domint.net%3a3012/tes_str/teleelsalvador/playlist.m3u8:Vega Teve
+#DESCRIPTION Vega Teve
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss3.domint.net%3a3108/zol_str/vzol/playlist.m3u8:Zol 106 FM
+#DESCRIPTION Zol 106 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lb00zdigital.streamprolive.com/mnt/hls/live.m3u8:ZTV
+#DESCRIPTION ZTV

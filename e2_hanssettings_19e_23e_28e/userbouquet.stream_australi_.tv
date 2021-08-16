@@ -1,0 +1,107 @@
+#NAME Stream Australië (AU)
+#SERVICE 1:64:261:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002510251/:ABC Adelaide (30 seconden wachten)
+#DESCRIPTION ABC Adelaide (30 seconden wachten)
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002810281/:ABC Darwin (30 seconden wachten)
+#DESCRIPTION ABC Darwin (30 seconden wachten)
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002710271/:ABC Hobart (30 seconden wachten)
+#DESCRIPTION ABC Hobart (30 seconden wachten)
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002310231/:ABC Melbourne (30 seconden wachten)
+#DESCRIPTION ABC Melbourne (30 seconden wachten)
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/3201026102E1/:ABC Perth (30 seconden wschten)
+#DESCRIPTION ABC Perth (30 seconden wschten)
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002210221/:ABC Sydney (30 seconden wachten)
+#DESCRIPTION ABC Sydney (30 seconden wachten)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002210222/:ABC Kids (30 seconden wachten)
+#DESCRIPTION ABC Kids (30 seconden wachten)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002210224/:ABC Me (30 seconden wachten)
+#DESCRIPTION ABC Me (30 seconden wachten)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8:ABC News Australia
+#DESCRIPTION ABC News Australia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc2/:ABC TV Plus (30 seconden wachten)
+#DESCRIPTION ABC TV Plus (30 seconden wachten)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8:Fox Sports News
+#DESCRIPTION Fox Sports News
+#SERVICE 1:64:262:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8:3AW Melbourne
+#DESCRIPTION 3AW Melbourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv-all.lanesh4d0w.codes/australia/acctv-adelaide:ACCTV Adelaide
+#DESCRIPTION ACCTV Adelaide
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv-all.lanesh4d0w.codes/australia/acctv-melbourne:ACCTV Melbourne
+#DESCRIPTION ACCTV Melbourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8:Ausbiz TV
+#DESCRIPTION Ausbiz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720v3.m3u8:Australia Channel
+#DESCRIPTION Australia Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8:Bloomberg Australië 
+#DESCRIPTION Bloomberg Australië 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8:Bounty Plus
+#DESCRIPTION Bounty Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv-all.lanesh4d0w.codes/australia/ch44:Channel 44
+#DESCRIPTION Channel 44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8:Dry Bar Comedy
+#DESCRIPTION Dry Bar Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8:DUST
+#DESCRIPTION DUST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8:Expo Channel
+#DESCRIPTION Expo Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8:Filmstream
+#DESCRIPTION Filmstream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8:Fuel TV
+#DESCRIPTION Fuel TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8:Gusto TV
+#DESCRIPTION Gusto TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hncfree-samsungau.amagi.tv/playlist.m3u8:Horse and Country
+#DESCRIPTION Horse and Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-samsungau.amagi.tv/playlist.m3u8:Insight TV
+#DESCRIPTION Insight TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//introuble-samsungau.amagi.tv/playlist.m3u8:Introuble TV
+#DESCRIPTION Introuble TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inwild-samsungau.amagi.tv/playlist.m3u8:Inwild TV
+#DESCRIPTION Inwild TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inwonder-samsungau.amagi.tv/playlist.m3u8:Inwonder TV
+#DESCRIPTION Inwonder TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//i.mjh.nz/nz/tv.juice.m3u8:Juice TV
+#DESCRIPTION Juice TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8:MAVTV Motor Sports
+#DESCRIPTION MAVTV Motor Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//medialive.openshop.com.au/asn-live_1.m3u8:Open Shop
+#DESCRIPTION Open Shop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//outdoorchannel-samsungau.amagi.tv/playlist.m3u8:Outdoor Channel
+#DESCRIPTION Outdoor Channel
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8:Racing.com
+#DESCRIPTION Racing.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lds-realstories-samsungau.amagi.tv/playlist.m3u8:Real Stories
+#DESCRIPTION Real Stories
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8:Rialto
+#DESCRIPTION Rialto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ryanandfriends-samsungau.amagi.tv/playlist.m3u8:Ryan and Friends
+#DESCRIPTION Ryan and Friends
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8:Sky 1 Racing
+#DESCRIPTION Sky 1 Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8:Sky 2 Racing
+#DESCRIPTION Sky 2 Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8:Sky News Australia Extra 1
+#DESCRIPTION Sky News Australia Extra 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8:Sky News Australia Extra 2
+#DESCRIPTION Sky News Australia Extra 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8:Sky News Australia Extra 3
+#DESCRIPTION Sky News Australia Extra 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//i.mjh.nz/au/Sydney/tv.skyrtc.m3u8:Sky Thoroughbred Central
+#DESCRIPTION Sky Thoroughbred Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//smithsonianaus-samsungau.amagi.tv/playlist.m3u8:Smithsonian Channel
+#DESCRIPTION Smithsonian Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c.mjh.nz/snowy-mountains/:Snowy Mountains TV
+#DESCRIPTION Snowy Mountains TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8:Toon Goggles
+#DESCRIPTION Toon Goggles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8:Travel XP
+#DESCRIPTION Travel XP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8:TVSN
+#DESCRIPTION TVSN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//venntv-samsungau.amagi.tv/playlist.m3u8:VENN
+#DESCRIPTION VENN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8:Zoo Moo
+#DESCRIPTION Zoo Moo

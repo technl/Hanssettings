@@ -1,0 +1,55 @@
+#NAME Stream Belarus/Wit-Rusland (BY)
+#SERVICE 1:64:181:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/bel1:Belarus 1
+#DESCRIPTION Belarus 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/bel2:Belarus 2
+#DESCRIPTION Belarus 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/bel3:Belarus 3
+#DESCRIPTION Belarus 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/bel4:Belarus 4
+#DESCRIPTION Belarus 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/bel5:Belarus 5
+#DESCRIPTION Belarus 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv30.vintera.tv%3a8081/belarus24/belarus24/playlist.m3u8:Belarus 24
+#DESCRIPTION Belarus 24
+#SERVICE 1:64:182:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300/:1 Music 1
+#DESCRIPTION 1 Music 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300/:1 Music 2
+#DESCRIPTION 1 Music 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:1 Music 3
+#DESCRIPTION 1 Music 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.mediacdn.ru/sr1/tro/playlist.m3u8:BielRos
+#DESCRIPTION BielRos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.46.208.8%3a24433/art:Channel 8 Vitebsk
+#DESCRIPTION Channel 8 Vitebsk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.98.171.116/HLS/ctvby/playlist.m3u8:СТВ
+#DESCRIPTION СТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.98.171.116/HLS/ctvby/playlist.m3u8:CTV Belarus
+#DESCRIPTION CTV Belarus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv25.vintera.tv%3a8081/novoetv/nov_tv/playlist.m3u8:Hoboe HD
+#DESCRIPTION Hoboe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/khl:KHL HD TV Channel
+#DESCRIPTION KHL HD TV Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/mama:Mama
+#DESCRIPTION Mama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/mir:MIR
+#DESCRIPTION MIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/ntv:NTV Belarus
+#DESCRIPTION NTV Belarus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/ont:ONT
+#DESCRIPTION ONT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.46.208.8%3a26259/nashe:Our TV
+#DESCRIPTION Our TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/perec:Peretz Int.
+#DESCRIPTION Peretz Int.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:Radio HIT
+#DESCRIPTION Radio HIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/rtg:RTG TV
+#DESCRIPTION RTG TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.152.238%3a8088/tnt:THT International
+#DESCRIPTION THT International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8:Vitebsk TV Channel
+#DESCRIPTION Vitebsk TV Channel

@@ -1,0 +1,17 @@
+#NAME Stream Estland (EE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.106.98.71%3a9211:ETV
+#DESCRIPTION ETV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sb.err.ee/live/etv.m3u8:ETV -2- (deels geoblocking)
+#DESCRIPTION ETV -2- (deels geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8:ETV -3- (deels geoblocking)
+#DESCRIPTION ETV -3- (deels geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.106.98.71%3a9212:ETV 2
+#DESCRIPTION ETV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sb.err.ee/live/etv2.m3u8:ETV 2 -2- (deels geoblocking)
+#DESCRIPTION ETV 2 -2- (deels geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8:ETV 2 -3- (deels geoblocking)
+#DESCRIPTION ETV 2 -3- (deels geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sb.err.ee/live/etvpluss.m3u8:ETV+ (deels geoblocking)
+#DESCRIPTION ETV+ (deels geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8:ETV+ -2- (deels geoblocking)
+#DESCRIPTION ETV+ -2- (deels geoblocking)

@@ -1,0 +1,41 @@
+#NAME Stream Cultuur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stmv3.srvstm.com/classique/classique/playlist.m3u8 :Classique TV
+#DESCRIPTION Classique TV
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//mobia.si/ts/FASHION/stream_iptv_2000k.m3u8?#User-Agent=AppleCoreMedia:Fashion TV
+#DESCRIPTION Fashion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:Fashion TV 1 (Frankrijk)
+#DESCRIPTION Fashion TV 1 (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8:Fashion TV 2 (Frankrijk)
+#DESCRIPTION Fashion TV 2 (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_hair_and_snr_27048_hair_and_mak_105_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:Fashion TV Beauty (Frankrijk)
+#DESCRIPTION Fashion TV Beauty (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_fashion_6pw_27050_films_109_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:Fashion TV Film (Frankrijk)
+#DESCRIPTION Fashion TV Film (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:Fashion TV Men (Frankrijk)
+#DESCRIPTION Fashion TV Men (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:Fashion TV Paris (Frankrijk)
+#DESCRIPTION Fashion TV Paris (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_fashion_f6e_27081_fitness_102_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:Fashion TV Photoshoots (Frankrijk)
+#DESCRIPTION Fashion TV Photoshoots (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/playlist.m3u8:Fashion TV (cultuur - Slowakije)
+#DESCRIPTION Fashion TV (cultuur - Slowakije)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.236.85.100%3a8081/SilenceTV/live/playlist.m3u8:Silence TV World
+#DESCRIPTION Silence TV World
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/cf30c9fc75cd42a6892e696818b0d19a.m3u8:Ski TV
+#DESCRIPTION Ski TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8:World Fashion International
+#DESCRIPTION World Fashion International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wfc.bonus-tv.ru/cdn/wfcrus/tracks-v2a1/mono.m3u8:World Fashion Russia
+#DESCRIPTION World Fashion Russia
+#SERVICE 1:64:1bc:0:0:0:0:0:0:0:
+#DESCRIPTION +++Russisch - Ukrainisch+++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8:Kultura
+#DESCRIPTION Kultura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//tv-mix.ru/live/Stream1:MIX TV
+#DESCRIPTION MIX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.12%3a21031/udp/038m:Travel Channel
+#DESCRIPTION Travel Channel
+#SERVICE 1:64:1bd:0:0:0:0:0:0:0:
+#DESCRIPTION +++humor+++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8:Laurel & Hardy
+#DESCRIPTION Laurel & Hardy

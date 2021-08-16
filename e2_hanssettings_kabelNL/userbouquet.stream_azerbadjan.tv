@@ -1,0 +1,37 @@
+#NAME Stream Azerbadjan (AZ)
+#SERVICE 1:64:17f:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/arb/live/index.m3u8:ARB
+#DESCRIPTION ARB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/arb24/live1/index.m3u8:ARB 24
+#DESCRIPTION ARB 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/arbkepez/live/index.m3u8:ARB Kəpəz
+#DESCRIPTION ARB Kəpəz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atvlive/atv-e1/index.m3u8:ATV 1
+#DESCRIPTION ATV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv-2/index.m3u8:ATV 2
+#DESCRIPTION ATV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv-4/index.m3u8:ATV 4
+#DESCRIPTION ATV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//swow1.socialsmart.tv/aznews/smil%3aaznews.smil/chunklist_w750686581_b1364000_sltur.m3u8:Az News TV
+#DESCRIPTION Az News TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbctvlive.flashmediacast.com%3a1935/CBCTVLive/livestream/chunklist_w1352949174.m3u8:CBC
+#DESCRIPTION CBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbctvlive.flashmediacast.com%3a1935/CBCTVLive/livestream/playlist.m3u8:CBC -2-
+#DESCRIPTION CBC -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8:Ictimai TV
+#DESCRIPTION Ictimai TV
+#SERVICE 1:64:180:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.53.162%3a1935/live/eltv/chunklist.m3u8:EL TV
+#DESCRIPTION EL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qebele.tv/live/stream/index.m3u8:Qabala TV
+#DESCRIPTION Qabala TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8:Mədəniyyət
+#DESCRIPTION Mədəniyyət
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/space_stream/playlist.m3u8:Space
+#DESCRIPTION Space
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.az-mediaserver.com%3a1935/7064/7064/chunklist_w464537904.m3u8:TV7
+#DESCRIPTION TV7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8:Xəzər
+#DESCRIPTION Xəzər

@@ -1,0 +1,81 @@
+#NAME Stream Bulgarije (BG)
+#SERVICE 1:64:187:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//e155-ts.cdn.bg/bnt1/fls/bntW.stream/at=O0M9ODQuMzAuMjA2LjIyMTtFPTE2MjYyMjY1NDE7QT0xO0s9MztQPTAxMTEwO1M9ZmI0MDM4MzlkMjNkYTRlNGNjMTg0YzBiNjU3MzYzOWQyZWEwYTM1OA==/chunklist.m3u8:BNT 4
+#DESCRIPTION BNT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.bg%3a2007/fls/vtv/chunklist.m3u8:BTK
+#DESCRIPTION BTK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.bg%3a2007/fls/vtv/playlist.m3u8:BTK -2-
+#DESCRIPTION BTK -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.249.82.226%3a82/hls/live/live.m3u8:Bulgaria 24 TV
+#DESCRIPTION Bulgaria 24 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.249.95.140%3a8081/hls/data.m3u8:DSTV
+#DESCRIPTION DSTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.169.214.144%3a8000/play/a03k:Nova TV
+#DESCRIPTION Nova TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/chunklist.m3u8?at=f05e774e5edab142764b658e4f2f8794:Nova TV -2-
+#DESCRIPTION Nova TV -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//e100-ts.cdn.bg/ntv/fls/NNHD.stream/chunklist.m3u8?at=f05e774e5edab142764b658e4f2f8794:Nova News
+#DESCRIPTION Nova News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cdn.bg%3a2006/fls/bonair.stream/playlist.m3u8:On Air
+#DESCRIPTION On Air
+#SERVICE 4097:0:1:91:0:0:0:0:0:0:mmsh%3a//212.200.255.151/rtv2?MSWMExt=.asf:RTV 2 
+#DESCRIPTION RTV 2 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv1.cloudcdn.bg%3a8081/stream_hd720.m3u8:TV 1 HD
+#DESCRIPTION TV 1 HD
+#SERVICE 1:64:188:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//restr2.bgtv.bg/agro/hls/agro.m3u8:Agro TV
+#DESCRIPTION Agro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//100automoto.tv/100gaz//shukerov:Auto Moto TV
+#DESCRIPTION Auto Moto TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//stream.teracomm.bg/balkanika:Balkanika Music TV
+#DESCRIPTION Balkanika Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.72.95.40%3a8088:BG-DNES TV
+#DESCRIPTION BG-DNES TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge16.cdn.bg%3a20910/fls/bloomberg.stream/chunklist_w111918406.m3u8?at=f05e774e5edab142764b658e4f2f8794:Bloomberg TV Bulgaria
+#DESCRIPTION Bloomberg TV Bulgaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.192.2/n/777/index.m3u8?st=A5MGtPh4KzIMARs92b7KJA&e=1626231986:Bulgarska Khristiyanska TV
+#DESCRIPTION Bulgarska Khristiyanska TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8:Code Fashion TV
+#DESCRIPTION Code Fashion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.192.2/n/dtv/index.m3u8?st=hnfv42aqE0KiS01NVijPBg&e=1626219353:Diana Kabel
+#DESCRIPTION Diana Kabel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.145.205%3a8000/play/a00s:Diema Sport HD
+#DESCRIPTION Diema Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eurofolk.cdn.netbadgers.com/bg040/bg041/bg041_sd.m3u8:EuroFolk TV
+#DESCRIPTION EuroFolk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ecomservice.bg/hls/stream.m3u8:Evrokom
+#DESCRIPTION Evrokom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer104.neterra.tv/n1tv/n1tv.smil/playlist.m3u8:HomeOne TV
+#DESCRIPTION HomeOne TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//old.rn-tv.com%3a4443/k0/3165388/stream.m3u8:Kanal 0
+#DESCRIPTION Kanal 0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer1.streamhost.org%3a1935/salive/GMIlcbgM/playlist.m3u8:Light Channel
+#DESCRIPTION Light Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer103.neterra.tv/mmtv/mmtv.smil/playlist.m3u8:MM TV
+#DESCRIPTION MM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wz4.dnip.com.br/novaeratv/novaeratv.sdp/playlist.m3u8:Nova Era TV
+#DESCRIPTION Nova Era TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.plovdivskamitropolia.bg%3a1935/live/pptv.stream/chunklist_.m3u8:Plovdivska Pravoslavna TV
+#DESCRIPTION Plovdivska Pravoslavna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8:RMTV
+#DESCRIPTION RMTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8:Super Toons TV
+#DESCRIPTION Super Toons TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer103.neterra.tv/tiankov/tiankov-folk.smil/chunklist_w1424529733_b2128000_slbul.m3u8:Tiankov Folk TV
+#DESCRIPTION Tiankov Folk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer104.neterra.tv/tiankov/tiankov-orient.smil/chunklist_w10020889_b2128000_slbul.m3u8:Tiankov Orient Folk TV
+#DESCRIPTION Tiankov Orient Folk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer103.neterra.tv/thisisbulgaria/community.smil/playlist.m3u8:This is Bulgaria
+#DESCRIPTION This is Bulgaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//83.222.173.94/tvart//tvart:TV Art
+#DESCRIPTION TV Art
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer104.neterra.tv/darts/darts.smil/chunklist_w1264899923_b2160000_slbul.m3u8:TV Darts
+#DESCRIPTION TV Darts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ecomservice.bg/hls/stream.m3u8:TV Eurocom
+#DESCRIPTION TV Eurocom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de1se01.v2beat.live/playlist.m3u8:Vibee TV
+#DESCRIPTION Vibee TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.bg%3a2007/fls/vtv/chunklist_.m3u8:VTK TV
+#DESCRIPTION VTK TV

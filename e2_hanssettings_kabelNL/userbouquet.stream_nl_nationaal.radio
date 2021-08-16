@@ -1,0 +1,1109 @@
+#NAME Stream NL nationaal (NL)
+#SERVICE 1:64:213:0:0:0:0:0:0:0:
+#DESCRIPTION ++publieke zenders++
+#SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
+#DESCRIPTION NPO Radio 1
+#SERVICE 4097:0:2:5259:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio2-bb-mp3:NPO Radio 2
+#DESCRIPTION NPO Radio 2
+#SERVICE 4097:0:2:459:8a6:2210:eeee0000:0:0:0:http%3a//smoote2d.omroep.nl/urishieldv2/l2fm409ea51e51bdc866005c83b8dd000000.c6755bdf25dbda60cb7619723d7dd8ab/live/npo/visualradio/radio2/radio2.isml/radio2-audio_track=128000-video=1000000.m3u8:NPO Radio 2 studiocam
+#DESCRIPTION NPO Radio 2 studiocam
+#SERVICE 4097:0:2:525a:c99:3:eb0000:0:0:0:http%3a//ics2pss.omroep.nl/3fm-bb-mp3?q=/npo/mp3/3fm-bb.pls&stream=ok:NPO 3FM
+#DESCRIPTION NPO 3FM
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ics2hss.omroep.nl%3a80/3fm-alternative-mp3:NPO 3FM Alternative
+#DESCRIPTION NPO 3FM Alternative
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ics2ess.omroep.nl%3a80/3fm-serioustalent-mp3:NPO 3FM KX
+#DESCRIPTION NPO 3FM KX
+#SERVICE 4097:0:2:525b:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl/radio4-bb-mp3:NPO Radio 4
+#DESCRIPTION NPO Radio 4
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/radio4-eigentijds-mp3:NPO Radio 4 Concerten
+#DESCRIPTION NPO Radio 4 Concerten
+#SERVICE 4097:0:2:525c:c99:3:eb0000:0:0:0:http%3a//ics2nss.omroep.nl%3a80/radio5-bb-mp3:NPO Radio 5
+#DESCRIPTION NPO Radio 5
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/radio6-bb-mp3:NPO Soul & Jazz
+#DESCRIPTION NPO Soul & Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/radio2-sterrennl-mp3:NPO Sterren.nl
+#DESCRIPTION NPO Sterren.nl
+#SERVICE 4097:0:2:3747:c8e:3:eb0000:0:0:0:http%3a//icecast.omroep.nl/funx-bb-mp3:FunX
+#DESCRIPTION FunX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-arab-bb-mp3:FunX Arab
+#DESCRIPTION FunX Arab
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-dance-bb-mp3:FunX Fissa
+#DESCRIPTION FunX Fissa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-hiphop-bb-mp3:FunX Hip Hop
+#DESCRIPTION FunX Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-latin-bb-mp3:FunX Latin
+#DESCRIPTION FunX Latin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-reggae-bb-mp3:FunX Reggae
+#DESCRIPTION FunX Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-slowjamz-bb-mp3:FunX Slow Jamz
+#DESCRIPTION FunX Slow Jamz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-amsterdam-bb-mp3:FunX Amsterdam
+#DESCRIPTION FunX Amsterdam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-denhaag-bb-mp3:FunX Den Haag
+#DESCRIPTION FunX Den Haag
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-rotterdam-bb-mp3:FunX Rotterdam
+#DESCRIPTION FunX Rotterdam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-utrecht-bb-mp3:FunX Utrecht
+#DESCRIPTION FunX Utrecht
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
+#DESCRIPTION Spreekbuis Radio
+#SERVICE 1:64:214:0:0:0:0:0:0:0:
+#DESCRIPTION ++(commerciële) HOOFDzenders++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//40upstream.live-streams.nl/40up1:40UP Radio
+#DESCRIPTION 40UP Radio
+#SERVICE 4097:0:2:5253:c99:3:eb0000:0:0:0:http%3a//stream.100p.nl/100pctnl.mp3:100%25 NL
+#DESCRIPTION 100% NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web01_mp3:100%25 NL Feest
+#DESCRIPTION 100% NL Feest
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web03_mp3:100%25 NL Liefde
+#DESCRIPTION 100% NL Liefde
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web04_mp3:100%25 NL Nederpop
+#DESCRIPTION 100% NL Nederpop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web02_mp3:100%25 NL Nonstop
+#DESCRIPTION 100% NL Nonstop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web06_mp3:100%25 NL Puur
+#DESCRIPTION 100% NL Puur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21273.live.streamtheworld.com/WEB05_MP3:100%25 NL Songfestival
+#DESCRIPTION 100% NL Songfestival
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-14.stream-server.nl%3a8030/:192 Radio
+#DESCRIPTION 192 Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//192radio.stream-server.nl/stream:192 Radio (NL) - alternatief
+#DESCRIPTION 192 Radio (NL) - alternatief
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-09.stream-server.nl%3a8400/;stream/1:ABTT (Adje Bouman’s Top Tien)
+#DESCRIPTION ABTT (Adje Bouman’s Top Tien)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S01.mp3:Ajax Radio
+#DESCRIPTION Ajax Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.trafficstream.nl/allsports_main.mp3:ALLsportsradio
+#DESCRIPTION ALLsportsradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.arrowbluesbox.nl/bluesboxonline:Arrow Bluesbox Radio
+#DESCRIPTION Arrow Bluesbox Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.arrowcaz.nl/caz128kmp3:Arrow Caz!
+#DESCRIPTION Arrow Caz!
+#SERVICE 4097:0:2:17f0:c82:3:eb0000:0:0:0:https%3a//stream.gal.io/arrow:Arrow Classic Rock
+#DESCRIPTION Arrow Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20863.live.streamtheworld.com/SUBLIMEARROWJAZZ.mp3:Arrow Jazz
+#DESCRIPTION Arrow Jazz
+#SERVICE 4097:0:2:4ed1:c99:3:eb0000:0:0:0:http%3a//stream.bnr.nl/bnr_mp3_128_20:BNR Nieuwsradio
+#DESCRIPTION BNR Nieuwsradio
+#SERVICE 4097:0:1:4ed1:c99:3:eb0000:0:0:0:http%3a//bnr-cache-cdp.triple-it.nl/studio/index.m3u8:BNR Nieuwsradio - Kijk live
+#DESCRIPTION BNR Nieuwsradio - Kijk live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.100.145.187%3a18304/;:C-Dance RETRO
+#DESCRIPTION C-Dance RETRO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/CANDLELIGHT.mp3:Candlelight
+#DESCRIPTION Candlelight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21233.live.streamtheworld.com/CANDLELIGHT_SC:Candlelight
+#DESCRIPTION Candlelight
+#SERVICE 4097:0:2:17f1:c82:3:eb0000:0:0:0:https%3a//20723.live.streamtheworld.com/CLASSICFMAAC.aac :Classic NL
+#DESCRIPTION Classic NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21253.live.streamtheworld.com/SRGSTR25.mp3:Classic NL Mindradio
+#DESCRIPTION Classic NL Mindradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20043.live.streamtheworld.com/SRGSTR27.mp3:Classic NL Opera
+#DESCRIPTION Classic NL Opera
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21223.live.streamtheworld.com%3a80/SRGSTR26_SC:Classic NL Soundtracks
+#DESCRIPTION Classic NL Soundtracks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//gooischstream.hofstreaming.nl/proxy/gooisch_main?mp=/stream:Classy Radio
+#DESCRIPTION Classy Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/live:Concertzender
+#DESCRIPTION Concertzender
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/barok:Concertzender Barok
+#DESCRIPTION Concertzender Barok
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/amateurmuziek:Concertzender De Muzikant (amateurmuziek)
+#DESCRIPTION Concertzender De Muzikant (amateurmuziek)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.greenhost.nl%3a8080/film:Concertzender Filmmuziek
+#DESCRIPTION Concertzender Filmmuziek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/folkit:Concertzender Folk it!
+#DESCRIPTION Concertzender Folk it!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/gaudeamus:Concertzender Gaudeamus
+#DESCRIPTION Concertzender Gaudeamus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/bach:Concertzender Geen dag zonder Bach
+#DESCRIPTION Concertzender Geen dag zonder Bach
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/gehoordestilte:Concertzender Gehoorde Stilte
+#DESCRIPTION Concertzender Gehoorde Stilte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/gregoriaans:Concertzender Gregoriaans
+#DESCRIPTION Concertzender Gregoriaans
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/hardbop:Concertzender Hard Bop
+#DESCRIPTION Concertzender Hard Bop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/jazz:Concertzender Jazz
+#DESCRIPTION Concertzender Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/jazznotjazz:Concertzender Jazznotjazz
+#DESCRIPTION Concertzender Jazznotjazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/klassiek:Concertzender Klassieke Muziek
+#DESCRIPTION Concertzender Klassieke Muziek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/liveconcert:Concertzender Live Concert
+#DESCRIPTION Concertzender Live Concert
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/nieuwemuziek:Concertzender Nieuwe Muziek
+#DESCRIPTION Concertzender Nieuwe Muziek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/novembermusic:Concertzender November Music
+#DESCRIPTION Concertzender November Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/opera:Concertzender Opera
+#DESCRIPTION Concertzender Opera
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/orientexpress:Concertzender Oriënt Express
+#DESCRIPTION Concertzender Oriënt Express
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/oudemuziek:Concertzender Oude Muziek
+#DESCRIPTION Concertzender Oude Muziek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/pop:Concertzender Pop
+#DESCRIPTION Concertzender Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/raakvlakken:Concertzender Raakvlakken
+#DESCRIPTION Concertzender Raakvlakken
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/radiophonics:Concertzender Radiophonics
+#DESCRIPTION Concertzender Radiophonics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/slotaafranga:Concertzender Solta a Franga
+#DESCRIPTION Concertzender Solta a Franga
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/vredenburg:Concertzender Utrecht Muziekstad
+#DESCRIPTION Concertzender Utrecht Muziekstad
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/wereldmuziek:Concertzender Wereldmuziek
+#DESCRIPTION Concertzender Wereldmuziek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/concertzenderlive:Concertzender X-Rated
+#DESCRIPTION Concertzender X-Rated
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21233.live.streamtheworld.com/DEEP_RADIO.mp3:Deep Radio
+#DESCRIPTION Deep Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.deep.radio/hd:Deep Radio HD
+#DESCRIPTION Deep Radio HD
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.easyfm.nl/stream1/stream.mp3:EASY 95.5 FM
+#DESCRIPTION EASY 95.5 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.164.95.243%3a8035/EASY:Easy Radio (Camfactor)
+#DESCRIPTION Easy Radio (Camfactor)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.164.95.243%3a8035/HOT:Easy Radio / Oldies
+#DESCRIPTION Easy Radio / Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.164.95.243%3a8035/URBAN:Easy Radio / Urban Traxx
+#DESCRIPTION Easy Radio / Urban Traxx
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice.cr2.streamzilla.xlcdn.com%3a8000/sz=efteling=hdstream:Efteling Kids Radio
+#DESCRIPTION Efteling Kids Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=efteling&file=hdstream&type=live&service=icecast&protocol=http&port=8000&output=pls:Efteling Kids Radio - alternatief
+#DESCRIPTION Efteling Kids Radio - alternatief
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.streemlion.com/RadioExcellent:Excellent FM
+#DESCRIPTION Excellent FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//solid67.streamupsolutions.com%3a15527/Girlpower:GirlPower Radio
+#DESCRIPTION GirlPower Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediaserv73.live-streams.nl%3a18044/stream:GLXY
+#DESCRIPTION GLXY
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hofhosting.nl/proxy/goodlife_main?mp=/stream:GoodLIFE Radio
+#DESCRIPTION GoodLIFE Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO_SC:Grand Prix Radio
+#DESCRIPTION Grand Prix Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S09.mp3:Grolsch 0.0 FM
+#DESCRIPTION Grolsch 0.0 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice.cr6.streamzilla.xlcdn.com%3a8000/sz=Hallokidsradio=mp3:HalloKids Radio
+#DESCRIPTION HalloKids Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hetstamcafe.stream-server.nl/stream:Het Stamcafe.nl
+#DESCRIPTION Het Stamcafe.nl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hetstamcafe.nl/hetstamcafe.mp3:Het Stamcafe.nl
+#DESCRIPTION Het Stamcafe.nl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-67.stream-server.nl%3a8400:Hot Radio Hits
+#DESCRIPTION Hot Radio Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.164.95.243%3a8035/HOT:Hot Traxx (Camfactor)
+#DESCRIPTION Hot Traxx (Camfactor)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.jinxradio.nl/site:JINX Radio
+#DESCRIPTION JINX Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.joe.nl/joe/mp3:Joe
+#DESCRIPTION Joe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET15.mp3:JUKE - Après-Ski Top 100
+#DESCRIPTION JUKE - Après-Ski Top 100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET03.mp3:JUKE - Cabaret
+#DESCRIPTION JUKE - Cabaret
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S03.mp3:JUKE - Café Genee
+#DESCRIPTION JUKE - Café Genee
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET10.mp3:JUKE - Foute Hits
+#DESCRIPTION JUKE - Foute Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET01.mp3:JUKE - Hip Hop Classics
+#DESCRIPTION JUKE - Hip Hop Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET14.mp3:JUKE - House Classics
+#DESCRIPTION JUKE - House Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET05.mp3:JUKE - Lentekriebels
+#DESCRIPTION JUKE - Lentekriebels
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET12.mp3:JUKE - Levenslied
+#DESCRIPTION JUKE - Levenslied
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET06.mp3:JUKE - Nederpop
+#DESCRIPTION JUKE - Nederpop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET07.mp3:JUKE - Oppeppers
+#DESCRIPTION JUKE - Oppeppers
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET04.mp3:JUKE - Pop Hits
+#DESCRIPTION JUKE - Pop Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET13.mp3:JUKE - Puur Ontspannen
+#DESCRIPTION JUKE - Puur Ontspannen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21293.live.streamtheworld.com/TLPNET02AAC.aac:JUKE - R & B Classics
+#DESCRIPTION JUKE - R & B Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/JUKE_S08AAC.aac:JUKE - Songfestival Top 100
+#DESCRIPTION JUKE - Songfestival Top 100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream02.itego.nl/kbc-high:KBC Radio
+#DESCRIPTION KBC Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/KINK_DISTORTIONAAC.aac:KINK Distortion
+#DESCRIPTION KINK Distortion
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22653.live.streamtheworld.com/KINK_DNAAAC.aac:KINK DNA Classics
+#DESCRIPTION KINK DNA Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/KINKINDIE.mp3:KINK Indie
+#DESCRIPTION KINK Indie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22533.live.streamtheworld.com/KINKAAC.aac:KINK No Alternative
+#DESCRIPTION KINK No Alternative
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//layzer.live-streams.nl/high:Layzer
+#DESCRIPTION Layzer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59132e529e3d1.streamlock.net/layzer/layzer/playlist.m3u8:Layzer - kijk live (Amsterdam)
+#DESCRIPTION Layzer - kijk live (Amsterdam)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S02_SC.mp3:LINDA.NL Linda Lievelings
+#DESCRIPTION LINDA.NL Linda Lievelings
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET08.mp3 :LINDA.NL Even Lekker Janken
+#DESCRIPTION LINDA.NL Even Lekker Janken
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET09.mp3 :LINDA.NL Ik Hou Van Holland
+#DESCRIPTION LINDA.NL Ik Hou Van Holland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET16.mp3:LINDA.NL Thuis is het feestje
+#DESCRIPTION LINDA.NL Thuis is het feestje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TALPA_TRIAL_SC01.mp3 :LINDA.NL Zomer In Je Bol
+#DESCRIPTION LINDA.NL Zomer In Je Bol
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.lxclassics.com/:LX-Classics
+#DESCRIPTION LX-Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.magicfm.nl/magicfm:Magic FM
+#DESCRIPTION Magic FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.cuecreative.nl/mediamarktfm:Mediamarkt FM
+#DESCRIPTION Mediamarkt FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nashvillefm.stream-server.nl%3a8300/stream:Nashville FM
+#DESCRIPTION Nashville FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.trafficstream.nl/business_main.mp3:New Business Radio
+#DESCRIPTION New Business Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.164.95.243%3a8035/OLDIES:Oldies (Camfactor)
+#DESCRIPTION Oldies (Camfactor)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.olympia-radio.nl%3a80/olympia:Olympia radio
+#DESCRIPTION Olympia radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.olympia-classics.nl/classics:Olympia Radio Classics
+#DESCRIPTION Olympia Radio Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.qmusic.nl/qmusic/mp3:Qmusic
+#DESCRIPTION Qmusic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.qmusic.nl/fouteuur/mp3:Qmusic Foute Uur
+#DESCRIPTION Qmusic Foute Uur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23903.live.streamtheworld.com/QMUSICNL_NEDERLANDSTALIG.mp3:Qmusic Nederlandstalig
+#DESCRIPTION Qmusic Nederlandstalig
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.qmusic.nl/nonstop/mp3:Qmusic NonStop
+#DESCRIPTION Qmusic NonStop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.qmusic.nl/thema/mp3:Qmusic Thema
+#DESCRIPTION Qmusic Thema
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.qmusic.nl/top40/mp3:Qmusic Top 40
+#DESCRIPTION Qmusic Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMUSIC_LIMBURG.mp3:Qmusic Limburg
+#DESCRIPTION Qmusic Limburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3:Q-dance Radio
+#DESCRIPTION Q-dance Radio
+#SERVICE 4097:0:2:525d:c99:3:eb0000:0:0:0:https%3a//22323.live.streamtheworld.com/RADIO10.mp3:Radio 10
+#DESCRIPTION Radio 10
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3:Radio 10 - 60's & 70's Hits
+#DESCRIPTION Radio 10 - 60's & 70's Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3:Radio 10 - 80s Hits
+#DESCRIPTION Radio 10 - 80s Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3:Radio 10 - 90s Hits
+#DESCRIPTION Radio 10 - 90s Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3:Radio 10 - Disco Classics
+#DESCRIPTION Radio 10 - Disco Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20133.live.streamtheworld.com%3a80/TLPSTR04.mp3:Radio 10 - Love Songs
+#DESCRIPTION Radio 10 - Love Songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3:Radio 10 - Non-Stop
+#DESCRIPTION Radio 10 - Non-Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3:Radio 10 - Top 4000
+#DESCRIPTION Radio 10 - Top 4000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q4.m3u8:Radio 10 kijk live
+#DESCRIPTION Radio 10 kijk live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21283.live.streamtheworld.com/RADIO509AAC.aac:Radio 509 (voor blinden/slechtzienden) aac
+#DESCRIPTION Radio 509 (voor blinden/slechtzienden) aac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20133.live.streamtheworld.com%3a80/RADIO509_SC:Radio 509 (voor blinden/slechtzienden)
+#DESCRIPTION Radio 509 (voor blinden/slechtzienden)
+#SERVICE 4097:0:2:5260:c99:3:eb0000:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3:Radio 538
+#DESCRIPTION Radio 538
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3:Radio538 Dance Department
+#DESCRIPTION Radio538 Dance Department
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21313.live.streamtheworld.com/TLPSTR08.mp3:Radio538 Drops
+#DESCRIPTION Radio538 Drops
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3 :Radio538 Hitzone
+#DESCRIPTION Radio538 Hitzone
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3:Radio538 Ibiza
+#DESCRIPTION Radio538 Ibiza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3:Radio538 Non-Stop
+#DESCRIPTION Radio538 Non-Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3:Radio538 Party
+#DESCRIPTION Radio538 Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3:Radio538 Zomer
+#DESCRIPTION Radio538 Zomer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3:Radio538 Top 50
+#DESCRIPTION Radio538 Top 50
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3 :Radio 538 Verrückte Stunde
+#DESCRIPTION Radio 538 Verrückte Stunde
+#SERVICE 4097:0:1:5260:c99:3:eb0000:0:0:0:https%3a//talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8:Radio 538 Visual Radio
+#DESCRIPTION Radio 538 Visual Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiocontinu.nl/radio-continu:Radio Continu
+#DESCRIPTION Radio Continu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radiocontinu.nl/radiocontinu:Radio Continu Editie 1 (Groningen, Drenthe + kop Overijssel)
+#DESCRIPTION Radio Continu Editie 1 (Groningen, Drenthe + kop Overijssel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radiocontinu.nl/radiocontinu-2:Radio Continu Editie 2 (Friesland)
+#DESCRIPTION Radio Continu Editie 2 (Friesland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radiocontinu.nl/radiocontinu-3:Radio Continu Editie 3 (overige provincies)
+#DESCRIPTION Radio Continu Editie 3 (overige provincies)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.gal.io/decibelzh:Radio Decibel
+#DESCRIPTION Radio Decibel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioroyaal.nl/radioroyaal.mp3:Radio Decibel 80's Music
+#DESCRIPTION Radio Decibel 80's Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast2.globallogic.nl/soi.mp3:Radio Decibel Ibiza
+#DESCRIPTION Radio Decibel Ibiza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radionl.fm/radionl:RadioNL
+#DESCRIPTION RadioNL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//558bd16067b67.streamlock.net/radionl/radionl/playlist.m3u8:RADIONL webcam
+#DESCRIPTION RADIONL webcam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radionlkids.nl/rnlkids:Radio NL Kids
+#DESCRIPTION Radio NL Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/Radio-Nostalgia:Radio Nostalgia
+#DESCRIPTION Radio Nostalgia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kathy.torontocast.com%3a2250/stream:Radio Nostalgia - alternatief
+#DESCRIPTION Radio Nostalgia - alternatief
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//45.155.156.199%3a8000/live.mp3:Radio van de Lach (NL cabaret)
+#DESCRIPTION Radio van de Lach (NL cabaret)
+#SERVICE 4097:0:2:17f2:c82:3:eb0000:0:0:0:http%3a//19993.live.streamtheworld.com/VERONICAAAC.aac:Radio Veronica
+#DESCRIPTION Radio Veronica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22193.live.streamtheworld.com/SRGSTR12.mp3:Radio Veronica Alternative
+#DESCRIPTION Radio Veronica Alternative
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//20723.live.streamtheworld.com/SRGSTR09.mp3:Radio Veronica Non Stop
+#DESCRIPTION Radio Veronica Non Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20863.live.streamtheworld.com/SRGSTR11.mp3:Radio Veronica Rock Radio
+#DESCRIPTION Radio Veronica Rock Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22673.live.streamtheworld.com/SRGSTR10.mp3:Radio Veronica Top 1000 Allertijden
+#DESCRIPTION Radio Veronica Top 1000 Allertijden
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mcp-1.streampanel.nl%3a8020/kxclassics_mp3:ROB STENDERS KX Classics
+#DESCRIPTION ROB STENDERS KX Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.robstenders.nl%3a8063/lxclassics_mp3:ROB STENDERS LX Classics (Lex Harding)
+#DESCRIPTION ROB STENDERS LX Classics (Lex Harding)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.robstenders.nl%3a8063/bonanza_mp3:ROB STENDERS XXL Bonanza
+#DESCRIPTION ROB STENDERS XXL Bonanza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.116.251%3a8000/blokhuis_mp3:ROB STENDERS XXL Blokhuis (Leo Blokhuis)
+#DESCRIPTION ROB STENDERS XXL Blokhuis (Leo Blokhuis)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//centova.rtdradio.nl%3a8443/stream:RTD Radio
+#DESCRIPTION RTD Radio
+#SERVICE 4097:0:2:52eb:c96:3:eb0000:0:0:0:http%3a//20043.live.streamtheworld.com%3a80/SKYRADIOAAC.aac:Sky Radio
+#DESCRIPTION Sky Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21293.live.streamtheworld.com/SRGSTR04.mp3:Sky Radio - 80s Hits
+#DESCRIPTION Sky Radio - 80s Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/SRGSTR05.mp3:Sky Radio - 90s Hits
+#DESCRIPTION Sky Radio - 90s Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3:Sky Radio - Hits
+#DESCRIPTION Sky Radio - Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3:Sky Radio - Lounge
+#DESCRIPTION Sky Radio - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3:Sky Radio - Lovesongs
+#DESCRIPTION Sky Radio - Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3:Sky Radio - Non-stop @ Work
+#DESCRIPTION Sky Radio - Non-stop @ Work
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR28.mp3:Sky Radio - Sky for Men
+#DESCRIPTION Sky Radio - Sky for Men
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//19993.live.streamtheworld.com/SRGSTR15AAC.aac:Sky Radio - Smooth Hits
+#DESCRIPTION Sky Radio - Smooth Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3:Sky Radio - Summerhits
+#DESCRIPTION Sky Radio - Summerhits
+#SERVICE 4097:0:2:5262:c99:3:eb0000:0:0:0:https%3a//stream.slam.nl/slam_mp3:SLAM!
+#DESCRIPTION SLAM!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/WEB14_AAC.aac:SLAM! 40
+#DESCRIPTION SLAM! 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22653.live.streamtheworld.com/WEB15_AAC.aac :SLAM! Dance Classics
+#DESCRIPTION SLAM! Dance Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22193.live.streamtheworld.com/WEB11_AAC.aac:SLAM! Hardstyle
+#DESCRIPTION SLAM! Hardstyle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//19993.live.streamtheworld.com/WEB16_AAC.aac:SLAM! Housuh In De Pauzuh
+#DESCRIPTION SLAM! Housuh In De Pauzuh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20873.live.streamtheworld.com/WEB09_AAC.aac:SLAM! Juize
+#DESCRIPTION SLAM! Juize
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22193.live.streamtheworld.com/WEB13_AAC.aac:SLAM! Mixmarathon
+#DESCRIPTION SLAM! Mixmarathon
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21313.live.streamtheworld.com/WEB10_AAC.aac:SLAM! Non-Stop
+#DESCRIPTION SLAM! Non-Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21233.live.streamtheworld.com/WEB08_AAC.aac:SLAM! Summer
+#DESCRIPTION SLAM! Summer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22653.live.streamtheworld.com/WEB12_AAC.aac:SLAM! The Boom Room
+#DESCRIPTION SLAM! The Boom Room
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.dynamicradiogroup.nl/01-socialradio_mp3:Social Radio
+#DESCRIPTION Social Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast-soulshow.cdp.triple-it.nl/soulshow_128.mp3:Soulshow Radio
+#DESCRIPTION Soulshow Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23553.live.streamtheworld.com/JUKE_S10.mp3:Soundz Radio
+#DESCRIPTION Soundz Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/SUBLIME.mp3:Sublime Radio
+#DESCRIPTION Sublime Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20133.live.streamtheworld.com/SUBLIME_FUNK_DISCO.mp3:Sublime Funk & Disco
+#DESCRIPTION Sublime Funk & Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME_FUNK_DISCO.mp3:Sublime Funk & Disco
+#DESCRIPTION Sublime Funk & Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEPUREJAZZ.mp3 :Sublime Pure Jazz
+#DESCRIPTION Sublime Pure Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMESMOOTH.mp3:Sublime Smooth
+#DESCRIPTION Sublime Smooth
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20863.live.streamtheworld.com/SUBLIMESOUL.mp3:Sublime Soul Top 1000
+#DESCRIPTION Sublime Soul Top 1000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20863.live.streamtheworld.com/SUBLIME500.mp3:Sublime Sublime 500
+#DESCRIPTION Sublime Sublime 500
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22193.live.streamtheworld.com/SUBLIMEPLAYGROUND.mp3:Sublime Christmas
+#DESCRIPTION Sublime Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.202.22.75%3a9150/;:Sun FM Beachradio
+#DESCRIPTION Sun FM Beachradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//12425.cloudrad.io%3a9396/live:Sun FM Beachradio (alternatief)
+#DESCRIPTION Sun FM Beachradio (alternatief)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR07.mp3:Swijnenstal
+#DESCRIPTION Swijnenstal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.trafficstream.nl/traffic_main.mp3:Traffic Radio
+#DESCRIPTION Traffic Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp3.live-streams.nl%3a8212/live:Unique Gold
+#DESCRIPTION Unique Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp4.live-streams.nl%3a8112/radio.mp3:Unique Offshore Radio Tribute
+#DESCRIPTION Unique Offshore Radio Tribute
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.164.95.243%3a8035/URBAN:Urban Traxx (Camfactor)
+#DESCRIPTION Urban Traxx (Camfactor)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.vibradio.nl/vib192mp3:VIB Radio
+#DESCRIPTION VIB Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.wildhitradio.nl/wildfm.mp3:Wild FM
+#DESCRIPTION Wild FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
+#DESCRIPTION ZTACK
+#SERVICE 1:64:215:0:0:0:0:0:0:0:
+#DESCRIPTION ++religieus++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
+#DESCRIPTION Bright FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.hollanddata.eu/proxy/kids1?mp=/stream:Bright FM Kids
+#DESCRIPTION Bright FM Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.hollanddata.eu/proxy/bfmfamily?mp=/stream:Bright FM Plus
+#DESCRIPTION Bright FM Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//primastream1.primareclame.nl%3a11231/:Christelijke Omroep
+#DESCRIPTION Christelijke Omroep
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.238.183.37%3a8004/:Golfbreker Radio
+#DESCRIPTION Golfbreker Radio
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//grootnieuwsradio.streampartner.nl%3a8050/live:Groot Nieuws Radio
+#DESCRIPTION Groot Nieuws Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.maasbachradio.com%3a8064/stream:Maasbach Radio
+#DESCRIPTION Maasbach Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audio.radiobloemendaal.nl/mp3;:Radio Bloemendaal
+#DESCRIPTION Radio Bloemendaal
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//87.233.180.73%3a8000/;stream.mp3:Radio Maria NL
+#DESCRIPTION Radio Maria NL
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//s3.myradiostream.com%3a9164/listen.mp3:Rebecca Radio - gospel NL
+#DESCRIPTION Rebecca Radio - gospel NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media01.streampartner.nl%3a8003/live:Reformatorische Omroep
+#DESCRIPTION Reformatorische Omroep
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.sevenfm.nl/live:Seven FM
+#DESCRIPTION Seven FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bibleradio.gkstreamen.nl%3a80/:The Bible Radio
+#DESCRIPTION The Bible Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//twrnl.out.airtime.pro%3a8000/twrnl_a    :Trans World Radio NL
+#DESCRIPTION Trans World Radio NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
+#DESCRIPTION Urk FM Geestelijk
+#SERVICE 1:64:216:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
+#DESCRIPTION 18Hits (NL Nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s22.myradiostream.com/7728/listen.mp3:80s Hitradio (NL Nationaal)
+#DESCRIPTION 80s Hitradio (NL Nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chill.100radios.net:100 Chill Radio
+#DESCRIPTION 100 Chill Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hit.100radios.net:100 Hit Radio
+#DESCRIPTION 100 Hit Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.164.95.243%3a8040/;:24 Kitchen Radio (NL Nationaal)
+#DESCRIPTION 24 Kitchen Radio (NL Nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/4allsounds?type=.mp3/;stream.mp3:4Allsounds (NL Nationaal)
+#DESCRIPTION 4Allsounds (NL Nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as192.pinguinradio.nl/;stream.mp3:Aardschok Radio Nationaal)
+#DESCRIPTION Aardschok Radio Nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-06.stream-server.nl%3a8600/;stream/1:ABTT – Adje Bouman's Top Tien (Nationaal)
+#DESCRIPTION ABTT – Adje Bouman's Top Tien (Nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/Acoustic-FM?lang=nl%252cen-US%253bq%253d0.7%252cen%253bq%253d0.3:Acoustic FM (Hilversum)
+#DESCRIPTION Acoustic FM (Hilversum)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.admhardstyleradio.com%3a1765:A.D.M. Hardstyle Radio (Nationaal)
+#DESCRIPTION A.D.M. Hardstyle Radio (Nationaal)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//176.9.32.52%3a8732/stream:Alfa-Radio-Nederland
+#DESCRIPTION Alfa-Radio-Nederland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/album:Albumradio
+#DESCRIPTION Albumradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/aldianaradionl.mp3:Aldiana Radio
+#DESCRIPTION Aldiana Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/beach.mp3:Aldiana Radio - Beach Channel
+#DESCRIPTION Aldiana Radio - Beach Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/80.mp3:Aldiana Radio - 80s Channel
+#DESCRIPTION Aldiana Radio - 80s Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/gym.mp3:Aldiana Radio - Gym Channel
+#DESCRIPTION Aldiana Radio - Gym Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/hits.mp3:Aldiana Radio - Hits Channel
+#DESCRIPTION Aldiana Radio - Hits Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/rock.mp3:Aldiana Radio - Rock Channel
+#DESCRIPTION Aldiana Radio - Rock Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/soulgroove.mp3:Aldiana Radio - Soul & Groove Channel
+#DESCRIPTION Aldiana Radio - Soul & Groove Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dnas-ams2.rict.host%3a443/alldayjazz:All Day Jazz (NL)
+#DESCRIPTION All Day Jazz (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.alloldieschannel.com%3a8000/stream:All Oldies Channel (NL nationaal)
+#DESCRIPTION All Oldies Channel (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kathy.torontocast.com%3a2495/stream:Allsound Radio (NL nationaal)
+#DESCRIPTION Allsound Radio (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.237.51.88%3a80/stream/2/:Altijd Hollands
+#DESCRIPTION Altijd Hollands
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.21.16.120%3a8012/stream?type=.mp3/;stream.mp3:Amor FM multiculturele radiio (NL nationaal)
+#DESCRIPTION Amor FM multiculturele radiio (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//piratenstreams.nl%3a8008/stream:AMW Hiphop (Amsterdam)
+#DESCRIPTION AMW Hiphop (Amsterdam)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.154.168.210%3a8032/;:Antares FM (NL nationaal)
+#DESCRIPTION Antares FM (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server3.digital-webstream.de%3a8415:APCS Radio
+#DESCRIPTION APCS Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//larry.torontocast.com%3a1325/stream:Ariba The Party Station (NL - overige)
+#DESCRIPTION Ariba The Party Station (NL - overige)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-26.stream-server.nl%3a8614/listen.mp3:Arta Radio (NL)
+#DESCRIPTION Arta Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-66.stream-server.nl%3a8840/stream/1/:Baars Classic Rock (NL nationaal)
+#DESCRIPTION Baars Classic Rock (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/RadionoMiX?type=.mp3/;stream.mp3:Back 2 The 80s (NL nationaal)
+#DESCRIPTION Back 2 The 80s (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/back-to-the-90-s?type=.mp3/;stream.mp3:Back 2 The 90s (NL nationaal)
+#DESCRIPTION Back 2 The 90s (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bttos.soulandfunkmusic.com%3a8443/;:Back To The Old School (NL nationaal)
+#DESCRIPTION Back To The Old School (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/BeYoungFM?type=.mp3/;stream.mp3:Be Young FM (NL nationaal)
+#DESCRIPTION Be Young FM (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.31.224.21%3a8600/;stream.mp3:Bel Air Jazz Club (NL nationaal)
+#DESCRIPTION Bel Air Jazz Club (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-16.stream-server.nl%3a8452/;?1535467952659:Bellamia Radio (NL - piraten)
+#DESCRIPTION Bellamia Radio (NL - piraten)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//LUISTER.BESTEHITS.NL%3a80/BESTEHITS-MP3-192:Bestehits (NL - overig)
+#DESCRIPTION Bestehits (NL - overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//86.94.213.59%3a8000/listen.pls  :Beyond The Beat Generation
+#DESCRIPTION Beyond The Beat Generation
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bigb21.nl%3a12000/live:Big B21 (NL nationaal)
+#DESCRIPTION Big B21 (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-21.stream-server.nl%3a8326/stream/1/:Blackwood FM (NL)
+#DESCRIPTION Blackwood FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//philae.shoutca.st%3a8571/stream:Bluestar Radio
+#DESCRIPTION Bluestar Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bnew.shoutcaststream.com%3a8016/stream:Bnewradio (NL nationaal)
+#DESCRIPTION Bnewradio (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.bobsel.net%3a8000/;stream.mp3:Bobsel Radio
+#DESCRIPTION Bobsel Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-25.stream-server.nl%3a8502/;?1535468265311:Boxerteam (NL)
+#DESCRIPTION Boxerteam (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM (Family7 - reli)
+#DESCRIPTION Bright FM (Family7 - reli)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.hollanddata.eu/proxy/kids1?mp=/stream:Bright FM Kids (Family7 - reli)
+#DESCRIPTION Bright FM Kids (Family7 - reli)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.hollanddata.eu/proxy/bfmfamily?mp=/stream:Bright FM Plus (Family7 - reli)
+#DESCRIPTION Bright FM Plus (Family7 - reli)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.100.145.187%3a18304/;:C-Dance Retro (NL nationaal, overig)
+#DESCRIPTION C-Dance Retro (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-27.stream-server.nl%3a8570/;type=mp3:Camilian Radio (NL)
+#DESCRIPTION Camilian Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.251.26.216%3a8016/capriteam3;:CapriTeam (NL-nationaal)
+#DESCRIPTION CapriTeam (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.80.220.12/proxy/scarna00?mp=/stream/;:Carnaval Radio (NL-nationaal)
+#DESCRIPTION Carnaval Radio (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-26.stream-server.nl%3a8738/;:Centraal Hits (NL)
+#DESCRIPTION Centraal Hits (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/RadionoMiX?type=.mp3/;stream.mp3:Checkem FM (NL-nationaal)
+#DESCRIPTION Checkem FM (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8090/stream:Chilling Station (NL-nationaal)
+#DESCRIPTION Chilling Station (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server-26.stream-server.nl%3a8638/stream192:Christmas24 - NL
+#DESCRIPTION Christmas24 - NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.cityfm.nl%3a8047/:CITY FM Classic Rock (NL-nationaal)
+#DESCRIPTION CITY FM Classic Rock (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//classichits106.stream.laut.fm/classichits106:Classic Hits 106 (NL)
+#DESCRIPTION Classic Hits 106 (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/Classic-Rock-Records:Classic Rock Records
+#DESCRIPTION Classic Rock Records
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hubble.shoutca.st%3a8654/stream?1533399376007:Club Dance Radio (NL-nationaal)
+#DESCRIPTION Club Dance Radio (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/RadionoMiX?type=.mp3/;stream.mp3:Clubstitute Dance Radio (NL-nationaal)
+#DESCRIPTION Clubstitute Dance Radio (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cp.chattersworld.nl%3a18012//;stream.mp3:CM Radio (N nationaal, overig)
+#DESCRIPTION CM Radio (N nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8031/;:Columbia AM (NL-nationaal)
+#DESCRIPTION Columbia AM (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-23.stream-server.nl%3a8474/;stream.mp3     :Completeteam (NL + NL piraten)
+#DESCRIPTION Completeteam (NL + NL piraten)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.228.133.3%3a8360/stream/1/;:Cool Dance Radio
+#DESCRIPTION Cool Dance Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-11.stream-server.nl%3a8518/;:Crossroads Country Radio (NL-nationaal)
+#DESCRIPTION Crossroads Country Radio (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//24.132.246.121%3a8004/;:DaCosta Radio
+#DESCRIPTION DaCosta Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.dancefm.net%3a8000/mp3-hq:DANCE.FM %3a%3a The Beat of Amsterdam
+#DESCRIPTION DANCE.FM :: The Beat of Amsterdam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.db962.nl%3a8030:db962 Dance Radio (NL-nationaal)
+#DESCRIPTION db962 Dance Radio (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//andromeda.shoutca.st%3a10000/;:DBeatsFM 70s and 80s Disco (NL-nationaal)
+#DESCRIPTION DBeatsFM 70s and 80s Disco (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.148.11%3a8312/;stream.mp3:DCR - Disco Classic Radio (NL-nationaal)
+#DESCRIPTION DCR - Disco Classic Radio (NL-nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//emmawatson.mazlum.co%3a8000/trap:De Trap Stream
+#DESCRIPTION De Trap Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//igor.torontocast.com%3a1295/stream:Deep Dance Radio (NL-nationaa)
+#DESCRIPTION Deep Dance Radio (NL-nationaa)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster02.streampakket.com%3a8044/stream:Different Radio 747 AM en Online
+#DESCRIPTION Different Radio 747 AM en Online
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//source.satellitestreamingservers.net%3a7649/stream;:DilemaRadio
+#DESCRIPTION DilemaRadio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//86.81.98.192%3a8082/1:Dinxper FM (NL)
+#DESCRIPTION Dinxper FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.robstenders.nl%3a8063/discobonanza_mp3:Disco Bonanza
+#DESCRIPTION Disco Bonanza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cc6.beheerstream.com/8742/stream:Disco Classic Radio (NL nationaal, overig)
+#DESCRIPTION Disco Classic Radio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-26.stream-server.nl%3a8706/stream;%2520:Disco Factory FM (NL)
+#DESCRIPTION Disco Factory FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamnl.atinet.nl%3a8000/;:Disco Radio Action (NL)
+#DESCRIPTION Disco Radio Action (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/disconet:Disconet FM (NL nationaa, overig)
+#DESCRIPTION Disconet FM (NL nationaa, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8079/;stream/1:Dizgo Radio (NL)
+#DESCRIPTION Dizgo Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.214.231.253%3a8080/stream.mp3:Dolfijn FM 97.3 (Curacao)
+#DESCRIPTION Dolfijn FM 97.3 (Curacao)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.drumandbass.fm%3a9004/;stream.mp3:Drum and Bass FM (NL)
+#DESCRIPTION Drum and Bass FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.177.52%3a8000/dutchbeatsradio-bb:Dutch Beats Radio (NL)
+#DESCRIPTION Dutch Beats Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster02.streampakket.com%3a8540/live:DZDRadio (NL)
+#DESCRIPTION DZDRadio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.148.162.129%3a9346/;:Elver-Radio.nl
+#DESCRIPTION Elver-Radio.nl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.engelsekoormuziek.nl%3a1098/;:Engelse koormuziek (NL)
+#DESCRIPTION Engelse koormuziek (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//etfirstcontactradio.out.airtime.pro%3a8000/etfirstcontactradio_a:ET First Contact Radio (NL)
+#DESCRIPTION ET First Contact Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/wwweurekafmnl:Eureka FM (NL)
+#DESCRIPTION Eureka FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/Vintage-Radio:Eurosong Radio (NL)
+#DESCRIPTION Eurosong Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//everything.myftp.org%3a8000/everything192.mp3:Everything Radio
+#DESCRIPTION Everything Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//extragold.stream-server.nl/;:Extra Gold (NL nationaal, overig)
+#DESCRIPTION Extra Gold (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//factorystation.gkstreamen.nl%3a8074/:Factory Station (NL nationaal, overig)
+#DESCRIPTION Factory Station (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-16.stream-server.nl%3a8926/;stream.mp3:Falcon Radio (NL)
+#DESCRIPTION Falcon Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-23.stream-server.nl%3a8106:Fantastico Radio
+#DESCRIPTION Fantastico Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//italo.live-streams.nl/:Fantasy Radio Italo Disco station, Dance Classics, HINRG 80s (NL)
+#DESCRIPTION Fantasy Radio Italo Disco station, Dance Classics, HINRG 80s (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestream3.digipal.nl%3a2141/;:Firma Starfighter
+#DESCRIPTION Firma Starfighter
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zeeland-hosting.nl/radio/8000/radio.mp3:Flamingo Radio
+#DESCRIPTION Flamingo Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8600/stream:Flippers Radio
+#DESCRIPTION Flippers Radio
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/FM4Nederland:FM4-Nederland
+#DESCRIPTION FM4-Nederland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:HTTPS%3a//f103.nl/mp3:Focus 103
+#DESCRIPTION Focus 103
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.59.195.28%3a8226:Foute Muziek Radio 24/7
+#DESCRIPTION Foute Muziek Radio 24/7
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//freemindedfmstream.nl:Freeminded FM
+#DESCRIPTION Freeminded FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hazel.torontocast.com%3a1385:Freestyle FM (NL)
+#DESCRIPTION Freestyle FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.freezfm.nl/freezfm:Freez FM (NL)
+#DESCRIPTION Freez FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.pmteurope.com%3a8444/:Friends FM
+#DESCRIPTION Friends FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-24.stream-server.nl%3a8822/;?1535289479927:Friendtastic Radio (NL)
+#DESCRIPTION Friendtastic Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.46.205.13/zipfm128.mp3:FreshFM Hits (NL)
+#DESCRIPTION FreshFM Hits (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.podomatic.com/vod/UDS8/4c/11/ab/randbradio724/media/12960356.mp3:Frits 365 (NL)
+#DESCRIPTION Frits 365 (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8146:Funky Beat Radio
+#DESCRIPTION Funky Beat Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server3.digital-webstream.de%3a12160/;126503942861182stream.nsv:Funky Groove Radio (NL)
+#DESCRIPTION Funky Groove Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//145.132.205.137%3a4226/:Gerbera Radio
+#DESCRIPTION Gerbera Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.intronic.nl%3a80/goldenflash:Golden Flash
+#DESCRIPTION Golden Flash
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast2.hardcoreradio.nl:Hardcore Radio
+#DESCRIPTION Hardcore Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cc5.beheerstream.com%3a8428/stream:HardcorePower Radio
+#DESCRIPTION HardcorePower Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-25.stream-server.nl%3a8486:Hawai Hit FM
+#DESCRIPTION Hawai Hit FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hollandcountry.gkstreamen.nl%3a80:HCR - Holland Country Radio
+#DESCRIPTION HCR - Holland Country Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mcp-2.mm-stream.nl%3a8000/stream:Hete Hits (NL nationaal, overig)
+#DESCRIPTION Hete Hits (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8088/:Hi On Line Radio - Classical (NL)
+#DESCRIPTION Hi On Line Radio - Classical (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8000/:Hi On Line Radio - Gold
+#DESCRIPTION Hi On Line Radio - Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv38.live-streams.nl%3a8006/:Hi On Line Radio - Jazz (NL)
+#DESCRIPTION Hi On Line Radio - Jazz (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8034/:Hi On Line Radio - Latin
+#DESCRIPTION Hi On Line Radio - Latin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8036/:Hi On Line Radio - Lounge
+#DESCRIPTION Hi On Line Radio - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8086/:Hi On Line Radio - Pop
+#DESCRIPTION Hi On Line Radio - Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv38.live-streams.nl%3a8027/:Hi On Line Radio - World
+#DESCRIPTION Hi On Line Radio - World
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-28.stream-server.nl%3a8968/stream:Hitgolf
+#DESCRIPTION Hitgolf
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//103.214.4.11%3a8100/stream:Hitradio Centraal FM (NL nationaal, overig)
+#DESCRIPTION Hitradio Centraal FM (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//142.44.131.253%3a8034/;:Hits4All That's Music
+#DESCRIPTION Hits4All That's Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//willem1984.radioca.st/stream:Hits4You (NL nationaal, overig)
+#DESCRIPTION Hits4You (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.59.195.28%3a8002/;listen.pls:Hitz24 (NL)
+#DESCRIPTION Hitz24 (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hosting078.nl%3a8074/stream:Holland Country Radio (NL nationaal, overig)
+#DESCRIPTION Holland Country Radio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream01.streamhier.nl%3a9010/:Holland FM (Gran Canaria)
+#DESCRIPTION Holland FM (Gran Canaria)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//82.94.204.110%3a8061/stream:Hollands Palet
+#DESCRIPTION Hollands Palet
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.click2.nl%3a80:HOT Jamz Radio
+#DESCRIPTION HOT Jamz Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//everestcast.live-streams.nl%3a8186/stream:Hotrodradio
+#DESCRIPTION Hotrodradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.165.192.5%3a8273/stream:Ibiza Beach Radio (NL overig)
+#DESCRIPTION Ibiza Beach Radio (NL overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.iceradio.nl/iceradio:Ice Radio (NL overig)
+#DESCRIPTION Ice Radio (NL overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.inprogressradio.com%3a8000/:In Progress Radio
+#DESCRIPTION In Progress Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-23.stream-server.nl%3a8438/:IndieXL
+#DESCRIPTION IndieXL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.intenseradio.net%3a8000/live:Intense Dance Radio
+#DESCRIPTION Intense Dance Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.intergalactic.fm/1aac:Intergalectic FM - Cybernetic Broadcasting System (Den Haag)
+#DESCRIPTION Intergalectic FM - Cybernetic Broadcasting System (Den Haag)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.intergalactic.fm/2aac:Intergalectic FM - Disco Fetish (Den Haag)
+#DESCRIPTION Intergalectic FM - Disco Fetish (Den Haag)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.intergalactic.fm/3aac:Intergalectic FM - Dream Machine (Den Haag)
+#DESCRIPTION Intergalectic FM - Dream Machine (Den Haag)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//italoradiofm.shoutcaststream.com%3a8102/live:Italoradio.FM (NL)
+#DESCRIPTION Italoradio.FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream:Jazz de Ville Jazz (NL)
+#DESCRIPTION Jazz de Ville Jazz (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream:Jazz de Ville Chill (NL)
+#DESCRIPTION Jazz de Ville Chill (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair22.xdevel.com/proxy/xautocloud_6cqz_422?mp=/stream:Jazz de Ville Dance (NL)
+#DESCRIPTION Jazz de Ville Dance (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream:Jazz de Ville Groove (NL)
+#DESCRIPTION Jazz de Ville Groove (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-28.stream-server.nl%3a8982/;:JouRadio.FM - Hollandse muziek (NL)
+#DESCRIPTION JouRadio.FM - Hollandse muziek (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/k-radio:K-Radio (NL)
+#DESCRIPTION K-Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//agnes.torontocast.com%3a8185/K-GOLDEN:K-Golden Radio (NL)
+#DESCRIPTION K-Golden Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/k-jazzy:K-Jazzy (NL)
+#DESCRIPTION K-Jazzy (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostreamen.nl%3a8168:Kerstradio.nl
+#DESCRIPTION Kerstradio.nl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kinderradio.ic-stream.nl%3a30039/stream:Kinderradio FM
+#DESCRIPTION Kinderradio FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s19.myradiostream.com/%3a18068/listen.mp3:KL85
+#DESCRIPTION KL85
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.klasse.fm%3a8070/;:Klasse FM (NL)
+#DESCRIPTION Klasse FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cc3b.beheerstream.com%3a8274/;:Knuffelrock Radio (NL)
+#DESCRIPTION Knuffelrock Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.kxclassikx.nl/:KX Classics
+#DESCRIPTION KX Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.robstenders.nl%3a8063/edgeclassics_mp3:KX Classics The Edge
+#DESCRIPTION KX Classics The Edge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-66.stream-server.nl%3a8848/stream:KZ Radio (Kleine Zwerver) NL-piraten
+#DESCRIPTION KZ Radio (Kleine Zwerver) NL-piraten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/268147/stream/313480:La Carihuela Radio (NL in Torremolinos - Spanje)
+#DESCRIPTION La Carihuela Radio (NL in Torremolinos - Spanje)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.sonixcast.com/CSNX-8060:Like FM Brabant - NLstalig
+#DESCRIPTION Like FM Brabant - NLstalig
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server6.inetcast.nl%3a1155/stream:Majapca Radio
+#DESCRIPTION Majapca Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast3.hardcoreradio.nl/;stream.mp3:Masters Of Hardcore (MOH-Radio)
+#DESCRIPTION Masters Of Hardcore (MOH-Radio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.cuecreative.nl/mediamarktfm:MediaMarktFM
+#DESCRIPTION MediaMarktFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a9348/stream256mp3:Memories 1251 (NL)
+#DESCRIPTION Memories 1251 (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-28.stream-server.nl%3a8972/01:MCB (NL)
+#DESCRIPTION MCB (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.242.99.243%3a8000/stream:MPR - Music Power Radio (NL)
+#DESCRIPTION MPR - Music Power Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-25.stream-server.nl%3a8314:Musicvaria (NL)
+#DESCRIPTION Musicvaria (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-27.stream-server.nl%3a8710/stream:Muziekexpress radio
+#DESCRIPTION Muziekexpress radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.154.168.210%3a8085/:Muziekpromo Nederland (NL)
+#DESCRIPTION Muziekpromo Nederland (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-24.stream-server.nl%3a8300/;:Nashville FM (Rotterdam)
+#DESCRIPTION Nashville FM (Rotterdam)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8204/;:Nationaal FM (Kollum - Friesland -NL)
+#DESCRIPTION Nationaal FM (Kollum - Friesland -NL)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream05.dotpoint.nl%3a8000/nederpop:Nederpop Radio
+#DESCRIPTION Nederpop Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8042/live:News Internetradio (NL)
+#DESCRIPTION News Internetradio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.nlpoprock.nl%3a80/:NL PopRock (NL)
+#DESCRIPTION NL PopRock (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.48.126.146%3a8040/:Nova Classic Rock
+#DESCRIPTION Nova Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.138.116.46%3a9000/;:NRG Radio (NL)
+#DESCRIPTION NRG Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-10.stream-server.nl%3a8140:Old Men's Radio
+#DESCRIPTION Old Men's Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bitsmitter.com%3a8000/omr%2520;stream.mp3:OMR = Offshore Music Radio
+#DESCRIPTION OMR = Offshore Music Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.ourhouse.fm/proxy/ourhousefm?mp=/stream2&type=mp3:Our House FM
+#DESCRIPTION Our House FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.streamonecloud.net/zzO02X8xQWSU:Pandora Radio (NL)
+#DESCRIPTION Pandora Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//clubsoundfm.shoutcaststream.com%3a8392/stream:PDRFM (Planet Dance Radio - NL)
+#DESCRIPTION PDRFM (Planet Dance Radio - NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//142.44.131.253%3a8127/;stream:Pidi Radio - gay radio from Amsterdam
+#DESCRIPTION Pidi Radio - gay radio from Amsterdam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.pinguinradio.com/PinguinRadio320.mp3:Pinguin Radio - algemeen
+#DESCRIPTION Pinguin Radio - algemeen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.pinguinradio.com/Aardschok192.mp3:Pinguin Radio - Aardschok
+#DESCRIPTION Pinguin Radio - Aardschok
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//17523.live.streamtheworld.com/SP_R2406394_SC:Pinguin Radio - Blues
+#DESCRIPTION Pinguin Radio - Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.pinguinradio.com/PinguinClassics192.mp3:Pinguin Radio - Classics
+#DESCRIPTION Pinguin Radio - Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//19003.live.streamtheworld.com/SP_R2591867_SC:Pinguin - Grooves
+#DESCRIPTION Pinguin - Grooves
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.pinguinradio.com/PinguinOnTheRocks192.mp3:Pinguin Radio - On the rocks
+#DESCRIPTION Pinguin Radio - On the rocks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.pinguinradio.com/PinguinPluche192.mp3:Pinguin Radio - Pluche
+#DESCRIPTION Pinguin Radio - Pluche
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.pinguinradio.com/PinguinPop192.mp3:Pinguin Radio - Pop
+#DESCRIPTION Pinguin Radio - Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//19293.live.streamtheworld.com/SP_R2292843_SC:Pinguin - Ska World
+#DESCRIPTION Pinguin - Ska World
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//planet90.shoutcaststream.com%3a8280/;stream.mp3        :Planet 90 (NL)
+#DESCRIPTION Planet 90 (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//78.129.224.11%3a6167/;stream.mp3:Polderpop Radio (NL)
+#DESCRIPTION Polderpop Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic2.thewhitelabelreseller.com/8046/stream.mp3:PopRock FM (NL)
+#DESCRIPTION PopRock FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8117:Powerstation Buddha
+#DESCRIPTION Powerstation Buddha
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//81.23.235.131%3a8200/stream:Pro FM Dance Webradio
+#DESCRIPTION Pro FM Dance Webradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cc6.beheerstream.com%3a8616/stream:Pure 24
+#DESCRIPTION Pure 24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamproxy2.dance.pureradio.eu/high_autodj:Pure Radio Holland Dance Channel (DutchCore FM)
+#DESCRIPTION Pure Radio Holland Dance Channel (DutchCore FM)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamproxy2.djrip.pureradio.eu/ultra_autodj:Pure Radio HollandDJ RIP's Podcast (DutchCore FM)
+#DESCRIPTION Pure Radio HollandDJ RIP's Podcast (DutchCore FM)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamproxy2.downtempo.pureradio.eu/high:Pure Radio Holland Downtempo Channel (DutchCore FM)
+#DESCRIPTION Pure Radio Holland Downtempo Channel (DutchCore FM)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//centova.pure-isp.eu%3a8100/ultra_live:Pure Radio Holland Hardcore Channel (DutchCore FM)
+#DESCRIPTION Pure Radio Holland Hardcore Channel (DutchCore FM)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamproxy2.live.pureradio.eu/high_autodj:Pure Radio Holland Liveparty Channel (DutchCore FM)
+#DESCRIPTION Pure Radio Holland Liveparty Channel (DutchCore FM)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//centova.pure-isp.eu%3a8027/ultra_live:Pure Radio Holland Trance-Electro Channel (JDR Wapradio)
+#DESCRIPTION Pure Radio Holland Trance-Electro Channel (JDR Wapradio)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//centova.pure-isp.eu%3a8000/ultra_live:Pure Radio Holland Underground Channel (Old Pure Radio Holland)
+#DESCRIPTION Pure Radio Holland Underground Channel (Old Pure Radio Holland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-24.stream-server.nl%3a8414/:Q5 Radio (NL nationaal, overig)
+#DESCRIPTION Q5 Radio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//19993.live.streamtheworld.com/Q_DANCEAAC.aac:Q-dance
+#DESCRIPTION Q-dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radio0511.com%3a8880/;:Radio 0511 (Buitenpost - Friesland)
+#DESCRIPTION Radio 0511 (Buitenpost - Friesland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio105.shoutcaststream.com%3a8060/;stream.mp3:Radio 105 Digital Radio
+#DESCRIPTION Radio 105 Digital Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-26.stream-server.nl%3a8500/;:Radio 227 (NL)
+#DESCRIPTION Radio 227 (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.40up.nl/40up1:Radio 40UP
+#DESCRIPTION Radio 40UP
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.free-shoutcast.com/stream/18096:Radio 558
+#DESCRIPTION Radio 558
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//jenny.torontocast.com%3a8034/stream:Radio 854 (NL, voor NL/BE in Canada)
+#DESCRIPTION Radio 854 (NL, voor NL/BE in Canada)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//daniel.torontocast.com%3a1435/stream:Radio 854 Gold (uit Canada voor luisteraars BE en NL)
+#DESCRIPTION Radio 854 Gold (uit Canada voor luisteraars BE en NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//azuracast.shoutcastsolutions.com/radio/8000/radio.mp3:Radio Blondie (NL)
+#DESCRIPTION Radio Blondie (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-25.stream-server.nl%3a8502/;:Radio Boxerteam (NL)
+#DESCRIPTION Radio Boxerteam (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.196.171.99/radiobrasa:Radio Brasa (Rotterdam)
+#DESCRIPTION Radio Brasa (Rotterdam)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/Caramba:Radio Caramba (NL feestradio)
+#DESCRIPTION Radio Caramba (NL feestradio)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.rcgoldserver.eu%3a8253:Radio Caroline 259 Gold (NL)
+#DESCRIPTION Radio Caroline 259 Gold (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.rcgoldserver.eu%3a8313:Radio Caroline 319 Gold / Radio Monique 963 Gold
+#DESCRIPTION Radio Caroline 319 Gold / Radio Monique 963 Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fred.torontocast.com%3a1515/stream:Radio De Schans -  Hollandse Hits (NL)
+#DESCRIPTION Radio De Schans -  Hollandse Hits (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//strandjutterradio.gkstreamen.nl%3a8018/:Radio De Strandjutter (NL)
+#DESCRIPTION Radio De Strandjutter (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.251.26.216%3a8000/stream:Radio De Tijdbrekers (NL)
+#DESCRIPTION Radio De Tijdbrekers (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//81.169.171.250%3a8022/;:Radio Delta Internationaal (NL)
+#DESCRIPTION Radio Delta Internationaal (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8064/stream:Radio Delta.Net - the real house station (NL)
+#DESCRIPTION Radio Delta.Net - the real house station (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv21.live-streams.nl%3a8037/:Radio Dolfijntjes - voor special kids (NL)
+#DESCRIPTION Radio Dolfijntjes - voor special kids (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//el-dorado.stream.laut.fm/:Radio El Dorado (NL)
+#DESCRIPTION Radio El Dorado (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//81.169.171.250%3a8014:Radio Europe
+#DESCRIPTION Radio Europe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingv2.shoutcast.com/radioexcellentfm?:Radio Excellent (NL)
+#DESCRIPTION Radio Excellent (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.extragold.nl%3a8080:Radio Extra Gold
+#DESCRIPTION Radio Extra Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogfm.dyndns.org%3a8200/high.mp3:Radio G-FM (NL)
+#DESCRIPTION Radio G-FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//patmos.cdnstream.com%3a9592/stream/1/?esPlayer&cb=241471.mp3:Radio Gemiva (verstandelijk beperkten)
+#DESCRIPTION Radio Gemiva (verstandelijk beperkten)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-23.stream-server.nl%3a8118/stream:Radio Goud Van Oud (NL nationaal, overig)
+#DESCRIPTION Radio Goud Van Oud (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//larry.torontocast.com%3a1045/stream:Radio Happysound (voor NL in Canada)
+#DESCRIPTION Radio Happysound (voor NL in Canada)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiohitec.comlinq.be%3a80:Radio HiTec (NL nationaal, overig)
+#DESCRIPTION Radio HiTec (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.r-h-o.nl:Radio Holland Online (RHO)
+#DESCRIPTION Radio Holland Online (RHO)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamvanrho.nl%3a8000/;.mp3:Radio Holland Online (RHO) alternatief
+#DESCRIPTION Radio Holland Online (RHO) alternatief
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.team24-hosting.nl%3a2020/stream/lady/stream:Radio Lady Monza
+#DESCRIPTION Radio Lady Monza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hazel.torontocast.com%3a3175/stream:Radio Liberty (N) from Canada
+#DESCRIPTION Radio Liberty (N) from Canada
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.38.96.230%3a8034/stream:Radio Maximaal For You
+#DESCRIPTION Radio Maximaal For You
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/moderne-schlager:Radio Melodie
+#DESCRIPTION Radio Melodie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kepler.shoutca.st%3a8117/stream:Radio Mi Amigo International
+#DESCRIPTION Radio Mi Amigo International
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-09.stream-server.nl%3a8612:Radio Nashville International
+#DESCRIPTION Radio Nashville International
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamserv2.digipal.nl%3a8020:Radio Nikita
+#DESCRIPTION Radio Nikita
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.40.135.197%3a8388/:Radio Northsea International
+#DESCRIPTION Radio Northsea International
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-28.stream-server.nl%3a8958:Radio Omega (NL - piraten)
+#DESCRIPTION Radio Omega (NL - piraten)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcast.net/64747:Radio Onda
+#DESCRIPTION Radio Onda
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.148.162.129%3a9600/stream:Radio Palermo (NL - piraten)
+#DESCRIPTION Radio Palermo (NL - piraten)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiopatapoe.nl/patapoe.aac:Radio Patapoe (NL, overig)
+#DESCRIPTION Radio Patapoe (NL, overig)
+#SERVICE 5002:0:2:0:0:0:0:0:0:0:https%3a//cast.radiopatapoe.nl/transit:Radio Patapoe (NL, overig)
+#DESCRIPTION Radio Patapoe (NL, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.magicdragon.nl%3a7016/;:Radio President (Golden Oldies Radio)
+#DESCRIPTION Radio President (Golden Oldies Radio)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.myradiostream.com%3a9164/listen.mp3:Radio Rebecca
+#DESCRIPTION Radio Rebecca
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.5.73%3a8696/:Radio Regionaal
+#DESCRIPTION Radio Regionaal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//144.217.253.136%3a8504/autodj:Radio RFM (NL)
+#DESCRIPTION Radio RFM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8113/stream:Radio Schlager NL
+#DESCRIPTION Radio Schlager NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.144.244.195%3a8002/;:Radio Sint Bernard (NL)
+#DESCRIPTION Radio Sint Bernard (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-25.stream-server.nl%3a8348/stream:Radio Sitara FM
+#DESCRIPTION Radio Sitara FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosputnik.nl%3a8002:Radio Sputnik, underground en techno (NL)
+#DESCRIPTION Radio Sputnik, underground en techno (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.228.133.3/stream/1/;:Radio Stad Den Haag (Den Haag en 'wereldwijd')
+#DESCRIPTION Radio Stad Den Haag (Den Haag en 'wereldwijd')
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kathy.torontocast.com%3a2310/stream:Radio Tijdloos (NL nationaal, overig)
+#DESCRIPTION Radio Tijdloos (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast2.caveo.nl%3a8080:Radio Twilight (NL nationaal, overig)
+#DESCRIPTION Radio Twilight (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-21.stream-server.nl%3a8382/:Radio Ultiem (NL nationaal, overig)
+#DESCRIPTION Radio Ultiem (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.streamhostingforyou.nl/proxy/duczkkvg:Radioveronique
+#DESCRIPTION Radioveronique
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radio.co%3a80/s1add38d12/listen:Radio Weleer (NL)
+#DESCRIPTION Radio Weleer (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-23.stream-server.nl%3a8802/:Radiozuid1963
+#DESCRIPTION Radiozuid1963
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ramfm.shoutcaststream.com%3a8513/;stream/1:RAM FM (NL nationaal, overig)
+#DESCRIPTION RAM FM (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rddradio.stream.laut.fm/rddradio:RDD Radio (NL)
+#DESCRIPTION RDD Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//138.201.141.161%3a8205/rr:Ridder Radio (NL nationaal, overig)
+#DESCRIPTION Ridder Radio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-51.stream-server.nl%3a8328/stream:Robintimo Radio
+#DESCRIPTION Robintimo Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.144.44.212%3a8000/;:Roger Radio (NL)
+#DESCRIPTION Roger Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.shoutcastsolutions.com%3a8769/;:R.O.L. Oldies Radio (NL)
+#DESCRIPTION R.O.L. Oldies Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.roundandsound.nl/1:RoundandSound Radio (NL)
+#DESCRIPTION RoundandSound Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//royalfm.shoutcaststream.com%3a8242/:RoyalFM
+#DESCRIPTION RoyalFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cc6.beheerstream.com/8615/stream:RVM Radio (NL nationaal)
+#DESCRIPTION RVM Radio (NL nationaal)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21303.live.streamtheworld.com/TLPSTR14AAC.aac:SHOUT OUT (Talpa - NL)
+#DESCRIPTION SHOUT OUT (Talpa - NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.224.90.47%3a8032/stream:Silence FM (NL)
+#DESCRIPTION Silence FM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.stream.delivery/simonefm:Simone FM - Hits & Classics
+#DESCRIPTION Simone FM - Hits & Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.212.100.111%3a8000/;     :SolarRadio (NL)
+#DESCRIPTION SolarRadio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21233.live.streamtheworld.com/SOULRADIO.mp3:Soul Radio (Nederland)
+#DESCRIPTION Soul Radio (Nederland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21233.live.streamtheworld.com/SOULRADIO.mp3:Soulradio
+#DESCRIPTION Soulradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast-soulshow.cdp.triple-it.nl/soulshow_128.mp3:Soulshow Radio
+#DESCRIPTION Soulshow Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/SoundtrackRadiostation:Soundtrack Radio Station (NL)
+#DESCRIPTION Soundtrack Radio Station (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//caster05.streampakket.com/proxy/9098/stream:Sterradio (NL)
+#DESCRIPTION Sterradio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.148.11%3a8050/:Studio 26 Radio (NL voor 15 t/m 35 jaar)
+#DESCRIPTION Studio 26 Radio (NL voor 15 t/m 35 jaar)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sunrisefm.nl%3a9600/stream:Sunrise - De grootste Hindoestaanse Radiozender van NL
+#DESCRIPTION Sunrise - De grootste Hindoestaanse Radiozender van NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radionorthsea.nl%3a8000/128.mp3:SurfRadio (NL nationaal, overig)
+#DESCRIPTION SurfRadio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//83.81.37.70%3a8000/1:The Oldie Station (Eindhoven - Noord-Brabant
+#DESCRIPTION The Oldie Station (Eindhoven - Noord-Brabant
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-26.stream-server.nl%3a8696/stream:THR = Todays Hit Radio (NL nationaal, overig)
+#DESCRIPTION THR = Todays Hit Radio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.95.46.223%3a9246/sid=1:Timeless Entertainment Radio (NL)
+#DESCRIPTION Timeless Entertainment Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.streamaudio.de%3a8000/toonfm:ToonFM - alleen in het weekeind (NL - overig)
+#DESCRIPTION ToonFM - alleen in het weekeind (NL - overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.39.104.41%3a8070/stream:Topbeats radio (NL)
+#DESCRIPTION Topbeats radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.toppersteam.nl%3a8016/stream:Toppersteam
+#DESCRIPTION Toppersteam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.trafficstream.nl/traffic_main.mp3:Traffic Radio
+#DESCRIPTION Traffic Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.252.14%3a8108/;:TurnON Radio International (vanuit USA voor alle NL's)
+#DESCRIPTION TurnON Radio International (vanuit USA voor alle NL's)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.ujala.nl/stream/2/listen.mp3:Ujala (Bollywood minded)
+#DESCRIPTION Ujala (Bollywood minded)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//everestcast.ultraradio.eu%3a1045/stream:Ultraradio (NL nationaal, overig)
+#DESCRIPTION Ultraradio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//83.82.101.81/HQ-MP3:Universe Radio (NL)
+#DESCRIPTION Universe Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.148.11%3a8058:Vahon (Hindoestaans)
+#DESCRIPTION Vahon (Hindoestaans)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp2.live-streams.nl%3a8090/radio:Vandaagradio (NL nationaal, overig)
+#DESCRIPTION Vandaagradio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.vibradio.nl/vib192mp3:VIB Radio (NL nationaal, overig)
+#DESCRIPTION VIB Radio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live2.engelsekoormuziek.nl:Webradio Engelse koormuziek (NL + klassiek)
+#DESCRIPTION Webradio Engelse koormuziek (NL + klassiek)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webradio.slimweb.org%3a8000/wradio      :Webradio SLIM (NL)
+#DESCRIPTION Webradio SLIM (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamserv42.digipal.nl%3a8000/;stream.mp3:Wolkhits.nl (NL)
+#DESCRIPTION Wolkhits.nl (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.magicdragon.nl%3a7002/stream:XXL Radio (NL nationaal, overig)
+#DESCRIPTION XXL Radio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.148.11%3a8374/stream:Your Choice Radio (NL)
+#DESCRIPTION Your Choice Radio (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediaserv30.live-streams.nl%3a18005/stream:yourX (NL nationaal, overig)
+#DESCRIPTION yourX (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zapstream.nl%3a80/stream/1/.mp3:ZAP! FM (NL nationaal, overig)
+#DESCRIPTION ZAP! FM (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sslive.zeilsteen.com/;:Zeilsteen Radio (NL nationaal, overig)
+#DESCRIPTION Zeilsteen Radio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK (NL nationaal, overig)
+#DESCRIPTION ZTACK (NL nationaal, overig)

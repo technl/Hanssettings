@@ -1,0 +1,19 @@
+#NAME Stream Albanie (AL)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//www.radioemigranti.com%3a8000/radio:Radio Emigranti
+#DESCRIPTION Radio Emigranti
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.rtkit.com%3a1935/radiostream/rk1.stream/chunklist.m3u8:Radio Kosova (Albanië)
+#DESCRIPTION Radio Kosova (Albanië)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.rtkit.com%3a1935/radiostream/rk2.stream/chunklist.m3u8:Radio Kosova 2 (Albanië)
+#DESCRIPTION Radio Kosova 2 (Albanië)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//144.76.33.185%3a8000:Radio Mergimi
+#DESCRIPTION Radio Mergimi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiolive.rtsh.dev/radiotiranaklasik1:Radio Tirana Klasik | RTSH Radio
+#DESCRIPTION Radio Tirana Klasik | RTSH Radio
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//radiolive.rtsh.dev/radiotirana1:RTSH Radio Tirana 1
+#DESCRIPTION RTSH Radio Tirana 1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//radiolive.rtsh.dev/radiotirana2:RTSH Radio Tirana 2
+#DESCRIPTION RTSH Radio Tirana 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//radiolive.rtsh.dev/radiotirana3:RTSH Radio Tirana 3
+#DESCRIPTION RTSH Radio Tirana 3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.top-media.al/mmr:Top Albania Radio
+#DESCRIPTION Top Albania Radio

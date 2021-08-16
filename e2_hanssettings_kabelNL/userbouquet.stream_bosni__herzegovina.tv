@@ -1,0 +1,21 @@
+#NAME Stream Bosnië-Herzegovina (BA)
+#SERVICE 1:64:185:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//proxy.bihnet.net%3a88/live/b1tv.m3u8:B1 TV
+#DESCRIPTION B1 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dns2.rtvbn.com%3a8080/live/index.m3u8:BN TV
+#DESCRIPTION BN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//parh.rtrs.tv/tv/live/chunklist_.m3u8:RTRS TV (PTPC)
+#DESCRIPTION RTRS TV (PTPC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webtvstream.bhtelecom.ba/gorazde_cam2.m3u8:RTV BPK
+#DESCRIPTION RTV BPK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8:RTV HB
+#DESCRIPTION RTV HB
+#SERVICE 1:64:186:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/malta.m3u8:Moja TV
+#DESCRIPTION Moja TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.0.130%3a8082:Slon Extra
+#DESCRIPTION Slon Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//balkanmedia.dynu.net/hls/tv5web.m3u8:Televizija 5
+#DESCRIPTION Televizija 5
