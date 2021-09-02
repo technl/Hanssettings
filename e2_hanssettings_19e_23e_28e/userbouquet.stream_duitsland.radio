@@ -179,6 +179,12 @@
 #DESCRIPTION Acid Jazz Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//service.pop-stream.de%3a4000/;:AGF-Radio
 #DESCRIPTION AGF-Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/aldianaradio.mp3:Aldiana Radio Deutschland
+#DESCRIPTION Aldiana Radio Deutschland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/austriapop.mp3:Aldiana Radio Deutschland - Austria Pop
+#DESCRIPTION Aldiana Radio Deutschland - Austria Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/season.mp3:Aldiana Radio Deutschland - Seasonal
+#DESCRIPTION Aldiana Radio Deutschland - Seasonal
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//alex-radio.rosebud-media.de%3a8000/alex-radio.aac:ALEX-Offener-Kanal-Berlin-AAC-High
 #DESCRIPTION ALEX-Offener-Kanal-Berlin-AAC-High
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//alex-radio.rosebud-media.de%3a8000/alex-radio-low.aac:ALEX-Offener-Kanal-Berlin-AAC-Low
@@ -361,6 +367,8 @@
 #DESCRIPTION Ballermann-Radio-Top100
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bayerwaldradio.deg.net%3a8000/bayerwaldradio:Bayerwaldradio
 #DESCRIPTION Bayerwaldradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streambbr.ir-media-tec.com/live/mp3-128/web/play.mp3:BB Radio
+#DESCRIPTION BB Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//beatdownx.stream.laut.fm/beatdownx?t302=2017-12-02_23-00-21&uuid=b42fd430-7410-4f0c-adfa-0f45bc2e425f:beatdownx
 #DESCRIPTION beatdownx
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//46.105.118.14%3a8800:BeMyRadio (Duitsland)
@@ -1107,6 +1115,8 @@
 #DESCRIPTION Hope-Channel-Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//realserver3.hdm-stuttgart.de%3a8080/horads:horads-992-FM
 #DESCRIPTION horads-992-FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hochrhein-radio.stream.laut.fm/hochrhein-radio:Hochrhein-Radio
+#DESCRIPTION Hochrhein-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.ml1.t4e.dj%3a80/houselovers_high.mp3:Houselovers
 #DESCRIPTION Houselovers
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.stream.tb-group.fm/ht.mp3?:HouseTimeFM
@@ -1137,6 +1147,8 @@
 #DESCRIPTION HR4 Südhessen/Rhein-Main
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//addrad.io/4WRDWP:HR4
 #DESCRIPTION HR4
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//144.76.39.214%3a9510/stream:Hrvatski Radio Frankfurt
+#DESCRIPTION Hrvatski Radio Frankfurt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//htd-radio.stream.laut.fm/htd-radio?t302=2017-12-08_13-20-29&uuid=e4a4d85d-a7a2-4a23-9703-bb8578f40612:HTD-Radio
 #DESCRIPTION HTD-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hnfmserver.de%3a80:Human-Nation-FM
@@ -1271,6 +1283,8 @@
 #DESCRIPTION Klassik Radio - Chor
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klraemqrgdzgvny5za-mp3-128-7588454:Klassik Radio - Die wahre Geschichte
 #DESCRIPTION Klassik Radio - Die wahre Geschichte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-dinnerjazz-mp3-192-2333435:Klassik Radio - Dinner Jazz
+#DESCRIPTION Klassik Radio - Dinner Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-feelgoodklassik-mp3-128-3394012:Klassik Radio - Feel Good Klassik
 #DESCRIPTION Klassik Radio - Feel Good Klassik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-filmklassiker-mp3-128-6956565:Klassik Radio - Filmklassiker
@@ -1325,12 +1339,14 @@
 #DESCRIPTION Klassik Radio - Schiller Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-serien-mp3-128-2843175:Klassik Radio - Serien
 #DESCRIPTION Klassik Radio - Serien
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.klassikradio.de/smooth/mp3-128:Klassik Radio - Smooth
-#DESCRIPTION Klassik Radio - Smooth
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-smooth-mp3-192-1096057:Klassik Radio - Smooth Jazz
+#DESCRIPTION Klassik Radio - Smooth Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.klassikradio.de/tillbroenner/mp3-128:Klassik Radio - Till Brönner
 #DESCRIPTION Klassik Radio - Till Brönner
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.klassikradio.de/verdi/mp3-128:Klassik Radio - Verdi
 #DESCRIPTION Klassik Radio - Verdi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-vitality-mp3-192-1851210:Klassik Radio - Vitality
+#DESCRIPTION Klassik Radio - Vitality
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-weinabend-mp3-128-8806243:Klassik Radio - Weinabend
 #DESCRIPTION Klassik Radio - Weinabend
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-yoga-mp3-128-8521746:Klassik Radio - Yoga
@@ -2307,8 +2323,8 @@
 #DESCRIPTION Radio Chemnitz
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streaming.fueralle.org%3a8000/corax.mp3:Radio Corax
 #DESCRIPTION Radio Corax
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//radiocottbus-ais-edge-3101-fra-eco-cdn.cast.addradio.de/radiocottbus/live/mp3/high/stream.mp3:Radio Cottbus (DE)
-#DESCRIPTION Radio Cottbus (DE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiocottbus-ais-edge-3003-fra-eco-cdn.cast.addradio.de/radiocottbus/live/mp3/high/stream.mp3:Radio Cottbus
+#DESCRIPTION Radio Cottbus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.98.217.63%3a23656/stream:Radio DarkFire
 #DESCRIPTION Radio DarkFire
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiodarmstadt.de%3a8000/radar.mp3:Radio Darmstadt
@@ -2527,6 +2543,8 @@
 #DESCRIPTION Radio Hochstift - Urban (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rnrw.cast.addradio.de/rnrw-017f/deinevent/high/stream.mp3:Radio Hochstift - Weihnachten (Duitsland)
 #DESCRIPTION Radio Hochstift - Weihnachten (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioholiday-ais-edge-4007-fra-dtag-cdn.cast.addradio.de/radioholiday/live/mp3/high:Radio Holiday
+#DESCRIPTION Radio Holiday
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radiohomburg-live.cast.addradio.de/radiohomburg/live/aac/low/stream.aac:Radio Homburg
 #DESCRIPTION Radio Homburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rs16.stream24.org/horeb.mp3:Radio Horeb
@@ -2765,8 +2783,20 @@
 #DESCRIPTION Radio Sal 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiosauerland.c.nmdn.net/radiosauerland/livestream.mp3:Radio Sauerland (Duitsland)
 #DESCRIPTION Radio Sauerland (Duitsland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioschlagerparadies.de/schlagerparadies128.mp3:Radio Schlagerparadies (Duitsland)
-#DESCRIPTION Radio Schlagerparadies (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.radioschlagerparadies.de%3a31883/frischgepresst:Radio Schlagerparadies Frisch Gepresst
+#DESCRIPTION Radio Schlagerparadies Frisch Gepresst
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server.radioschlagerparadies.de/hitmixdernacht:Radio Schlagerparadies Hitmix der Nacht
+#DESCRIPTION Radio Schlagerparadies Hitmix der Nacht
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server.radioschlagerparadies.de/schlagerinstrumental:Radio Schlagerparadies Instrumental
+#DESCRIPTION Radio Schlagerparadies Instrumental
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server.radioschlagerparadies.de/schlagerballaden:Radio Schlagerparadies Kuschelzeit
+#DESCRIPTION Radio Schlagerparadies Kuschelzeit
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server.radioschlagerparadies.de/schlageroldies:Radio Schlagerparadies Oldie Express
+#DESCRIPTION Radio Schlagerparadies Oldie Express
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server.radioschlagerparadies.de/schlagerparty:Radio Schlagerparadies Schlagerparty
+#DESCRIPTION Radio Schlagerparadies Schlagerparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioschlagerparadies.de/schlagerparadies128.mp3:Radio Schlagerparadies
+#DESCRIPTION Radio Schlagerparadies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.118.78.52%3a8000/main_mp3:Radio Schlagertempel
 #DESCRIPTION Radio Schlagertempel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s37.derstream.net/radioschwaben.mp3:Radio Schwaben (Duitsland)
@@ -2873,6 +2903,8 @@
 #DESCRIPTION Radio Wuppertal
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.radiox.de%3a8000/live:Radio X
 #DESCRIPTION Radio X
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2-webradio.antenne.de/xanadu:Radio Xanadu
+#DESCRIPTION Radio Xanadu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//snd.radio-z.net%3a8000/Radio-Z:Radio Z
 #DESCRIPTION Radio Z
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server35303.streamplus.de/stream.mp3:Radio Zett
@@ -3469,6 +3501,8 @@
 #DESCRIPTION Sportradio Deutschland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge03.streamonkey.net/sportradio-deutschland/stream/mp3:Sportradio Deutschland
 #DESCRIPTION Sportradio Deutschland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.spreeradio.de/spree-live/mp3-128:Spreeradio
+#DESCRIPTION Spreeradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.25.217.22%3a8200:SQRR---StatusQuoRockRadio
 #DESCRIPTION SQRR---StatusQuoRockRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sr.audiostream.io/sr/1009/mp3/56/sr1:SR1 - Europawelle

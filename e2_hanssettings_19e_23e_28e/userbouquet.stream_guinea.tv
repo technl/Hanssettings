@@ -1,3 +1,9 @@
 #NAME Stream Guinea (Guinee, GN) en Guinee-Bissau (GW)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espace_tv-avc1_1800000=5-mp4a_65200_fra=1.m3u8:Espace TV
+#DESCRIPTION Espace TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge7.vedge.infomaniak.com/livecast/ik%3akalactv/chunklist_.m3u8:Kalac TV
+#DESCRIPTION Kalac TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8:RTG
+#DESCRIPTION RTG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8:TVGE
 #DESCRIPTION TVGE

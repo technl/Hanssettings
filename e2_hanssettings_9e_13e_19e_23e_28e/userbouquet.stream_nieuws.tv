@@ -159,8 +159,8 @@
 #DESCRIPTION NTN 24 (Colombia)
 #SERVICE 1:64:298:0:0:0:0:0:0:0:
 #DESCRIPTION ++Duitsland++
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//bildlivehls-lh.akamaihd.net/i/Bildlive_1@107601/index_2328_av-p.m3u8:Bild TV (Duitsland) - soms
-#DESCRIPTION Bild TV (Duitsland) - soms
+#SERVICE 4097:0:1:2775:409:1:c00000:0:0:0:https%3a//bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-b.m3u8?sd=10&rebase=on:BILD TV
+#DESCRIPTION BILD TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/live/app144277506/BTTV_1/QdoHEQIoadKSHi6oKEp5ziZ2q/J7ekv9+hgpBxTSy2G2KefdbYTKWe5R2gMXKyP0.m3u8:Bundestag TV 1 (Duitsland)
 #DESCRIPTION Bundestag TV 1 (Duitsland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/live/app144277506/BTTV_2/QdoHEQIoadKSHi6oKEp5ziZ2q/J7ekv9+hgpBxTSy2G2KefdbYTKWe5R2gMXKyP0.m3u8:Bundestag TV 2 (Duitsland)
@@ -499,8 +499,8 @@
 #DESCRIPTION DW Latino (nieuws - Spaanstalig)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8:RTE News Now (Spanje)
 #DESCRIPTION RTE News Now (Spanje)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8:TVE 24h (nieuws - Spanje)
-#DESCRIPTION TVE 24h (nieuws - Spanje)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream-lvlt.rtve.es/24h_main_720.m3u8:TVE 24 Horas
+#DESCRIPTION TVE 24 Horas
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ss6.domint.net%3a1948/zol_str/vzol/playlist.m3u8:Xtremo channel (Spaans)
 #DESCRIPTION Xtremo channel (Spaans)
 #SERVICE 1:64:2bd:0:0:0:0:0:0:0:

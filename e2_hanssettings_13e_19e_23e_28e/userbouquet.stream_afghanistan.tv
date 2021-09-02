@@ -1,8 +1,8 @@
 #NAME Stream Afghanistan (AF)
+#SERVICE 1:64:2ac:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8:Al Sharq
 #DESCRIPTION Al Sharq
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8:Andisheh
-#DESCRIPTION Andisheh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.arianaafgtv.com/ariana/playlist.m3u8:ATN Afghan
 #DESCRIPTION ATN Afghan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8:ATN International
@@ -13,12 +13,26 @@
 #DESCRIPTION ATN News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch.iptvmate.net/e49dc251eae72bb3850adcc34f886cb3.m3u8:ATN USA
 #DESCRIPTION ATN USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8:Ayeneh TV
-#DESCRIPTION Ayeneh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fflivelemar.b-cdn.net/media_1.m3u8:Lemar TV
+#DESCRIPTION Lemar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2rwmwucnr0d10.cloudfront.net/live.m3u8:Manoto TV
+#DESCRIPTION Manoto TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.parnian.tv/hls/live/play.m3u8:Parnian TV
+#DESCRIPTION Parnian TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.tapesh.tv/tapesh/playlist1/index.m3u8:PBC Tapesh 
+#DESCRIPTION PBC Tapesh 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist_.m3u8:Shamshad
+#DESCRIPTION Shamshad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fflivetolomusic.b-cdn.net/media_1.m3u8:Tolo Music
+#DESCRIPTION Tolo Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fflivetolonews.b-cdn.net/media_1.m3u8:Tolo News
+#DESCRIPTION Tolo News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fflivetolotv.b-cdn.net/media_1.m3u8:Tolo TV
+#DESCRIPTION Tolo TV
+#SERVICE 1:64:2ad:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8:Bahar TV
 #DESCRIPTION Bahar TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.56/hls/stream.m3u8:Barya TV
-#DESCRIPTION Barya TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8:Ganje Hozour
 #DESCRIPTION Ganje Hozour
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.54/hls/stream.m3u8:Helal TV
@@ -29,18 +43,12 @@
 #DESCRIPTION Iman TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//208.93.117.113/live/Stream1/chunklist.m3u8:Kayhan TV
 #DESCRIPTION Kayhan TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2rwmwucnr0d10.cloudfront.net/live.m3u8:Manoto TV
-#DESCRIPTION Manoto TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.mihantv.com/live/playlist.m3u8:Mihan TV
 #DESCRIPTION Mihan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.mohabat.tv%3a1935/live_transcoder/ngrp%3amohabat.stream_all/playlist.m3u8:Mohabat TV
 #DESCRIPTION Mohabat TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mellitv.tulix.tv%3a1935/mellitv/myStream.sdp/playlist.m3u8:MTC
-#DESCRIPTION MTC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8:Pamir TV
 #DESCRIPTION Pamir TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.parnian.tv/hls/live/play.m3u8:Parnian TV
-#DESCRIPTION Parnian TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vps.parsiland.net/hls/ParsiLand.m3u8:ParsiLand TV 
 #DESCRIPTION ParsiLand TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8:Payame Afghan
@@ -49,23 +57,19 @@
 #DESCRIPTION Payvand TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.persiantv1.com/ptv1/playlist.m3u8:Persian Bazar
 #DESCRIPTION Persian Bazar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8:Radio Farda TV
-#DESCRIPTION Radio Farda TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rjtv.tv/live/smil%3arjtv.smil/playlist.m3u8:Radio Javan TV
 #DESCRIPTION Radio Javan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.133/hls/stream.m3u8:RTA
 #DESCRIPTION RTA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist_.m3u8:Shamshad
-#DESCRIPTION Shamshad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.50/hls/stream.m3u8:Sharq
 #DESCRIPTION Sharq
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8:Simaye Azadi
 #DESCRIPTION Simaye Azadi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.42/hls/stream.m3u8:Solh TV
 #DESCRIPTION Solh TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.tapesh.tv/tapesh/playlist1/index.m3u8:Tapesh 
-#DESCRIPTION Tapesh 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8:VOA Persian
 #DESCRIPTION VOA Persian
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5caf24a595d94.streamlock.net%3a1937/8132/8132/playlist.m3u8:Watan-E-Maa
 #DESCRIPTION Watan-E-Maa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.urdustreamz.net%3a1935/live_transcoder/ngrp%3azindagitv.stream_all/chunklist_.m3u8:Zendagi TV
+#DESCRIPTION Zendagi TV

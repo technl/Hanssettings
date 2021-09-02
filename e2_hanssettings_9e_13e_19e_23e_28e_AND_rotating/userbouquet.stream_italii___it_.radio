@@ -1,5 +1,5 @@
 #NAME Stream Italiië (IT)
-#SERVICE 1:64:1ab5:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a7e:0:0:0:0:0:0:0:
 #DESCRIPTION ++RAI++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:RAI Radio 1
 #DESCRIPTION RAI Radio 1
@@ -25,7 +25,7 @@
 #DESCRIPTION Rai Radio Techetè
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:https%3a//radioitaliana1-lh.akamaihd.net/i/radioitaliana1_1@586844/index_128000_a-p.m3u8:Rai Radio Tutta Italiana
 #DESCRIPTION Rai Radio Tutta Italiana
-#SERVICE 1:64:1ab6:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a7f:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//s8.mediastreaming.it%3a7580/:ANTENNA RADIO ESSE
 #DESCRIPTION ANTENNA RADIO ESSE
@@ -53,6 +53,8 @@
 #DESCRIPTION Kiss Kiss Italia (Italië)
 #SERVICE 4097:0:2:233:0:0:0:0:0:0:http%3a//nr6.newradio.it%3a9182/;:L'ALTRA RADIO
 #DESCRIPTION L'ALTRA RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sr15.inmystream.it/stream/lattemiele:Latte Miele 
+#DESCRIPTION Latte Miele 
 #SERVICE 4097:0:2:315:0:0:0:0:0:0:http%3a//176.31.117.120%3a8221/:LAZIO STYLE RADIO
 #DESCRIPTION LAZIO STYLE RADIO
 #SERVICE 4097:0:2:111:0:0:0:0:0:0:http%3a//94.23.67.20%3a8034/stream:LINEA RADIO SAVONA
@@ -83,6 +85,14 @@
 #DESCRIPTION RADIO 19
 #SERVICE 4097:0:2:419:0:0:0:0:0:0:http%3a//sr1.inmystream.info%3a8333/;:RADIO 2 BASILICATA
 #DESCRIPTION RADIO 2 BASILICATA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio24-lh.akamaihd.net/i/radio24_1@99307/index_1_a-p.m3u8:Radio 24
+#DESCRIPTION Radio 24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNews24-Centro/stream:Radio News 24 Centro
+#DESCRIPTION Radio News 24 Centro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNews24-Nord/stream:Radio News 24 Nord
+#DESCRIPTION Radio News 24 Nord
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNewsSud/stream:Radio News 24 Sud
+#DESCRIPTION Radio News 24 Sud
 #SERVICE 4097:0:2:131:0:0:0:0:0:0:http%3a//panel8.newradio.it%3a9101/;:RADIO 4 NETWORK
 #DESCRIPTION RADIO 4 NETWORK
 #SERVICE 4097:0:2:409:0:0:0:0:0:0:http%3a//sc1.streamingpulse.com%3a8004/;:RADIO ABRUZZO FM
@@ -391,10 +401,8 @@
 #DESCRIPTION RADIO VATICANA
 #SERVICE 4097:0:2:253:0:0:0:0:0:0:http%3a//onair18.xdevel.com%3a8018/;stream.m4a:RADIO VENERE
 #DESCRIPTION RADIO VENERE
-#SERVICE 4097:0:2:163:0:0:0:0:0:0:http%3a//178.32.139.120%3a8002/stream:RADIO VIVA FM
-#DESCRIPTION RADIO VIVA FM
-#SERVICE 4097:0:2:401:0:0:0:0:0:0:http%3a//stream2.vivafm.it%3a8002/:RADIO VIVA FM
-#DESCRIPTION RADIO VIVA FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.vivafm.it%3a9002/stream.mp3:Radio Viva FM
+#DESCRIPTION Radio Viva FM
 #SERVICE 4097:0:2:223:0:0:0:0:0:0:http%3a//eu1.fastcast4u.com%3a2014/stream?1478973936177.aac:RADIO X CAGLIARI
 #DESCRIPTION RADIO X CAGLIARI
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.32.62.172%3a9345:Radio Yacht

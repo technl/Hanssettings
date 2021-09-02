@@ -1,5 +1,5 @@
 #NAME Stream UK - algemeen + diversen
-#SERVICE 1:64:31f:0:0:0:0:0:0:0:
+#SERVICE 1:64:326:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio BBC algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_one:BBC Radio 1
 #DESCRIPTION BBC Radio 1
@@ -39,7 +39,7 @@
 #DESCRIPTION BBC Asian Network
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-urdua_backup:BBC Urdu
 #DESCRIPTION BBC Urdu
-#SERVICE 1:64:320:0:0:0:0:0:0:0:
+#SERVICE 1:64:327:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr5.1mix.co.uk%3a8020/;:1 Mix Radio (UK algemeen)
 #DESCRIPTION 1 Mix Radio (UK algemeen)
@@ -101,6 +101,8 @@
 #DESCRIPTION Dancefmlive UK Hardcore (Engeland UK en UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live3.istoikona.net%3a8152/stream:Delite Radio (UK algemeen)
 #DESCRIPTION Delite Radio (UK algemeen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ec1.yesstreaming.net%3a2305/stream:Diamond Radio UK Life
+#DESCRIPTION Diamond Radio UK Life
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-audio-05-gos2.sharp-stream.com/fixradio.aac:Fix Radio London
 #DESCRIPTION Fix Radio London
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//philae.shoutca.st%3a8161/stream:Golden Oldies (UK algemeen)
@@ -131,6 +133,8 @@
 #DESCRIPTION House Party Radio (UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-ads-03-gos2.sharp-stream.com/jazzfmmobile.mp3:Jazz FM (UK)
 #DESCRIPTION Jazz FM (UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playoutonestreaming.com/proxy/konnectradio:Konnect Radio
+#DESCRIPTION Konnect Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media-the.musicradio.com/LBCUK:LBC - Leading Britain's Conversation (UK)
 #DESCRIPTION LBC - Leading Britain's Conversation (UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/webcast4high.aac:Magic 100%25 Christmas (UK, t/m 25 december 2020)
@@ -151,10 +155,12 @@
 #DESCRIPTION Pop Hits (Engeland, UK, algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.165.88%3a8038/;:Pride Radio (Engeland, UK)
 #DESCRIPTION Pride Radio (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc2.radiocaroline.net%3a8040/;:Radio Caroline
+#DESCRIPTION Radio Caroline
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc2.radiocaroline.net%3a10558/;:Radio Caroline - Flashback - Pop Singles From the 60s & 70s
 #DESCRIPTION Radio Caroline - Flashback - Pop Singles From the 60s & 70s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc2.radiocaroline.net%3a8040/;:Radio Caroline - Main Quality Album Channel
-#DESCRIPTION Radio Caroline - Main Quality Album Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radiocaroline.co.uk/sounds/north_loop_64.mp3:Radio Caroline North
+#DESCRIPTION Radio Caroline North
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//realhouseradio.out.airtime.pro%3a8000/realhouseradio_a:Real House Radio (UK algemeen)
 #DESCRIPTION Real House Radio (UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/s07aafdd25/listen:Reggae Starz Radio (UK algemeen)
@@ -223,15 +229,15 @@
 #DESCRIPTION Virgin Radio Pride
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.wrn.org%3a8026/:WRN English for Europe
 #DESCRIPTION WRN English for Europe
-#SERVICE 1:64:321:0:0:0:0:0:0:0:
+#SERVICE 1:64:328:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Gibraltar++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.123.118.13%3a8041/stream:GBC Radio = Radio Gibraltar (Gibraltar)
 #DESCRIPTION GBC Radio = Radio Gibraltar (Gibraltar)
-#SERVICE 1:64:322:0:0:0:0:0:0:0:
+#SERVICE 1:64:329:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio overzee++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.inselradio.com/high.sunshine.mp3:Mallorca Sunshine Radio (Engelstalig)
 #DESCRIPTION Mallorca Sunshine Radio (Engelstalig)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.28.53.118%3a7001/stream/:Talk Radio Europe Costa Blanca
 #DESCRIPTION Talk Radio Europe Costa Blanca
-#SERVICE 1:64:323:0:0:0:0:0:0:0:
+#SERVICE 1:64:32a:0:0:0:0:0:0:0:
 #DESCRIPTION +++BFBS in apart boeket+++

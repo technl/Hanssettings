@@ -1,5 +1,5 @@
 #NAME Stream UK - Schotland (UK)
-#SERVICE 1:64:394:0:0:0:0:0:0:0:
+#SERVICE 1:64:39b:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Schotland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw:BBC Radio Scotland MW
 #DESCRIPTION BBC Radio Scotland MW
@@ -37,8 +37,8 @@
 #DESCRIPTION Beam FM (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.bdfm.radio%3a8000/blackdiamondfm:Black Diamond (Schotland, UK)
 #DESCRIPTION Black Diamond (Schotland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//uk6.internet-radio.com%3a8465/;:Boom Radio, Edinburgh College (Schotland, UK)
-#DESCRIPTION Boom Radio, Edinburgh College (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-boomradio.sharp-stream.com/65_boom_radio_live_64:Boom Radio, Edinburgh (Schotland, UK)
+#DESCRIPTION Boom Radio, Edinburgh (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.audiospace.co/bridgefm:Bridge FM (Schotland, UK)
 #DESCRIPTION Bridge FM (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.canstream.co.uk%3a8000/bute.mp3:Bute FM (Schotland, UK)
@@ -149,8 +149,8 @@
 #DESCRIPTION MKB Independent Radio (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//50.97.94.44%3a8190/;:myRock Radio (Schotland, UK)
 #DESCRIPTION myRock Radio (Schotland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-audio-02-gos1.sharp-stream.com/nationscotland.mp3:Nation Radio (Schotland, UK)
-#DESCRIPTION Nation Radio (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-ads-05-gos2.sharp-stream.com/nationscotlandi.aac:Nation Radio Scotland
+#DESCRIPTION Nation Radio Scotland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.162%3a8014/;:Nevis Radio (Schotland, UK)
 #DESCRIPTION Nevis Radio (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.broadcastradio.com%3a8180/alness:North Highland Radio (Schotland, UK)

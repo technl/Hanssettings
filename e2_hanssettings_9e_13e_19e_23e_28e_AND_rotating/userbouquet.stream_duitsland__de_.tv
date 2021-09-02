@@ -1,5 +1,5 @@
 #NAME Stream Duitsland (DE)
-#SERVICE 1:64:1857:0:0:0:0:0:0:0:
+#SERVICE 1:64:1812:0:0:0:0:0:0:0:
 #DESCRIPTION * Hoofdzenders-Publieke Omroepen *
 #SERVICE 4097:0:1:6dca:44d:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.19.1%3a1234:ARD
 #DESCRIPTION ARD
@@ -13,12 +13,8 @@
 #DESCRIPTION ARD Phoenix
 #SERVICE 5002:0:1:2887:40f:1:c00000:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?#X-Forwarded-For=91.63.136.21:ARD Tagesschau 24
 #DESCRIPTION ARD Tagesschau 24
-#SERVICE 4097:0:1:2856:401:1:c00000:0:0:0:http%3a//brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8?#X-Forwarded-For=91.63.136.21:BR Fernsehen
+#SERVICE 4097:0:1:2856:401:1:c00000:0:0:0:https%3a//mcdn.br.de/br/fs/bfs_sued/hls/int/master_1280p_3628.m3u8:BR Fernsehen
 #DESCRIPTION BR Fernsehen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreams.br.de/i/bfssued_germany@119890/master.m3u8:BR Fernsehen -2-
-#DESCRIPTION BR Fernsehen -2-
-#SERVICE 4097:0:1:2855:401:1:c00000:0:0:0:http%3a//mcdn.br.de/bfs_sued/de/profile1/1.m3u8:BR Fernsehen (deels geoblocking)
-#DESCRIPTION BR Fernsehen (deels geoblocking)
 #SERVICE 4097:0:1:2873:425:1:c00000:0:0:0:http%3a//hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8:HR Fernsehen
 #DESCRIPTION HR Fernsehen
 #SERVICE 4097:0:1:2870:425:1:c00000:0:0:0:http%3a//mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8?#X-Forwarded-For=91.63.136.21:MDR Sachsen
@@ -65,8 +61,10 @@
 #DESCRIPTION 3sat
 #SERVICE 4097:0:1:6d68:437:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.16.1%3a1234:KiKA
 #DESCRIPTION KiKA
-#SERVICE 1:64:1858:0:0:0:0:0:0:0:
+#SERVICE 1:64:1813:0:0:0:0:0:0:0:
 #DESCRIPTION * Hoofdzenders Commerciële Omroepen*
+#SERVICE 4097:0:1:2775:409:1:c00000:0:0:0:https%3a//bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-b.m3u8?sd=10&rebase=on:BILD HD
+#DESCRIPTION BILD HD
 #SERVICE 1:0:1:306:7:85:c00000:0:0:0:http%3a//tohome.redirectme.net%3a8001/1%3a0%3a1%3a306%3a7%3a85%3ac00000%3a0%3a0%3a0:Folx TV
 #DESCRIPTION Folx TV
 #SERVICE 4097:0:1:ef76:3f9:1:c00000:0:0:0:http%3a//31.220.41.86%3a8081/live/de-kabel1.stream/playlist.m3u8:Kabel 1
@@ -107,6 +105,8 @@
 #DESCRIPTION Servus TV Deutschland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a013:Sixx
 #DESCRIPTION Sixx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5856e1a25f71a.streamlock.net/easycast10-live/_definst_/mp4%3alivestreamhd12/chunklist_w1656545461.m3u8:Schlager Paradies TV
+#DESCRIPTION Schlager Paradies TV
 #SERVICE 4097:0:1:2f4b:a1:270f:ffff0000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.17.3%3a1234:Super RTL
 #DESCRIPTION Super RTL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a01c:Tele 5
@@ -117,7 +117,7 @@
 #DESCRIPTION Welt
 #SERVICE 4097:0:1:445f:453:1:c00000:0:0:0:http%3a//news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8?#X-Forwarded-For=91.63.136.21:Welt News
 #DESCRIPTION Welt News
-#SERVICE 1:64:1859:0:0:0:0:0:0:0:
+#SERVICE 1:64:1814:0:0:0:0:0:0:0:
 #DESCRIPTION * Overige zenders *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3 TV 
 #DESCRIPTION 1-2-3 TV 
@@ -237,7 +237,7 @@
 #DESCRIPTION WMZ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8:World of Freesports
 #DESCRIPTION World of Freesports
-#SERVICE 1:64:185a:0:0:0:0:0:0:0:
+#SERVICE 1:64:1815:0:0:0:0:0:0:0:
 #DESCRIPTION * Lokale zenders *
 #SERVICE 4097:0:1:16a8:3ff:1:c00000:0:0:0:http%3a//178.248.241.103/iptv/atv.ts:a.tv HD
 #DESCRIPTION a.tv HD

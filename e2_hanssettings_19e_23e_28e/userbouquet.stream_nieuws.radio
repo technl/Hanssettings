@@ -1,33 +1,49 @@
 #NAME Stream Nieuws
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/AXR.mp3:AXR Hong Kong (China) Engelstalig
-#DESCRIPTION AXR Hong Kong (China) Engelstalig
+#SERVICE 1:64:37a:0:0:0:0:0:0:0:
+#DESCRIPTION ++Nederland++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast-bnr.cdp.triple-it.nl/bnr_mp3_128_03:BNR Nieuwsradio
+#DESCRIPTION BNR Nieuwsradio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bnr-cache-cdp.triple-it.nl/studio/index.m3u8:BNR Nieuwsradio - Kijk live
+#DESCRIPTION BNR Nieuwsradio - Kijk live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.trafficstream.nl/proxy/business_main:New Business Radio
+#DESCRIPTION New Business Radio
+#SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
+#DESCRIPTION NPO Radio 1
+#SERVICE 1:64:37b:0:0:0:0:0:0:0:
+#DESCRIPTION ++Frankrijk++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//chai5she.cdn.dvmr.fr/bfmbusiness:BFM Business (nieuws - Parijs, FR)
 #DESCRIPTION BFM Business (nieuws - Parijs, FR)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chai5she.cdn.dvmr.fr/bfmtv:BFM Radio (nieuws - Parijs, FR)
 #DESCRIPTION BFM Radio (nieuws - Parijs, FR)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//e1-live-mp3-128.scdn.arkena.com/europe1.mp3:Europe 1 (Frankrijk)
 #DESCRIPTION Europe 1 (Frankrijk)
+#SERVICE 1:64:37c:0:0:0:0:0:0:0:
+#DESCRIPTION ++Engeland (VK)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media-the.musicradio.com/LBCUK:LBC - Leading Britain's Conversation (UK)
 #DESCRIPTION LBC - Leading Britain's Conversation (UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.rss-streaming.co.uk%3a8008/stream:News Radio UK (Engeland, UK)
 #DESCRIPTION News Radio UK (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//timesradio.wireless.radio/stream:Times Radio (UK)
+#DESCRIPTION Times Radio (UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//solid41.streamupsolutions.com%3a10008/stream:World Broadcasting Network (Engeland, UK)
+#DESCRIPTION World Broadcasting Network (Engeland, UK)
+#SERVICE 1:64:37d:0:0:0:0:0:0:0:
+#DESCRIPTION ++Italië++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio24-lh.akamaihd.net/i/radio24_1@99307/index_1_a-p.m3u8:Radio 24
+#DESCRIPTION Radio 24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNews24-Centro/stream:Radio News 24 Centro
+#DESCRIPTION Radio News 24 Centro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNews24-Nord/stream:Radio News 24 Nord
+#DESCRIPTION Radio News 24 Nord
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNewsSud/stream:Radio News 24 Sud
+#DESCRIPTION Radio News 24 Sud
+#SERVICE 1:64:37e:0:0:0:0:0:0:0:
+#DESCRIPTION ++overig++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/AXR.mp3:AXR Hong Kong (China) Engelstalig
+#DESCRIPTION AXR Hong Kong (China) Engelstalig
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//listen.noagendastream.com/noagenda:No Agenda Show (USA) - Adam Curry
 #DESCRIPTION No Agenda Show (USA) - Adam Curry
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast-ruvr.cdnvideo.ru/rian.voiceenghi:Sputnik News EU
 #DESCRIPTION Sputnik News EU
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast-ruvr.cdnvideo.ru/rian.voiceusahi:Sputnik News USA
 #DESCRIPTION Sputnik News USA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//timesradio.wireless.radio/stream:Times Radio (UK)
-#DESCRIPTION Times Radio (UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//solid41.streamupsolutions.com%3a10008/stream:World Broadcasting Network (Engeland, UK)
-#DESCRIPTION World Broadcasting Network (Engeland, UK)
-#SERVICE 1:64:36f:0:0:0:0:0:0:0:
-#DESCRIPTION ++Nederland++
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast-bnr.cdp.triple-it.nl/bnr_mp3_128_03:BNR Nieuwsradio
-#DESCRIPTION BNR Nieuwsradio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bnr-cache-cdp.triple-it.nl/studio/index.m3u8:BNR Nieuwsradio - Kijk live
-#DESCRIPTION BNR Nieuwsradio - Kijk live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.trafficstream.nl/proxy/business_main:New Business Radio (NL)
-#DESCRIPTION New Business Radio (NL)
-#SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
-#DESCRIPTION NPO Radio 1

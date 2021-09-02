@@ -1,5 +1,5 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:19ff:0:0:0:0:0:0:0:
+#SERVICE 1:64:19c0:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders++
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
@@ -47,7 +47,7 @@
 #DESCRIPTION FunX Utrecht
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
 #DESCRIPTION Spreekbuis Radio
-#SERVICE 1:64:1a00:0:0:0:0:0:0:0:
+#SERVICE 1:64:19c1:0:0:0:0:0:0:0:
 #DESCRIPTION ++(commerciële) HOOFDzenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//40upstream.live-streams.nl/40up1:40UP Radio
 #DESCRIPTION 40UP Radio
@@ -197,34 +197,32 @@
 #DESCRIPTION JINX Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.joe.nl/joe/mp3:Joe
 #DESCRIPTION Joe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET15.mp3:JUKE - Après-Ski Top 100
-#DESCRIPTION JUKE - Après-Ski Top 100
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET03.mp3:JUKE - Cabaret
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S15.mp3:JUKE - Cabaret
 #DESCRIPTION JUKE - Cabaret
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S03.mp3:JUKE - Café Genee
 #DESCRIPTION JUKE - Café Genee
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET10.mp3:JUKE - Foute Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S16.mp3:JUKE - Foute Hits
 #DESCRIPTION JUKE - Foute Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET01.mp3:JUKE - Hip Hop Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S12.mp3:JUKE - Hip Hop Classics
 #DESCRIPTION JUKE - Hip Hop Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET14.mp3:JUKE - House Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S14.mp3:JUKE - House Classics
 #DESCRIPTION JUKE - House Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET05.mp3:JUKE - Lentekriebels
-#DESCRIPTION JUKE - Lentekriebels
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET12.mp3:JUKE - Levenslied
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S09.mp3:JUKE - Levenslied
 #DESCRIPTION JUKE - Levenslied
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET06.mp3:JUKE - Nederpop
-#DESCRIPTION JUKE - Nederpop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S07.mp3:JUKE - Non-SWtop Nederpop
+#DESCRIPTION JUKE - Non-SWtop Nederpop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET07.mp3:JUKE - Oppeppers
 #DESCRIPTION JUKE - Oppeppers
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/TLPNET04.mp3:JUKE - Pop Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S04.mp3:JUKE - Pop Hits
 #DESCRIPTION JUKE - Pop Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET13.mp3:JUKE - Puur Ontspannen
 #DESCRIPTION JUKE - Puur Ontspannen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21293.live.streamtheworld.com/TLPNET02AAC.aac:JUKE - R & B Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S16.mp3:JUKE - R & B Classics
 #DESCRIPTION JUKE - R & B Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/JUKE_S08AAC.aac:JUKE - Songfestival Top 100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S08.mp3:JUKE - Songfestival Top 100
 #DESCRIPTION JUKE - Songfestival Top 100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S11.mp3:JUKE - Zomerkriebels
+#DESCRIPTION JUKE - Zomerkriebels
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream02.itego.nl/kbc-high:KBC Radio
 #DESCRIPTION KBC Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/KINK_DISTORTIONAAC.aac:KINK Distortion
@@ -361,14 +359,6 @@
 #DESCRIPTION Radio Veronica Rock Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22673.live.streamtheworld.com/SRGSTR10.mp3:Radio Veronica Top 1000 Allertijden
 #DESCRIPTION Radio Veronica Top 1000 Allertijden
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mcp-1.streampanel.nl%3a8020/kxclassics_mp3:ROB STENDERS KX Classics
-#DESCRIPTION ROB STENDERS KX Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.robstenders.nl%3a8063/lxclassics_mp3:ROB STENDERS LX Classics (Lex Harding)
-#DESCRIPTION ROB STENDERS LX Classics (Lex Harding)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.robstenders.nl%3a8063/bonanza_mp3:ROB STENDERS XXL Bonanza
-#DESCRIPTION ROB STENDERS XXL Bonanza
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.116.251%3a8000/blokhuis_mp3:ROB STENDERS XXL Blokhuis (Leo Blokhuis)
-#DESCRIPTION ROB STENDERS XXL Blokhuis (Leo Blokhuis)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//centova.rtdradio.nl%3a8443/stream:RTD Radio
 #DESCRIPTION RTD Radio
 #SERVICE 4097:0:2:52eb:c96:3:eb0000:0:0:0:http%3a//20043.live.streamtheworld.com%3a80/SKYRADIOAAC.aac:Sky Radio
@@ -417,6 +407,14 @@
 #DESCRIPTION Soulshow Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23553.live.streamtheworld.com/JUKE_S10.mp3:Soundz Radio
 #DESCRIPTION Soundz Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mcp-1.streampanel.nl%3a8020/kxclassics_mp3:Stenders & Blokhuis - KX Classics
+#DESCRIPTION Stenders & Blokhuis - KX Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.robstenders.nl%3a8063/lxclassics_mp3:Stenders & Blokhuis - LX Classics
+#DESCRIPTION Stenders & Blokhuis - LX Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.116.251%3a8000/blokhuis_mp3:Stenders & Blokhuis - XXL Blokhuis
+#DESCRIPTION Stenders & Blokhuis - XXL Blokhuis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.robstenders.nl%3a8063/bonanza_mp3:Stenders & Blokhuis - XXL Stenders
+#DESCRIPTION Stenders & Blokhuis - XXL Stenders
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/SUBLIME.mp3:Sublime Radio
 #DESCRIPTION Sublime Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20133.live.streamtheworld.com/SUBLIME_FUNK_DISCO.mp3:Sublime Funk & Disco
@@ -453,7 +451,7 @@
 #DESCRIPTION Wild FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
 #DESCRIPTION ZTACK
-#SERVICE 1:64:1a01:0:0:0:0:0:0:0:
+#SERVICE 1:64:19c2:0:0:0:0:0:0:0:
 #DESCRIPTION ++religieus++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
 #DESCRIPTION Bright FM
@@ -485,7 +483,7 @@
 #DESCRIPTION Trans World Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
 #DESCRIPTION Urk FM Geestelijk
-#SERVICE 1:64:1a02:0:0:0:0:0:0:0:
+#SERVICE 1:64:19c3:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
 #DESCRIPTION 18Hits (NL Nationaal)

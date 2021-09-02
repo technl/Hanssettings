@@ -1,18 +1,6 @@
 #NAME Stream Spanje (ES)
-#SERVICE 1:64:1c9:0:0:0:0:0:0:0:
+#SERVICE 1:64:1ce:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/la1_main_dvr_1080.m3u8:La 1
-#DESCRIPTION La 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream-lvlt.rtve.es/la2_main_dvr_1080.m3u8:La 2
-#DESCRIPTION La 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8:24H
-#DESCRIPTION 24H
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8:+24H
-#DESCRIPTION +24H
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/la1_cat_main_dvr_1080.m3u8:TVE Catalunya
-#DESCRIPTION TVE Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/index_1500_av-b.m3u8:TVE Canarias
-#DESCRIPTION TVE Canarias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8:TVE 1
 #DESCRIPTION TVE 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8:TVE 1 -2-
@@ -21,11 +9,7 @@
 #DESCRIPTION TVE 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8:TVE 2 -2-
 #DESCRIPTION TVE 2 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8:TVE Canarias
-#DESCRIPTION TVE Canarias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8:TVE Catalunya
-#DESCRIPTION TVE Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/24h_dvr.m3u8:TVE 24 Horas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream-lvlt.rtve.es/24h_main_720.m3u8:TVE 24 Horas
 #DESCRIPTION TVE 24 Horas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586405/master.m3u8:TVE +24 Eventos 1
 #DESCRIPTION TVE +24 Eventos 1
@@ -35,6 +19,12 @@
 #DESCRIPTION TVE +24 Eventos 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8:TVE +24 Eventos 4
 #DESCRIPTION TVE +24 Eventos 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/index_1500_av-b.m3u8:TVE Canarias
+#DESCRIPTION TVE Canarias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8:TVE Canarias
+#DESCRIPTION TVE Canarias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8:TVE Catalunya
+#DESCRIPTION TVE Catalunya
 #SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//95.60.229.158%3a20000/udp/239.0.1.1%3a1234:Antena 3
 #DESCRIPTION Antena 3
 #SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//95.60.229.158%3a20000/udp/239.0.2.2%3a1234:Cuatro
@@ -47,16 +37,18 @@
 #DESCRIPTION La Sexta -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8:La 7 Murcia HD
 #DESCRIPTION La 7 Murcia HD
-#SERVICE 1:64:1ca:0:0:0:0:0:0:0:
+#SERVICE 1:64:1cf:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5940924978228.streamlock.net/8157/8157/.m3u8:28 Kanala
-#DESCRIPTION 28 Kanala
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5940924978228.streamlock.net/8157/8157/.m3u8:28 Kanala Baskenland
+#DESCRIPTION 28 Kanala Baskenland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/int/ngrp%3a324_web/chunklist_b1296000.m3u8:3/24 Catalunya
 #DESCRIPTION 3/24 Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//limited22.todostreaming.es/live/101tv-web101tv.m3u8:101TV Malaga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8:101TV Antequera
+#DESCRIPTION 101TV Antequera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//limited38.todostreaming.es/live/101tv-web101tv.m3u8:101TV Malaga
 #DESCRIPTION 101TV Malaga
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8:A Punt
-#DESCRIPTION A Punt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8:A Punt TV
+#DESCRIPTION A Punt TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8:Alacanti TV (Alicante, provincie Valencia)
 #DESCRIPTION Alacanti TV (Alicante, provincie Valencia)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8:Alcarria TV (Spanje)
@@ -67,9 +59,9 @@
 #DESCRIPTION Be Mad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6:Beteve
 #DESCRIPTION Beteve
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/int/ngrp%3abnd_web/chunklist.m3u8:Bon Dia TV
-#DESCRIPTION Bon Dia TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8:Cadena Elite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/int/ngrp%3abnd_web/chunklist.m3u8:Bon Dia TV Catalunya
+#DESCRIPTION Bon Dia TV Catalunya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8004/index.m3u8:Cadena Elite
 #DESCRIPTION Cadena Elite
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.68.178%3a1935/live/peprecasens/manifest.m3u8:Canal 4 Baleares
 #DESCRIPTION Canal 4 Baleares
@@ -107,7 +99,7 @@
 #DESCRIPTION Canaria SAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net%3a80/i/iptv2_1@194050/index_1200_av-p.m3u8:CBN Espanol (Spanje)
 #DESCRIPTION CBN Espanol (Spanje)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8:CMM Castilla La Mancha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8?__hdnea__=st=1629359591~exp=1629445991~acl=/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8*~hmac=8a969559fa758c072696656a7905e7cd3b88e8e52f1b8705dff08b901ba1bbb3:CMM Castilla La Mancha
 #DESCRIPTION CMM Castilla La Mancha
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.239.141.154%3a1935/live/uSCQc5ky/master.m3u8:Condavision
 #DESCRIPTION Condavision
@@ -147,8 +139,8 @@
 #DESCRIPTION Interalmeria TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.41.83.88%3a8880/hls/tvixa.m3u8:Intercomarcal TV
 #DESCRIPTION Intercomarcal TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8:La 7 TV Murcia (Spanje)
-#DESCRIPTION La 7 TV Murcia (Spanje)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_2_av-p.m3u8?sd=10&rebase=on:La 7 TV Murcia
+#DESCRIPTION La 7 TV Murcia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveingesta118.cdnmedia.tv//vsnxallive/smil%3alive.smil/playlist.m3u8:La Xarxa
 #DESCRIPTION La Xarxa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.141.18%3a1935/directo/lancelot.television/live.m3u8:Lancelot TV (Spanje)
@@ -195,7 +187,7 @@
 #DESCRIPTION Popular TV Melilla
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.91.98.146%3a1935/cordoba/stream/playlist.m3u8:PTV Cordoba
 #DESCRIPTION PTV Cordoba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.91.98.146%3a1935/live/stream/playlist.m3u8:PTV Malaga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8:PTV Malaga
 #DESCRIPTION PTV Malaga
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m3u8:Radio Onda Madrid
 #DESCRIPTION Radio Onda Madrid
@@ -225,8 +217,8 @@
 #DESCRIPTION TEF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vbox2.cehis.net/live-teleislas/smil%3ateleislas.smil/playlist.m3u8:Tele Islas (muziek - Spanje)
 #DESCRIPTION Tele Islas (muziek - Spanje)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8:Telemadrid (Spanje)
-#DESCRIPTION Telemadrid (Spanje)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8:Telemadrid
+#DESCRIPTION Telemadrid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.187.7.106/teleribera/live.m3u8:TeleRibera
 #DESCRIPTION TeleRibera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.telesafor.com/hls/video_low.m3u8:TeleSafor (Spanje)

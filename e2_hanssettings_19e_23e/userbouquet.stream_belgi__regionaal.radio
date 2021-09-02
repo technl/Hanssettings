@@ -1,5 +1,5 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:2ee:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f6:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
@@ -311,6 +311,8 @@
 #DESCRIPTION Radio Noordzee Info - Oostende (België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//caster05.streampakket.com%3a9242/stream:Radio Noordzee - Tessenderlo (België)
 #DESCRIPTION Radio Noordzee - Tessenderlo (België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be%3a8000/roa:Radio Omroep Aalst
+#DESCRIPTION Radio Omroep Aalst
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcast.net/64747:Radio Onda
 #DESCRIPTION Radio Onda
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/onlymusic:Radio Only Music (Brasschaat)
@@ -493,7 +495,7 @@
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:2ef:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f7:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)

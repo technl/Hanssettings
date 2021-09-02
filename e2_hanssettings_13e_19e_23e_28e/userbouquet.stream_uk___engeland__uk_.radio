@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:391:0:0:0:0:0:0:0:
+#SERVICE 1:64:398:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:392:0:0:0:0:0:0:0:
+#SERVICE 1:64:399:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -95,6 +95,8 @@
 #DESCRIPTION 107 Endeavour FM (Boston, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//199.189.111.28%3a8012/;stream/:1940s Radio Station Online (Gloucester, Engeland, UK)
 #DESCRIPTION 1940s Radio Station Online (Gloucester, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s47db4a4f3/listen:1866 Sport - Chesterfield Football Club
+#DESCRIPTION 1866 Sport - Chesterfield Football Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s19.myradiostream.com%3a12440/;:2020 Radio UK (Engeland, UK)
 #DESCRIPTION 2020 Radio UK (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//node-03.zeno.fm/474h1sergnzuv?rj-ttl=5&rj-tok=AAABcuuHoX8AhAQGpkGMOvgIWg:24/7 London Radio (Engeland, UK)
@@ -157,6 +159,10 @@
 #DESCRIPTION Atmosphere Radio (Portsmouth, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.ahr.org.uk%3a8000/;:Auckland Hospital Radio (Bishop Auckland, Engeland, UK)
 #DESCRIPTION Auckland Hospital Radio (Bishop Auckland, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n03.radiojar.com/a3z70zaqua0uv:B Radio Berkshire
+#DESCRIPTION B Radio Berkshire
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n0f.radiojar.com/v9srurnvty8uv:B Radio Hampshire & Surrey
+#DESCRIPTION B Radio Hampshire & Surrey
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eu3.radioboss.fm%3a8134/stream:Baba Radio (Engeland, UK)
 #DESCRIPTION Baba Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//a11.streamgb.com%3a9108/stream:Back 2 Back FM (Engeland, UK)
@@ -175,6 +181,8 @@
 #DESCRIPTION Beach-Radio.co.uk (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.beamfm.net%3a8500/;:Beam FM (Engeland, UK)
 #DESCRIPTION Beam FM (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.162%3a8047/stream:Beat 103 Lancashire
+#DESCRIPTION Beat 103 Lancashire
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/122545/stream/162151:Beat Route Radio (Engeland, UK)
 #DESCRIPTION Beat Route Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s22.myradiostream.com%3a10234/;:Bedrock GOLD (Engeland, UK)
@@ -273,6 +281,8 @@
 #DESCRIPTION Capital Yorkshire East (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice-sov.musicradio.com/CapitalYorkshireSouthWestMP3:Capital Yorkshire South and West (Engeland, UK)
 #DESCRIPTION Capital Yorkshire South and West (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s47.myradiostream.com%3a11564/;:Caroline Community Radio Maldon Essex
+#DESCRIPTION Caroline Community Radio Maldon Essex
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//109.123.82.254%3a8012/stream:CDNX (Londen, Engeland, UK)
 #DESCRIPTION CDNX (Londen, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-al.planetradio.co.uk/cfm.aac:CFM (Engeland)
@@ -417,8 +427,6 @@
 #DESCRIPTION Fantastic Fifties (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc4.easywebcommunications.com%3a8181/;listen.pls:Fantastic Radio (Londen, Engeland, UK)
 #DESCRIPTION Fantastic Radio (Londen, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream3.celador.co.uk/fire-bournemouth-96.aac:Fire Radio (Bournemouth, Engeland, UK)
-#DESCRIPTION Fire Radio (Bournemouth, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.firstfm.uk%3a8000/first1:First FM (Oxford, Engeland, UK)
 #DESCRIPTION First FM (Oxford, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n03.radiojar.com/vr2xvty6gxquv?rj-ttl=5&rj-tok=AAABcr1mZykA4CTWmOVBsBjAzg:Fist Full of Metal  (Durham, Engeland, UK)
@@ -765,6 +773,8 @@
 #DESCRIPTION Lazer Radio (Aldershot, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media-ice.musicradio.com/LBC1152MP3Low:LBC London News (Londen - Engeland, UK)
 #DESCRIPTION LBC London News (Londen - Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n11.radiojar.com/0p8xfnpxfnzuv:LCR - Liverpool Community Radio
+#DESCRIPTION LCR - Liverpool Community Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.maxxwave.co.uk/lcr_aac:LCR 2 (Leicester)
 #DESCRIPTION LCR 2 (Leicester)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//leekradio.ddns.net%3a8000/listen.mp3:Leek Radio (Leek, Engeland, UK)
@@ -777,7 +787,7 @@
 #DESCRIPTION LGR = London Greek Radio (Londen - Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.canstream.co.uk%3a9103/live.mp3:Lionhaert Radio (Alnmwick, Engeland, UK)
 #DESCRIPTION Lionhaert Radio (Alnmwick, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lincs.planetwideradio.com%3a8000/lincsfm:Lincs FM (Grantham, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net1lincoln.aac?direct=true:Lincs FM (Grantham, Engeland, UK)
 #DESCRIPTION Lincs FM (Grantham, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n08.radiojar.com/zhyg8qga29duv?rj-ttl=5&rj-tok=AAABctc3bugAO1jceMdfdNVysw:Linedancer Radio (Engeland, UK)
 #DESCRIPTION Linedancer Radio (Engeland, UK)
@@ -805,6 +815,8 @@
 #DESCRIPTION Lovezone Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-ads-03-gos2.sharp-stream.com/1458.mp3:Lyca Radio (Londen - Engeland)
 #DESCRIPTION Lyca Radio (Londen - Engeland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net1lincoln.aac:Lyncs FM Lincolnshire and Newark
+#DESCRIPTION Lyncs FM Lincolnshire and Newark
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.broadcastradio.com%3a11515/creation:Made in Kent
 #DESCRIPTION Made in Kent
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.madnessfm.com%3a8000/listen.mp3:Madness FM (Engeland, UK)
@@ -895,8 +907,8 @@
 #DESCRIPTION Mystery - ROK Classic Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio.co/s966d536f2/listen:Nam-radio (Engeland, UK)
 #DESCRIPTION Nam-radio (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-audio-03-gos2.sharp-stream.com/thamesradio.mp3:Nation Radio (Londen - Engeland)
-#DESCRIPTION Nation Radio (Londen - Engeland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen-nation.sharp-stream.com/thamesradio.aac:Nation Radio UK
+#DESCRIPTION Nation Radio UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//newbrightonradio.radioca.st/stream:New Brighton Radio (Engeland, UK)
 #DESCRIPTION New Brighton Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.39.71.159%3a8778/;:New Style Radio (Engeland, UK)
@@ -1205,12 +1217,6 @@
 #DESCRIPTION SeaBird Radio (Heacham, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.sheffieldlive.org%3a8000/stream/1/:Sheffield Live! (Engeland, UK)
 #DESCRIPTION Sheffield Live! (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.celador.co.uk/sam-bristol-96.aac:Sam FM (Bristol, Engeland, UK)
-#DESCRIPTION Sam FM (Bristol, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream3.celador.co.uk/sam-bristol-96.aac:SAM FM South Coast (Engeland, UK)
-#DESCRIPTION SAM FM South Coast (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.celador.co.uk/sam-swindon-96.aac:Sam FM (Swindon, Engeland, UK)
-#DESCRIPTION Sam FM (Swindon, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.radio.co/s0dc6b5c9b/listen:Sami Swoi Radio (Engeland, UK)
 #DESCRIPTION Sami Swoi Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rss-streaming.co.uk%3a8038/;:Sandgrounder Radio (Southport, Engeland, UK)
@@ -1343,7 +1349,7 @@
 #DESCRIPTION Stray FM (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//subfm.radioca.st/Sub.FM:Sub FM (Londen, Engeland, UK)
 #DESCRIPTION Sub FM (Londen, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-audio-02-gos1.sharp-stream.com/sunfm.mp3:Sun FM (Sunderland, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-ads-04-gos1.sharp-stream.com/sunfmi.aac:Sun FM (Sunderland, Engeland, UK)
 #DESCRIPTION Sun FM (Sunderland, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.sharp-stream.com/sunrise.mp3:Sunrise Radio Yorkshire (Engeland, UK)
 #DESCRIPTION Sunrise Radio Yorkshire (Engeland, UK)

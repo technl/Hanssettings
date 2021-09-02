@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:2e9:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f1:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -51,7 +51,7 @@
 #DESCRIPTION VRT Studio Brussel - De Tijdloze
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_untz-high.mp3:VRT Studio Brussel UNTZ
 #DESCRIPTION VRT Studio Brussel UNTZ
-#SERVICE 1:64:2ea:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f2:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -145,8 +145,8 @@
 #DESCRIPTION Golden Flash (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//18193.live.streamtheworld.com/SAM10AAC034_SC:GothVille Radio (België)
 #DESCRIPTION GothVille Radio (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//94.23.48.124%3a8000/;:Hit FM (België)
-#DESCRIPTION Hit FM (België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitfm.be/hitfm:Hit FM Vlaanderen
+#DESCRIPTION Hit FM Vlaanderen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//jenny.torontocast.com%3a8162/stream:Humorzender Radio
 #DESCRIPTION Humorzender Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//agnes.torontocast.com%3a8151/stream/1/:Instrumentals Forever (Vlaanderen)
@@ -197,6 +197,8 @@
 #DESCRIPTION Nostalgie Extra Relax
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFROCKS.mp3:Nostalgie Extra Rock
 #DESCRIPTION Nostalgie Extra Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21293.live.streamtheworld.com/NOSTALGIEWAFNL.mp3:Nostalgie Extra Vlaams
+#DESCRIPTION Nostalgie Extra Vlaams
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/NOSTALGIEWAF6070.mp3:Nostalgie+
 #DESCRIPTION Nostalgie+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3:NRJ Vlaanderen (België)
@@ -341,7 +343,7 @@
 #DESCRIPTION ZZMETAL (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK (België)
 #DESCRIPTION ZZROCK (België)
-#SERVICE 1:64:2eb:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f3:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -385,10 +387,6 @@
 #DESCRIPTION Chérie FM - Romantic (België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55563/aac_64.mp3:Chérie FM - Zen (België)
 #DESCRIPTION Chérie FM - Zen (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3:Contact FeelGood (Wallonië - BE)
-#DESCRIPTION Contact FeelGood (Wallonië - BE)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/contactrnb:Contact RnB (Wallonië - BE)
-#DESCRIPTION Contact RnB (Wallonië - BE)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dhradio.ice.infomaniak.ch%3a80/dhradio-192:DH Radio (België)
 #DESCRIPTION DH Radio (België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dhradio-belgium.ice.infomaniak.ch/dhradio-belgium-96.aac:DH Radio - Belgium (België)
@@ -481,24 +479,26 @@
 #DESCRIPTION NRJ-Belgique - Pour Le Sport
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.159/be/34039/mp3_128.mp3:NRJ-Belgique---Rap-FR
 #DESCRIPTION NRJ-Belgique---Rap-FR
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/contactfr:Radio Contact (BE/Wallonië)
-#DESCRIPTION Radio Contact (BE/Wallonië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contact2.ice.infomaniak.ch/contact2-192.mp3:Radio Contact - 2000 (BE/Wallonië)
-#DESCRIPTION Radio Contact - 2000 (BE/Wallonië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3:Radio Contact - Feel Good (BE/Wallonië)
-#DESCRIPTION Radio Contact - Feel Good (BE/Wallonië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactgold.ice.infomaniak.ch/contactgold-192.mp3:Radio Contact - Gold 80s/90s (BE/Wallonië)
-#DESCRIPTION Radio Contact - Gold 80s/90s (BE/Wallonië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactkids.ice.infomaniak.ch/contactkids-192.mp3:Radio Contact - Kids (BE/Wallonië)
-#DESCRIPTION Radio Contact - Kids (BE/Wallonië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactlounge.ice.infomaniak.ch/contactlounge-192.mp3:Radio Contact - Lounge (BE/Wallonië)
-#DESCRIPTION Radio Contact - Lounge (BE/Wallonië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactlove.ice.infomaniak.ch/contactlove-192.mp3:Radio Contact - Love (BE/Wallonië)
-#DESCRIPTION Radio Contact - Love (BE/Wallonië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactmix.ice.infomaniak.ch/contactmix-192.mp3:Radio Contact - Mix (BE/Wallonië)
-#DESCRIPTION Radio Contact - Mix (BE/Wallonië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactplus.ice.infomaniak.ch/contactplus-192.mp3:Radio Contact - Summertime (BE/Wallonië)
-#DESCRIPTION Radio Contact - Summertime (BE/Wallonië)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/contactfr:Radio Contact
+#DESCRIPTION Radio Contact
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contact2.ice.infomaniak.ch/contact2-192.mp3:Radio Contact - 2000
+#DESCRIPTION Radio Contact - 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactplus.ice.infomaniak.ch/contactplus-192.mp3:Radio Contact - Fresh
+#DESCRIPTION Radio Contact - Fresh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3:Radio Contact - FeelGood
+#DESCRIPTION Radio Contact - FeelGood
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactgold.ice.infomaniak.ch/contactgold-192.mp3:Radio Contact - Gold 80s/90s
+#DESCRIPTION Radio Contact - Gold 80s/90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactkids.ice.infomaniak.ch/contactkids-192.mp3:Radio Contact - Kids
+#DESCRIPTION Radio Contact - Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactlounge.ice.infomaniak.ch/contactlounge-192.mp3:Radio Contact - Lounge
+#DESCRIPTION Radio Contact - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactlove.ice.infomaniak.ch/contactlove-192.mp3:Radio Contact - Love
+#DESCRIPTION Radio Contact - Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactmix.ice.infomaniak.ch/contactmix-192.mp3:Radio Contact - Mix
+#DESCRIPTION Radio Contact - Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/contactrnb:Radio Contact - RnB
+#DESCRIPTION Radio Contact - RnB
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contacturban.ice.infomaniak.ch/contacturban-192.mp3:Radio Contact - Urban (BE/Wallonië)
 #DESCRIPTION Radio Contact - Urban (BE/Wallonië)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.radioemotion.be%3a80/;stream.mp3:Radio Emotion (België)
@@ -541,6 +541,12 @@
 #DESCRIPTION RTBF La première Bruxelles
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/musiq3-128.aac:RTBF - Musiq3
 #DESCRIPTION RTBF - Musiq3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-m3-baroque-128.mp3:RTBF - Musiq3 Baroque
+#DESCRIPTION RTBF - Musiq3 Baroque
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-m3-jazz-128.mp3:RTBF - Musiq3 Jazz
+#DESCRIPTION RTBF - Musiq3 Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-m3-romantique-128.mp3:RTBF - Musiq3 Romantique
+#DESCRIPTION RTBF - Musiq3 Romantique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-ouftivi-128.mp3:RTBF - Ouftivi
 #DESCRIPTION RTBF - Ouftivi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/pure-64.aac:RTBF - Tipik
@@ -549,14 +555,14 @@
 #DESCRIPTION RTBF - Pure Lazy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-pure2-128.mp3:RTBF - Pure Like
 #DESCRIPTION RTBF - Pure Like
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-poc-spot-128.mp3:RTBF - Spot
-#DESCRIPTION RTBF - Spot
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/tarmac-128.mp3:RTBF - Tarmac
 #DESCRIPTION RTBF - Tarmac
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivaplus-64.aac:RTBF - Viva+ (BE) in aac
 #DESCRIPTION RTBF - Viva+ (BE) in aac
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivaplus-128.mp3:RTBF - Viva+ (BE) in mp3
 #DESCRIPTION RTBF - Viva+ (BE) in mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivasport-128.mp3:RTBF Viva Sport
+#DESCRIPTION RTBF Viva Sport
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtbf.l3.freecaster.net/live/rtbf/geo/drm/vivacitevision-audio_1=128000-video=2000000.m3u8 :RTBF Vivacité Vision webcam (België)
 #DESCRIPTION RTBF Vivacité Vision webcam (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivabxl-64.aac:RTBF VivaCité Bruxelles
@@ -579,7 +585,7 @@
 #DESCRIPTION Sud Radio Belgique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu2-centova.serverse.com/proxy/wiupfvnu?mp=/TradCan:TradCan
 #DESCRIPTION TradCan
-#SERVICE 1:64:2ec:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f4:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -595,7 +601,7 @@
 #DESCRIPTION Radio Contact Ostbelgien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:2ed:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f5:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

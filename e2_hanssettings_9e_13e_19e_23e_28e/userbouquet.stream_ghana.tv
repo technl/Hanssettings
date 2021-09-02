@@ -1,9 +1,7 @@
 #NAME Stream Ghana (GH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8:Joy Prime
-#DESCRIPTION Joy Prime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8:Resurrection TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-03.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-E7jVvRRAff86hiMlKoIeY)/dm/3/x7w71b8/s/live-1.m3u8#cell=lcore:Adom TV
+#DESCRIPTION Adom TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.viewmedia.tv/viewsatstream41/viewsatstream41.smil/chunklist_w163903156_b900000.m3u8:Healing Jesus TV
+#DESCRIPTION Healing Jesus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.ottdemo.rrsat.com%3a1935/rrsatrtv1/rrsatrtv1/chunklist_w1056782882.m3u8:Resurrection TV
 #DESCRIPTION Resurrection TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ktlibtvvj8vp.cloudfront.net/trace_jama/6/prog_index.m3u8:Trace Jama (Ghana)
-#DESCRIPTION Trace Jama (Ghana)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//africatv.live.net.sa%3a1935/live/africatv/playlist.m3u8:TV Africa (Ghana)
-#DESCRIPTION TV Africa (Ghana)

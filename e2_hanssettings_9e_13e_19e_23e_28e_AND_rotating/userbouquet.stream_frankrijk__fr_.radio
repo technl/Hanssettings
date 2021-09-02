@@ -311,10 +311,8 @@
 #DESCRIPTION Frequence Plus by Infomaniak.com AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/freqplus-high.mp3:Frequence Plus
 #DESCRIPTION Frequence Plus
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radio.funradio.fr/fun-1-44-96:Fun Radio (Bas débit)
-#DESCRIPTION Fun Radio (Bas débit)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radio.funradio.fr/fun-1-44-128:Fun Radio (Haut débit)
-#DESCRIPTION Fun Radio (Haut débit)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-96000/index.m3u8:FUN Radio
+#DESCRIPTION FUN Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/funalpes.mp3:FunAlpes Radio
 #DESCRIPTION FunAlpes Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/fusionfm-192.mp3:FUSION FM
@@ -581,6 +579,10 @@
 #DESCRIPTION NRJ - Francophonie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/55818/aac_64.mp3:NRJ - Futurs talents
 #DESCRIPTION NRJ - Futurs talents
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/56732/mp3_128.mp3:NRJ - Hits de future 2021
+#DESCRIPTION NRJ - Hits de future 2021
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/57293/mp3_128.mp3:NRJ - Hits de l'ete 2021
+#DESCRIPTION NRJ - Hits de l'ete 2021
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/audio1/fr/55670/aac_64.mp3:NRJ - Hommage à Coluche
 #DESCRIPTION NRJ - Hommage à Coluche
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/55514/aac_64.mp3:NRJ - Humour du Sud
