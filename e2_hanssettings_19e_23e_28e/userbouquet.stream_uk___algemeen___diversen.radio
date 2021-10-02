@@ -1,5 +1,5 @@
 #NAME Stream UK - algemeen + diversen
-#SERVICE 1:64:326:0:0:0:0:0:0:0:
+#SERVICE 1:64:313:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio BBC algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_one:BBC Radio 1
 #DESCRIPTION BBC Radio 1
@@ -39,7 +39,7 @@
 #DESCRIPTION BBC Asian Network
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-urdua_backup:BBC Urdu
 #DESCRIPTION BBC Urdu
-#SERVICE 1:64:327:0:0:0:0:0:0:0:
+#SERVICE 1:64:314:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr5.1mix.co.uk%3a8020/;:1 Mix Radio (UK algemeen)
 #DESCRIPTION 1 Mix Radio (UK algemeen)
@@ -161,6 +161,8 @@
 #DESCRIPTION Radio Caroline - Flashback - Pop Singles From the 60s & 70s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radiocaroline.co.uk/sounds/north_loop_64.mp3:Radio Caroline North
 #DESCRIPTION Radio Caroline North
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playoutonestreaming.com%3a8008/radiotodaylive:RadioToday
+#DESCRIPTION RadioToday
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//realhouseradio.out.airtime.pro%3a8000/realhouseradio_a:Real House Radio (UK algemeen)
 #DESCRIPTION Real House Radio (UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/s07aafdd25/listen:Reggae Starz Radio (UK algemeen)
@@ -187,6 +189,8 @@
 #DESCRIPTION Skylab Radio (UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/scalahigh.aac:Scala Radio (klassiek - Engeland)
 #DESCRIPTION Scala Radio (klassiek - Engeland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scout.radio/play/podcast-download/4689/live.mp3:Scout Radio
+#DESCRIPTION Scout Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media-the.musicradio.com/Chill:Smooth Chill UK (UK algemeen)
 #DESCRIPTION Smooth Chill UK (UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media-ice.musicradio.com/SmoothUKMP3:Smooth Radio UK (UK algemeen)
@@ -229,15 +233,15 @@
 #DESCRIPTION Virgin Radio Pride
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.wrn.org%3a8026/:WRN English for Europe
 #DESCRIPTION WRN English for Europe
-#SERVICE 1:64:328:0:0:0:0:0:0:0:
+#SERVICE 1:64:315:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Gibraltar++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.123.118.13%3a8041/stream:GBC Radio = Radio Gibraltar (Gibraltar)
 #DESCRIPTION GBC Radio = Radio Gibraltar (Gibraltar)
-#SERVICE 1:64:329:0:0:0:0:0:0:0:
+#SERVICE 1:64:316:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio overzee++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.inselradio.com/high.sunshine.mp3:Mallorca Sunshine Radio (Engelstalig)
 #DESCRIPTION Mallorca Sunshine Radio (Engelstalig)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.28.53.118%3a7001/stream/:Talk Radio Europe Costa Blanca
 #DESCRIPTION Talk Radio Europe Costa Blanca
-#SERVICE 1:64:32a:0:0:0:0:0:0:0:
+#SERVICE 1:64:317:0:0:0:0:0:0:0:
 #DESCRIPTION +++BFBS in apart boeket+++

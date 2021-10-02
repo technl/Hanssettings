@@ -141,6 +141,9 @@ ffff0000:0840:0600
 ffff0000:0bbc:0600
 	c 618000:6900000:0:5:0:0:0
 /
+ffff0000:0065:08c9
+	c 538000:6900000:2:3:0:0:0
+/
 ffff0000:0066:08c9
 	c 554000:6900000:2:3:0:0:0
 /
@@ -275,9 +278,6 @@ ffff0000:0091:08c9
 /
 ffff0000:0092:08c9
 	c 282000:6900000:2:3:0:0:0
-/
-ffff0000:0093:08c9
-	c 290000:6900000:2:3:0:0:0
 /
 ffff0000:0094:08c9
 	c 298000:6900000:2:3:0:0:0
@@ -1639,7 +1639,7 @@ p:Ziggo
 p:,c:050001
 4b92:ffff0000:0816:0600:25:0
 Ziggo Live Events
-p:Ziggo
+p:Ziggo,c:050001
 4b94:ffff0000:0816:0600:25:0
 Ziggo Zenderoverzicht HD
 p:Ziggo,c:050001
@@ -1819,7 +1819,7 @@ On Demand
 p:Ziggo,c:050001
 4ce1:ffff0000:081b:0600:25:0
 Ziggo Live Events
-p:Ziggo
+p:Ziggo,c:050001
 4cf5:ffff0000:081c:0600:25:0
 24Kitchen HD
 p:Ziggo,c:050001
@@ -2279,6 +2279,45 @@ p:Ziggo
 4977:ffff0000:0bbc:0600:2:0
 Maasland Radio
 p:Ziggo
+0406:ffff0000:0065:08c9:1:0
+NPO 3
+p:CAIW Media
+044c:ffff0000:0065:08c9:1:0
+TV West
+p:CAIW Media
+046a:ffff0000:0065:08c9:1:0
+Disney-NL
+p:CAIW Media
+03f2:ffff0000:0065:08c9:1:0
+NPO 1
+p:CAIW Media
+03fc:ffff0000:0065:08c9:1:0
+NPO 2
+p:CAIW Media
+0410:ffff0000:0065:08c9:2:0
+NPO Radio 2 Soul & Jazz
+p:CAIW Media
+041a:ffff0000:0065:08c9:2:0
+NPO Radio 5
+p:CAIW Media
+0424:ffff0000:0065:08c9:2:0
+NPO Radio 1
+p:CAIW Media
+042e:ffff0000:0065:08c9:2:0
+NPO Radio 2
+p:CAIW Media
+0438:ffff0000:0065:08c9:2:0
+NPO 3FM
+p:CAIW Media
+0442:ffff0000:0065:08c9:2:0
+NPO Radio 4
+p:CAIW Media
+0474:ffff0000:0065:08c9:2:0
+Radio West
+p:CAIW Media
+049c:ffff0000:0065:08c9:2:0
+Fun X
+p:CAIW Media
 0802:ffff0000:0066:08c9:1:0
 TV Rijnmond
 p:CAIW Media
@@ -2421,7 +2460,7 @@ p:CAIW Media
 NPO Nieuws
 p:CAIW Media
 17c0:ffff0000:006a:08c9:1:0
-VH1 Classic
+MTV 80s
 p:CAIW Media
 17ca:ffff0000:006a:08c9:1:0
 Penthouse
@@ -2774,9 +2813,6 @@ p:CAIW Media
 466e:ffff0000:0076:08c9:1:0
 CNBC Europe
 p:CAIW Media
-4678:ffff0000:0076:08c9:1:0
-ESPN 5
-p:CAIW Media
 46d2:ffff0000:0076:08c9:1:0
 Omroep Flevoland
 p:CAIW Media
@@ -2810,6 +2846,9 @@ p:CAIW Media
 46fa:ffff0000:0076:08c9:2:0
 BNR Nieuwsradio
 p:CAIW Media
+4664:ffff0000:0076:08c9:25:0
+Filmbox
+p:CAIW Media,c:050001
 4a60:ffff0000:0077:08c9:1:0
 Nick Music
 p:CAIW Media
@@ -3146,9 +3185,6 @@ p:CAIW Netwerken,c:050001
 88e0:ffff0000:0087:08c9:1:0
 Caiway informatie SD
 p:CAIW Media
-88ea:ffff0000:0087:08c9:1:0
-ESPN 6
-p:CAIW Media
 88c2:ffff0000:0087:08c9:25:0
 Een HD
 p:CAIW Media,c:050001
@@ -3183,7 +3219,7 @@ p:CAIW Media
 Shorts TV
 p:CAIW Media
 90d8:ffff0000:0089:08c9:1:0
-VH1
+MTV 00s
 p:CAIW Media
 9114:ffff0000:0089:08c9:2:0
 Radio Noord
@@ -3296,9 +3332,6 @@ p:CAIW Media
 b3d8:ffff0000:0092:08c9:25:0
 BBC World News HD
 p:CAIW Media
-b7ac:ffff0000:0093:08c9:25:0
-ESPN 5 HD
-p:CAIW Media,c:050001
 bb94:ffff0000:0094:08c9:25:0
 ESPN 4 HD
 p:CAIW Media,c:050001

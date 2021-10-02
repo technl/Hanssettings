@@ -1,5 +1,5 @@
 #NAME Stream Azerbadjan (AZ)
-#SERVICE 1:64:1901:0:0:0:0:0:0:0:
+#SERVICE 1:64:18fa:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/arb/live/index.m3u8:ARB
 #DESCRIPTION ARB
@@ -21,7 +21,7 @@
 #DESCRIPTION CBC -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8:Ictimai TV
 #DESCRIPTION Ictimai TV
-#SERVICE 1:64:1902:0:0:0:0:0:0:0:
+#SERVICE 1:64:18fb:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.53.162%3a1935/live/eltv/chunklist.m3u8:EL TV
 #DESCRIPTION EL TV

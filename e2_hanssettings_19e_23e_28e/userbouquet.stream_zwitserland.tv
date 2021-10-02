@@ -1,5 +1,5 @@
 #NAME Stream Zwitserland (CH)
-#SERVICE 1:64:2c7:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b3:0:0:0:0:0:0:0:
 #DESCRIPTION ** Hoofdzenders Publiek**
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a031:RSI LA 1 HD
 #DESCRIPTION RSI LA 1 HD
@@ -15,7 +15,7 @@
 #DESCRIPTION SRF 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02h:SRF Info HD
 #DESCRIPTION SRF Info HD
-#SERVICE 1:64:2c8:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b4:0:0:0:0:0:0:0:
 #DESCRIPTION ** Hoofdzenders Commercieel **
 #SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02i:3+ HD
 #DESCRIPTION 3+ HD
@@ -27,7 +27,7 @@
 #DESCRIPTION 6+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.schweiz5.ch/schweiz5/stream.m3u8:Schweiz 5 (Zwitserland)
 #DESCRIPTION Schweiz 5 (Zwitserland)
-#SERVICE 1:64:2c9:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b5:0:0:0:0:0:0:0:
 #DESCRIPTION ** Overige zenders **
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a030:Auftanken.TV
 #DESCRIPTION Auftanken.TV
@@ -61,27 +61,31 @@
 #DESCRIPTION Rouge TV (Zwitserland)
 #SERVICE 4097:0:1:4e26:43a:1:c00000:0:0:0:http%3a//tohome.redirectme.net%3a8001/1%3a0%3a1%3a4E26%3a43A%3a1%3aC00000%3a0%3a0%3a0:SAT.1 CH
 #DESCRIPTION SAT.1 CH
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03r:Tele 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03r:Tele 1 HD
 #DESCRIPTION Tele 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.gruppocdt.ch/hls/teleticino.m3u8:Teleticino
+#DESCRIPTION Teleticino
 #SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8:Tele Bärn HD (Zwitserland)
 #DESCRIPTION Tele Bärn HD (Zwitserland)
 #SERVICE 4097:0:1:b5:2:5:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8:Tele M1 HD (Zwitserland)
 #DESCRIPTION Tele M1 HD (Zwitserland)
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03q:Telebasel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03q:Telebasel HD
 #DESCRIPTION Telebasel HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge8.vedge.infomaniak.com/livecast/ik%3atelebielinguech/manifest.m3u8:TeleBielingue HD
 #DESCRIPTION TeleBielingue HD
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03u:TeleZüri HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03u:TeleZüri HD
 #DESCRIPTION TeleZüri HD
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03s:TVO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03s:TVO HD
 #DESCRIPTION TVO HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.meteonews.net/hls/stream.m3u8:Wetter TV HD
 #DESCRIPTION Wetter TV HD
 #SERVICE 4097:0:1:234:0:0:0:0:0:0:https%3a//tvm3.vedge.infomaniak.com/livecast/tvm3/f1tv.m3u8:TVM3 (Zwitserland)
 #DESCRIPTION TVM3 (Zwitserland)
-#SERVICE 1:64:2ca:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b6:0:0:0:0:0:0:0:
 #DESCRIPTION ++visual radio++
 #SERVICE 4097:0:1:d:2:6:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8:Radio 24 - Visual Radio (Zwitserland)
 #DESCRIPTION Radio 24 - Visual Radio (Zwitserland)
 #SERVICE 4097:0:1:b:2:6:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8:Radio Argovia - Visual Radio (Zwitserland)
 #DESCRIPTION Radio Argovia - Visual Radio (Zwitserland)
+#SERVICE 4097:0:1:b:2:6:0:0:0:0:https%3a//2-fss-2.themediacdn.com/pl_124/amlst%3a204654-1927794/playlist.m3u8:Radio Ticino Channel
+#DESCRIPTION Radio Ticino Channel

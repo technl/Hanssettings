@@ -311,6 +311,12 @@
 #DESCRIPTION Frequence Plus by Infomaniak.com AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/freqplus-high.mp3:Frequence Plus
 #DESCRIPTION Frequence Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funanthologie/130/index.m3u8:Fun Radio Anthology
+#DESCRIPTION Fun Radio Anthology
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/fun/201/index.m3u8:Fun Radio Chill
+#DESCRIPTION Fun Radio Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/fun/202/index.m3u8:Fun Radio Fitness
+#DESCRIPTION Fun Radio Fitness
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-96000/index.m3u8:FUN Radio
 #DESCRIPTION FUN Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/funalpes.mp3:FunAlpes Radio
@@ -343,8 +349,6 @@
 #DESCRIPTION Impact FM AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/impactfm-128.mp3:Impact FM Powred by Infomaniak.com
 #DESCRIPTION Impact FM Powred by Infomaniak.com
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/jazzradio-high.mp3:Jazz Radio
-#DESCRIPTION Jazz Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/jazzblackmusic-high.mp3:Jazz Radio Black Music
 #DESCRIPTION Jazz Radio Black Music
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/jazzblues-high.mp3:Jazz Radio Blues
@@ -355,6 +359,8 @@
 #DESCRIPTION Jazz Radio Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/reprises-high.mp3:Jazz Radio Reprises
 #DESCRIPTION Jazz Radio Reprises
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/jazzradio-high.mp3:Jazz Radio
+#DESCRIPTION Jazz Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//54.37.228.237%3a8000/live:Jobs & Music - Paris (Frankrijk)
 #DESCRIPTION Jobs & Music - Paris (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hd.lagrosseradio.info%3a8200:La Grosse Radio Metal
@@ -757,22 +763,20 @@
 #DESCRIPTION Radio Espace
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/239650/stream/283603:Radio EVA (Honfleur)
 #DESCRIPTION Radio EVA (Honfleur)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/fg.mp3:Radio FG.
-#DESCRIPTION Radio FG.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/max2.mp3:Radio FG. 90s
 #DESCRIPTION Radio FG. 90s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/ufg.mp3:Radio FG. avant-garde.
-#DESCRIPTION Radio FG. avant-garde.
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofg.impek.com/fg16.mp3:Radio FG. disco funk
-#DESCRIPTION Radio FG. disco funk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofg.impek.com/fg15.mp3:Radio FG. down-tempo
-#DESCRIPTION Radio FG. down-tempo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/fge.mp3:Radio FG. at-work.
 #DESCRIPTION Radio FG. at-work.
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/ufg.mp3:Radio FG. avant-garde.
+#DESCRIPTION Radio FG. avant-garde.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/fgc.mp3:Radio FG. CHIC.
 #DESCRIPTION Radio FG. CHIC.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/fgd.mp3:Radio FG. Deep Dance.
 #DESCRIPTION Radio FG. Deep Dance.
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofg.impek.com/fg16.mp3:Radio FG. disco funk
+#DESCRIPTION Radio FG. disco funk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofg.impek.com/fg15.mp3:Radio FG. down-tempo
+#DESCRIPTION Radio FG. down-tempo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/max1.mp3:Radio FG. Maxximum
 #DESCRIPTION Radio FG. Maxximum
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/fg6.mp3:Radio FG. mix.
@@ -783,6 +787,8 @@
 #DESCRIPTION Radio FG. Starter.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/fg17.mp3:Radio FG. zen.
 #DESCRIPTION Radio FG. zen.
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofg.impek.com/fg.mp3:Radio FG.
+#DESCRIPTION Radio FG.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rfj.ice.infomaniak.ch%3a80/rfj-high.aac:Radio Fréquence Jura
 #DESCRIPTION Radio Fréquence Jura
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80.82.229.202/radiog.mp3:Radio G! (Angers, FR)
@@ -823,12 +829,12 @@
 #DESCRIPTION Radio Nova
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioperfecto.net-radio.fr/perfecto.mp3:Radio Perfecto (Frankrijk)
 #DESCRIPTION Radio Perfecto (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tvradio-pitchoun.fr%3a8443/radiopitchoun.aac:Radio Pitchoun
+#DESCRIPTION Radio Pitchoun
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//direct.radiopresence.com/radio-presence:Radio Presence Lourdes (Frankrijk)
 #DESCRIPTION Radio Presence Lourdes (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radiojudaicastrasbourg-64.aac:radio Radio Judaica Strasbourg AAC+
 #DESCRIPTION radio Radio Judaica Strasbourg AAC+
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tvradio-pitchoun.fr%3a8443/radiopitchoun.aac:Radio Pitchoun
-#DESCRIPTION Radio Pitchoun
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live1.jupinfo.fr%3a8000/play:Radio Sans Pub 
 #DESCRIPTION Radio Sans Pub 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioscoop.com/scoop1.mp3:Radio Scoop Années 80
@@ -859,34 +865,48 @@
 #DESCRIPTION Rouge Live Music France
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3:Rouge Made in France
 #DESCRIPTION Rouge Made in France
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radio.rtl.fr/rtl-1-44-128:RTL (HQ) - FR
-#DESCRIPTION RTL (HQ) - FR
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radio.rtl.fr/rtl-1-44-64:RTL (LQ)
-#DESCRIPTION RTL (LQ)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radio.rtl.fr/rtl-1-44-96:RTL (MQ)
-#DESCRIPTION RTL (MQ)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/rva-high.aac:RVA AAC+
-#DESCRIPTION RVA AAC+
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/rva-high.mp3:RVA
-#DESCRIPTION RVA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/sensations-normandie.mp3:SENSATIONS Paris
-#DESCRIPTION SENSATIONS Paris
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/natio_aac_96k:Skyrock (Frankrijk)
-#DESCRIPTION Skyrock (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/203/index.m3u8:RTL 100%25 France
+#DESCRIPTION RTL 100% France
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/202/index.m3u8:RTL 100%25 Grosses Têtes
+#DESCRIPTION RTL 100% Grosses Têtes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/201/index.m3u8:RTL 100%25 Hits
+#DESCRIPTION RTL 100% Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlreunion.ice.infomaniak.ch%3a80/rtlreunion-64.aac:RTL Reunion (Frankrijk, DROM)
+#DESCRIPTION RTL Reunion (Frankrijk, DROM)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radio.rtl.fr/rtl-1-44-128:RTL
+#DESCRIPTION RTL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl2/201/index.m3u8:RTL2 Acoustique
+#DESCRIPTION RTL2 Acoustique
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl2/202/index.m3u8:RTL2 Sur la route
+#DESCRIPTION RTL2 Sur la route
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/francais_aac_128k:Skyrock 100%25 Français
+#DESCRIPTION Skyrock 100% Français
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/abidjan_aac_128k:Skyrock Abidjan
+#DESCRIPTION Skyrock Abidjan
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/alger_aac_128k:Skyrock Alger
+#DESCRIPTION Skyrock Alger
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/hit_us_aac_128k:Skyrock HIT US
+#DESCRIPTION Skyrock HIT US
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/hit_skyrock_aac_128k:Skyrock HIT
+#DESCRIPTION Skyrock HIT
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/klassiks_aac_128k:Skyrock Klassiks
+#DESCRIPTION Skyrock Klassiks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/1er_rap_aac_128k:Skyrock Premier sur le rap
+#DESCRIPTION Skyrock Premier sur le rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/rap_rnb_aac_128k:Skyrock Rap & RnB Non-Stop
+#DESCRIPTION Skyrock Rap & RnB Non-Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/tunis_aac_128k:Skyrock Tunis
+#DESCRIPTION Skyrock Tunis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/urban_music_aac_128k:Skyrock Urban Music Non Stop
+#DESCRIPTION Skyrock Urban Music Non Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/natio_mp3_128k:Skyrock
+#DESCRIPTION Skyrock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//start-sud.ice.infomaniak.ch/start-sud-high.mp3:Sud Radio
 #DESCRIPTION Sud Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tsfjazz.ice.infomaniak.ch/tsfjazz-high:TSF Jazz
 #DESCRIPTION TSF Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/ultrason-high.aac:Ultrason AAC+
-#DESCRIPTION Ultrason AAC+
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/ultrason-high.mp3:Ultrason
-#DESCRIPTION Ultrason
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/upradio-96.mp3:UP radio
 #DESCRIPTION UP radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/vibration-high.aac:Vibration AAC+
-#DESCRIPTION Vibration AAC+
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/vibration-high.mp3:Vibration
-#DESCRIPTION Vibration
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/jazz-wr15-128.mp3:Victoria Hall JazzRadio
 #DESCRIPTION Victoria Hall JazzRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.virginradio.fr/vr-wr6.mp3:Virgin Radiko Tonic Radio
@@ -907,8 +927,6 @@
 #DESCRIPTION Virgin Radio Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/vogueradio-high.mp3:VOGUE RADIO - 103.1
 #DESCRIPTION VOGUE RADIO - 103.1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//start-voltage.ice.infomaniak.ch/start-voltage-high.mp3:Voltage
-#DESCRIPTION Voltage
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//voltage2000.ice.infomaniak.ch/voltage2000-128.mp3:Voltage 2000
 #DESCRIPTION Voltage 2000
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//voltage90s.ice.infomaniak.ch/voltage80s-128.mp3:Voltage 80s
@@ -925,6 +943,8 @@
 #DESCRIPTION Voltage Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//voltagelove.ice.infomaniak.ch/voltagelove-128.mp3:Voltage Love
 #DESCRIPTION Voltage Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//start-voltage.ice.infomaniak.ch/start-voltage-high.mp3:Voltage
+#DESCRIPTION Voltage
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//start-witfm.ice.infomaniak.ch/start-witfm-high.mp3:Wit FM (Frankrijk)
 #DESCRIPTION Wit FM (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wit2000.ice.infomaniak.ch/wit2000.mp3:Wit FM 2000 (Frankrijk)
@@ -945,7 +965,3 @@
 #DESCRIPTION Wit FM Love (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//witwork.ice.infomaniak.ch/witwork.mp3:Wit FM Work (Frankrijk)
 #DESCRIPTION Wit FM Work (Frankrijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/wwwthewhole9onlinecom.aac:www.thewhole9online.com AAC+
-#DESCRIPTION www.thewhole9online.com AAC+
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/yesfm-low.mp3:Yes fm
-#DESCRIPTION Yes fm

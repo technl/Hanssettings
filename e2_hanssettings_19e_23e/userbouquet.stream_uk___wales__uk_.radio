@@ -1,5 +1,5 @@
 #NAME Stream UK - Wales (UK)
-#SERVICE 1:64:309:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f5:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Wales++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru:BBC Radio Cymru 1
 #DESCRIPTION BBC Radio Cymru 1
@@ -73,6 +73,8 @@
 #DESCRIPTION Radio Ceredigion (Wales, UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aries.streaming.zfast.co.uk%3a8024/;:Radio Carmarthenshire (Wales, UK)
 #DESCRIPTION Radio Carmarthenshire (Wales, UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3streaming.planetwideradio.com%3a8000/glamorg:Radio Glamorgan
+#DESCRIPTION Radio Glamorgan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge-audio-02-gos1.sharp-stream.com/tcpembrokeshire.mp3:Radio Pembrokeshire (Wales, UK)
 #DESCRIPTION Radio Pembrokeshire (Wales, UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.169.46.197%3a8060/;:Radio Tircoed (Wales, UK)

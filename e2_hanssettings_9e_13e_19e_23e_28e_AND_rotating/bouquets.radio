@@ -27,12 +27,12 @@
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.delta.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.telenet.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.reacties_op_de_kanalenlijst__specials_detransponder_nl_.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites__radio_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet._entertainment.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet._general.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet._music.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ln_italy.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ln_u_s_a_.radio" ORDER BY bouquet
-#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites__radio_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_nl_nationaal__nl_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_nl_regionaal___lokaal.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_nl_piratenmuziek.radio" ORDER BY bouquet
@@ -146,6 +146,7 @@
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_jamaica__jm_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_kaaimaneilanden__cayman_islands__ky_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_kaapverdi___cabo_verde__cv_.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_kenia__ke_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_kosovo__xk_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_kroati___hr_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_lesotho__ls_.radio" ORDER BY bouquet
@@ -176,6 +177,7 @@
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_saint_pierre_et_miquelon__pm_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_san_marino__sm_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_scilly_eilanden.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_senegal__sn_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_servi___rs_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_singapore__sg_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_sint_helena__saint_helena__sh_.radio" ORDER BY bouquet
@@ -204,6 +206,7 @@
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_wallis_en_futuna__grote_oceaan__wf_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_wit_rusland__by_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_zambia__zm_.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_zimbabwe__zw_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_zuid_afrika__za_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_zweden__se_.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_zwitserland__ch_.radio" ORDER BY bouquet

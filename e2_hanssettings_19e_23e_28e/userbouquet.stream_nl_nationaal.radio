@@ -1,5 +1,5 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:30a:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f7:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders++
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
@@ -47,10 +47,10 @@
 #DESCRIPTION FunX Utrecht
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
 #DESCRIPTION Spreekbuis Radio
-#SERVICE 1:64:30b:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f8:0:0:0:0:0:0:0:
 #DESCRIPTION ++(commerciële) HOOFDzenders++
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//40upstream.live-streams.nl/40up1:40UP Radio
-#DESCRIPTION 40UP Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//40rockstream.live-streams.nl/live:40ROCK Radio
+#DESCRIPTION 40ROCK Radio
 #SERVICE 4097:0:2:5253:c99:3:eb0000:0:0:0:http%3a//stream.100p.nl/100pctnl.mp3:100%25 NL
 #DESCRIPTION 100% NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web01_mp3:100%25 NL Feest
@@ -203,12 +203,18 @@
 #DESCRIPTION JUKE - Café Genee
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S16.mp3:JUKE - Foute Hits
 #DESCRIPTION JUKE - Foute Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S11.mp3:JUKE - Herfstkriebels
+#DESCRIPTION JUKE - Herfstkriebels
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S12.mp3:JUKE - Hip Hop Classics
 #DESCRIPTION JUKE - Hip Hop Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S14.mp3:JUKE - House Classics
 #DESCRIPTION JUKE - House Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S09.mp3:JUKE - Levenslied
 #DESCRIPTION JUKE - Levenslied
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S05.mp3:JUKE - Music Care - Activatie
+#DESCRIPTION JUKE - Music Care - Activatie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S04.mp3:JUKE - Music Care - Ontspannen
+#DESCRIPTION JUKE - Music Care - Ontspannen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S07.mp3:JUKE - Non-SWtop Nederpop
 #DESCRIPTION JUKE - Non-SWtop Nederpop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPNET07.mp3:JUKE - Oppeppers
@@ -221,8 +227,6 @@
 #DESCRIPTION JUKE - R & B Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S08.mp3:JUKE - Songfestival Top 100
 #DESCRIPTION JUKE - Songfestival Top 100
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S11.mp3:JUKE - Zomerkriebels
-#DESCRIPTION JUKE - Zomerkriebels
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream02.itego.nl/kbc-high:KBC Radio
 #DESCRIPTION KBC Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/KINK_DISTORTIONAAC.aac:KINK Distortion
@@ -367,6 +371,8 @@
 #DESCRIPTION Sky Radio - 80s Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/SRGSTR05.mp3:Sky Radio - 90s Hits
 #DESCRIPTION Sky Radio - 90s Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3:Sky Radio - Christmas
+#DESCRIPTION Sky Radio - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3:Sky Radio - Hits
 #DESCRIPTION Sky Radio - Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3:Sky Radio - Lounge
@@ -379,8 +385,6 @@
 #DESCRIPTION Sky Radio - Sky for Men
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//19993.live.streamtheworld.com/SRGSTR15AAC.aac:Sky Radio - Smooth Hits
 #DESCRIPTION Sky Radio - Smooth Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3:Sky Radio - Summerhits
-#DESCRIPTION Sky Radio - Summerhits
 #SERVICE 4097:0:2:5262:c99:3:eb0000:0:0:0:https%3a//stream.slam.nl/slam_mp3:SLAM!
 #DESCRIPTION SLAM!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/WEB14_AAC.aac:SLAM! 40
@@ -451,7 +455,7 @@
 #DESCRIPTION Wild FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
 #DESCRIPTION ZTACK
-#SERVICE 1:64:30c:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f9:0:0:0:0:0:0:0:
 #DESCRIPTION ++religieus++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
 #DESCRIPTION Bright FM
@@ -483,7 +487,7 @@
 #DESCRIPTION Trans World Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
 #DESCRIPTION Urk FM Geestelijk
-#SERVICE 1:64:30d:0:0:0:0:0:0:0:
+#SERVICE 1:64:2fa:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
 #DESCRIPTION 18Hits (NL Nationaal)
@@ -1093,8 +1097,8 @@
 #DESCRIPTION Webradio SLIM (NL)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamserv42.digipal.nl%3a8000/;stream.mp3:Wolkhits.nl (NL)
 #DESCRIPTION Wolkhits.nl (NL)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.magicdragon.nl%3a7002/stream:XXL Radio (NL nationaal, overig)
-#DESCRIPTION XXL Radio (NL nationaal, overig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.magicdragon.nl%3a7002/stream:XXL Radio
+#DESCRIPTION XXL Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.148.11%3a8374/stream:Your Choice Radio (NL)
 #DESCRIPTION Your Choice Radio (NL)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediaserv30.live-streams.nl%3a18005/stream:yourX (NL nationaal, overig)

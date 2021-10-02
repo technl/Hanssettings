@@ -1,5 +1,5 @@
 #NAME Stream Spanje (ES)
-#SERVICE 1:64:286:0:0:0:0:0:0:0:
+#SERVICE 1:64:271:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8:TVE 1
 #DESCRIPTION TVE 1
@@ -37,7 +37,7 @@
 #DESCRIPTION La Sexta -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8:La 7 Murcia HD
 #DESCRIPTION La 7 Murcia HD
-#SERVICE 1:64:287:0:0:0:0:0:0:0:
+#SERVICE 1:64:272:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5940924978228.streamlock.net/8157/8157/.m3u8:28 Kanala Baskenland
 #DESCRIPTION 28 Kanala Baskenland
@@ -197,7 +197,7 @@
 #DESCRIPTION RiberaTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-esp.secure.footprint.net/1102.m3u8?streamType=live:RT Español
 #DESCRIPTION RT Español
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8:RTVC Canarias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvc-live1-rm.flumotion.com/playlist.m3u8:RTVC Canarias
 #DESCRIPTION RTVC Canarias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8:Sevilla FC TV
 #DESCRIPTION Sevilla FC TV

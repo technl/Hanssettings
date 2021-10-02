@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:31f:0:0:0:0:0:0:0:
+#SERVICE 1:64:30c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -51,7 +51,7 @@
 #DESCRIPTION VRT Studio Brussel - De Tijdloze
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_untz-high.mp3:VRT Studio Brussel UNTZ
 #DESCRIPTION VRT Studio Brussel UNTZ
-#SERVICE 1:64:320:0:0:0:0:0:0:0:
+#SERVICE 1:64:30d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -343,7 +343,7 @@
 #DESCRIPTION ZZMETAL (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK (België)
 #DESCRIPTION ZZROCK (België)
-#SERVICE 1:64:321:0:0:0:0:0:0:0:
+#SERVICE 1:64:30e:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -585,7 +585,7 @@
 #DESCRIPTION Sud Radio Belgique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu2-centova.serverse.com/proxy/wiupfvnu?mp=/TradCan:TradCan
 #DESCRIPTION TradCan
-#SERVICE 1:64:322:0:0:0:0:0:0:0:
+#SERVICE 1:64:30f:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -601,7 +601,7 @@
 #DESCRIPTION Radio Contact Ostbelgien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:323:0:0:0:0:0:0:0:
+#SERVICE 1:64:310:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

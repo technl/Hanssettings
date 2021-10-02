@@ -179,12 +179,14 @@
 #DESCRIPTION Acid Jazz Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//service.pop-stream.de%3a4000/;:AGF-Radio
 #DESCRIPTION AGF-Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/aldianaradio.mp3:Aldiana Radio Deutschland
-#DESCRIPTION Aldiana Radio Deutschland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server3.streamserver-unlimited.de%3a8689/stream2:Ahrtalradio
+#DESCRIPTION Ahrtalradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/austriapop.mp3:Aldiana Radio Deutschland - Austria Pop
 #DESCRIPTION Aldiana Radio Deutschland - Austria Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/season.mp3:Aldiana Radio Deutschland - Seasonal
 #DESCRIPTION Aldiana Radio Deutschland - Seasonal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/aldianaradio.mp3:Aldiana Radio Deutschland
+#DESCRIPTION Aldiana Radio Deutschland
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//alex-radio.rosebud-media.de%3a8000/alex-radio.aac:ALEX-Offener-Kanal-Berlin-AAC-High
 #DESCRIPTION ALEX-Offener-Kanal-Berlin-AAC-High
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//alex-radio.rosebud-media.de%3a8000/alex-radio-low.aac:ALEX-Offener-Kanal-Berlin-AAC-Low
@@ -333,6 +335,8 @@
 #DESCRIPTION Antenne Thüringen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3channels.webradio.antenne.de/top-40:Antenne Top-40
 #DESCRIPTION Antenne Top-40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cityradiotrier-ais-edge-3006-fra-eco-cdn.cast.addradio.de/cityradiotrier/live/mp3/high/stream.mp3:Antenne Trier
+#DESCRIPTION Antenne Trier
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dd11422.kasserver.com%3a8010/:Antenne Unna
 #DESCRIPTION Antenne Unna
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dd11422.kasserver.com%3a8010:Antenne Unna
@@ -513,8 +517,6 @@
 #DESCRIPTION CIA-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosaarlouis-live.cast.addradio.de/radiosaarlouis/live/mp3/high/stream.mp3:CityRadio Saarland
 #DESCRIPTION CityRadio Saarland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cityradiotrier.cast.addradio.de/fs_cityradiotrier/simulcast/high/stream.mp3:CityRadio Trier
-#DESCRIPTION CityRadio Trier
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//internetradio.salue.de%3a8000/classicrock.mp3:Classic-Rock-Radio
 #DESCRIPTION Classic-Rock-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//136.243.156.30%3a1541/stream/2/:Classic-Videogames-Live-Radio
@@ -1103,6 +1105,8 @@
 #DESCRIPTION Hitradio-SKW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hoamad.stream.laut.fm/hoamad:hoamad.bayern
 #DESCRIPTION hoamad.bayern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hochrhein-radio.stream.laut.fm/hochrhein-radio:Hochrhein-Radio
+#DESCRIPTION Hochrhein-Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//evans.hochschulradio.rwth-aachen.de%3a8000/radio.mp3:Hochschulradio-Aachen
 #DESCRIPTION Hochschulradio-Aachen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hoerspiel.stream.laut.fm/hoerspiel?pl=m3u&t302=2017-12-08_19-11-37&uuid=aa6bbb74-44af-4170-8489-cbc5780a7013:hoerspielprojektde
@@ -1115,8 +1119,6 @@
 #DESCRIPTION Hope-Channel-Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//realserver3.hdm-stuttgart.de%3a8080/horads:horads-992-FM
 #DESCRIPTION horads-992-FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hochrhein-radio.stream.laut.fm/hochrhein-radio:Hochrhein-Radio
-#DESCRIPTION Hochrhein-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.ml1.t4e.dj%3a80/houselovers_high.mp3:Houselovers
 #DESCRIPTION Houselovers
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.stream.tb-group.fm/ht.mp3?:HouseTimeFM
@@ -1557,8 +1559,6 @@
 #DESCRIPTION Lounge Plus (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.ml1.t4e.dj%3a80/loungelovers_high.mp3:Loungelovers
 #DESCRIPTION Loungelovers
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/lulufm.mp3:lulu
-#DESCRIPTION lulu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/lulufm.mp3:lulu.fm
 #DESCRIPTION lulu.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/luluzwei.mp3:lulu2
@@ -3089,6 +3089,8 @@
 #DESCRIPTION Rock Antenne 90er Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s6-webradio.rockantenne.de/alternative/stream:Rock Antenne Alternative
 #DESCRIPTION Rock Antenne Alternative
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s8-webradio.rockantenne.de/rockantenne-bayern/stream:Rock Antenne Bayern
+#DESCRIPTION Rock Antenne Bayern
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s8-webradio.rockantenne.de/blues-rock/stream:Rock Antenne Blues Rock
 #DESCRIPTION Rock Antenne Blues Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3channels.webradio.de/classic-perlen:Rock Antenne Classic Perlen
@@ -3609,80 +3611,70 @@
 #DESCRIPTION SW-Radio-Plautdietsch-32kbps
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swingsalon.stream.laut.fm/swingsalon?pl=m3u&t302=2017-12-17_14-50-07&uuid=6cf7b1f4-5412-47d3-bef4-28e1218a93ee:swingsalon
 #DESCRIPTION swingsalon
-#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ka.cast.addradio.de/swr/swr4/ka/mp3/128/stream.mp3:SWR 4 Baden Radio Karlsruhe
-#DESCRIPTION SWR 4 Baden Radio Karlsruhe
-#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ma.cast.addradio.de/swr/swr4/ma/mp3/128/stream.mp3:SWR 4 Kurpfalz Radio Mannheim
-#DESCRIPTION SWR 4 Kurpfalz Radio Mannheim
-#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3:SWR 4 Radio Mainz
-#DESCRIPTION SWR 4 Radio Mainz
-#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3:SWR 4 Radio Stuttgart
-#DESCRIPTION SWR 4 Radio Stuttgart
-#SERVICE 4097:0:1:6f37:445:1:c00000:0:0:0:https%3a//swrdasding-lh.akamaihd.net/i/dasdingvisual_live@6416/master.m3u8:SWR Dasding - Visual Radio (Duitsland)
-#DESCRIPTION SWR Dasding - Visual Radio (Duitsland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//swr-swr-raka08.sslcast.addradio.de/swr/swr/raka08/mp3/128/stream.mp3:SWR-3-Black-Friday
-#DESCRIPTION SWR-3-Black-Friday
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//swr-swr-raka03.sslcast.addradio.de/swr/swr/raka03/mp3/128/stream.mp3:SWR-3-Lyrix
-#DESCRIPTION SWR-3-Lyrix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//swr-swr-raka06.sslcast.addradio.de/swr/swr/raka06/mp3/128/stream.mp3:SWR-3-Party
-#DESCRIPTION SWR-3-Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//swr-swr-raka05.sslcast.addradio.de/swr/swr/raka05/mp3/128/stream.mp3:SWR-3-Rock
-#DESCRIPTION SWR-3-Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-kl.cast.addradio.de/swr/swr4/kl/mp3/64/stream.mp3:SWR-4-Radio-Kaiserslautern-64-kbit-s
-#DESCRIPTION SWR-4-Radio-Kaiserslautern-64-kbit-s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ka.cast.addradio.de/swr/swr4/ka/mp3/64/stream.mp3:SWR-4-Radio-Koblenz-64-kbit-s
-#DESCRIPTION SWR-4-Radio-Koblenz-64-kbit-s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ma.cast.addradio.de/swr/swr4/ma/mp3/64/stream.mp3:SWR-4-Radio-Ludwigshafen-64-kbit-s
-#DESCRIPTION SWR-4-Radio-Ludwigshafen-64-kbit-s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-tr.cast.addradio.de/swr/swr4/tr/mp3/64/stream.mp3:SWR-4-Radio-Trier-64-kbit-s
-#DESCRIPTION SWR-4-Radio-Trier-64-kbit-s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3:SWR-4-RP-HQ
-#DESCRIPTION SWR-4-RP-HQ
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-fr.cast.addradio.de/swr/swr4/fr/mp3/128/stream.mp3:SWR-4-Sdbaden
-#DESCRIPTION SWR-4-Sdbaden
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-fr.cast.addradio.de/swr/swr4/fr/mp3/64/stream.mp3:SWR-4-Sdbaden-64-kbit-s
-#DESCRIPTION SWR-4-Sdbaden-64-kbit-s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-fn.cast.addradio.de/swr/swr4/fn/mp3/128/stream.mp3:SWR-4-Studio-Friedrichshafen
-#DESCRIPTION SWR-4-Studio-Friedrichshafen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-fn.cast.addradio.de/swr/swr4/fn/mp3/64/stream.mp3:SWR-4-Studio-Friedrichshafen-64-kbit-s
-#DESCRIPTION SWR-4-Studio-Friedrichshafen-64-kbit-s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-hn.cast.addradio.de/swr/swr4/hn/mp3/64/stream.mp3:SWR-4-Studio-Heilbronn-64-kbit-s
-#DESCRIPTION SWR-4-Studio-Heilbronn-64-kbit-s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-tu.cast.addradio.de/swr/swr4/tu/mp3/64/stream.mp3:SWR-4-Studio-Tbingen-64-kbit-s
-#DESCRIPTION SWR-4-Studio-Tbingen-64-kbit-s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ul.cast.addradio.de/swr/swr4/ul/mp3/64/stream.mp3:SWR-4-Studio-Ulm-64-kbit-s
-#DESCRIPTION SWR-4-Studio-Ulm-64-kbit-s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swraktuell-live.cast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3:SWR-Aktuell-128kbps
-#DESCRIPTION SWR-Aktuell-128kbps
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swraktuell-live.cast.addradio.de/swr/swraktuell/live/mp3/64/stream.mp3:SWR-Aktuell-64kbps
-#DESCRIPTION SWR-Aktuell-64kbps
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3:SWR-DASDING
-#DESCRIPTION SWR-DASDING
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr-raka04.cast.addradio.de/swr/swr/raka04/mp3/128/stream.mp3:SWR-DASDING---Black-Affairs
-#DESCRIPTION SWR-DASDING---Black-Affairs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr-raka10.cast.addradio.de/swr/swr/raka10/mp3/128/stream.mp3:SWR-DASDING---Chillout
-#DESCRIPTION SWR-DASDING---Chillout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr-raka07.cast.addradio.de/swr/swr/raka07/mp3/128/stream.mp3:SWR-DASDING---Partybash
-#DESCRIPTION SWR-DASDING---Partybash
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr-raka12.cast.addradio.de/swr/swr/raka12/mp3/128/stream.mp3:SWR-DASDING---Plattenleger
-#DESCRIPTION SWR-DASDING---Plattenleger
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr-raka11.cast.addradio.de/swr/swr/raka11/mp3/128/stream.mp3:SWR-DASDING---Sprechstunde
-#DESCRIPTION SWR-DASDING---Sprechstunde
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/64/stream.mp3:SWR1-BW
-#DESCRIPTION SWR1-BW
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/64/stream.mp3:SWR1-RP
-#DESCRIPTION SWR1-RP
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/64/stream.mp3:SWR2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swraktuell-live.cast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3:SWR Aktuel
+#DESCRIPTION SWR Aktuel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka10/:SWR DASDING Chillout
+#DESCRIPTION SWR DASDING Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0: %09https%3a//liveradio.swr.de/sw331ch/raka07/:SWR DASDING Partyfieber
+#DESCRIPTION SWR DASDING Partyfieber
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka11/:SWR DASDING Rap
+#DESCRIPTION SWR DASDING Rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka04/:SWR DASDING Weekend Warmup 
+#DESCRIPTION SWR DASDING Weekend Warmup 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka12/:SWR DASDING Zukunftsmusik
+#DESCRIPTION SWR DASDING Zukunftsmusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3:SWR DASDING
+#DESCRIPTION SWR DASDING
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/swr1bw/:SWR1 Baden-Württemberg
+#DESCRIPTION SWR1 Baden-Württemberg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/swr1rp/:SWR1 Rheinland-Pfalz
+#DESCRIPTION SWR1 Rheinland-Pfalz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka02/:SWR2 Archivradio
+#DESCRIPTION SWR2 Archivradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/swr2/:SWR2
 #DESCRIPTION SWR2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//swr-swr-raka02.cast.addradio.de/swr/swr/raka02/mp3/64/stream.mp3:SWR2-Archivradio
-#DESCRIPTION SWR2-Archivradio
-#SERVICE 4097:0:1:6f34:445:1:c00000:0:0:0:https%3a//swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/master.m3u8:SWR3 - Visual Radio (Duitsland)
-#DESCRIPTION SWR3 - Visual Radio (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/64/stream.mp3:SWR3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka03/:SWR3 Lyrix
+#DESCRIPTION SWR3 Lyrix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka08/:SWR3 Mottotage
+#DESCRIPTION SWR3 Mottotage
+#SERVICE 4097:0:2:0:0:0:0:0:0:0: %09https%3a//liveradio.swr.de/sw331ch/raka06/:SWR3 Party
+#DESCRIPTION SWR3 Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka05/:SWR3 Rock
+#DESCRIPTION SWR3 Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka09/:SWR3 Specials
+#DESCRIPTION SWR3 Specials
+#SERVICE 4097:0:2:0:0:0:0:0:0:0: %09https%3a//liveradio.swr.de/sw331ch/swr3/:SWR3
 #DESCRIPTION SWR3
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/64/stream.mp3:SWR4-BW
-#DESCRIPTION SWR4-BW
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/64/stream.mp3:SWR4-RP
-#DESCRIPTION SWR4-RP
+#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ka.cast.addradio.de/swr/swr4/ka/mp3/128/stream.mp3:SWR4 Baden Radio Karlsruhe
+#DESCRIPTION SWR4 Baden Radio Karlsruhe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/swr4bw/:SWR4 Baden-Württemburg
+#DESCRIPTION SWR4 Baden-Württemburg
+#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ma.cast.addradio.de/swr/swr4/ma/mp3/128/stream.mp3:SWR4 Kurpfalz Radio Mannheim
+#DESCRIPTION SWR4 Kurpfalz Radio Mannheim
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-kl.cast.addradio.de/swr/swr4/kl/mp3/64/stream.mp3:SWR4 Radio Kaiserslautern
+#DESCRIPTION SWR4 Radio Kaiserslautern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ka.cast.addradio.de/swr/swr4/ka/mp3/64/stream.mp3:SWR4 Radio Koblenz
+#DESCRIPTION SWR4 Radio Koblenz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ma.cast.addradio.de/swr/swr4/ma/mp3/64/stream.mp3:SWR4 Radio Ludwigshafen
+#DESCRIPTION SWR4 Radio Ludwigshafen
+#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3:SWR4 Radio Mainz
+#DESCRIPTION SWR4 Radio Mainz
+#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3:SWR4 Radio Stuttgart
+#DESCRIPTION SWR4 Radio Stuttgart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-tr.cast.addradio.de/swr/swr4/tr/mp3/64/stream.mp3:SWR4 Radio Trier
+#DESCRIPTION SWR4 Radio Trier
+#SERVICE 4097:0:2:0:0:0:0:0:0:0: %09https%3a//liveradio.swr.de/sw331ch/swr4rp/:SWR4 Rheinland-Pflaz
+#DESCRIPTION SWR4 Rheinland-Pflaz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-fr.cast.addradio.de/swr/swr4/fr/mp3/128/stream.mp3:SWR4 Sdbaden
+#DESCRIPTION SWR4 Sdbaden
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-fn.cast.addradio.de/swr/swr4/fn/mp3/64/stream.mp3:SWR4 Studio Friedrichshafen
+#DESCRIPTION SWR4 Studio Friedrichshafen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-hn.cast.addradio.de/swr/swr4/hn/mp3/64/stream.mp3:SWR4 Studio Heilbronn
+#DESCRIPTION SWR4 Studio Heilbronn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-tu.cast.addradio.de/swr/swr4/tu/mp3/64/stream.mp3:SWR4 Studio Tbingen
+#DESCRIPTION SWR4 Studio Tbingen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ul.cast.addradio.de/swr/swr4/ul/mp3/64/stream.mp3:SWR4 Studio Ulm
+#DESCRIPTION SWR4 Studio Ulm
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streamlnn.radio21.de/antenne_sylt.mp3:Syltfunk
 #DESCRIPTION Syltfunk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str2.creacast.com%3a80/sudtirol1a:Südtirol 1 (Duitsland/Italië/Oostenrijk)

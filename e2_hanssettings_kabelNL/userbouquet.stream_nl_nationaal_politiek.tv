@@ -5,23 +5,35 @@
 #DESCRIPTION Actualiteitenkanaal 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/aletta_jacobszaal/index.m3u8?hd=1&subtitles=1:Aletta Jacobszaal
 #DESCRIPTION Aletta Jacobszaal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestreaming.b67.tweedekamer.nl/live/alettajacobszaal/2000/prog_index.m3u8 :Aletta Jacobszaal
+#DESCRIPTION Aletta Jacobszaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Enquêtezaal
 #DESCRIPTION Enquêtezaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/groen_van_prinstererzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Groen van Prinstererzaal
 #DESCRIPTION Groen van Prinstererzaal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Klompézaal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestreaming.b67.tweedekamer.nl/live/klompezaal/300/prog_index.m3u8 :Klompézaal
 #DESCRIPTION Klompézaal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/plenaire_zaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Plenaire zaal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestreaming.b67bu.tweedekamer.nl/live/plenairezaal/4000/prog_index.m3u8:Plenaire zaal
 #DESCRIPTION Plenaire zaal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/plenaire_zaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Ridderzaal
+#DESCRIPTION Ridderzaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/suze_groenewegzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Suze Groenewegzaal
 #DESCRIPTION Suze Groenewegzaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Thorbeckezaal
 #DESCRIPTION Thorbeckezaal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestreaming.b67.tweedekamer.nl/live/thorbeckezaal/571/prog_index.m3u8 :Thorbeckezaal ???
+#DESCRIPTION Thorbeckezaal ???
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/tilanuskamer/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Tilanuskamer kamer
 #DESCRIPTION Tilanuskamer kamer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8 :Tilanuskamer kamer
+#DESCRIPTION Tilanuskamer kamer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestreaming.b67.tweedekamer.nl/live/troelstrazaal/567/prog_index.m3u8 :Troelstrazaal
+#DESCRIPTION Troelstrazaal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/vondelingkamer/audio/prog_index.m3u8 :Vondelingkamer
+#DESCRIPTION Vondelingkamer
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/wttewaall_van_stoetwegenzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Wttewaall van Stoetwegenzaal
 #DESCRIPTION Wttewaall van Stoetwegenzaal
-#SERVICE 1:64:81:0:0:0:0:0:0:0:
+#SERVICE 1:64:6c:0:0:0:0:0:0:0:
 #DESCRIPTION +++Eerste Kamer (bij vergadering)+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cv-eerstekamer1.azureedge.net/livehttporigin/ngrp%3aeerstekamer.stream_all/playlist.m3u8:Eerste Kamer
 #DESCRIPTION Eerste Kamer

@@ -39,8 +39,6 @@
 #DESCRIPTION Dance Radio
 #SERVICE 4097:0:2:366:0:0:0:0:0:0:http%3a//icecast2.play.cz%3a8000/dance-radio128.mp3:Dance
 #DESCRIPTION Dance
-#SERVICE 4097:0:2:414:0:0:0:0:0:0:http%3a//icecast5.play.cz%3a8000/dechovka128.mp3:Dechovka
-#DESCRIPTION Dechovka
 #SERVICE 4097:0:2:432:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz/domino128.mp3:Domino
 #DESCRIPTION Domino
 #SERVICE 4097:0:2:198:0:0:0:0:0:0:http%3a//pool.cdn.lagardere.cz%3a80/web-e2-flashback:E2-Flashback
@@ -249,10 +247,14 @@
 #DESCRIPTION Radio 1
 #SERVICE 4097:0:2:172:0:0:0:0:0:0:http%3a//icecast8.play.cz/radio7-128.mp3:Radio 7
 #DESCRIPTION Radio 7
+#SERVICE 4097:0:2:118:0:0:0:0:0:0:http%3a//icecast6.play.cz/cesky-impuls.mp3:Radio Český Impuls
+#DESCRIPTION Radio Český Impuls
 #SERVICE 4097:0:2:118:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/citymi128.mp3:Radio City Devadesátka
 #DESCRIPTION Radio City Devadesátka
 #SERVICE 4097:0:2:410:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz/country128.mp3:Radio Country
 #DESCRIPTION Radio Country
+#SERVICE 4097:0:2:414:0:0:0:0:0:0:http%3a//icecast5.play.cz%3a8000/dechovka128.mp3:Radio Dechovka
+#DESCRIPTION Radio Dechovka
 #SERVICE 4097:0:2:384:0:0:0:0:0:0:http%3a//radior.video.muni.cz%3a8000/FSS_mp3-128.mp3:Radio R
 #DESCRIPTION Radio R
 #SERVICE 4097:0:2:168:0:0:0:0:0:0:http%3a//pool.cdn.lagardere.cz/fm-zet:Radio Zet/BBC World
