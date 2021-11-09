@@ -337,8 +337,6 @@
 #DESCRIPTION Sterpiraten (NL piraten)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-23.stream-server.nl%3a8132/stream:Streamgigant
 #DESCRIPTION Streamgigant
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.studiodenakker.nl/stream/1/:Studio Denakker
-#DESCRIPTION Studio Denakker
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//studiodrentsepoort.gkstreamen.nl%3a80/:Studiodrentsepoort.nl
 #DESCRIPTION Studiodrentsepoort.nl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.32.52%3a8070/stream:Studionathalstream.nl (Hoogeveen)
@@ -359,7 +357,7 @@
 #DESCRIPTION Toppersteam
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//83.149.126.29%3a8018:ToppieTeam
 #DESCRIPTION ToppieTeam
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//stream.gal.io/tukkerfm:Tukker FM (Oldenzaal - Twente - Overijssel)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tukkerfm.nl/tukkerfm:Tukker FM (Oldenzaal - Twente - Overijssel)
 #DESCRIPTION Tukker FM (Oldenzaal - Twente - Overijssel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//twentseboys.gkstreamen.nl%3a8058/:twentse Boys
 #DESCRIPTION twentse Boys

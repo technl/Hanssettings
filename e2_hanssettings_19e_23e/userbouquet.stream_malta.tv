@@ -1,41 +1,39 @@
 #NAME Stream Malta (MT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/34.ts:Net TV (Malta)
-#DESCRIPTION Net TV (Malta)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/39.ts:TVM (Malta)
-#DESCRIPTION TVM (Malta)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/40.ts:TVM 2 (Malta)
-#DESCRIPTION TVM 2 (Malta)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/30.ts:Erga Lura
-#DESCRIPTION Erga Lura
+#SERVICE 1:64:282:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live01.delivery.twentythree.com/live/amlst%3apori8uh2e1658j578b2d8a5llc%3a71154069-1278e729306f170d3483.mp4/chunklist_.m3u8:TVM
+#DESCRIPTION TVM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live01.delivery.twentythree.com/live/amlst%3aij6066nbjfi8vhoaf4ncj7ve6m%3a71154145-58e9bd481c3251010565.mp4/chunklist_.m3u8:TVM News+
+#DESCRIPTION TVM News+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//netondemand.mt%3a8443/live/net/chunklist_w1293505680_DVR_tkdG9rZW5zdGFydHRpbWU9MTYzNTEyNTc1OSZ0b2tlbmVuZHRpbWU9MTYzNTE2ODk1OSZ0b2tlbmhhc2g9UDNoalgza0F5SDNFcWljUEhoWm5Ebmp5RUJhaEppU2VrZ2FpODF5UERNcz0=.m3u8:Net TV
+#DESCRIPTION Net TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8:One
+#DESCRIPTION One
+#SERVICE 1:64:283:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/23.ts:Mr Fish TV
 #DESCRIPTION Mr Fish TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/26.ts:MTU
-#DESCRIPTION MTU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/33.ts:One
-#DESCRIPTION One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/5.ts:Smash TV
 #DESCRIPTION Smash TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/29.ts:Smash 7 News
 #DESCRIPTION Smash 7 News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/26.ts:Smash Arabic Music
+#DESCRIPTION Smash Arabic Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/21.ts:Smash Cam
 #DESCRIPTION Smash Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/12.ts:Smash Country
 #DESCRIPTION Smash Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/27.ts:Smash Entertainment
-#DESCRIPTION Smash Entertainment
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/15.ts:Smash Food
 #DESCRIPTION Smash Food
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/10.ts:Smash Jazz
 #DESCRIPTION Smash Jazz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/27.ts:Smash Movies
+#DESCRIPTION Smash Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/8.ts:Smash Music
 #DESCRIPTION Smash Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/19.ts:Smash Politika
 #DESCRIPTION Smash Politika
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/48.ts:Smash Retro
-#DESCRIPTION Smash Retro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/25.ts:Smash Rock
 #DESCRIPTION Smash Rock
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/17.ts:Smash Sports (Malta)
-#DESCRIPTION Smash Sports (Malta)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/14.ts:TV Shop Channel
-#DESCRIPTION TV Shop Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/14.ts:Smash TSN TV Shop
+#DESCRIPTION Smash TSN TV Shop

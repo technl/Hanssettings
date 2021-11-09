@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:39a:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c7:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -51,7 +51,7 @@
 #DESCRIPTION VRT Studio Brussel - De Tijdloze
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_untz-high.mp3:VRT Studio Brussel UNTZ
 #DESCRIPTION VRT Studio Brussel UNTZ
-#SERVICE 1:64:39b:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c8:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -115,26 +115,38 @@
 #DESCRIPTION EZROCK (België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//www.clubfmserver.be%3a8000/family.mp3:Family Radio (België)
 #DESCRIPTION Family Radio (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/feelgoodradiooo:Feel Good Radio
-#DESCRIPTION Feel Good Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofg.impek.com/ufg:FG Avant Garde
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/7081n2b6p98uv:FG
+#DESCRIPTION FG
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/2v1zz979n98uv:FG At Work
+#DESCRIPTION FG At Work
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/vb3b5749n98uv:FG Avant Garde
 #DESCRIPTION FG Avant Garde
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofg.impek.com%3a80/fgc:FG Chic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/cgvrymb6p98uv:FG Chic
 #DESCRIPTION FG Chic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofg.impek.com%3a80/fg6:FG Clubbing
-#DESCRIPTION FG Clubbing
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radiofg.impek.com%3a80/fgd:FG Deep Dance by Hakimakli
-#DESCRIPTION FG Deep Dance by Hakimakli
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofg.impek.com%3a80/fg:FG DJ Radio
-#DESCRIPTION FG DJ Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofg.impek.com%3a80/fgv:FG Gay Party
-#DESCRIPTION FG Gay Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//12526.cloudrad.io%3a9274/undr:FG Underground
-#DESCRIPTION FG Underground
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radiofg.impek.com%3a80/fga:FG Vlaanderen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/tmbhq479n98uv:FG Deep Dance
+#DESCRIPTION FG Deep Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/cpkhx08pq18uv:FG Disco Funk
+#DESCRIPTION FG Disco Funk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/1grpmk88n98uv:FG Downtown Tempo
+#DESCRIPTION FG Downtown Tempo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/nwhyn2c6p98uv:FG Maxximum
+#DESCRIPTION FG Maxximum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/maygqbdap98uv:FG Maxximum 90's
+#DESCRIPTION FG Maxximum 90's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/5kucq079n98uv:FG Mix
+#DESCRIPTION FG Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/uv0x66bap98uv:FG Nomade
+#DESCRIPTION FG Nomade
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/vww68g69n98uv:FG Starter
+#DESCRIPTION FG Starter
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/cmrzxrv3q98uv:FG UNDR
+#DESCRIPTION FG UNDR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/5wesqhfap98uv:FG Vlaanderen
 #DESCRIPTION FG Vlaanderen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//12525.cloudrad.io%3a9272/fgxtra:FG Xtra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/w33p2cfap98uv:FG Xtra
 #DESCRIPTION FG Xtra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/ffynknv9n98uv:FG Zen
+#DESCRIPTION FG Zen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radio.co/sb5d2bfbdb/listen:FM Goud Christmas (BE)
 #DESCRIPTION FM Goud Christmas (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//freeradiobe.ddns.net%3a8000/:Free Radio Belgium (België)
@@ -159,6 +171,8 @@
 #DESCRIPTION Joe 60's & 70's
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JOE_80S.mp3:Joe 80's & 90s
 #DESCRIPTION Joe 80's & 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/JOE_CHRISTMAS.mp3:Joe Christmas
+#DESCRIPTION Joe Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JOE_EASY.mp3:Joe Easy
 #DESCRIPTION Joe Easy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JOE_LAGE_LANDEN.mp3:Joe Lage Landen
@@ -225,7 +239,11 @@
 #DESCRIPTION Q-80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/Q90S.mp3:Q-90s
 #DESCRIPTION Q-90s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QFOUTERADIO.mp3:Q-Foute Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/QDOWNTOWN.mp3:Q-DOWNTOWN
+#DESCRIPTION Q-DOWNTOWN
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/QDOWNTOWN.mp3:Q-DOWNTOWN
+#DESCRIPTION Q-DOWNTOWN
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/QFOUTERADIO.mp3:Q-Foute Radio
 #DESCRIPTION Q-Foute Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMAXIMUMHITS.mp3:Q-Maximum Hits
 #DESCRIPTION Q-Maximum Hits
@@ -245,6 +263,8 @@
 #DESCRIPTION Q-XMAS
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.radio19.fm%3a8200:Radio 19
 #DESCRIPTION Radio 19
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.landparkmedia.eu/radio/8020/radio.mp3:Radio 777
+#DESCRIPTION Radio 777
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/RadioForty5:Radio45/Forty5 (België)
 #DESCRIPTION Radio45/Forty5 (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cristina.torontocast.com%3a8218/stream:Radio 854 (uit Canada voor luisteraars BE en NL)
@@ -273,8 +293,10 @@
 #DESCRIPTION Radio Kadee (plezante kinderradio - België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.radiomaria.be%3a8000/RadioMaria-96:Radio Maria België
 #DESCRIPTION Radio Maria België
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kepler.shoutca.st%3a8117/;mp3:Radio Mi Amigo International (BE)
-#DESCRIPTION Radio Mi Amigo International (BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.34.205%3a8368/stream:Radio Mi Amigo, de échte
+#DESCRIPTION Radio Mi Amigo, de échte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//janus.shoutca.st%3a8031/;:Radio Mi Amigo International
+#DESCRIPTION Radio Mi Amigo International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/radio-montanabe:Radio Montana
 #DESCRIPTION Radio Montana
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-hostingmilano.nl%3a1075/stream:Radio Op Volle Toeren
@@ -343,7 +365,7 @@
 #DESCRIPTION ZZMETAL (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK (België)
 #DESCRIPTION ZZROCK (België)
-#SERVICE 1:64:39c:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c9:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -585,7 +607,9 @@
 #DESCRIPTION Sud Radio Belgique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu2-centova.serverse.com/proxy/wiupfvnu?mp=/TradCan:TradCan
 #DESCRIPTION TradCan
-#SERVICE 1:64:39d:0:0:0:0:0:0:0:
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
+#DESCRIPTION The Word Radio (Brussels)
+#SERVICE 1:64:3ca:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -601,7 +625,7 @@
 #DESCRIPTION Radio Contact Ostbelgien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:39e:0:0:0:0:0:0:0:
+#SERVICE 1:64:3cb:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

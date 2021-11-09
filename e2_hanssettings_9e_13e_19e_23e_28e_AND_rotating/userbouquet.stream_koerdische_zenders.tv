@@ -1,13 +1,41 @@
 #NAME Stream Koerdische zenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.212.74.100%3a8000/live/hls/8951.m3u8:Amozhgary (Koerdisch)
-#DESCRIPTION Amozhgary (Koerdisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nrt2.flashmediacast.com%3a1935/nrt2/livestream/chunklist_w478741163.m3u8:NRT 2 (Koerdisch)
-#DESCRIPTION NRT 2 (Koerdisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rajevideo1.flashmediacast.com%3a1935/rajevideo/livestream/chunklist_w1193697746.m3u8:NRT HD (Koerdisch)
-#DESCRIPTION NRT HD (Koerdisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8:Rudaw (Koeridsch)
-#DESCRIPTION Rudaw (Koeridsch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//137.74.205.201/live2/sterk-3mbps.m3u8:Stêrk TV (Koeridsch)
-#DESCRIPTION Stêrk TV (Koeridsch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8:Vin TV (Koeridsch)
-#DESCRIPTION Vin TV (Koeridsch)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ab29cc78f681.streamlock.net/afarinTV/livestream/chunklist_.m3u8:Afarin HD
+#DESCRIPTION Afarin HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.streambrothers.com%3a1936/8250/8250/chunklist_.m3u8:Amozhgary
+#DESCRIPTION Amozhgary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8:AVA Entertainment TV
+#DESCRIPTION AVA Entertainment TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.5/hls/stream.m3u8:AVA Family HD
+#DESCRIPTION AVA Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.liveshell.net%3a1935/live/cihann/chunklist_.m3u8:Cihan HD
+#DESCRIPTION Cihan HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a3ed7a72ed4b.streamlock.net/live/SMIL%3amyStream.smil/chunklist_.m3u8:Kurdistan TV
+#DESCRIPTION Kurdistan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.14.40.139%3a1935/liveTrans/myStream/chunklist_.m3u8:Kurdmax Kurmanci
+#DESCRIPTION Kurdmax Kurmanci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.14.40.139%3a1935/music/livestream/chunklist_.m3u8:Kurdmax Music HD
+#DESCRIPTION Kurdmax Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5aa8c7549bfa9.streamlock.net/liveTrans/ngrp%3aSHOW1_all/chunklist_.m3u8:Kurdmax Show
+#DESCRIPTION Kurdmax Show
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5aa8c7549bfa9.streamlock.net/liveTrans/ngrp%3aSHOW2_all/chunklist_.m3u8:Kurdmax Show Kurmanci
+#DESCRIPTION Kurdmax Show Kurmanci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5aa8c7549bfa9.streamlock.net/liveTrans/ngrp%3amyStream2_all/chunklist_.m3u8:Kurdmax Sorani
+#DESCRIPTION Kurdmax Sorani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist_.m3u8:Kurdsat HD
+#DESCRIPTION Kurdsat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/chunklist_.m3u8:Kurdsat News
+#DESCRIPTION Kurdsat News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nettvstreampaid.flashmediacast.com%3a1935/nettvstreampaid/livestream/chunklist_.m3u8:Net TV HD
+#DESCRIPTION Net TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.streambrothers.com%3a1936/8226/8226/chunklist_.m3u8:NRT HD
+#DESCRIPTION NRT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.karwan.tv/karwan.tv/nalia-tv-2/chunks.m3u8:NRT 2 HD
+#DESCRIPTION NRT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8:Rudaw
+#DESCRIPTION Rudaw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.liveshell.net%3a1935/live/speda084k/chunklist_.m3u8:Speda TV
+#DESCRIPTION Speda TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//602ccc850c9bb.streamlock.net/sterktv/smil%3asterk.smil/chunklist_.m3u8:Stêrk TV
+#DESCRIPTION Stêrk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtkurdi.live.trt.com.tr/master_720.m3u8:TRT Kurdi
+#DESCRIPTION TRT Kurdi

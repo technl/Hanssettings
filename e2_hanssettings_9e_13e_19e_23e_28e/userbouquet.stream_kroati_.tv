@@ -1,5 +1,5 @@
 #NAME Stream Kroatië (HR)
-#SERVICE 1:64:30e:0:0:0:0:0:0:0:
+#SERVICE 1:64:328:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226130/04.m3u8:HRT 1
 #DESCRIPTION HRT 1
@@ -9,21 +9,23 @@
 #DESCRIPTION HRT 3 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8:HRT 4
 #DESCRIPTION HRT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info:N1 Hrvatska
+#DESCRIPTION N1 Hrvatska
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8:RTL Hrvatska
 #DESCRIPTION RTL Hrvatska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8:Z1
-#DESCRIPTION Z1
-#SERVICE 1:64:30f:0:0:0:0:0:0:0:
+#SERVICE 1:64:329:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Banovina TV
 #DESCRIPTION Banovina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_122/amlst%3a200012-111298/chunklist_b2000000.m3u8:Mary TV HD
+#DESCRIPTION Mary TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8:MAXtv Promo Kanal
 #DESCRIPTION MAXtv Promo Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8:NewsBar
-#DESCRIPTION NewsBar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.201.163.244%3a8080/hls/hdmi.m3u8:Slavonska TV
-#DESCRIPTION Slavonska TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.201.163.244%3a8080/hls/hdmi.m3u8:STV
+#DESCRIPTION STV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//185.62.75.22%3a1935/trend/myStream:Trend TV
 #DESCRIPTION Trend TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.94.81.190%3a8844/sdi/aurora.m3u8:TV Aurora
 #DESCRIPTION TV Aurora
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.domaci.com.hr%3a3622/live/tvzapadlive.m3u8:Zapad TV
+#DESCRIPTION Zapad TV

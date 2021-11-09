@@ -1,5 +1,5 @@
 #NAME Stream Italiië (IT)
-#SERVICE 1:64:1a77:0:0:0:0:0:0:0:
+#SERVICE 1:64:1ac1:0:0:0:0:0:0:0:
 #DESCRIPTION ++RAI++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:RAI Radio 1
 #DESCRIPTION RAI Radio 1
@@ -25,8 +25,10 @@
 #DESCRIPTION Rai Radio Techetè
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:https%3a//radioitaliana1-lh.akamaihd.net/i/radioitaliana1_1@586844/index_128000_a-p.m3u8:Rai Radio Tutta Italiana
 #DESCRIPTION Rai Radio Tutta Italiana
-#SERVICE 1:64:1a78:0:0:0:0:0:0:0:
+#SERVICE 1:64:1ac2:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
+#SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
+#DESCRIPTION 105 Indie
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//s8.mediastreaming.it%3a7580/:ANTENNA RADIO ESSE
 #DESCRIPTION ANTENNA RADIO ESSE
 #SERVICE 4097:0:2:275:0:0:0:0:0:0:http%3a//server.bellaradio.it%3a8090/a1.mp3:BELLA RADIO
@@ -73,6 +75,8 @@
 #DESCRIPTION LOLLI RADIO SOFT NOTIZIE
 #SERVICE 4097:0:2:201:0:0:0:0:0:0:http%3a//nr5.newradio.it%3a8545/stream:NEW RADIO
 #DESCRIPTION NEW RADIO
+#SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//edge.radiomontecarlo.net/rmcweb003:R&B
+#DESCRIPTION R&B
 #SERVICE 4097:0:2:93:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105Classics.mp3?amsparams=playerid%3a208f105web;skey%3a1468657622:RADIO 105 CLASSIC
 #DESCRIPTION RADIO 105 CLASSIC
 #SERVICE 4097:0:2:95:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105HipHopRnB.mp3:RADIO 105 Hip Hop RnB
@@ -437,6 +441,8 @@
 #DESCRIPTION STUDIO RADIO
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str2.creacast.com%3a80/sudtirol1a:Südtirol 1 (Duitsland/Italië/Oostenrijk)
 #DESCRIPTION Südtirol 1 (Duitsland/Italië/Oostenrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um057.mp3:United Music STAR Francesco Battiato 
+#DESCRIPTION United Music STAR Francesco Battiato 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//109.123.116.202%3a8020/stream/1/:Venice Classic Radio (klassiek - Italië)
 #DESCRIPTION Venice Classic Radio (klassiek - Italië)
 #SERVICE 4097:0:2:89:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/Virgin.mp3:VIRGIN RADIO

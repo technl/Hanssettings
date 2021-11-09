@@ -1,5 +1,5 @@
 #NAME Stream Latin
-#SERVICE 1:64:3e9:0:0:0:0:0:0:0:
+#SERVICE 1:64:417:0:0:0:0:0:0:0:
 #DESCRIPTION *******SALSA CUBANA*********
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.domiplay.net%3a2002/stream/1/:Emisora Salsa Radio (Republica Dominicana)
 #DESCRIPTION Emisora Salsa Radio (Republica Dominicana)
@@ -9,12 +9,16 @@
 #DESCRIPTION RMF Cuba (Polen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.34.205%3a8400/stream:Miled Music Cubana (Mexico)
 #DESCRIPTION Miled Music Cubana (Mexico)
-#SERVICE 1:64:3ea:0:0:0:0:0:0:0:
+#SERVICE 1:64:418:0:0:0:0:0:0:0:
 #DESCRIPTION *******SALSA (Algemeen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.calmradio.com%3a9628/stream:Calm Radio Salsa (Canada)
+#DESCRIPTION Calm Radio Salsa (Canada)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//emisoras.colombiacrossover.com%3a8054/stream:Colombia Salsa Dura (Colombia)
+#DESCRIPTION Colombia Salsa Dura (Colombia)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu1.lhdserver.es%3a9167/stream:Echale Salsita (Tenerife, Espana)
 #DESCRIPTION Echale Salsita (Tenerife, Espana)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//latinasalsa.ice.infomaniak.ch/latinasalsa.mp3:Radio Latina Salsa (France)
-#DESCRIPTION Radio Latina Salsa (France)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//usa1.fastcast4u.com/proxy/hardsals?mp=/1:Hard Salsa Bogota (Colombia)
+#DESCRIPTION Hard Salsa Bogota (Colombia)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.openstream.co/2956/audio:La X Estereo 100%25 pura Salsa (New York, USA)
 #DESCRIPTION La X Estereo 100% pura Salsa (New York, USA)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.111.140.6%3a9588/stream1 <http%3a//192.111.140.6%3a9588/stream1>:La X2 Live (New York USA)
@@ -23,37 +27,55 @@
 #DESCRIPTION La X2 Live Salsa Pal Que Sabe (New York, USA)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.34.205%3a8239/stream:Miled Music Salsa (Mexico)
 #DESCRIPTION Miled Music Salsa (Mexico)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//latinasalsa.ice.infomaniak.ch/latinasalsa.mp3:Radio Latina Salsa (France)
+#DESCRIPTION Radio Latina Salsa (France)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomassalsa.stream.laut.fm/radiomassalsa:Radio Mas Salsa (Hengelo)
+#DESCRIPTION Radio Mas Salsa (Hengelo)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.panamastreaming.com/8012/stream:Salsa 106 (Panama)
 #DESCRIPTION Salsa 106 (Panama)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//salsamiamor.stream.laut.fm/salsamiamor:Salsa Mi Amor (Deutschland)
 #DESCRIPTION Salsa Mi Amor (Deutschland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//salsamag.stream.laut.fm/salsamag:Salsa MAG (Deutschland)
 #DESCRIPTION Salsa MAG (Deutschland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomassalsa.stream.laut.fm/radiomassalsa:Radio Mas Salsa (Hengelo)
-#DESCRIPTION Radio Mas Salsa (Hengelo)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//salsaymas.stream.laut.fm/salsa_y_mas :Salsa y Mas (Deutschland)
 #DESCRIPTION Salsa y Mas (Deutschland)
-#SERVICE 1:64:3eb:0:0:0:0:0:0:0:
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.17.12%3a6031/:Salsa Warriors (New York, USA)
+#DESCRIPTION Salsa Warriors (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8008/live.mp3:Tropical 100 Salsa (New York, USA)
+#DESCRIPTION Tropical 100 Salsa (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropicalisima.org%3a8020:Tropicalisima Salsa (New York, USA)
+#DESCRIPTION Tropicalisima Salsa (New York, USA)
+#SERVICE 1:64:419:0:0:0:0:0:0:0:
 #DESCRIPTION *****BACHATA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.domiplay.net%3a8002/:Bachata Radio (Republica Dominicana)
 #DESCRIPTION Bachata Radio (Republica Dominicana)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.radio.co/sb45e5e8de/listen:Bachata Sensual Radio (New York, USA)
 #DESCRIPTION Bachata Sensual Radio (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.calmradio.com%3a9828/stream :Calm Radio Bachata (Canada)
+#DESCRIPTION Calm Radio Bachata (Canada)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/30247/mp3_128.mp3:Cherie FM Latino (France)
 #DESCRIPTION Cherie FM Latino (France)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.streamingcpanel.com%3a7013/stream?icy=http:El BachaRengue (USA)
+#DESCRIPTION El BachaRengue (USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonicpanel.cloudstreaming.eu%3a10975/:El BachaRengue (2e server) (USA)
+#DESCRIPTION El BachaRengue (2e server) (USA)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.34.205%3a8465/stream:Miled Music Bachata (Mexico)
 #DESCRIPTION Miled Music Bachata (Mexico)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//latinabachata.ice.infomaniak.ch/latinabachata.mp3:Radio Latina Bachata (France)
 #DESCRIPTION Radio Latina Bachata (France)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//perseus.shoutca.st%3a8312/:Radio Bachata (Republica Dominicana)
 #DESCRIPTION Radio Bachata (Republica Dominicana)
-#SERVICE 1:64:3ec:0:0:0:0:0:0:0:
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8016/live.mp3:Tropical 100 Bacherengue (New York, USA)
+#DESCRIPTION Tropical 100 Bacherengue (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropicalisima.org%3a8024/:Tropicalisima Bachata (New York, USA)
+#DESCRIPTION Tropicalisima Bachata (New York, USA)
+#SERVICE 1:64:41a:0:0:0:0:0:0:0:
 #DESCRIPTION *********ZOUK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/30085/mp3_128.mp3:NRJ Zouk (France)
 #DESCRIPTION NRJ Zouk (France)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rcs.revma.com/7sff394q54zuv:Trace Zouk (France)
 #DESCRIPTION Trace Zouk (France)
-#SERVICE 1:64:3ed:0:0:0:0:0:0:0:
+#SERVICE 1:64:41b:0:0:0:0:0:0:0:
 #DESCRIPTION *******KIZOMBA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//latinakizomba.ice.infomaniak.ch/latinakizomba.mp3:Radio Latina Kizomba (France)
 #DESCRIPTION Radio Latina Kizomba (France)
@@ -61,14 +83,16 @@
 #DESCRIPTION Trace Kizomba (France)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/31523/mp3_128.mp3:NRJ Kizomba (France)
 #DESCRIPTION NRJ Kizomba (France)
-#SERVICE 1:64:3ee:0:0:0:0:0:0:0:
+#SERVICE 1:64:41c:0:0:0:0:0:0:0:
 #DESCRIPTION *******LATIN JAZZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3:Jazz Radio Jazz Latin (France)
 #DESCRIPTION Jazz Radio Jazz Latin (France)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ca7.rcast.net%3a8050/:Latin Jazz Radio WLJR (Alabama, USA)
 #DESCRIPTION Latin Jazz Radio WLJR (Alabama, USA)
-#SERVICE 1:64:3ef:0:0:0:0:0:0:0:
+#SERVICE 1:64:41d:0:0:0:0:0:0:0:
 #DESCRIPTION *******MIX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream5.top-ix.org%3a8000/antennauno:Antenna Uno (Italia)
+#DESCRIPTION Antenna Uno (Italia)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/ktsf994gtp8uv:Your Latin Radio (Den Haag/Nijmegen)
 #DESCRIPTION Your Latin Radio (Den Haag/Nijmegen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-latin-bb-mp3:FunX Latin (Nederland)
@@ -79,8 +103,8 @@
 #DESCRIPTION Geneva Latina 100% Latino (Switzerland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//wma08.fluidstream.net%3a3630:KissKiss Latina (Italia)
 #DESCRIPTION KissKiss Latina (Italia)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream5.top-ix.org%3a8000/antennauno:Antenna Uno (Italia)
-#DESCRIPTION Antenna Uno (Italia)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiohd.streaminghd.co%3a7529/stream:La Makina Radio (Colombia)
+#DESCRIPTION La Makina Radio (Colombia)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//5926fc9c7c5b2.streamlock.net%3a443/9044/9044/playlist.m3u8:Radio Mambo TV (Roma, Italia)
 #DESCRIPTION Radio Mambo TV (Roma, Italia)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.38.100%3a8410:Vibracion Latina (Switzerland)
@@ -135,6 +159,10 @@
 #DESCRIPTION Olimpica Estereo Cali (Colombia)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//master.letio.com/io/?gs=9120&type=master.m3u8:Olimpica Estereo Colombia
 #DESCRIPTION Olimpica Estereo Colombia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/110848/stream/450031:Planete Radio Web (PLRW) (France)
+#DESCRIPTION Planete Radio Web (PLRW) (France)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//conectperu.com/8084/stream:Radio Chalaca (Peru)
+#DESCRIPTION Radio Chalaca (Peru)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//node-33.zeno.fm/xc3kdrsgbsquv.aac:Swing Latino Salsa Ecuador
 #DESCRIPTION Swing Latino Salsa Ecuador
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//freeuk22.listen2myradio.com/live.mp3?typeportmount=s1_8403_stream_469971571:Swing Latino Salsa Ecuador - alternatief
@@ -145,6 +173,8 @@
 #DESCRIPTION Caliente 90.7 FM Aruba
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiostreamfm.com/radio/8000/dolfijnlatin.mp3:Dolfijn FM Latina Curacao
 #DESCRIPTION Dolfijn FM Latina Curacao
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s25f9d51ba/listen:Kreisy FM (Amsterdam)
+#DESCRIPTION Kreisy FM (Amsterdam)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//173.212.215.227%3a9056/stream:Latina 104 FM (Republica Dominicana)
 #DESCRIPTION Latina 104 FM (Republica Dominicana)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/hotmixradio-latino-320.mp3:Hotmix Radio Latino (France)
@@ -155,9 +185,31 @@
 #DESCRIPTION My 105 Latino (Switzerland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming507.net%3a8140/stream:TropiQ 99,7 (Panama)
 #DESCRIPTION TropiQ 99,7 (Panama)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s25f9d51ba/listen:Kreisy FM (Amsterdam)
-#DESCRIPTION Kreisy FM (Amsterdam)
-#SERVICE 1:64:3f0:0:0:0:0:0:0:0:
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a7996/live.mp3:Tropical 100 Mix (New York, USA)
+#DESCRIPTION Tropical 100 Mix (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8004/live.mp3:Tropical 100 Suave (New York, USA)
+#DESCRIPTION Tropical 100 Suave (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8020/live.mp3:Tropical 100 Fiesta (New York, USA)
+#DESCRIPTION Tropical 100 Fiesta (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8038/live.mp3:Tropical 100 Plus (New York, USA)
+#DESCRIPTION Tropical 100 Plus (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8022/live.mp3:Tropical 100 Bolero (New York, USA)
+#DESCRIPTION Tropical 100 Bolero (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8054/live.mp3:Tropical 100 Xplosiva (New York, USA)
+#DESCRIPTION Tropical 100 Xplosiva (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8026/live.mp3:Tropical 100 Regional Mexicana (New York, USA)
+#DESCRIPTION Tropical 100 Regional Mexicana (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8046/live.mp3:Tropical 100 Vallencumbia (New York, USA)
+#DESCRIPTION Tropical 100 Vallencumbia (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8036/live.mp3:Tropical 100 Urbana (New York, USA)
+#DESCRIPTION Tropical 100 Urbana (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropical100.net%3a8050/live.mp3:Tropical 100 Light Dance (New York, USA)
+#DESCRIPTION Tropical 100 Light Dance (New York, USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropicalisima.org%3a8000/:Tropicalisima Tropical (USA)
+#DESCRIPTION Tropicalisima Tropical (USA)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tropicalisima.org%3a9000:Tropicalisima Instrumental (USA)
+#DESCRIPTION Tropicalisima Instrumental (USA)
+#SERVICE 1:64:41e:0:0:0:0:0:0:0:
 #DESCRIPTION ********* NRJ Latin-zenders
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/31409/mp3_128.mp3:NRJ Latino Hits (France)
 #DESCRIPTION NRJ Latino Hits (France)
@@ -171,7 +223,7 @@
 #DESCRIPTION NRJ Latin Schweiz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr_an/55025/mp3_128.mp3:NRJ Latino Hits (NRJ Antilles)
 #DESCRIPTION NRJ Latino Hits (NRJ Antilles)
-#SERVICE 1:64:3f1:0:0:0:0:0:0:0:
+#SERVICE 1:64:41f:0:0:0:0:0:0:0:
 #DESCRIPTION ********* TRACE radiozenders
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rcs.revma.com/nd0wa04q54zuv:Trace Latin (France)
 #DESCRIPTION Trace Latin (France)
@@ -197,7 +249,7 @@
 #DESCRIPTION Trace FM Kenya
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio-trace.simplestreamcdn.com/trace_fm_senegal-midfi.aac:Trace FM Senegal
 #DESCRIPTION Trace FM Senegal
-#SERVICE 1:64:3f2:0:0:0:0:0:0:0:
+#SERVICE 1:64:420:0:0:0:0:0:0:0:
 #DESCRIPTION ********CUBA: radiozenders uit Cuba met veel salsa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.teveo.cu/Nbtz7HT3:CMBF Radio Musical Nacional CUBA
 #DESCRIPTION CMBF Radio Musical Nacional CUBA
@@ -241,7 +293,7 @@
 #DESCRIPTION Radio Siboney CUBA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.teveo.cu/McW3fLhs:Radio Havana Cuba (Internacional)
 #DESCRIPTION Radio Havana Cuba (Internacional)
-#SERVICE 1:64:3f3:0:0:0:0:0:0:0:
+#SERVICE 1:64:421:0:0:0:0:0:0:0:
 #DESCRIPTION ****** Latin TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.panelzcast.com/asondesalsa/asondesalsa/chunklist_w1327954588.m3u8:A son de Salsa TV (Latin/Panama)
 #DESCRIPTION A son de Salsa TV (Latin/Panama)
@@ -249,7 +301,7 @@
 #DESCRIPTION La Mega Mundial TV (Georgia, USA)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//panel.streamingtv-mediacp.online%3a1936/8044/8044/chunklist_w794333964.m3u8:Latinos Up TV (New York, USA)
 #DESCRIPTION Latinos Up TV (New York, USA)
-#SERVICE 1:64:3f4:0:0:0:0:0:0:0:
+#SERVICE 1:64:422:0:0:0:0:0:0:0:
 #DESCRIPTION ++Zwitserland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//energylatin.ice.infomaniak.ch/energylatin-high.mp3:Energy Latin
 #DESCRIPTION Energy Latin

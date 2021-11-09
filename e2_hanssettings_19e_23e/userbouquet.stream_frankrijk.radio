@@ -13,6 +13,8 @@
 #DESCRIPTION Ado FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.shoutcast.com/Air-Classique:Air Classique Paris - Fr
 #DESCRIPTION Air Classique Paris - Fr
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n20a-eu.rcs.revma.com/vuumdncf368uv:AirZen
+#DESCRIPTION AirZen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/alouette-high.aac:Alouette AAC+
 #DESCRIPTION Alouette AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/alouette-low.mp3:Alouette
@@ -29,6 +31,8 @@
 #DESCRIPTION ARC MUSIQUE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/arj-france-high.mp3:ARJ 128kbs mp3
 #DESCRIPTION ARJ 128kbs mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//arvorig-fm.online.radiobreizh.bzh/live.mp3:Arvorig fm (Landerneau, Bretagne)
+#DESCRIPTION Arvorig fm (Landerneau, Bretagne)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//azotradio1.ice.infomaniak.ch/azotradio1-128.mp3:Azot Radio (Le Tampon, Réunion)
 #DESCRIPTION Azot Radio (Le Tampon, Réunion)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/belrtl128:BEL RTL
@@ -59,12 +63,8 @@
 #DESCRIPTION Chante France Comptines (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.chantefrance.com/cf-emotion:Chante France Emotion (Frankrijk)
 #DESCRIPTION Chante France Emotion (Frankrijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/fr/30207/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1:Chérie FM Celine Dion (Frankrijk)
-#DESCRIPTION Chérie FM Celine Dion (Frankrijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/fr/30213/mp3_128.mp3?cdn_path=adswizz_lbs7&adws_out_a1:Chérie FM Frenchy (Frankrijk)
-#DESCRIPTION Chérie FM Frenchy (Frankrijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/fr/30207/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b1:Chérie FM Love Songs (Frankrijk)
-#DESCRIPTION Chérie FM Love Songs (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/audio1/fr/30201/aac_64.mp3:Chérie FM
+#DESCRIPTION Chérie FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/charlekingradio.mp3:CK-RADIO
 #DESCRIPTION CK-RADIO
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/cocktailfm-high.mp3:Cocktail FM
@@ -169,6 +169,14 @@
 #DESCRIPTION Evasion FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.59.45%3a8013/stream:Feeling Floyd (Frankrijk)
 #DESCRIPTION Feeling Floyd (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/cgvrymb6p98uv:FG Chic
+#DESCRIPTION FG Chic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/maygqbdap98uv:FG Maxximum 90's
+#DESCRIPTION FG Maxximum 90's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/nwhyn2c6p98uv:FG Maxximum
+#DESCRIPTION FG Maxximum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/7081n2b6p98uv:FG
+#DESCRIPTION FG
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fip-webradio6.mp3:FIP Autour  des disquaires
 #DESCRIPTION FIP Autour  des disquaires
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fip-webradio3.mp3:FIP autour du groove
@@ -807,6 +815,8 @@
 #DESCRIPTION Radio Judaica
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/stream128k.mp3:Radio Kaiseregg - Switzerland
 #DESCRIPTION Radio Kaiseregg - Switzerland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kerne.online.radiobreizh.bzh/live.mp3:Radio Kerne (Ploneiz, Bretagne)
+#DESCRIPTION Radio Kerne (Ploneiz, Bretagne)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radiokolhachalom-high.mp3:Radio Kol Hachalom - Grenoble
 #DESCRIPTION Radio Kol Hachalom - Grenoble
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/start-latina-32.aac:Radio Latina AAC+ 32
@@ -845,12 +855,50 @@
 #DESCRIPTION Radio Super Plus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radiotonic-high.mp3:Radio Tonic
 #DESCRIPTION Radio Tonic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rbg.online.radiobreizh.bzh/live.mp3:RBG - Radio Bro Gwened (Gwened, Bretagne)
+#DESCRIPTION RBG - Radio Bro Gwened (Gwened, Bretagne)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-35400/playlist.m3u8:RFM
+#DESCRIPTION RFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr11.mp3:RFM 100 %25 Français
+#DESCRIPTION RFM 100 % Français
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr12.mp3:RFM 100%25 New Wave
+#DESCRIPTION RFM 100% New Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr9.mp3:RFM 40 ans du Meilleur de la Musique
+#DESCRIPTION RFM 40 ans du Meilleur de la Musique
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr16.mp3:RFM 70's
+#DESCRIPTION RFM 70's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr4.mp3:RFM 80's
+#DESCRIPTION RFM 80's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr1.mp3:RFM Collector
+#DESCRIPTION RFM Collector
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr8.mp3:RFM Hit Party
+#DESCRIPTION RFM Hit Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr3.mp3:RFM La Radio Couleur
+#DESCRIPTION RFM La Radio Couleur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr15.mp3:RFM La Radio en Or
+#DESCRIPTION RFM La Radio en Or
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr7.mp3:RFM Le HIT RFM
+#DESCRIPTION RFM Le HIT RFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr6.mp3:RFM Lounge
+#DESCRIPTION RFM Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr14.mp3:RFM Musique Fraîche
+#DESCRIPTION RFM Musique Fraîche
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr2.mp3:RFM Night Fever
+#DESCRIPTION RFM Night Fever
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr5.mp3:RFM Party 90
+#DESCRIPTION RFM Party 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr10.mp3:RFM Pop Rock
+#DESCRIPTION RFM Pop Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr13.mp3:RFM Slow
+#DESCRIPTION RFM Slow
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/rhonefm-high.aac:Rhone FM AAC+
 #DESCRIPTION Rhone FM AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/rhonefm-low.mp3:Rhone FM
 #DESCRIPTION Rhone FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.173/fr/30401/aac_64.mp3:Rire & Chansons (Franmkrijk)
-#DESCRIPTION Rire & Chansons (Franmkrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.173/fr/30401/aac_64.mp3:Rire & Chansons (Frankrijk)
+#DESCRIPTION Rire & Chansons (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rkb.online.radiobreizh.bzh/live.mp3:RKB - Radio Kreiz Breizh (Sant-Nigouden, Bretagne)
+#DESCRIPTION RKB - Radio Kreiz Breizh (Sant-Nigouden, Bretagne)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//chai5she.cdn.dvmr.fr/rmcinfo:RMC - Info Talk Sport (Monaco)
 #DESCRIPTION RMC - Info Talk Sport (Monaco)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.radiomontecarlo.net/RMC.mp3?listenerid=2cef19f21bc7f88d8ea3eb2f6dc61f9e&awparams=companionAds%253Atrue:RMC = Radio Monte Carlo (Monaco)

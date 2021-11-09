@@ -1,19 +1,19 @@
 #NAME Stream Oostenrijk (AT)
-#SERVICE 1:64:267:0:0:0:0:0:0:0:
+#SERVICE 1:64:28c:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:https%3a//orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8:ORF 1 HD
+#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//forevertv.me%3a8080/Iptvtree/b957c2YMj6/129806:ORF 1 HD
 #DESCRIPTION ORF 1 HD
-#SERVICE 5002:0:1:1334:3ef:1:c00000:0:0:0:https%3a//orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8:ORF 2 HD
+#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//forevertv.me%3a8080/Iptvtree/b957c2YMj6/129810:ORF 2 HD
 #DESCRIPTION ORF 2 HD
-#SERVICE 4097:0:1:1334:3ef:1:c00000:0:0:0:https%3a//orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8:ORF 2 HD
-#DESCRIPTION ORF 2 HD
-#SERVICE 4097:0:1:33fc:3ed:1:c00000:0:0:0:https%3a//orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8:ORF III HD
-#DESCRIPTION ORF III HD
-#SERVICE 4097:0:1:33fd:3ed:1:c00000:0:0:0:https%3a//orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8:ORF Sport+ HD
-#DESCRIPTION ORF Sport+ HD
-#SERVICE 4097:0:1:32d5:45d:1:c00000:0:0:0:http%3a//185.85.28.19/oe3sd/orf.sdp/master.m3u8:ORF Ö3 Live (Webcam radio Oostenrijk)
-#DESCRIPTION ORF Ö3 Live (Webcam radio Oostenrijk)
-#SERVICE 1:64:268:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:33f8:3ed:1:c00000:0:0:0:http%3a//forevertv.me%3a8080/Iptvtree/b957c2YMj6/129811:ORF 3 HD
+#DESCRIPTION ORF 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//forevertv.me%3a8080/Iptvtree/b957c2YMj6/129812:ORF Sport+
+#DESCRIPTION ORF Sport+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//forevertv.me%3a8080/Iptvtree/b957c2YMj6/129824:ATV HD
+#DESCRIPTION ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//forevertv.me%3a8080/Iptvtree/b957c2YMj6/129819:ATV 2 HD
+#DESCRIPTION ATV 2 HD
+#SERVICE 1:64:28d:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:6:2:6:0:0:0:0:https%3a//5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4%3alivestream/playlist.m3u8:Antenne Voralberg - Visual Radio (Oostenrijk)
 #DESCRIPTION Antenne Voralberg - Visual Radio (Oostenrijk)
@@ -65,10 +65,6 @@
 #DESCRIPTION RedBull TV (sport - Oostenrijk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58b42f6c8c9bf.streamlock.net%3a8080/live/RTS2015/chunklist.m3u8:RTS Salzburg (Oostenrijk)
 #DESCRIPTION RTS Salzburg (Oostenrijk)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.primetv.at/rtvlive/smil%3artvlive.smil/chunklist_w1285535194_b2048000_slger.m3u8:RTV (Oostenrijk)
-#DESCRIPTION RTV (Oostenrijk)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.rtv-ooe.at/stream.m3u8:RTV (Oostenrijk) via iptv
-#DESCRIPTION RTV (Oostenrijk) via iptv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8001/play/s10:Servus TV (Oostenrijk)
 #DESCRIPTION Servus TV (Oostenrijk)
 #SERVICE 5002:0:1:1331:3ef:1:c00000:0:0:0:http%3a//rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8?#X-Forwarded-For=185.9.19.118:ServusTV HD Oostenrijk
@@ -77,7 +73,7 @@
 #DESCRIPTION Swamiji TV Austria (Oostenrijk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.markenfunk.com/t1/ngrp%3alive_all/chunklist_b2296608.m3u8:U1 TV (Tirol - Oostenrijk)
 #DESCRIPTION U1 TV (Tirol - Oostenrijk)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8:Tirol TV (Oostenrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.hd-livestream.de%3a1935/live/TirolTV/chunklist_w1178744335.m3u8:Tirol TV (Oostenrijk)
 #DESCRIPTION Tirol TV (Oostenrijk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms01.w24.at/W24/smil%3aliveevent.smil/chunklist.m3u8:W24 TV (Oostenrijk)
 #DESCRIPTION W24 TV (Oostenrijk)

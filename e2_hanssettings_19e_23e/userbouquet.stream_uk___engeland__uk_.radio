@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:2f1:0:0:0:0:0:0:0:
+#SERVICE 1:64:31d:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:2f2:0:0:0:0:0:0:0:
+#SERVICE 1:64:31e:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -141,8 +141,8 @@
 #DESCRIPTION Amble FM (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/s38e67e01f/listen:AMG Radio (Bristol, Engeland, UK)
 #DESCRIPTION AMG Radio (Bristol, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8.viastreaming.net%3a7030/;stream.mp3:Angel Radio (Engeland)
-#DESCRIPTION Angel Radio (Engeland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.viastreaming.net%3a7030/;:Angel Radio
+#DESCRIPTION Angel Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ankerwebstream.dyndns.org/anker:Anker Radio (Nuneaton)
 #DESCRIPTION Anker Radio (Nuneaton)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.canstream.co.uk%3a8031/live.mp3:Apple FM (Engeland)
@@ -417,6 +417,8 @@
 #DESCRIPTION Energy 105.8 FM (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.78.191%3a8096/;:Energy FM Isle of Man (Douglas, Engeland, UK)
 #DESCRIPTION Energy FM Isle of Man (Douglas, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//erewashs.radioca.st/stream:Erewash Sound (Derbyshire)
+#DESCRIPTION Erewash Sound (Derbyshire)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//109.169.46.197%3a8054/stream:Erotic Radio (Londen, Engeland, UK)
 #DESCRIPTION Erotic Radio (Londen, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.162%3a8116/stream:EruptionRadio (Romford, Engeland, UK)
@@ -719,6 +721,8 @@
 #DESCRIPTION Jazz London Radio (Londen, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu9.fastcast4u.com/proxy/jmaradiolive?mp=%252F1:JMA Radio (Carlisle, Engeland, UK)
 #DESCRIPTION JMA Radio (Carlisle, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playoutonestreaming.com/proxy/jorvik:Jorvik Radio (York)
+#DESCRIPTION Jorvik Radio (York)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//joyhits.online/joyhits.mp3:Joy Hits (Engeland, UK)
 #DESCRIPTION Joy Hits (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media-the.musicradio.com/CapitalBrighton:Juice 107.2 (Engeland, UK)
@@ -1137,6 +1141,8 @@
 #DESCRIPTION Redroad FM (Rotherham, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.reformradio.space%3a8000/low.mp3:Reform Radio (Manchester, Engeland, UK)
 #DESCRIPTION Reform Radio (Manchester, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n0a.radiojar.com/m47fp4p5n0quv:Regency Radio (Brighton)
+#DESCRIPTION Regency Radio (Brighton)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radio-uk.co.uk/bb/relaxingjazzcom-ad-free-smooth-jazz:RelaxingJazz (Engeland, UK algemeen)
 #DESCRIPTION RelaxingJazz (Engeland, UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radionomy.com/JamendoLounge:Remix Network (Engeland, UK)
@@ -1153,6 +1159,8 @@
 #DESCRIPTION ReviveFM  (Londen, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//revolution.radioca.st/stream.mp3:Revolution Radio (Northampton)
 #DESCRIPTION Revolution Radio (Northampton)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/s2eaa194f6/listen:Rewind Radio Cornwall
+#DESCRIPTION Rewind Radio Cornwall
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n06.radiojar.com/mdk8a0bf8tzuv?rj-ttl=5&rj-tok=AAABcuaw7IMAK2B2xS3hDnhCew:RFM UK  (Engeland, UK)
 #DESCRIPTION RFM UK  (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams2.autopo.st%3a1234/stream#.mp3:Rhubarb Radio (Wakefield Dictrict + South Leeds)

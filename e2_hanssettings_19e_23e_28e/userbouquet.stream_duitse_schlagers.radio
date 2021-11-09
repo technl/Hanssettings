@@ -23,8 +23,8 @@
 #DESCRIPTION Antenne Niedersachsen - Schlager
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//webradio.antennevorarlberg.at%3a80/schlagerkult:ANTENNE-VORARLBERG-Schlagerkult
 #DESCRIPTION ANTENNE-VORARLBERG-Schlagerkult
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/mid:BR - BR Schlager
-#DESCRIPTION BR - BR Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/brschlager/live/mp3/mid:BR - Schlager
+#DESCRIPTION BR - Schlager
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//148.251.32.18%3a9080:DeutschRadio - DER Schlagersender
 #DESCRIPTION DeutschRadio - DER Schlagersender
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/schlagergarage:Die Schlagergarage (Duitsland)
@@ -53,8 +53,8 @@
 #DESCRIPTION MDR-SCHLAGERWELT-Sachsen-Anhalt
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//livestream.mdr.de/mdrschlagerwelt/thueringen-56.mp3:MDR-SCHLAGERWELT-Thringen
 #DESCRIPTION MDR-SCHLAGERWELT-Thringen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndrplus-live.cast.addradio.de/ndr/ndrplus/live/mp3/128/stream.mp3:NDR-Schlager
-#DESCRIPTION NDR-Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndrschlager.m3u:NDR - NDR Schlager
+#DESCRIPTION NDR - NDR Schlager
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radio7.de/radio7-schlager-192-mp3:Radio 7-Schlager
 #DESCRIPTION Radio 7-Schlager
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//schlager.securestream.radioaustria.at/schlager:Radio Austria - Best of Schlager (Oostenrijk)
@@ -95,8 +95,6 @@
 #DESCRIPTION Radio Schlagergarage
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8113:Radio SchlagerNL
 #DESCRIPTION Radio SchlagerNL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioschlagerparadies.de/schlagerparadies128.mp3:Radio Schlagerparadies
-#DESCRIPTION Radio Schlagerparadies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.radioschlagerparadies.de%3a31883/frischgepresst:Radio Schlagerparadies Frisch Gepresst
 #DESCRIPTION Radio Schlagerparadies Frisch Gepresst
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server.radioschlagerparadies.de/hitmixdernacht:Radio Schlagerparadies Hitmix der Nacht
@@ -109,6 +107,8 @@
 #DESCRIPTION Radio Schlagerparadies Oldie Express
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server.radioschlagerparadies.de/schlagerparty:Radio Schlagerparadies Schlagerparty
 #DESCRIPTION Radio Schlagerparadies Schlagerparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioschlagerparadies.de/schlagerparadies128.mp3:Radio Schlagerparadies
+#DESCRIPTION Radio Schlagerparadies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.118.78.52%3a8000/main_mp3:Radio Schlagertempel
 #DESCRIPTION Radio Schlagertempel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wolke7.stream.laut.fm/wolke7:Radio Wolke7
@@ -121,6 +121,8 @@
 #DESCRIPTION S4 Radio | DE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cdn.energy.ch/energych-broadcast/hooks/32494_1617017427.mp3:Schlager Radio (Zwitserland)
 #DESCRIPTION Schlager Radio (Zwitserland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2-ais-edge-3001-fra-eco-cdn.cast.addradio.de/radiob2/nrw/mp3/high:Schlager Radio NRW
+#DESCRIPTION Schlager Radio NRW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.169.252.115%3a8004/stream:Schlager und Oldie Radio Olbersdorf
 #DESCRIPTION Schlager und Oldie Radio Olbersdorf
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//84.19.184.27%3a30842:Schlagerparadies

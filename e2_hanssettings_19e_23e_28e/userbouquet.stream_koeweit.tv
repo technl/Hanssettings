@@ -1,27 +1,43 @@
 #NAME Stream Koeweit (KW)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8:KTV 1 (Koeweit)
-#DESCRIPTION KTV 1 (Koeweit)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8:KTV 2 (Koeweit)
-#DESCRIPTION KTV 2 (Koeweit)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8:KTV Al Majlis (Koeweit)
-#DESCRIPTION KTV Al Majlis (Koeweit)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8:KTV Al Qurain
+#SERVICE 1:64:2a7:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8:KTV 1
+#DESCRIPTION KTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8:KTV 2
+#DESCRIPTION KTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8:KTV Al Majlis
+#DESCRIPTION KTV Al Majlis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8:KTV Al Qurain
 #DESCRIPTION KTV Al Qurain
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8:KTV Arabie
-#DESCRIPTION KTV Arabie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8:KTV Ethraa (Koeweit)
-#DESCRIPTION KTV Ethraa (Koeweit)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8:KTV Kids
-#DESCRIPTION KTV Kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8:KTV Plus (Koeweit)
-#DESCRIPTION KTV Plus (Koeweit)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8:KTV Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8:KTV Arabe
+#DESCRIPTION KTV Arabe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8:KTV Ethraa
+#DESCRIPTION KTV Ethraa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8:KTV Khallik Bilbait
+#DESCRIPTION KTV Khallik Bilbait
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8:KTV Sport
 #DESCRIPTION KTV Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream02.fasttelco.net/4/pub/asset/28/streams.m3u8:Al Rai
-#DESCRIPTION Al Rai
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.175.40%3a1935/liveTrans/ngrp%3achannel23_all/chunklist.m3u8:Al Maaref
-#DESCRIPTION Al Maaref
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8:KTV Sport Plus
+#DESCRIPTION KTV Sport Plus
+#SERVICE 1:64:2a8:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8:Al Bawadi
+#DESCRIPTION Al Bawadi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8484_1/8484_1/playlist.m3u8:Al Maali TV
+#DESCRIPTION Al Maali TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.175.40%3a1935/liveTrans/ngrp%3achannel23_all/chunklist.m3u8:Al Maaref TV
+#DESCRIPTION Al Maaref TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8:Al Sabah
+#DESCRIPTION Al Sabah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8:Al Shahed HD
+#DESCRIPTION Al Shahed HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.streambrothers.com%3a1936/8724/8724/playlist.m3u8:Alrai TV
+#DESCRIPTION Alrai TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8:Ch4Teen
+#DESCRIPTION Ch4Teen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8:Channel 14
 #DESCRIPTION Channel 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/funoon/04.m3u8:Fuoon TV
-#DESCRIPTION Fuoon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8:Funoon
+#DESCRIPTION Funoon

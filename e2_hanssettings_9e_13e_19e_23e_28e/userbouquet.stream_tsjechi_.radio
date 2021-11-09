@@ -247,8 +247,6 @@
 #DESCRIPTION Radio 1
 #SERVICE 4097:0:2:172:0:0:0:0:0:0:http%3a//icecast8.play.cz/radio7-128.mp3:Radio 7
 #DESCRIPTION Radio 7
-#SERVICE 4097:0:2:118:0:0:0:0:0:0:http%3a//icecast6.play.cz/cesky-impuls.mp3:Radio Český Impuls
-#DESCRIPTION Radio Český Impuls
 #SERVICE 4097:0:2:118:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/citymi128.mp3:Radio City Devadesátka
 #DESCRIPTION Radio City Devadesátka
 #SERVICE 4097:0:2:410:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz/country128.mp3:Radio Country
@@ -259,6 +257,8 @@
 #DESCRIPTION Radio R
 #SERVICE 4097:0:2:168:0:0:0:0:0:0:http%3a//pool.cdn.lagardere.cz/fm-zet:Radio Zet/BBC World
 #DESCRIPTION Radio Zet/BBC World
+#SERVICE 4097:0:2:118:0:0:0:0:0:0:http%3a//icecast6.play.cz/cesky-impuls.mp3:Radio Český Impuls
+#DESCRIPTION Radio Český Impuls
 #SERVICE 4097:0:2:168:0:0:0:0:0:0:https%3a//rozhlas3.stream/sport_aac_128.aac:Radiožurnál Sport
 #DESCRIPTION Radiožurnál Sport
 #SERVICE 4097:0:2:392:0:0:0:0:0:0:http%3a//ice.abradio.cz/radnice128.mp3:Radnice
@@ -271,14 +271,8 @@
 #DESCRIPTION Relaxace oheň
 #SERVICE 4097:0:2:132:0:0:0:0:0:0:http%3a//icecast7.play.cz/crojuniormini128.mp3:Ro Junior - Písničky
 #DESCRIPTION Ro Junior - Písničky
-#SERVICE 4097:0:2:340:0:0:0:0:0:0:http%3a//212.111.2.151%3a8000/rm_blue_128.mp3:Rock Max blue
-#DESCRIPTION Rock Max blue
-#SERVICE 4097:0:2:338:0:0:0:0:0:0:http%3a//212.111.2.151%3a8000/rm_hard_128.mp3:Rock Max hard
-#DESCRIPTION Rock Max hard
-#SERVICE 4097:0:2:336:0:0:0:0:0:0:http%3a//212.111.2.151%3a8000/rm_old_128.mp3:Rock Max old
-#DESCRIPTION Rock Max old
-#SERVICE 4097:0:2:334:0:0:0:0:0:0:http%3a//212.111.2.151%3a8000/rockmax_128.mp3:Rock Max
-#DESCRIPTION Rock Max
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3:Rock Radio
+#DESCRIPTION Rock Radio
 #SERVICE 4097:0:2:342:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a80/gold128.mp3:Rockradio Gold
 #DESCRIPTION Rockradio Gold
 #SERVICE 4097:0:2:344:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a80/prachen128.mp3:Rockradio Prácheň

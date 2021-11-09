@@ -1,5 +1,5 @@
 #NAME Stream Spanje (ES)
-#SERVICE 1:64:29f:0:0:0:0:0:0:0:
+#SERVICE 1:64:2c5:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8:TVE 1
 #DESCRIPTION TVE 1
@@ -9,7 +9,7 @@
 #DESCRIPTION TVE 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8:TVE 2 -2-
 #DESCRIPTION TVE 2 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream-lvlt.rtve.es/24h_main_720.m3u8:TVE 24 Horas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8:TVE 24 Horas
 #DESCRIPTION TVE 24 Horas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586405/master.m3u8:TVE +24 Eventos 1
 #DESCRIPTION TVE +24 Eventos 1
@@ -25,6 +25,8 @@
 #DESCRIPTION TVE Canarias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8:TVE Catalunya
 #DESCRIPTION TVE Catalunya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/index_1500_av-b.m3u8:TVE Play
+#DESCRIPTION TVE Play
 #SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//95.60.229.158%3a20000/udp/239.0.1.1%3a1234:Antena 3
 #DESCRIPTION Antena 3
 #SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//95.60.229.158%3a20000/udp/239.0.2.2%3a1234:Cuatro
@@ -37,7 +39,7 @@
 #DESCRIPTION La Sexta -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8:La 7 Murcia HD
 #DESCRIPTION La 7 Murcia HD
-#SERVICE 1:64:2a0:0:0:0:0:0:0:0:
+#SERVICE 1:64:2c6:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5940924978228.streamlock.net/8157/8157/.m3u8:28 Kanala Baskenland
 #DESCRIPTION 28 Kanala Baskenland
@@ -99,7 +101,7 @@
 #DESCRIPTION Canaria SAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net%3a80/i/iptv2_1@194050/index_1200_av-p.m3u8:CBN Espanol (Spanje)
 #DESCRIPTION CBN Espanol (Spanje)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8?__hdnea__=st=1629359591~exp=1629445991~acl=/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8*~hmac=8a969559fa758c072696656a7905e7cd3b88e8e52f1b8705dff08b901ba1bbb3:CMM Castilla La Mancha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8?__hdnea__=st=1634481222~exp=1634567622~acl=/s/env/cluster-1-b.live.nvp1/live/hls/p/2288691/e/0_xs45iy5i/tl/main/st/0/t/DznN37GHRy-bwqducFv4Xw/index-s32.m3u8*~hmac=eb740bbb542185c011cd97ae401e03c4e0535a98237c6729540e91ce4b335d21:CMM Castilla La Mancha
 #DESCRIPTION CMM Castilla La Mancha
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.239.141.154%3a1935/live/uSCQc5ky/master.m3u8:Condavision
 #DESCRIPTION Condavision

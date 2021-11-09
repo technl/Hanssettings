@@ -145,10 +145,6 @@
 #DESCRIPTION 88vier
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.hitfm.de%3a9050/live:89-HIT-FM
 #DESCRIPTION 89-HIT-FM
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fhhalle.hoerradar.de/890rtl-live-mp3-mq?sABC=59q4187n%25230%2523s58q219o90642456or95s6ns726669n1%2523fgernz.89.0egy.qr&amsparams=playerid%3astream.89.0rtl.de;skey%3a1507072122:890-RTL
-#DESCRIPTION 890-RTL
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fhhalle.hoerradar.de/890rtl-live-mp3-hq?sABC=59q29s98%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523fgernz.89.0egy.qr&amsparams=playerid%3astream.89.0rtl.de;skey%3a1506975640:890-RTL-Livestream
-#DESCRIPTION 890-RTL-Livestream
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//regiocast.hoerradar.de/90s90s-boygroup-mp3-hq?sABC=59q29179%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523fgernzf.90f90f.qr&amsparams=playerid%3astreams.90s90s.de;skey%3a1506972025:90s90s-Boygroups
 #DESCRIPTION 90s90s-Boygroups
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//regiocast.hoerradar.de/90s90s-pop-mp3-hq?sABC=59q2916n%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523fgernzf.90f90f.qr&amsparams=playerid%3astreams.90s90s.de;skey%3a1506972010:90s90s-Hits
@@ -181,6 +177,8 @@
 #DESCRIPTION AGF-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server3.streamserver-unlimited.de%3a8689/stream2:Ahrtalradio
 #DESCRIPTION Ahrtalradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streamonkey.net/aidaradio-meergefuehl:AIDAradio
+#DESCRIPTION AIDAradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/austriapop.mp3:Aldiana Radio Deutschland - Austria Pop
 #DESCRIPTION Aldiana Radio Deutschland - Austria Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/season.mp3:Aldiana Radio Deutschland - Seasonal
@@ -327,10 +325,10 @@
 #DESCRIPTION Antenne Saar-56-kbit-s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamlnn.radio21.de/antenne_sylt.mp3:Antenne Sylt (Duitsland)
 #DESCRIPTION Antenne Sylt (Duitsland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//antenne-th.divicon-stream.net/antth_atyesterh_jaiR-mp3-192?sABC=59q41684%25230%2523n773r87961726n9p9r0pq75s80n80205%2523&amsparams=playerid%3a;skey%3a1507071620:Antenne Thringen--Yesterhits
-#DESCRIPTION Antenne Thringen--Yesterhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antenne-th.divicon-stream.net/antth-atclassics-mp3-192-9735226:Antenne Thüringen Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antenne-th.divicon-stream.net/antth-atclassics-mp3-192-7697867:Antenne Thüringen Classics
 #DESCRIPTION Antenne Thüringen Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//antenne-th.divicon-stream.net/antth_atyesterh_jaiR-mp3-192?sABC=59q41684%25230%2523n773r87961726n9p9r0pq75s80n80205%2523&amsparams=playerid%3a;skey%3a1507071620:Antenne Thüringen Yesterhits
+#DESCRIPTION Antenne Thüringen Yesterhits
 #SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//stream.antennethueringen.de/live/mp3-128/:Antenne Thüringen
 #DESCRIPTION Antenne Thüringen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3channels.webradio.antenne.de/top-40:Antenne Top-40
@@ -369,6 +367,22 @@
 #DESCRIPTION Ballermann-Radio-Country
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//top100.bmr-radio.com%3a8000:Ballermann-Radio-Top100
 #DESCRIPTION Ballermann-Radio-Top100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/franken/mp3/mid:Bayern 1 - Franken
+#DESCRIPTION Bayern 1 - Franken
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid:Bayern 1 - Mainfranken
+#DESCRIPTION Bayern 1 - Mainfranken
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid:Bayern 1 - Niederbayern Oberpfalz
+#DESCRIPTION Bayern 1 - Niederbayern Oberpfalz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/obb/mp3/mid:Bayern 1 - Oberbayern
+#DESCRIPTION Bayern 1 - Oberbayern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid:Bayern 1 - Schwaben
+#DESCRIPTION Bayern 1 - Schwaben
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br2/nord/mp3/mid:Bayern 2 - Nord
+#DESCRIPTION Bayern 2 - Nord
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br2/sued/mp3/mid:Bayern 2 - Süd
+#DESCRIPTION Bayern 2 - Süd
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br3/live/mp3/mid:Bayern 3
+#DESCRIPTION Bayern 3
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bayerwaldradio.deg.net%3a8000/bayerwaldradio:Bayerwaldradio
 #DESCRIPTION Bayerwaldradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streambbr.ir-media-tec.com/live/mp3-128/web/play.mp3:BB Radio
@@ -447,48 +461,42 @@
 #DESCRIPTION BoomRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//born79.stream.laut.fm/born79?t302=2017-12-01_22-20-14&uuid=16841490-0af9-43b9-be3b-b07296dfc9e0:Born79
 #DESCRIPTION Born79
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-br1-franken.cast.addradio.de/br/br1/franken/mp3/mid:BR - Bayern 1 Mittel und Oberfranken
-#DESCRIPTION BR - Bayern 1 Mittel und Oberfranken
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-br1-obb.cast.addradio.de/br/br1/obb/mp3/mid:BR - Bayern 1 Oberbayern
-#DESCRIPTION BR - Bayern 1 Oberbayern
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-br1-schwaben.cast.addradio.de/br/br1/schwaben/mp3/mid:BR - Bayern 1 Schwaben
-#DESCRIPTION BR - Bayern 1 Schwaben
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-br2-nord.cast.addradio.de/br/br2/nord/mp3/mid:BR - Bayern 2 Nord
-#DESCRIPTION BR - Bayern 2 Nord
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-br2-sued.cast.addradio.de/br/br2/sued/mp3/mid:BR - Bayern 2 Süd
-#DESCRIPTION BR - Bayern 2 Süd
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-br2-sued.cast.addradio.de/br/br2/sued/mp3/mid:BR - Bayern 3
-#DESCRIPTION BR - Bayern 3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-br1-mainfranken.cast.addradio.de/br/br1/mainfranken/mp3/mid:BR - Bayern1 Mainfranken
-#DESCRIPTION BR - Bayern1 Mainfranken
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-br1-nbopf.cast.addradio.de/br/br1/nbopf/mp3/mid:BR - Bayern1 Niederbayern--Oberpfalz
-#DESCRIPTION BR - Bayern1 Niederbayern--Oberpfalz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/mid:BR - BR Heimat
-#DESCRIPTION BR - BR Heimat
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/high:BR - BR Klassik
-#DESCRIPTION BR - BR Klassik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-puls-live.cast.addradio.de/br/puls/live/mp3/mid:BR - BR Puls
-#DESCRIPTION BR - BR Puls
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/mid:BR - BR Schlager
-#DESCRIPTION BR - BR Schlager
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/mid:BR - BR24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br24/live/mp3/mid:BR - BR24
 #DESCRIPTION BR - BR24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br24live/live/mp3/mid:BR - BR24live
+#DESCRIPTION BR - BR24live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/brheimat/live/mp3/mid:BR - Heimat
+#DESCRIPTION BR - Heimat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/brklassik/live/mp3/high:BR - Klassik
+#DESCRIPTION BR - Klassik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/puls/live/mp3/mid:BR - Puls
+#DESCRIPTION BR - Puls
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/brschlager/live/mp3/mid:BR - Schlager
+#DESCRIPTION BR - Schlager
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//de-hz-fal-stream06.rautemusik.fm%3a80/breakz:BreakzFM
 #DESCRIPTION BreakzFM
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRK7L:Bremen Eins
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/webchannel6/mp3/128/stream.mp3:Bremen Eins Beat Club Non Stop
+#DESCRIPTION Bremen Eins Beat Club Non Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/webchannel5/mp3/128/stream.mp3:Bremen Eins Live in Concert
+#DESCRIPTION Bremen Eins Live in Concert
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3:Bremen Eins
 #DESCRIPTION Bremen Eins
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3:Bremen Eins
-#DESCRIPTION Bremen Eins
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3:Bremen Next
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3:Bremen Next
 #DESCRIPTION Bremen Next
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/64/stream.mp3:Bremen Next-56kbs
-#DESCRIPTION Bremen Next-56kbs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rb-bremenvier-live.sslcast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3:Bremen Vier (Duitsland)
-#DESCRIPTION Bremen Vier (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRKc2:Bremen Vier
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/webchannel3/mp3/128/stream.mp3:Bremen Vier Heuckzeug
+#DESCRIPTION Bremen Vier Heuckzeug
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/webchannel8/mp3/128/stream.mp3:Bremen Vier Rockt
+#DESCRIPTION Bremen Vier Rockt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/webchannel2/mp3/128/stream.mp3:Bremen Vier Spezial Rocktober
+#DESCRIPTION Bremen Vier Spezial Rocktober
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3:Bremen Vier
 #DESCRIPTION Bremen Vier
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dl-ondemand.radiobremen.de/bremenzwei.m3u:Bremen Zwei (Duitsland)
-#DESCRIPTION Bremen Zwei (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/webchannel7/mp3/128/stream.mp3:Bremen Zwei Sounds
+#DESCRIPTION Bremen Zwei Sounds
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/webchannel4/mp3/128/stream.mp3:Bremen Zwei Zeiglers Wunderbare Welt des Pop
+#DESCRIPTION Bremen Zwei Zeiglers Wunderbare Welt des Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3:Bremen Zwei
+#DESCRIPTION Bremen Zwei
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//burnfm.radionetz.de%3a8000/burn-fm.mp3:BurnFM
 #DESCRIPTION BurnFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bytefm.cast.addradio.de/bytefm/main/mid/stream:ByteFM
@@ -685,12 +693,12 @@
 #DESCRIPTION Dublovers (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dw-radio-english-mp3.akacast.akamaistream.net/7/779/135362/v1/gnl.akacast.akamaistream.net/dw-radio-english-mp3:DW Radio English (Duitsland)
 #DESCRIPTION DW Radio English (Duitsland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//egofm-live.cast.addradio.de/egofm/live/mp3/high/stream.mp3:egoFM (Duitsland)
-#DESCRIPTION egoFM (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.egofm.de/egofmseewald.mp3:egoFM - Seewald (Duitsland)
 #DESCRIPTION egoFM - Seewald (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//egofm-sun.cast.addradio.de/egofm/sun/mp3/high/stream.mp3:egoFM - Sun (Duitsland)
 #DESCRIPTION egoFM - Sun (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//egofm-live.cast.addradio.de/egofm/live/mp3/high/stream.mp3:egoFM
+#DESCRIPTION egoFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3ad.egofm.c.nmdn.net/egofmflash_128/livestream.mp3:egoFM-Flash
 #DESCRIPTION egoFM-Flash
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3ad.egofm.c.nmdn.net/egofmpure_128/livestream.mp3:egoFM-Pure
@@ -767,6 +775,8 @@
 #DESCRIPTION Energy Mastermix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//f5-pa6-2.nrjaudio.fm/de/33003/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs7&adws_out_a1:Energy München
 #DESCRIPTION Energy München
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.streamonkey.net/energy-nrw/stream/mp3:Energy NRW
+#DESCRIPTION Energy NRW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//f5-pa6-2.nrjaudio.fm/de/33011/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs7&adws_out_a1:Energy Nürnberg
 #DESCRIPTION Energy Nürnberg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//f5-th2.nrjaudio.fm/de/56857/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs7&adws_out_b2:Energy Oriental
@@ -799,10 +809,10 @@
 #DESCRIPTION Energy Urban
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/56852/mp3_128.mp3?:Energy Xmas Hits
 #DESCRIPTION Energy Xmas Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3:ERF Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.erf.de/data/files/content.sources.r.erfplus.wortzumtag/929945.mp3:ERF Jess
+#DESCRIPTION ERF Jess
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//erf1a64-ice-edge-1105-fra-eco-cdn.cast.addradio.de/erf1a64/live/mp3/high:ERF Plus
 #DESCRIPTION ERF Plus
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c14000-l.i.core.cdn.streamfarm.net/14000cina/live/2908erfpop/live_de_96.mp3:ERF Pop
-#DESCRIPTION ERF Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/ERiKA1:ERiKA-1
 #DESCRIPTION ERiKA-1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.escradio.com%3a8030:ESC-Radio
@@ -824,8 +834,6 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.138.101.174%3a24760:FeelgoodRadionet
 #DESCRIPTION FeelgoodRadionet
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/femotion-radio/stream/mp3:Femotion Radio
-#DESCRIPTION Femotion Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge06.streamonkey.net/femotion-radio?:Femotion Radio
 #DESCRIPTION Femotion Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//mp3.ffh.de/ffhchannels/hqacoustichits.aac:FFH - Acoustic Hits
 #DESCRIPTION FFH - Acoustic Hits
@@ -1123,30 +1131,24 @@
 #DESCRIPTION Houselovers
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.stream.tb-group.fm/ht.mp3?:HouseTimeFM
 #DESCRIPTION HouseTimeFM
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRF3p:hr-info
-#DESCRIPTION hr-info
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRF9Z:HR-YOU-FM
-#DESCRIPTION HR-YOU-FM
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRF5S:HR-YOU-FM-Club
-#DESCRIPTION HR-YOU-FM-Club
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRF8k:HR-YOU-FM-Just-Music
-#DESCRIPTION HR-YOU-FM-Just-Music
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRFds:HR-YOU-FM-Sounds
-#DESCRIPTION HR-YOU-FM-Sounds
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRDGD:HR1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metafiles.gl-systemhaus.de/hr/hrinfo_2.m3u:HR Infp
+#DESCRIPTION HR Infp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metafiles.gl-systemhaus.de/hr/youfm_2.m3u:HR YouFM
+#DESCRIPTION HR YouFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metafiles.gl-systemhaus.de/hr/hr1_2.m3u:HR1
 #DESCRIPTION HR1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3:HR2 Kultur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metafiles.gl-systemhaus.de/hr/hr2_2.m3u:HR2 Kultur
 #DESCRIPTION HR2 Kultur
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRDKW:HR2
 #DESCRIPTION HR2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRDQS:HR3
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//metafiles.gl-systemhaus.de/hr/hr3_2.m3u:HR3
 #DESCRIPTION HR3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hr-hr4-mitte.cast.addradio.de/hr/hr4/mitte/mp3/128/stream.mp3:HR4 Mittelhessen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metafiles.gl-systemhaus.de/hr/hr4_mitte_2.m3u:HR4 Mittelhessen
 #DESCRIPTION HR4 Mittelhessen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hr-hr4-nord.cast.addradio.de/hr/hr4/nord/mp3/128/stream.mp3:HR4 Nord-Osthessen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metafiles.gl-systemhaus.de/hr/hr4_nord_2.m3u:HR4 Nord-Osthessen
 #DESCRIPTION HR4 Nord-Osthessen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3:HR4 Südhessen/Rhein-Main
-#DESCRIPTION HR4 Südhessen/Rhein-Main
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metafiles.gl-systemhaus.de/hr/hr4_2.m3u:HR4 Südhessen
+#DESCRIPTION HR4 Südhessen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//addrad.io/4WRDWP:HR4
 #DESCRIPTION HR4
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//144.76.39.214%3a9510/stream:Hrvatski Radio Frankfurt
@@ -1259,7 +1261,7 @@
 #DESCRIPTION kinderlieder-123
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kiraka-lh.akamaihd.net/i/wdr_kiraka@345189/index_1_a-p.m3u8:Kiraka, kinderradio WDR (Duitsland)
 #DESCRIPTION Kiraka, kinderradio WDR (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.kissfm.de/kissfm/mp3-128/internetradio/:Kiss-FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.kissfm.de/kissfm/mp3-128/internetradio/:Kiss-FM
 #DESCRIPTION Kiss-FM
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.kissfm.de/kissfm-electro/mp3-128/internetradio/:Kiss-FM-Electro
 #DESCRIPTION Kiss-FM-Electro
@@ -1365,8 +1367,10 @@
 #DESCRIPTION Krawallradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//krix-fm.nrw%3a8000/stream:krixx fm (Duitsland)
 #DESCRIPTION krixx fm (Duitsland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.streamonkey.net/kulthitradio-nrw:Kulthitradio NRW
-#DESCRIPTION Kulthitradio NRW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge94.streamonkey.net/kulthitradio-nrw:kulthitRADIO NRW alternatief
+#DESCRIPTION kulthitRADIO NRW alternatief
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.streamonkey.net/kulthitradio-nrw:kulthitRADIO NRW
+#DESCRIPTION kulthitRADIO NRW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice.kultradio.fm/kult128.ogg:KULTRADIO
 #DESCRIPTION KULTRADIO
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/128/stream.mp3:Kulturradio-RBB
@@ -1559,27 +1563,27 @@
 #DESCRIPTION Lounge Plus (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.ml1.t4e.dj%3a80/loungelovers_high.mp3:Loungelovers
 #DESCRIPTION Loungelovers
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/lulufm.mp3:lulu.fm
-#DESCRIPTION lulu.fm
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/luluzwei.mp3:lulu2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/lulufm.mp3:Lulu.fm - Lesbisch-schwuler Rundfunk (Köln)
+#DESCRIPTION Lulu.fm - Lesbisch-schwuler Rundfunk (Köln)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/luluzwei.mp3:lulu2
 #DESCRIPTION lulu2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/lulu80xl.mp3:lulu80XL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/lulu80xl.mp3:lulu80XL
 #DESCRIPTION lulu80XL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/luluclub.mp3:luluCLUB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/luluclub.mp3:luluCLUB
 #DESCRIPTION luluCLUB
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/lulugold.mp3:luluD'OR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/lulugold.mp3:luluD'OR
 #DESCRIPTION luluD'OR
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/luludiva.mp3:luluDIVA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/luludiva.mp3:luluDIVA
 #DESCRIPTION luluDIVA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/luludyke.mp3:luluDYKE*
-#DESCRIPTION luluDYKE*
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/luluesc.mp3:luluESC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/luludyke.mp3:luluDYKE
+#DESCRIPTION luluDYKE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/luluesc.mp3:luluESC
 #DESCRIPTION luluESC
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/lulueuro.mp3:luluEURO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/lulueuro.mp3:luluEURO
 #DESCRIPTION luluEURO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/lululoft.mp3:luluLOFT
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/lululoft.mp3:luluLOFT
 #DESCRIPTION luluLOFT
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.201.81.101/lulutrax.mp3:luluTRAX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s38.derstream.net/lulutrax.mp3:luluTRAX
 #DESCRIPTION luluTRAX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.mainlux.de%3a8000/lux-128.mp3:LUX Radio (Frankfurt am Main - Duitsland)
 #DESCRIPTION LUX Radio (Frankfurt am Main - Duitsland)
@@ -1693,7 +1697,7 @@
 #DESCRIPTION MDR-Thringen-AAC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/low/stream.mp3:MDR-Thringen-low
 #DESCRIPTION MDR-Thringen-low
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//avw.mdr.de/streams/991101-0_mp3_high.m3u:MDR-Tweens
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mdr-edge-305d-dus-ts-cdn.cast.addradio.de/mdr/tweens/live/mp3/128/stream.mp3:MDR-Tweens
 #DESCRIPTION MDR-Tweens
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//meerradio.ip-streaming.net/meerradio:Meer-Radio-880-FM
 #DESCRIPTION Meer-Radio-880-FM
@@ -1757,80 +1761,102 @@
 #DESCRIPTION MusikWelle Allgäu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//meralunafm.radionetz.de%3a8001/meralunafm.mp3:Méra Luna FM (Hamburg)
 #DESCRIPTION Méra Luna FM (Hamburg)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-25.cast.addradio.de/ndr/loop/25/mp3/128/stream.mp3:N-JOY Abstrait
-#DESCRIPTION N-JOY Abstrait
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr-loop-27.cast.addradio.de/ndr/loop/27/mp3/128/stream.mp3:N-JOY Morningshow
-#DESCRIPTION N-JOY Morningshow
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-30.cast.addradio.de/ndr/loop/30/mp3/128/stream.mp3:N-JOY Music Meeting
-#DESCRIPTION N-JOY Music Meeting
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-29.cast.addradio.de/ndr/loop/29/mp3/128/stream.mp3:N-JOY POP
-#DESCRIPTION N-JOY POP
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-7.cast.addradio.de/ndr/loop/7/mp3/128/stream.mp3:N-JOY Song des Lebens
-#DESCRIPTION N-JOY Song des Lebens
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-5.cast.addradio.de/ndr/loop/5/mp3/128/stream.mp3:N-JOY Soundfiles Alternative
-#DESCRIPTION N-JOY Soundfiles Alternative
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-6.cast.addradio.de/ndr/loop/6/mp3/128/stream.mp3:N-JOY Soundfiles HipHop
-#DESCRIPTION N-JOY Soundfiles HipHop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-8.cast.addradio.de/ndr/loop/8/mp3/128/stream.mp3:N-JOY Top 100
-#DESCRIPTION N-JOY Top 100
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/mittelalter-net:Narrenwut
 #DESCRIPTION Narrenwut
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//82.193.248.59%3a8000/radio98einsonair:NB-Radiotreff-880
 #DESCRIPTION NB-Radiotreff-880
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3:NDR-1 Niedersachsen
-#DESCRIPTION NDR-1 Niedersachsen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3:NDR-1 Radio MV
-#DESCRIPTION NDR-1 Radio MV
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3:NDR-1 Welle Nord
-#DESCRIPTION NDR-1 Welle Nord
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndr1radiomv-greifswald.cast.addradio.de/ndr/ndr1radiomv/greifswald/mp3/128/stream.mp3:NDR-1-Radio-MV-Regional-HGW
-#DESCRIPTION NDR-1-Radio-MV-Regional-HGW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndr1radiomv-greifswald.cast.addradio.de/ndr/ndr1radiomv/greifswald/aac/48/stream.aac:NDR-1-Radio-MV-Studio-Greifswald-48k-ACC
-#DESCRIPTION NDR-1-Radio-MV-Studio-Greifswald-48k-ACC
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3:NDR-2
-#DESCRIPTION NDR-2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndr2-hamburg.cast.addradio.de/ndr/ndr2/hamburg/mp3/128/stream.mp3:NDR-2---Region-Hamburg
-#DESCRIPTION NDR-2---Region-Hamburg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-23.cast.addradio.de/ndr/loop/23/mp3/128/stream.mp3:NDR-2-Easy-Sounds
-#DESCRIPTION NDR-2-Easy-Sounds
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndr2-mecklenburgvorpommern.cast.addradio.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3:NDR-2-MV
-#DESCRIPTION NDR-2-MV
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-18.cast.addradio.de/ndr/loop/18/mp3/128/stream.mp3:NDR-2-Soundcheck---Die-Peter-Urban-Show
-#DESCRIPTION NDR-2-Soundcheck---Die-Peter-Urban-Show
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-15.cast.addradio.de/ndr/loop/15/mp3/128/stream.mp3:NDR-2-Soundcheck-Live
-#DESCRIPTION NDR-2-Soundcheck-Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-17.cast.addradio.de/ndr/loop/17/mp3/128/stream.mp3:NDR-2-Soundcheck-Musikszene-Deutschland
-#DESCRIPTION NDR-2-Soundcheck-Musikszene-Deutschland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-16.cast.addradio.de/ndr/loop/16/mp3/128/stream.mp3:NDR-2-Soundcheck-Neue-Musik-am-Dienstag
-#DESCRIPTION NDR-2-Soundcheck-Neue-Musik-am-Dienstag
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-21.cast.addradio.de/ndr/loop/21/mp3/128/stream.mp3:NDR-2-Soundcheck-Neue-Musik-am-Freitag
-#DESCRIPTION NDR-2-Soundcheck-Neue-Musik-am-Freitag
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-22.cast.addradio.de/ndr/loop/22/mp3/128/stream.mp3:NDR-2-Soundcheck-Party
-#DESCRIPTION NDR-2-Soundcheck-Party
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ndr-ndr903-hamburg.cast.addradio.de/ndr/ndr903/hamburg/mp3/128/stream.mp3:NDR-903
-#DESCRIPTION NDR-903
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ndr-ndrblue-live.cast.addradio.de/ndr/ndrblue/live/mp3/128/stream.mp3:NDR-Blue
-#DESCRIPTION NDR-Blue
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndrinfospezial-live.cast.addradio.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3:NDR-Info Spezial
-#DESCRIPTION NDR-Info Spezial
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3:NDR-Info
-#DESCRIPTION NDR-Info
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndrinfo-hamburg.cast.addradio.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3:NDR-Info-Hamburg
-#DESCRIPTION NDR-Info-Hamburg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndrinfo-mecklenburgvorpommern.cast.addradio.de/ndr/ndrinfo/mecklenburgvorpommern/mp3/128/stream.mp3:NDR-Info-Mecklenburg-Vorpommern
-#DESCRIPTION NDR-Info-Mecklenburg-Vorpommern
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-2.cast.addradio.de/ndr/loop/2/mp3/128/stream.mp3:NDR-Kultur Belcanto
-#DESCRIPTION NDR-Kultur Belcanto
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-24.cast.addradio.de/ndr/loop/24/mp3/128/stream.mp3:NDR-Kultur Neo
-#DESCRIPTION NDR-Kultur Neo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-4.cast.addradio.de/ndr/loop/4/mp3/128/stream.mp3:NDR-Kultur Stake Stucke
-#DESCRIPTION NDR-Kultur Stake Stucke
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3:NDR-Kultur
-#DESCRIPTION NDR-Kultur
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3:NDR-N-Joy
-#DESCRIPTION NDR-N-Joy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-ndrplus-live.cast.addradio.de/ndr/ndrplus/live/mp3/128/stream.mp3:NDR-Schlager
-#DESCRIPTION NDR-Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u:NDR - Blue
+#DESCRIPTION NDR - Blue
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndrschlager.m3u:NDR - Schlager
+#DESCRIPTION NDR - Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_bs.m3u:NDR 1 Niedersachsen - Region Braunschweig
+#DESCRIPTION NDR 1 Niedersachsen - Region Braunschweig
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u:NDR 1 Niedersachsen - Region Hannover
+#DESCRIPTION NDR 1 Niedersachsen - Region Hannover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_lg.m3u:NDR 1 Niedersachsen - Region Lüneburg
+#DESCRIPTION NDR 1 Niedersachsen - Region Lüneburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_ol.m3u:NDR 1 Niedersachsen - Region Oldenburg
+#DESCRIPTION NDR 1 Niedersachsen - Region Oldenburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_os.m3u:NDR 1 Niedersachsen - Region Osnabrück
+#DESCRIPTION NDR 1 Niedersachsen - Region Osnabrück
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv_hgw.m3u:NDR 1 Radio MV - Region Greifswald
+#DESCRIPTION NDR 1 Radio MV - Region Greifswald
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv_nb.m3u:NDR 1 Radio MV - Region Neubrandenburg
+#DESCRIPTION NDR 1 Radio MV - Region Neubrandenburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv_hro.m3u:NDR 1 Radio MV - Region Rostock
+#DESCRIPTION NDR 1 Radio MV - Region Rostock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv.m3u:NDR 1 Radio MV - Region Schwerin
+#DESCRIPTION NDR 1 Radio MV - Region Schwerin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_fl.m3u:NDR 1 Welle Nord - Region Flensburg
+#DESCRIPTION NDR 1 Welle Nord - Region Flensburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_hei.m3u:NDR 1 Welle Nord - Region Heide
+#DESCRIPTION NDR 1 Welle Nord - Region Heide
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord.m3u:NDR 1 Welle Nord - Region Kiel
+#DESCRIPTION NDR 1 Welle Nord - Region Kiel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_hl.m3u:NDR 1 Welle Nord - Region Lübeck
+#DESCRIPTION NDR 1 Welle Nord - Region Lübeck
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_nor.m3u:NDR 1 Welle Nord - Region Norderstedt
+#DESCRIPTION NDR 1 Welle Nord - Region Norderstedt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u:NDR 2 - Hamburg
+#DESCRIPTION NDR 2 - Hamburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr2_mv.m3u:NDR 2 - Mecklenburg-Vorpommern
+#DESCRIPTION NDR 2 - Mecklenburg-Vorpommern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u:NDR 2 - Niedersachsen
+#DESCRIPTION NDR 2 - Niedersachsen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:ttps%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr2_sh.m3u:NDR 2 - Schleswig-Holstein
+#DESCRIPTION NDR 2 - Schleswig-Holstein
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/16/mp3/128/stream.mp3 :NDR 2 Soundcheck Dienstag
+#DESCRIPTION NDR 2 Soundcheck Dienstag
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/23/mp3/128/stream.mp3:NDR 2 Soundcheck Easy Sound
+#DESCRIPTION NDR 2 Soundcheck Easy Sound
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/21/mp3/128/stream.mp3:NDR 2 Soundcheck Freitag
+#DESCRIPTION NDR 2 Soundcheck Freitag
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/17/mp3/128/stream.mp3:NDR 2 Soundcheck Mittwoch
+#DESCRIPTION NDR 2 Soundcheck Mittwoch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/15/mp3/128/stream.mp3 :NDR 2 Soundcheck Monntag
+#DESCRIPTION NDR 2 Soundcheck Monntag
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/22/mp3/128/stream.mp3:NDR 2 Soundcheck Party
+#DESCRIPTION NDR 2 Soundcheck Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/18/mp3/128/stream.mp3:NDR 2 Soundcheck Peter Urban Show
+#DESCRIPTION NDR 2 Soundcheck Peter Urban Show
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3:NDR 2
+#DESCRIPTION NDR 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u:NDR 903
+#DESCRIPTION NDR 903
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u:NDR Info - Hamburg
+#DESCRIPTION NDR Info - Hamburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_mv.m3u:NDR Info - Mecklenburg-Vorpommern
+#DESCRIPTION NDR Info - Mecklenburg-Vorpommern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u:NDR Info - Niedersachsen
+#DESCRIPTION NDR Info - Niedersachsen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u:NDR Info - Schleswig-Holstein
+#DESCRIPTION NDR Info - Schleswig-Holstein
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_spezial.m3u:NDR Info Spezial
+#DESCRIPTION NDR Info Spezial
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/2/mp3/128/stream.mp3:NDR Kultur Belcanto
+#DESCRIPTION NDR Kultur Belcanto
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/4/mp3/128/stream.mp3 :NDR Kultur Musikales Gedankreisen
+#DESCRIPTION NDR Kultur Musikales Gedankreisen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/24/mp3/128/stream.mp3 :NDR Kultur Neo
+#DESCRIPTION NDR Kultur Neo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u:NDR Kultur
+#DESCRIPTION NDR Kultur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u:NDR N-Joy
+#DESCRIPTION NDR N-Joy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/8/mp3/128/stream.mp3:NDR NJoy Airplay Charts
+#DESCRIPTION NDR NJoy Airplay Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/5/mp3/128/stream.mp3:NDR NJoy Club
+#DESCRIPTION NDR NJoy Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/27/mp3/128/stream.mp3:NDR NJoy Morning Show
+#DESCRIPTION NDR NJoy Morning Show
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/29/mp3/128/stream.mp3:NDR NJoy Play
+#DESCRIPTION NDR NJoy Play
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/6/mp3/128/stream.mp3:NDR NJoy Soundfiles HipHop
+#DESCRIPTION NDR NJoy Soundfiles HipHop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/25/mp3/128/stream.mp3:NDR NJoy Top Hits von Heute
+#DESCRIPTION NDR NJoy Top Hits von Heute
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.ndr.de/ndr/loop/28/mp3/128/stream.mp3:NDR NJoy Weltweit
+#DESCRIPTION NDR NJoy Weltweit
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3.l.nmdn.net%3a80/ps-news894/livestream.mp3:NE-WS-894
 #DESCRIPTION NE-WS-894
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nectarine.from-de.com/necta192:Nectarine Demoscene Radio
@@ -1877,6 +1903,10 @@
 #DESCRIPTION Notenkiste---deutsche-Texte
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fm-broadcast.com%3a8000/novumfm.mp3:NOVUMfm
 #DESCRIPTION NOVUMfm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4459jrh:NOXX Top 40
+#DESCRIPTION NOXX Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4459jmc:NOXX
+#DESCRIPTION NOXX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nsw-radio.de%3a8000/nswmp3:NSW-Live-NSW-Anime
 #DESCRIPTION NSW-Live-NSW-Anime
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//net.stream.laut.fm/net?t302=2017-12-11_22-00-50&uuid=1e3c989c-be32-4aeb-ac18-ed7c2f9bd684:Obscura-basement-radio
@@ -1889,8 +1919,10 @@
 #DESCRIPTION Okerwelle-1046
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radio.oeins.de%3a8000/oeins:Oldenburg-Eins
 #DESCRIPTION Oldenburg-Eins
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//37.187.93.104%3a8368:Oldiewelle-Roding
-#DESCRIPTION Oldiewelle-Roding
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2-webradio.antenne.de/antenne-nrw/stream:Oldie Antenne NRW
+#DESCRIPTION Oldie Antenne NRW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.187.93.104%3a8368:Oldiewelle Roding
+#DESCRIPTION Oldiewelle Roding
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//osr.rcm-hosting.de%3a8500/;stream/1:osradio 1048
 #DESCRIPTION osradio 1048
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ir-media.hoerradar.de/ostseewelle-80er-mp3-mq?sABC=5n2ss14n%25230%2523r115nr705s0r897o2p4pq98r76o36594%2523jro&amsparams=playerid%3aweb;skey%3a1513091402:Ostseewelle 80er-Hits
@@ -2297,8 +2329,8 @@
 #DESCRIPTION Radio Bochum
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-de-hz-fal-stream08-cluster01.radiohost.de/radiobollerwagen_mp3-192:Radio Bollerwagen
 #DESCRIPTION Radio Bollerwagen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ga-stream01.ga-bonn.de%3a80/live128:Radio Bonn (Duitsland)
-#DESCRIPTION Radio Bonn (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ga-stream01.ga-bonn.de%3a80/live128:Radio Bonn
+#DESCRIPTION Radio Bonn
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-brocken80er-mp3-128-3856659?sABC=59q02803%25230%2523s58q219o90642456or95s6ns726669n1%2523yvfgrayvir&amsparams=playerid%3alistenlive;skey%3a1506813955:Radio Brocken - 80er
 #DESCRIPTION Radio Brocken - 80er
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-brocken90er-mp3-128-5705884?sABC=59q0281q%25230%2523s58q219o90642456or95s6ns726669n1%2523yvfgrayvir&amsparams=playerid%3alistenlive;skey%3a1506813981:Radio Brocken - 90er
@@ -2831,6 +2863,8 @@
 #DESCRIPTION Radio Teddy Kinderdisco
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamtdy.ir-media-tec.com/kinderlieder/mp3-128/web/play.mp3:Radio Teddy Kinderlieder
 #DESCRIPTION Radio Teddy Kinderlieder
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamtdy.ir-media-tec.com/live/mp3-128/dmhubweb/play.mp3:Radio Teddy NRW
+#DESCRIPTION Radio Teddy NRW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamtdy.ir-media-tec.com/Zuckowski/mp3-128/web/play.mp3:Radio Teddy Rolf Zuckowski
 #DESCRIPTION Radio Teddy Rolf Zuckowski
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamtdy.ir-media-tec.com/softmix/mp3-128/web/play.mp3:Radio Teddy Softmix
@@ -3025,18 +3059,20 @@
 #DESCRIPTION RauteMusik-Trap
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//de-hz-fal-stream04.rautemusik.fm%3a80/wackenradio:RauteMusik-Wacken-Radio
 #DESCRIPTION RauteMusik-Wacken-Radio
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRKhZ:RBB-Antenne-Brandenburg
-#DESCRIPTION RBB-Antenne-Brandenburg
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRKkD:RBB-Fritz
-#DESCRIPTION RBB-Fritz
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRKng:RBB-InfoRadio
-#DESCRIPTION RBB-InfoRadio
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRKpW:RBB-Kulturradio
-#DESCRIPTION RBB-Kulturradio
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRKtc:RBB-Radio-Eins
-#DESCRIPTION RBB-Radio-Eins
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRKrz:RBB-radioBERLIN-888
-#DESCRIPTION RBB-radioBERLIN-888
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid:RBB Antenne Brandenburg
+#DESCRIPTION RBB Antenne Brandenburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid:RBB BERLIN 888
+#DESCRIPTION RBB BERLIN 888
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid:RBB Fritz
+#DESCRIPTION RBB Fritz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid:RBB InfoRadio
+#DESCRIPTION RBB InfoRadio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high:RBB Kulturradio
+#DESCRIPTION RBB Kulturradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioeins.de/frankfurt/livemp3:RBB Radio Eins Frankfurt
+#DESCRIPTION RBB Radio Eins Frankfurt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid:RBB Radio Eins
+#DESCRIPTION RBB Radio Eins
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.118.122.220%3a8002/stream:Reboot-FM
 #DESCRIPTION Reboot-FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ais.rastamusic.com%3a80/rastamusic.mp3:Reggae-Radio-Rastamusiccom
@@ -3247,6 +3283,8 @@
 #DESCRIPTION RTL 80er 104.6
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rt1-80s.cast.addradio.de/rt1/80s/mp3/high/stream.mp3:RTL 80s
 #DESCRIPTION RTL 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-rtllive-mp3-256-6495671?sABC=61797502%25230%25235o53q8291ssor6sq28o1sr2p776p8034%2523qverxgyvaxUC&amsparams=playerid%3adirektlinkHP;skey%3a1635349762:RTL 89.0
+#DESCRIPTION RTL 89.0
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/rtl-90er/mp3-128:RTL 90er 104.6
 #DESCRIPTION RTL 90er 104.6
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-90s.cast.addradio.de/rt1/90s/mp3/high/stream.mp3:RTL 90s
@@ -3385,8 +3423,6 @@
 #DESCRIPTION RTL The Wave 104.6
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/rtl-top40/mp3-128:RTL Top- 40 104.6
 #DESCRIPTION RTL Top- 40 104.6
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-top40.cast.addradio.de/rt1/top40/mp3/high/stream.mp3:RTL Top40
-#DESCRIPTION RTL Top40
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-weekend.cast.addradio.de/rt1/weekend/mp3/high/stream.mp3:RTL Weekend
 #DESCRIPTION RTL Weekend
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-xmas.cast.addradio.de/rt1/xmas/mp3/high/stream.mp3:RTL Xmas
@@ -3437,6 +3473,8 @@
 #DESCRIPTION Schaf & Schnucke  - regio Lüneburger Heide/Elbe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice.kultradio.fm%3a80/uniradio/schalltwerk.mp3:Schalltwerk
 #DESCRIPTION Schalltwerk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2-ais-edge-3001-fra-eco-cdn.cast.addradio.de/radiob2/nrw/mp3/high:Schlager Radio NRW
+#DESCRIPTION Schlager Radio NRW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.schlagerhoelle.de%3a30842:Schlagerhlle
 #DESCRIPTION Schlagerhlle
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//84.19.184.27%3a30842:Schlagerparadies-Webstream
@@ -3611,70 +3649,64 @@
 #DESCRIPTION SW-Radio-Plautdietsch-32kbps
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swingsalon.stream.laut.fm/swingsalon?pl=m3u&t302=2017-12-17_14-50-07&uuid=6cf7b1f4-5412-47d3-bef4-28e1218a93ee:swingsalon
 #DESCRIPTION swingsalon
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swraktuell-live.cast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3:SWR Aktuel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/swr/swraktuell/live/mp3/128/stream.mp3:SWR Aktuel
 #DESCRIPTION SWR Aktuel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/swr/swr/raka11/aac/96/stream.aac:SWR Das Ding Rap, Sonst Nichts
+#DESCRIPTION SWR Das Ding Rap, Sonst Nichts
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka10/:SWR DASDING Chillout
 #DESCRIPTION SWR DASDING Chillout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0: %09https%3a//liveradio.swr.de/sw331ch/raka07/:SWR DASDING Partyfieber
 #DESCRIPTION SWR DASDING Partyfieber
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka11/:SWR DASDING Rap
 #DESCRIPTION SWR DASDING Rap
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka04/:SWR DASDING Weekend Warmup 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/swr/swr/raka04/aac/96/stream.aac:SWR DASDING Weekend Warmup 
 #DESCRIPTION SWR DASDING Weekend Warmup 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka12/:SWR DASDING Zukunftsmusik
 #DESCRIPTION SWR DASDING Zukunftsmusik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3:SWR DASDING
 #DESCRIPTION SWR DASDING
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/swr1bw/:SWR1 Baden-Württemberg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr1rp/play.mp3:SWR1 Baden-Baden Ebersteinburg
+#DESCRIPTION SWR1 Baden-Baden Ebersteinburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr1bw/play.mp3:SWR1 Baden-Württemberg
 #DESCRIPTION SWR1 Baden-Württemberg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/swr1rp/:SWR1 Rheinland-Pfalz
 #DESCRIPTION SWR1 Rheinland-Pfalz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka02/:SWR2 Archivradio
 #DESCRIPTION SWR2 Archivradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/swr2/:SWR2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr2/play.mp3:SWR2
 #DESCRIPTION SWR2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka08/play.aac:SWR3 Gottschalk & Zoller
+#DESCRIPTION SWR3 Gottschalk & Zoller
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka03/:SWR3 Lyrix
 #DESCRIPTION SWR3 Lyrix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka08/:SWR3 Mottotage
 #DESCRIPTION SWR3 Mottotage
-#SERVICE 4097:0:2:0:0:0:0:0:0:0: %09https%3a//liveradio.swr.de/sw331ch/raka06/:SWR3 Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka09/play.aac:SWR3 New Pop%3a Das Best of im Radio
+#DESCRIPTION SWR3 New Pop: Das Best of im Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka06/:SWR3 Party
 #DESCRIPTION SWR3 Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka05/:SWR3 Rock
 #DESCRIPTION SWR3 Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/raka09/:SWR3 Specials
 #DESCRIPTION SWR3 Specials
-#SERVICE 4097:0:2:0:0:0:0:0:0:0: %09https%3a//liveradio.swr.de/sw331ch/swr3/:SWR3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr3/play.mp3:SWR3
 #DESCRIPTION SWR3
-#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ka.cast.addradio.de/swr/swr4/ka/mp3/128/stream.mp3:SWR4 Baden Radio Karlsruhe
-#DESCRIPTION SWR4 Baden Radio Karlsruhe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw331ch/swr4bw/:SWR4 Baden-Württemburg
-#DESCRIPTION SWR4 Baden-Württemburg
-#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ma.cast.addradio.de/swr/swr4/ma/mp3/128/stream.mp3:SWR4 Kurpfalz Radio Mannheim
-#DESCRIPTION SWR4 Kurpfalz Radio Mannheim
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-kl.cast.addradio.de/swr/swr4/kl/mp3/64/stream.mp3:SWR4 Radio Kaiserslautern
-#DESCRIPTION SWR4 Radio Kaiserslautern
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ka.cast.addradio.de/swr/swr4/ka/mp3/64/stream.mp3:SWR4 Radio Koblenz
-#DESCRIPTION SWR4 Radio Koblenz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ma.cast.addradio.de/swr/swr4/ma/mp3/64/stream.mp3:SWR4 Radio Ludwigshafen
-#DESCRIPTION SWR4 Radio Ludwigshafen
-#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3:SWR4 Radio Mainz
-#DESCRIPTION SWR4 Radio Mainz
-#SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3:SWR4 Radio Stuttgart
-#DESCRIPTION SWR4 Radio Stuttgart
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-tr.cast.addradio.de/swr/swr4/tr/mp3/64/stream.mp3:SWR4 Radio Trier
-#DESCRIPTION SWR4 Radio Trier
-#SERVICE 4097:0:2:0:0:0:0:0:0:0: %09https%3a//liveradio.swr.de/sw331ch/swr4rp/:SWR4 Rheinland-Pflaz
-#DESCRIPTION SWR4 Rheinland-Pflaz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-fr.cast.addradio.de/swr/swr4/fr/mp3/128/stream.mp3:SWR4 Sdbaden
-#DESCRIPTION SWR4 Sdbaden
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-fn.cast.addradio.de/swr/swr4/fn/mp3/64/stream.mp3:SWR4 Studio Friedrichshafen
-#DESCRIPTION SWR4 Studio Friedrichshafen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-hn.cast.addradio.de/swr/swr4/hn/mp3/64/stream.mp3:SWR4 Studio Heilbronn
-#DESCRIPTION SWR4 Studio Heilbronn
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-tu.cast.addradio.de/swr/swr4/tu/mp3/64/stream.mp3:SWR4 Studio Tbingen
-#DESCRIPTION SWR4 Studio Tbingen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//swr-swr4-ul.cast.addradio.de/swr/swr4/ul/mp3/64/stream.mp3:SWR4 Studio Ulm
-#DESCRIPTION SWR4 Studio Ulm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr4fn/play.mp3:SWR4 Friedrichshafen
+#DESCRIPTION SWR4 Friedrichshafen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr4hn/play.mp3:SWR4 Heilbronn
+#DESCRIPTION SWR4 Heilbronn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr4ka/play.mp3:SWR4 Karlsruhe
+#DESCRIPTION SWR4 Karlsruhe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr4ma/play.mp3:SWR4 Mannheim
+#DESCRIPTION SWR4 Mannheim
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr4bw/play.mp3:SWR4 Stuttgart
+#DESCRIPTION SWR4 Stuttgart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr4fr/play.mp3:SWR4 Südbaden
+#DESCRIPTION SWR4 Südbaden
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr4tu/play.mp3:SWR4 Tübingen
+#DESCRIPTION SWR4 Tübingen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveradio.swr.de/sw282p3/swr4ul/play.mp3:SWR4 Ulm
+#DESCRIPTION SWR4 Ulm
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streamlnn.radio21.de/antenne_sylt.mp3:Syltfunk
 #DESCRIPTION Syltfunk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str2.creacast.com%3a80/sudtirol1a:Südtirol 1 (Duitsland/Italië/Oostenrijk)

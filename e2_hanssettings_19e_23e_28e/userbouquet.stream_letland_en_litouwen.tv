@@ -1,37 +1,53 @@
 #NAME Stream Letland (LV) en Litouwen (LT)
-#SERVICE 1:64:291:0:0:0:0:0:0:0:
+#SERVICE 1:64:2ab:0:0:0:0:0:0:0:
 #DESCRIPTION ++Letland (LV)++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:Chau TV
-#DESCRIPTION Chau TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a44e5b800a41.streamlock.net%3a1935/liveVLR1/mp4%3aLR1/playlist.m3u8:Latvijas Radio 1 106.1 FM Latgale
 #DESCRIPTION Latvijas Radio 1 106.1 FM Latgale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a44e5b800a41.streamlock.net%3a1935/liveVLR3/mp4%3aKlasika/playlist.m3u8:Latvijas Radio 3 Klasika
 #DESCRIPTION Latvijas Radio 3 Klasika
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s85/index.m3u8:Ren TV Baltic
 #DESCRIPTION Ren TV Baltic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.2/live/eds/TV3_LV_SD/H1s_0utput/TV3_LV_SD.m3u8:TV3 Latvia
-#DESCRIPTION TV3 Latvia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.2/live/eds/TV6_LV_SD/H1s_0utput/TV6_LV_SD.m3u8:TV6 Latvia
-#DESCRIPTION TV6 Latvia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player.tvnet.lv/stream/amlst%3a61659/chunklist_w1822312625_b528000_pd892000.m3u8:TV Net
 #DESCRIPTION TV Net
-#SERVICE 1:64:292:0:0:0:0:0:0:0:
+#SERVICE 1:64:2ac:0:0:0:0:0:0:0:
 #DESCRIPTION ++Litouwen (LT)++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.145.32.15%3a20005/lrt_televizija_hd/video.m3u8:LRT Televizija HD
+#SERVICE 1:64:2ad:0:0:0:0:0:0:0:
+#DESCRIPTION - Hoofdzenders -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.95%3a1234:LNK
+#DESCRIPTION LNK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.96%3a1234:LNK Info TV
+#DESCRIPTION LNK Info TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.102%3a1234:LRT Televizija HD
 #DESCRIPTION LRT Televizija HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8:LRT
-#DESCRIPTION LRT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8:LRT -2-
-#DESCRIPTION LRT -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam2_720p/index.m3u8:LRT Radio (webcam)
-#DESCRIPTION LRT Radio (webcam)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.103%3a1234:LRT Televizija
+#DESCRIPTION LRT Televizija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8:LRT Litouwen
+#DESCRIPTION LRT Litouwen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8:LRT Litouwen -2-
+#DESCRIPTION LRT Litouwen -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.104%3a1234:LRT Plus
+#DESCRIPTION LRT Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.99%3a1234:TV 1
+#DESCRIPTION TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.97%3a1234:2 TV
+#DESCRIPTION 2 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.100%3a1234:TV 3 Litouwen
+#DESCRIPTION TV 3 Litouwen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.101%3a1234:TV 6 Litouwen
+#DESCRIPTION TV 6 Litouwen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.98%3a1234:TV 8 Litouwen
+#DESCRIPTION TV 8 Litouwen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.105%3a1234:BTV
+#DESCRIPTION BTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.94%3a1234:Lietuvos Rytas
+#DESCRIPTION Lietuvos Rytas
+#SERVICE 1:64:2ae:0:0:0:0:0:0:0:
+#DESCRIPTION - Overige zenders -
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-k2302-kbp.1plus1.video/sport/smil%3asport.smil/playlist.m3u8:KOK Fights
 #DESCRIPTION KOK Fights
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.145.32.15%3a20004/tv1/video.m3u8:TV 1
-#DESCRIPTION TV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.2/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8:TV3 Lithuania
-#DESCRIPTION TV3 Lithuania
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.2/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8:TV6 Lithuania
-#DESCRIPTION TV6 Lithuania
-#SERVICE 4097:0:1:40:2:6:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1 Visual Radio (muziek - Litouwen)
-#DESCRIPTION Radio M-1 Visual Radio (muziek - Litouwen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//baltlive.tv3.lt/studija/smil%3astudija.smil/playlist.m3u8:Power Hit Radio
+#DESCRIPTION Power Hit Radio
+#SERVICE 4097:0:1:40:2:6:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1 Visual Radio
+#DESCRIPTION Radio M-1 Visual Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/chunklist_b1128000_t64NDgwcA==.m3u8:RE%3aTV
+#DESCRIPTION RE:TV

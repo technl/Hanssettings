@@ -31,7 +31,7 @@
 #DESCRIPTION Tommy TV (met epg via Ziggo)
 #SERVICE 4097:0:1:4cfc:81c:600:ffff0000:0:0:0:http%3a//ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8 :XITE HD
 #DESCRIPTION XITE HD
-#SERVICE 1:64:1a4:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bc:0:0:0:0:0:0:0:
 #DESCRIPTION +++Radio Toppers+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-67.stream-server.nl%3a1936/RadioToppers/RadioToppers/playlist.m3u8:Radio Toppers
 #DESCRIPTION Radio Toppers
@@ -43,7 +43,7 @@
 #DESCRIPTION Poesjes TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-23.stream-server.nl%3a1936/WinkRadio/WinkRadio/playlist.m3u8:Wink Radio
 #DESCRIPTION Wink Radio
-#SERVICE 1:64:1a5:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bd:0:0:0:0:0:0:0:
 #DESCRIPTION ++NPO - werkt niet in iedere ontvanger!++
 #SERVICE 4097:0:1:5225:c99:3:0:0:0:0:http%3a//stream.tvtap.net%3a8081/live/nl-npo1.stream/playlist.m3u8:NPO1
 #DESCRIPTION NPO1
@@ -55,7 +55,7 @@
 #DESCRIPTION NPO Nieuws
 #SERVICE 4097:0:1:177a:c82:3:0:0:0:0:http%3a//resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8:NPO Politiek
 #DESCRIPTION NPO Politiek
-#SERVICE 1:64:1a6:0:0:0:0:0:0:0:
+#SERVICE 1:64:1be:0:0:0:0:0:0:0:
 #DESCRIPTION ++NL amateur-tv++
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.pi6atv.com%3a8081/scoop/pi6atv-hd/playlist.m3u8  :PI6atv (NL amateur tv)
 #DESCRIPTION PI6atv (NL amateur tv)

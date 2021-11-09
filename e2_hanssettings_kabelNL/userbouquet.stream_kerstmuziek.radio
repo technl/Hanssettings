@@ -1,5 +1,5 @@
 #NAME Stream Kerstmuziek
-#SERVICE 1:64:23e:0:0:0:0:0:0:0:
+#SERVICE 1:64:269:0:0:0:0:0:0:0:
 #DESCRIPTION ++NL++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web05_mp3:100%25 NL Kerst
 #DESCRIPTION 100% NL Kerst
@@ -13,7 +13,11 @@
 #DESCRIPTION Sky Radio - Christmas (mp3)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22193.live.streamtheworld.com/SUBLIMEPLAYGROUND.mp3:Sublime Christmas
 #DESCRIPTION Sublime Christmas
-#SERVICE 1:64:23f:0:0:0:0:0:0:0:
+#SERVICE 1:64:26a:0:0:0:0:0:0:0:
+#DESCRIPTION ++BE++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/JOE_CHRISTMAS.mp3:Joe Christmas
+#DESCRIPTION Joe Christmas
+#SERVICE 1:64:26b:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige landen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-event01-mp3-hq:80s80s Xmas
 #DESCRIPTION 80s80s Xmas
@@ -137,6 +141,8 @@
 #DESCRIPTION Q-Music - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QTHEME.mp3:Q XMAS (BE)
 #DESCRIPTION Q XMAS (BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/R101_558.aac:R101 Christmas (Italië)
+#DESCRIPTION R101 Christmas (Italië)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-xmasrock-mp3-192-5123736:Radio 21 X-MAS-ROCK NonStop (DE)
 #DESCRIPTION Radio 21 X-MAS-ROCK NonStop (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-xmasrock-mp3-256-4341316:Radio 21 & Rockland Radio - X-Mas Rock Nonstop
@@ -185,7 +191,11 @@
 #DESCRIPTION Schwany-14 Weihnachten (DE)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//tannenbaumradio.stream.laut.fm/tannenbaumradio?t302=2017-12-18_20-30-02&uuid=1db5df1e-728d-40aa-beff-8b792f96b52e:Tannenbaumradio
 #DESCRIPTION Tannenbaumradio
-#SERVICE 1:64:240:0:0:0:0:0:0:0:
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um019.mp3:United Music Holiday Radio Christmas Party (Italië)
+#DESCRIPTION United Music Holiday Radio Christmas Party (Italië)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um113.mp3:United Music Holiday Radio Cool Christmas (Italië)
+#DESCRIPTION United Music Holiday Radio Cool Christmas (Italië)
+#SERVICE 1:64:26c:0:0:0:0:0:0:0:
 #DESCRIPTION +++Sinterklaas+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sintfm.nl%3a8000/sinterklaasradiohigh.mp3:Sint FM
 #DESCRIPTION Sint FM

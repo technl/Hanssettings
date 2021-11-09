@@ -1,5 +1,5 @@
 #NAME Stream Vietnam (VN)
-#SERVICE 1:64:32a:0:0:0:0:0:0:0:
+#SERVICE 1:64:350:0:0:0:0:0:0:0:
 #DESCRIPTION *** Hoofdzenders ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.216.122.72%3a8889/udp/225.0.0.37%3a5000:HTV 7 HD
 #DESCRIPTION HTV 7 HD
@@ -65,7 +65,7 @@
 #DESCRIPTION VTV 8 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.216.122.72%3a8889/udp/225.0.0.9%3a5000:VTV 9 HD
 #DESCRIPTION VTV 9 HD
-#SERVICE 1:64:32b:0:0:0:0:0:0:0:
+#SERVICE 1:64:351:0:0:0:0:0:0:0:
 #DESCRIPTION *** Overige zenders ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8:Air TV
 #DESCRIPTION Air TV
