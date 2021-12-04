@@ -25,7 +25,7 @@
 #DESCRIPTION Club Radio
 #SERVICE 4097:0:2:376:0:0:0:0:0:0:http%3a//radio.ipip.cz%3a7996/:Clubradio.cz
 #DESCRIPTION Clubradio.cz
-#SERVICE 4097:0:2:352:0:0:0:0:0:0:http%3a//icecast8.play.cz%3a443/color128.mp3:Color Music
+#SERVICE 4097:0:2:352:0:0:0:0:0:0:http%3a//icecast8.play.cz/color128.mp3:Color Music
 #DESCRIPTION Color Music
 #SERVICE 4097:0:2:246:0:0:0:0:0:0:http%3a//icecast8.play.cz/contact128.mp3:Contact Liberec
 #DESCRIPTION Contact Liberec

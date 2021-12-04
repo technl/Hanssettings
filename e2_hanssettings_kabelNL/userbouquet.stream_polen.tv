@@ -1,97 +1,147 @@
 #NAME Stream Polen (PL)
-#SERVICE 1:64:1d9:0:0:0:0:0:0:0:
+#SERVICE 1:64:1e3:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s//hls/5/9584/tvp1_276/1/1/index.m3u8:TVP 1 HD
 #DESCRIPTION TVP 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/d885cdb894230cc.m3u8:TVP 2
-#DESCRIPTION TVP 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a17400/tvpabc:TVP ABC
+#DESCRIPTION TVP ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a12800/tvphistoria:TVP Historia
+#DESCRIPTION TVP Historia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a8501/tvpinfo:TVP Info HD
+#DESCRIPTION TVP Info HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/7418/tvp_polonia_425/1/1/tracks-v1a1/mono.m3u8:TVP Polonia
 #DESCRIPTION TVP Polonia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a16700/tvprozrywka:TVP Rozrywka
+#DESCRIPTION TVP Rozrywka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a11901/tvpseriale:TVP Seriale
+#DESCRIPTION TVP Seriale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8:TVP Sport HD
 #DESCRIPTION TVP Sport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/03a1320698f46a8.m3u8:Polsat 1
-#DESCRIPTION Polsat 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/46b0a1f88abc766.m3u8:Polsat 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a10801/polsat:Polsat 1 HD
+#DESCRIPTION Polsat 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/5147/polsat2_269/1/1/tracks-v1a1/mono.m3u8:Polsat 2
 #DESCRIPTION Polsat 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/479465a0013dbd5.m3u8:Polsat News
-#DESCRIPTION Polsat News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s//hls/5/9584/tvn_hd_806/1/1/tracks-v1a1/mono.m3u8:TVN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a19500/polsatcafe:Polsat Cafe HD
+#DESCRIPTION Polsat Cafe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a20200/jimjam:Polsat Jim Jam
+#DESCRIPTION Polsat Jim Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a11001/polsat:Polsat News HD
+#DESCRIPTION Polsat News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a19400/polsatplay:Polsat Play HD
+#DESCRIPTION Polsat Play HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a11101/tv4:TV 4 Polska
+#DESCRIPTION TV 4 Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a14500/tv6:TV 6 Polska HD
+#DESCRIPTION TV 6 Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT 7 Zgorzelec
+#DESCRIPTION TVT 7 Zgorzelec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a20010/ttv:TTV HD
+#DESCRIPTION TTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a10301/tvn:TVN HD
 #DESCRIPTION TVN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a10501/tvnsiedem:TVN 7 HD
+#DESCRIPTION TVN 7 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s//hls/5/9584/tvn24_243/1/1/tracks-v1a1/mono.m3u8:TVN 24
 #DESCRIPTION TVN 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.160.178.236%3a8080/play/a03y:TVN 24 BiS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a19700/tvn24bis:TVN 24 BiS
 #DESCRIPTION TVN 24 BiS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.107.129.219/media/tvt/index.m3u8:TVT
-#DESCRIPTION TVT
-#SERVICE 1:64:1da:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a10601/tvnstyle:TVN Style HD
+#DESCRIPTION TVN Style HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a10701/tvnturbo:TVN Turbo HD
+#DESCRIPTION TVN Turbo HD
+#SERVICE 1:64:1e4:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4FUN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a17100/4fun:4FUN TV
 #DESCRIPTION 4FUN TV
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//195.46.37.26%3a12000/EskaTV:Eska TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a19300/13ulica:13 Ulica HD
+#DESCRIPTION 13 Ulica HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a9601/alekino:Ale Kino+ HD
+#DESCRIPTION Ale Kino+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a14200/axnblack:AXN Black Polska
+#DESCRIPTION AXN Black Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/4147/axn_polska_279/1/1/tracks-v1a1/mono.m3u8:AXN Polska HD
+#DESCRIPTION AXN Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a14400/axnwhite:AXN White Polska
+#DESCRIPTION AXN White Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a20100/boomerang:Boomerang Polska HD
+#DESCRIPTION Boomerang Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/3441/hd_canal_plus_film_249/1/1/tracks-v1a1/mono.m3u8:Canal+ Film
+#DESCRIPTION Canal+ Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/4211/canal_plus_seriale_435/1/1/tracks-v1a1/mono.m3u8:Canal+ Seriale
+#DESCRIPTION Canal+ Seriale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8:Canal+ Sport HD
+#DESCRIPTION Canal+ Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a12101/comedycentral:Comedy Central Polska HD
+#DESCRIPTION Comedy Central Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a17200/davinci:Da Vinci Polska
+#DESCRIPTION Da Vinci Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a12401/disneychannel:Disney Channel HD Polska
+#DESCRIPTION Disney Channel HD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a9201/disneyxd:Disney XD Polska
+#DESCRIPTION Disney XD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a15600/discopolomusic:Disco Polo Music
+#DESCRIPTION Disco Polo Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/7248/discovery_polska_246/1/1/tracks-v1a1/mono.m3u8:Discovery Polska
+#DESCRIPTION Discovery Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a15700/domoplus:Domo+ Polska HD
+#DESCRIPTION Domo+ Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8:Eleven Sports 1 HD
+#DESCRIPTION Eleven Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8:Eleven Sports 2 HD
+#DESCRIPTION Eleven Sports 2 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a12500/eska:Eska TV
 #DESCRIPTION Eska TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.ezotv.pl%3a1935/live/EZOTV/chunklist.m3u8:Ezo TV
-#DESCRIPTION Ezo TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.160.178.236%3a8080/play/a03j:HGTV
-#DESCRIPTION HGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a11401/filmbox:FilmBox Action Polska
+#DESCRIPTION FilmBox Action Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a11501/filmboxextra:FilmBox Extra Polska
+#DESCRIPTION FilmBox Extra Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a15900/filmbox:FilmBox Premium Polska HD
+#DESCRIPTION FilmBox Premium Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a18300/fokus:Fokus TV
+#DESCRIPTION Fokus TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//58.65.171.202%3a8000/play/15907:Golf Channel Polska
+#DESCRIPTION Golf Channel Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a17700/h2hd:H2 Polska HD
+#DESCRIPTION H2 Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a19800/id:ID Polska HD
+#DESCRIPTION ID Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a13700/kinopolska:Kino Polska
+#DESCRIPTION Kino Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/8668/minimini_258/1/1/tracks-v1a1/mono.m3u8:MiniMini+
+#DESCRIPTION MiniMini+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a16200/motowizja:Motowizja HD
+#DESCRIPTION Motowizja HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.65.171.202%3a8000/play/1:MTV Live HD Polska
 #DESCRIPTION MTV Live HD Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.160.178.236%3a8080/play/a03f:NTL
-#DESCRIPTION NTL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.160.178.236%3a8080/play/a03c:Nuta TV
-#DESCRIPTION Nuta TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.160.178.236%3a8080/play/a03g:Power TV
-#DESCRIPTION Power TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a12201/mtvpolska:MTV Polska HD
+#DESCRIPTION MTV Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a18100/natgeowild:Nat Geo Wild Polska HD
+#DESCRIPTION Nat Geo Wild Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a13000/viacomblink:Nick Jr. Polska
+#DESCRIPTION Nick Jr. Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a17900/nickel:Nickelodeon Polska
+#DESCRIPTION Nickelodeon Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a8201/nsport:nSport Polska
+#DESCRIPTION nSport Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a14000/polotv:Polo TV
+#DESCRIPTION Polo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a13900/religiatv:Puls 2 Polska
+#DESCRIPTION Puls 2 Polska
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream14.polskieradio.pl%3a1935/pr4_video/video_pr4.stream/playlist.m3u8:Radio Czworka
 #DESCRIPTION Radio Czworka
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.160.178.236%3a8080/play/a03h:TO!TV
-#DESCRIPTION TO!TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.160.28.218%3a1935/elblag/myStream_aac/playlist.m3u8:Truso.tv (Elbląg)
-#DESCRIPTION Truso.tv (Elbląg)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sferatv.pl%3a1935/sferalive/smil%3asferalive.smil/playlist.m3u8:Sfera TV
+#DESCRIPTION Sfera TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//58.65.171.202%3a8000/play/15832:Travel Channel Polska
+#DESCRIPTION Travel Channel Polska
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV K Kujawy
 #DESCRIPTION TV K Kujawy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV Kujawy
-#DESCRIPTION TV Kujawy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.160.28.218%3a1935/pogranicze/myStream/chunks.m3u8:TV Pogranicze
-#DESCRIPTION TV Pogranicze
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvreg.klemit.net/regionalna/stream/index.m3u8:TV Regionalna
 #DESCRIPTION TV Regionalna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8:TV Republika
 #DESCRIPTION TV Republika
-#SERVICE 4097:0:1:2b:0:4c:0:0:0:0:http%3a//217.173.176.107%3a1935/live/ngrp%3atvk.stream_all/master.m3u8:TV Toruń
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.173.176.107%3a1935/live/tvk.stream/playlist.m3u8:TV Toruń
 #DESCRIPTION TV Toruń
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8:TV Trwam
 #DESCRIPTION TV Trwam
-#SERVICE 4097:0:1:7:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok:TVP 3 Białystok (Polen)
-#DESCRIPTION TVP 3 Białystok (Polen)
-#SERVICE 4097:0:1:8:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz:TVP 3 Bydgoszcz (Polen)
-#DESCRIPTION TVP 3 Bydgoszcz (Polen)
-#SERVICE 4097:0:1:9:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk:TVP 3 Gdańsk (Polen)
-#DESCRIPTION TVP 3 Gdańsk (Polen)
-#SERVICE 4097:0:1:10:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow:TVP 3 Gorzów (Polen)
-#DESCRIPTION TVP 3 Gorzów (Polen)
-#SERVICE 4097:0:1:11:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice:TVP 3 Katowice (Polen)
-#DESCRIPTION TVP 3 Katowice (Polen)
-#SERVICE 4097:0:1:12:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce:TVP 3 Kielce (Polen)
-#DESCRIPTION TVP 3 Kielce (Polen)
-#SERVICE 4097:0:1:13:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow:TVP 3 Kraków (Polen)
-#DESCRIPTION TVP 3 Kraków (Polen)
-#SERVICE 4097:0:1:14:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin:TVP 3 Lublin (Polen)
-#DESCRIPTION TVP 3 Lublin (Polen)
-#SERVICE 4097:0:1:16:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn:TVP 3 Olsztyn (Polen)
-#DESCRIPTION TVP 3 Olsztyn (Polen)
-#SERVICE 4097:0:1:17:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole:TVP 3 Opole (Polen)
-#DESCRIPTION TVP 3 Opole (Polen)
-#SERVICE 4097:0:1:18:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan:TVP 3 Poznań (Polen)
-#DESCRIPTION TVP 3 Poznań (Polen)
-#SERVICE 4097:0:1:19:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow:TVP 3 Rzeszów (Polen)
-#DESCRIPTION TVP 3 Rzeszów (Polen)
-#SERVICE 4097:0:1:20:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin:TVP 3 Szczecin (Polen)
-#DESCRIPTION TVP 3 Szczecin (Polen)
-#SERVICE 4097:0:1:21:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa:TVP 3 Warszawa (Polen)
-#DESCRIPTION TVP 3 Warszawa (Polen)
-#SERVICE 4097:0:1:22:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw:TVP 3 Wrocław (Polen)
-#DESCRIPTION TVP 3 Wrocław (Polen)
-#SERVICE 4097:0:1:15:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz:TVP 3 Łódź (Polen)
-#DESCRIPTION TVP 3 Łódź (Polen)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT Zgorzelec
-#DESCRIPTION TVT Zgorzelec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a8801/tvs:TVS Polska
+#DESCRIPTION TVS Polska

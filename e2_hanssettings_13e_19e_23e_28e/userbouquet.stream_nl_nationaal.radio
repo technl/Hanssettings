@@ -1,5 +1,5 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:395:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ad:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders++
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
@@ -47,7 +47,7 @@
 #DESCRIPTION FunX Utrecht
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
 #DESCRIPTION Spreekbuis Radio
-#SERVICE 1:64:396:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ae:0:0:0:0:0:0:0:
 #DESCRIPTION ++(commerciële) HOOFDzenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//40rockstream.live-streams.nl/live:40ROCK Radio
 #DESCRIPTION 40ROCK Radio
@@ -197,12 +197,16 @@
 #DESCRIPTION JINX Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.joe.nl/joe/mp3:Joe
 #DESCRIPTION Joe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/JUKE_S16AAC.aac:JUKE - AZ Radio
+#DESCRIPTION JUKE - AZ Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S16.mp3:JUKE - AZ Radio
+#DESCRIPTION JUKE - AZ Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S15.mp3:JUKE - Cabaret
 #DESCRIPTION JUKE - Cabaret
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S03.mp3:JUKE - Café Genee
 #DESCRIPTION JUKE - Café Genee
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S16.mp3:JUKE - Foute Hits
-#DESCRIPTION JUKE - Foute Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22673.live.streamtheworld.com/TLPSTR21.mp3:JUKE - Die Verrückte
+#DESCRIPTION JUKE - Die Verrückte
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S11.mp3:JUKE - Herfstkriebels
 #DESCRIPTION JUKE - Herfstkriebels
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S12.mp3:JUKE - Hip Hop Classics
@@ -229,14 +233,14 @@
 #DESCRIPTION JUKE - Songfestival Top 100
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream02.itego.nl/kbc-high:KBC Radio
 #DESCRIPTION KBC Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/KINK_DISTORTIONAAC.aac:KINK Distortion
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3:KINK
+#DESCRIPTION KINK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNA.mp3:KINK Classics
+#DESCRIPTION KINK Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTION.mp3:KINK Distortion
 #DESCRIPTION KINK Distortion
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22653.live.streamtheworld.com/KINK_DNAAAC.aac:KINK DNA Classics
-#DESCRIPTION KINK DNA Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/KINKINDIE.mp3:KINK Indie
 #DESCRIPTION KINK Indie
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22533.live.streamtheworld.com/KINKAAC.aac:KINK No Alternative
-#DESCRIPTION KINK No Alternative
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//layzer.live-streams.nl/high:Layzer
 #DESCRIPTION Layzer
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59132e529e3d1.streamlock.net/layzer/layzer/playlist.m3u8:Layzer - kijk live (Amsterdam)
@@ -309,8 +313,6 @@
 #DESCRIPTION Radio 538
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3:Radio538 Dance Department
 #DESCRIPTION Radio538 Dance Department
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21313.live.streamtheworld.com/TLPSTR08.mp3:Radio538 Drops
-#DESCRIPTION Radio538 Drops
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3 :Radio538 Hitzone
 #DESCRIPTION Radio538 Hitzone
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3:Radio538 Ibiza
@@ -319,14 +321,14 @@
 #DESCRIPTION Radio538 Non-Stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3:Radio538 Party
 #DESCRIPTION Radio538 Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3:Radio538 Rewind
+#DESCRIPTION Radio538 Rewind
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3:Radio538 Zomer
 #DESCRIPTION Radio538 Zomer
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3:Radio538 Top 50
 #DESCRIPTION Radio538 Top 50
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3 :Radio 538 Verrückte Stunde
 #DESCRIPTION Radio 538 Verrückte Stunde
-#SERVICE 4097:0:1:5260:c99:3:eb0000:0:0:0:https%3a//talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8:Radio 538 Visual Radio
-#DESCRIPTION Radio 538 Visual Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiocontinu.nl/radio-continu:Radio Continu
 #DESCRIPTION Radio Continu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radiocontinu.nl/radiocontinu:Radio Continu Editie 1 (Groningen, Drenthe + kop Overijssel)
@@ -375,7 +377,7 @@
 #DESCRIPTION Sky Radio - 80s Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21253.live.streamtheworld.com/SRGSTR05.mp3:Sky Radio - 90s Hits
 #DESCRIPTION Sky Radio - 90s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3:Sky Radio - Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/SRGSTR08AAC.aac:Sky Radio - Christmas
 #DESCRIPTION Sky Radio - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3:Sky Radio - Hits
 #DESCRIPTION Sky Radio - Hits
@@ -463,7 +465,7 @@
 #DESCRIPTION Wild FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
 #DESCRIPTION ZTACK
-#SERVICE 1:64:397:0:0:0:0:0:0:0:
+#SERVICE 1:64:3af:0:0:0:0:0:0:0:
 #DESCRIPTION ++religieus++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
 #DESCRIPTION Bright FM
@@ -495,7 +497,7 @@
 #DESCRIPTION Trans World Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
 #DESCRIPTION Urk FM Geestelijk
-#SERVICE 1:64:398:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b0:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
 #DESCRIPTION 18Hits (NL Nationaal)

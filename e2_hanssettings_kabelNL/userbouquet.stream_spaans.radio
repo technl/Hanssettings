@@ -47,10 +47,12 @@
 #DESCRIPTION Flamenco Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hitfm.kissfmradio.cires21.com/hitfm.mp3:Hit FM
 #DESCRIPTION Hit FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.amediastream.eu%3a8500/live:Holland FM (Gran Canaria)
-#DESCRIPTION Holland FM (Gran Canaria)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.135.183.124%3a8207/stream:Hola FM (Fuerventure, Duits)
+#DESCRIPTION Hola FM (Fuerventure, Duits)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//panel.amediastream.eu%3a8500/live#.mp3:Holland FM (Gran Canaria) mp3
 #DESCRIPTION Holland FM (Gran Canaria) mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.amediastream.eu%3a8500/live:Holland FM (Gran Canaria)
+#DESCRIPTION Holland FM (Gran Canaria)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioserver1.us%3a7088/;:I Love FM
 #DESCRIPTION I Love FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listenssl.ibizaglobalradio.com%3a8024/stream:Ibiza Global Radio
@@ -81,10 +83,10 @@
 #DESCRIPTION Los 40
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.inselradio.com/high.sunshine.mp3:Mallorca Sunshine Radio (Engelstalig)
 #DESCRIPTION Mallorca Sunshine Radio (Engelstalig)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20073.live.streamtheworld.com/MAXIMAFMAAC.aac?csegid=2000&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=ce486fb5-b5d2-4669-fe7b-c64550744bf9:Máxima FM
-#DESCRIPTION Máxima FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8:Melodia FM
 #DESCRIPTION Melodia FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20073.live.streamtheworld.com/MAXIMAFMAAC.aac?csegid=2000&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=ce486fb5-b5d2-4669-fe7b-c64550744bf9:Máxima FM
+#DESCRIPTION Máxima FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live-audio.ondacero.es/radio/ondacero/master.m3u8:Onda Cero
 #DESCRIPTION Onda Cero
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming12.elitecomunicacion.es%3a8212/stream?:Onda Color (Ceiuta, Spanje, noord-Afrika)
@@ -117,8 +119,6 @@
 #DESCRIPTION Radio Melilla Cadena SER (Spanje)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stan319.radioca.st/stream:Radio Mi Amigo, de échte
 #DESCRIPTION Radio Mi Amigo, de échte
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.internetgirona.com%3a8008/onair:Ràdio Platja d'Aro
-#DESCRIPTION Ràdio Platja d'Aro
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8:Radio RNE 1 Nacional
 #DESCRIPTION Radio RNE 1 Nacional
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/index_128_a-p.m3u8:Radio RNE 2 Clásica
@@ -131,14 +131,18 @@
 #DESCRIPTION Radio RNE 5
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8:Radio RNE Exterior
 #DESCRIPTION Radio RNE Exterior
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s3a9cb38f3/listen:Radio – SOL FM – Fuerteventura
-#DESCRIPTION Radio – SOL FM – Fuerteventura
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiott-web.streaming-pro.com%3a6103/radiott.mp3:Radio Tele Taxi
 #DESCRIPTION Radio Tele Taxi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s3a9cb38f3/listen:Radio – SOL FM – Fuerteventura
+#DESCRIPTION Radio – SOL FM – Fuerteventura
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/RADIOLE_ASO_COSTA_LUZ.mp3:Radiole Costa de la Luz, Huelva
+#DESCRIPTION Radiole Costa de la Luz, Huelva
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//19993.live.streamtheworld.com/RADIOLEAAC.aac:Radiolé
 #DESCRIPTION Radiolé
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.55.74.207/cope/rockfm/chunks.m3u8?GKID=c7a9ffb6277011e9809800163e914f69:Rock FM
 #DESCRIPTION Rock FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.internetgirona.com%3a8008/onair:Ràdio Platja d'Aro
+#DESCRIPTION Ràdio Platja d'Aro
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stm1.emiteonline.com%3a8008/spektrafm:Spektra FM
 #DESCRIPTION Spektra FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.28.53.118%3a7001/stream/:Talk Radio Europe Costa Blanca

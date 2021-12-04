@@ -1,4 +1,16 @@
 #NAME Stream Japan (JP)
+#SERVICE 1:64:327:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv2021.site%3a8080/9897876765/6576567/645:NHK HD
+#DESCRIPTION NHK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8:NHK Chinese Vision
+#DESCRIPTION NHK Chinese Vision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhk1.mov3.co/hls/nhk.m3u8:NHK General TV
+#DESCRIPTION NHK General TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8:NHK World Japan
+#DESCRIPTION NHK World Japan
+#SERVICE 1:64:328:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//feed.play.mv/live/10005200/isU48qPZqV/master.m3u8:Animax Japan (Engelse ondertiteling)
 #DESCRIPTION Animax Japan (Engelse ondertiteling)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sub2.neetball.net/live/neet.m3u8:AT-X
@@ -17,12 +29,6 @@
 #DESCRIPTION Gunma TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx_live_2/master.m3u8:MX Live
 #DESCRIPTION MX Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8:NHK Chinese Vision
-#DESCRIPTION NHK Chinese Vision
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhk1.mov3.co/hls/nhk.m3u8:NHK General TV
-#DESCRIPTION NHK General TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8:NHK World Japan
-#DESCRIPTION NHK World Japan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ntv1.mov3.co/hls/ntv.m3u8:Nippon TV
 #DESCRIPTION Nippon TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8:NJPW World

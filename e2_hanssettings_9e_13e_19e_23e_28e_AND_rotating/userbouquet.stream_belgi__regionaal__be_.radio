@@ -1,5 +1,5 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:1a1c:0:0:0:0:0:0:0:
+#SERVICE 1:64:19f8:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
@@ -21,10 +21,12 @@
 #DESCRIPTION A.I.R. Radio Freestyle Slow (Brugge - BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8888/stream:BEM-Heaven (Antwerpen - België)
 #DESCRIPTION BEM-Heaven (Antwerpen - België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beone:BeOne (Oostende - België)
-#DESCRIPTION BeOne (Oostende - België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beone80:BeOne80 (Oostende - België)
-#DESCRIPTION BeOne80 (Oostende - België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beone:Be One Kust
+#DESCRIPTION Be One Kust
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beone80:Be One80 (Oostende - België)
+#DESCRIPTION Be One80 (Oostende - België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beonexmas:Be One Xmas (Oostende - België)
+#DESCRIPTION Be One Xmas (Oostende - België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/bio-hits:Bio Hits (Brussel)
 #DESCRIPTION Bio Hits (Brussel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/bio-s-radio:Bio's Radio
@@ -143,6 +145,8 @@
 #DESCRIPTION Kustradio (Knokke-Heist)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streams.lazernet.be%3a3730:Lazer Hot Hits (Antwerpen)
 #DESCRIPTION Lazer Hot Hits (Antwerpen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.ledemedia.be%3a8020/leetwee?1637596065460:Lee Twee (Lede)
+#DESCRIPTION Lee Twee (Lede)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.myradiostream.com/4886/listen.mp3:Lo Radio (Lochristi en omgeving, BE)
 #DESCRIPTION Lo Radio (Lochristi en omgeving, BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.ssl-stream.com/radio/8070/live.mp3:LRL (Lanaken)
@@ -169,7 +173,7 @@
 #DESCRIPTION Musica FM (Kortrijk/Menen - BE) 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver2.radiototaal.be%3a8443/novaradio:NOVA Radio (Kalmthout, BE)
 #DESCRIPTION NOVA Radio (Kalmthout, BE)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream01.onairtools.com%3a8016/live:Oilsjt Mjoezik (Aalst - België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.oilsjtmjoezik.be/:Oilsjt Mjoezik (Aalst - België)
 #DESCRIPTION Oilsjt Mjoezik (Aalst - België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//media1.hostin.cc/omroepneteland.mp3:Omroep Neteland (Herenthout)
 #DESCRIPTION Omroep Neteland (Herenthout)
@@ -503,7 +507,7 @@
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:1a1d:0:0:0:0:0:0:0:
+#SERVICE 1:64:19f9:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)

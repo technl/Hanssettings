@@ -1,11 +1,21 @@
 #NAME Stream Oeganda (UG)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.viewmedia.tv/viewsatstream35/viewsatstream35.smil/chunklist.m3u8:Ark TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arktelevision.org/hlslive/test/test.m3u8:Ark TV
 #DESCRIPTION Ark TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowzaprod223-i.akamaihd.net/hls/live/1005684/23e62e6e/23e62e6e_1_2728/chunklist.m3u8:Channel 44
-#DESCRIPTION Channel 44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/boratv/index.m3u8:Bora TV
+#DESCRIPTION Bora TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/bukedde1flussonic/index.m3u8:Bukedde 1
+#DESCRIPTION Bukedde 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/bukedde2flussonic/index.m3u8:Bukedde 2
+#DESCRIPTION Bukedde 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//128.199.114.2%3a8080/hls/stream.m3u8:Dream TV
 #DESCRIPTION Dream TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1726041598.rsc.cdn77.org/nbslive/smil%3amyStream.smil/playlist.m3u8:NBS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vse-cdn1-readymedia.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/5-20-hls/live.m3u8:NBS TV
 #DESCRIPTION NBS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive38-lh.akamaihd.net/i/dclive_1@692676/index_150_av-p.m3u8:Salt TV
 #DESCRIPTION Salt TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/tvwest-flussonic/index.m3u8:TV West
+#DESCRIPTION TV West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/urban-flussonic/index.m3u8:Urban Tubaale
+#DESCRIPTION Urban Tubaale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/luotv-flussonic/index.m3u8:Wan Luo TV
+#DESCRIPTION Wan Luo TV

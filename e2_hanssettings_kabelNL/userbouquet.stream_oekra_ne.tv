@@ -1,261 +1,201 @@
 #NAME Stream Oekraïne (UA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-k2302-kbp.1plus1.video/sport/smil%3asport.smil/chunklist_b6000000.m3u8:CNOPT 1 (Oekraine)
-#DESCRIPTION CNOPT 1 (Oekraine)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.41.148%3a1935/live/inter_3/playlist.m3u8:IHTEP (Oekraine)
-#DESCRIPTION IHTEP (Oekraine)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bozztv.com/36bay2/giniko_k1tv/index.m3u8:K1 TV (UA)
-#DESCRIPTION K1 TV (UA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bozztv.com/36bay2/gin/giniko_karavan_900kb_36bay2/index.m3u8:Karavan TV (UA)
-#DESCRIPTION Karavan TV (UA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bozztv.com/36bay2/gin/giniko_nash_1000kb_36bay2/index.m3u8:Nash (UA)
-#DESCRIPTION Nash (UA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/index.m3u8:News One (UA)
-#DESCRIPTION News One (UA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2g03-f23.ovva.tv/227022/smil%3a227022.smil/playlist.m3u8:UA - 1+1
-#DESCRIPTION UA - 1+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.16.32-.m3u8:UA - 100 News (Oekraïne)
-#DESCRIPTION UA - 100 News (Oekraïne)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//app.live.112.events/hls-ua/112hd_mid/index.m3u8:UA - 112 Ukraine
-#DESCRIPTION UA - 112 Ukraine
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vid.techbee.pro%3a8080/1tvcrimea/index.m3u8:UA - 1TV Crimea
-#DESCRIPTION UA - 1TV Crimea
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ua/2+2/index.m3u8:UA - 2+2
-#DESCRIPTION UA - 2+2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s9.crafit.com%3a8087/live/qa6pk3/hls/live.m3u8:UA - 21 Uzhgorod
-#DESCRIPTION UA - 21 Uzhgorod
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.120.29.10/hls/playlist.m3u8:UA - 33 Kanal
-#DESCRIPTION UA - 33 Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4&app=playlist:UA - 34 Kanal
-#DESCRIPTION UA - 34 Kanal
-#SERVICE 4097:0:1:1:1:0:0:0:0:0:http%3a//cdn.vsnw.net%3a8081/interradio/720i.m3u8:UA - 4 Kanal
-#DESCRIPTION UA - 4 Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.158.80.101%3a8080/5channel/stream.m3u8:UA - 5 Kanal
-#DESCRIPTION UA - 5 Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8:UA - 7 Kanal
-#DESCRIPTION UA - 7 Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8:UA - Academy
-#DESCRIPTION UA - Academy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.antenna.com.ua/hls/antenna.m3u8:UA - ANTENNA TV
-#DESCRIPTION UA - ANTENNA TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//arhat.tv/public/720p/index.m3u8:UA - Arhat TV
-#DESCRIPTION UA - Arhat TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8:UA - ATR 1
-#DESCRIPTION UA - ATR 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8:UA - ATR 2
-#DESCRIPTION UA - ATR 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.atr.ua%3a1937/atr//live:UA - ATR Music
-#DESCRIPTION UA - ATR Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8:UA - ATR News
-#DESCRIPTION UA - ATR News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8:UA - Bambarbia TV
-#DESCRIPTION UA - Bambarbia TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jabber.divan.tv%3a8002/tv.m3u8:UA - Brain TV
-#DESCRIPTION UA - Brain TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.11.28.3%3a7070/udp/239.255.1.1%3a1234?box_mac=c802104fe8fc:UA - BRT
-#DESCRIPTION UA - BRT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//langate.tv/promin/live_720/index.m3u8:UA - Chernіveckij Promіn
-#DESCRIPTION UA - Chernіveckij Promіn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.205.207.20%3a1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8:UA - Chernіvtsі
-#DESCRIPTION UA - Chernіvtsі
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/life/magnolia.m3u8:UA - ChP.Info
-#DESCRIPTION UA - ChP.Info
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//vid.techbee.pro/static/crimea24:UA - Crimea 24
-#DESCRIPTION UA - Crimea 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8?codec=mpeg4&app=playlist:UA - Domashny
-#DESCRIPTION UA - Domashny
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8?codec=mpeg4&app=playlist:UA - Donbas TV
-#DESCRIPTION UA - Donbas TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.dn.ua/hls/stream.m3u8:UA - Donechchina TV
-#DESCRIPTION UA - Donechchina TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8:UA - Dumskaya-TV
-#DESCRIPTION UA - Dumskaya-TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.26.128.59%3a8081/live/361/playlist.m3u8:UA - EU Music SD (Oekraine - muziek)
-#DESCRIPTION UA - EU Music SD (Oekraine - muziek)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//excl.com.ua/hls/ex.m3u8:UA - Exclusive TV
-#DESCRIPTION UA - Exclusive TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8?codec=mpeg4:UA - Galichina
-#DESCRIPTION UA - Galichina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//gigaz.wi.com.ua/hallDemo/glassua:UA - GLAS
-#DESCRIPTION UA - GLAS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:UA - HD Fashion and Lifestyle
-#DESCRIPTION UA - HD Fashion and Lifestyle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.175.163.130/ks_plus/index.m3u8:UA - Herson
-#DESCRIPTION UA - Herson
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8:UA - Hromadske HD
-#DESCRIPTION UA - Hromadske HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.45.135.158%3a1935/live/HrBroadcast/playlist.m3u8:UA - Hromadske TV
-#DESCRIPTION UA - Hromadske TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.45.135.158%3a1935/live/HrBroadcast/chunklist.m3u8:UA - HROMADSKE
-#DESCRIPTION UA - HROMADSKE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8:UA - IKS Sevastopol
-#DESCRIPTION UA - IKS Sevastopol
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ua/enter/index.m3u8:UA - Inter
-#DESCRIPTION UA - Inter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webcams.ks.ua/tvhls/stream2/index.m3u8:UA - JaTB
-#DESCRIPTION UA - JaTB
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/life/k1.m3u8:UA - K1
-#DESCRIPTION UA - K1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8:UA - Kanal 5 Ukraina
-#DESCRIPTION UA - Kanal 5 Ukraina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.otb.com.ua/hls/otb1/index.m3u8:UA - Kharkov TV
-#DESCRIPTION UA - Kharkov TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8:UA - Kiev TV
-#DESCRIPTION UA - Kiev TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/kontaktod/kontaktod-abr-lq/playlist.m3u8:UA - Kilia Kontakt
-#DESCRIPTION UA - Kilia Kontakt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8:UA - KPT Kiev
-#DESCRIPTION UA - KPT Kiev
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.113.32.169%3a8080/Apple/2/index.m3u8:UA - Kratu TV
-#DESCRIPTION UA - Kratu TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist:UA - KRT
-#DESCRIPTION UA - KRT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vid.techbee.pro%3a8080/crimea24/index.m3u8:UA - Krym 24
-#DESCRIPTION UA - Krym 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8:UA - Kultura
-#DESCRIPTION UA - Kultura
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4&app=playlist:UA - Kultura
-#DESCRIPTION UA - Kultura
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.201.156.142/kyivtv/kyivtv.sdp/chunklist.m3u8:UA - KYIV TV LIVE
-#DESCRIPTION UA - KYIV TV LIVE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.atr.ua/lale//live/index.m3u8:UA - Lale (kinderen)
-#DESCRIPTION UA - Lale (kinderen)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.atr.ua/lale//live/index.m3u8:UA - LALE
-#DESCRIPTION UA - LALE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kiev1-cdn.lanet.tv/live/2007.m3u8:UA - Lanet TV Brain
-#DESCRIPTION UA - Lanet TV Brain
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//play.lanet.tv/live/2006.m3u8:UA - Lanet TV Fight (Oekraïne)
-#DESCRIPTION UA - Lanet TV Fight (Oekraïne)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kiev1-cdn.lanet.tv/live/2009.m3u8:UA - Lanet TV Home (Oekraïne - open haard op tv)
-#DESCRIPTION UA - Lanet TV Home (Oekraïne - open haard op tv)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kiev1-cdn.lanet.tv/live/2008.m3u8:UA - Lanet TV Live
-#DESCRIPTION UA - Lanet TV Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kiev1-cdn.lanet.tv/live/2001.m3u8:UA - Lanet TV Trailer
-#DESCRIPTION UA - Lanet TV Trailer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_6/playlist.m3u8:UA - Ljubimoe TV
-#DESCRIPTION UA - Ljubimoe TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.m2.tv/hls/stream.m3u8:UA - M2
-#DESCRIPTION UA - M2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.72/life/magnolia.m3u8:UA - MAGNOLIA
-#DESCRIPTION UA - MAGNOLIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist:UA - Maljatko
-#DESCRIPTION UA - Maljatko
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8:UA - Malyatko TV (kids)
-#DESCRIPTION UA - Malyatko TV (kids)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//212.26.132.86/live/ playpath=mb_ua swfUrl=http%3a//radio.adamant.ua/video-js/video-js.swf pageUrl=http%3a//radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html:UA - Music Box
-#DESCRIPTION UA - Music Box
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua.m3u8:UA - MusicBox UA (360p - muziek)
-#DESCRIPTION UA - MusicBox UA (360p - muziek)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:UA - MusicBox UA (576p - muziek)
-#DESCRIPTION UA - MusicBox UA (576p - muziek)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//streamvideol1.luxnet.ua/news24/smil%3anews24.stream.smil/chunklist_b1328800.m3u8:UA - News 24 HD (nieuws)
-#DESCRIPTION UA - News 24 HD (nieuws)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ntktv.ua/s/ntk/ntk.m3u8:UA - NTK
-#DESCRIPTION UA - NTK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8:UA - NTS
-#DESCRIPTION UA - NTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist:UA - O TV Music
-#DESCRIPTION UA - O TV Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//player.obozrevatel.com/live/1080_livestream2.m3u8:UA - Oboz TV
-#DESCRIPTION UA - Oboz TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.75.33-.m3u8:UA - ONT
-#DESCRIPTION UA - ONT
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8:UA - OTV (muziek)
-#DESCRIPTION UA - OTV (muziek)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8:UA - Pershij Dilovij
-#DESCRIPTION UA - Pershij Dilovij
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ua/piksel/index.m3u8:UA - Piksel
-#DESCRIPTION UA - Piksel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ltava.poltava.ua%3a8000/hls/tvltava.m3u8:UA - Poltava
-#DESCRIPTION UA - Poltava
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8:UA - Pravda TUT Kiev
-#DESCRIPTION UA - Pravda TUT Kiev
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.57.10/hls/pravdatytlviv_ua_hi/index.m3u8:UA - Pravda TUT Lviv
-#DESCRIPTION UA - Pravda TUT Lviv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.158.80.101%3a8080/pravdatyt/stream.m3u8:UA - Pravda TUT
-#DESCRIPTION UA - Pravda TUT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//78.154.164.191%3a19350/Pulsar/forever:UA - Pulsar
-#DESCRIPTION UA - Pulsar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.20.164.181/live/rada480p.stream/playlist.m3u8:UA - Rada TV
-#DESCRIPTION UA - Rada TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?codec=mpeg4&app=playlist:UA - RAI
-#DESCRIPTION UA - RAI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.116.26-.m3u8:UA - Renome
-#DESCRIPTION UA - Renome
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8:UA - Reporter
-#DESCRIPTION UA - Reporter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8:UA - RTI
-#DESCRIPTION UA - RTI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-cdn.lanet.tv/tv/1019.m3u8:UA - Sirius
-#DESCRIPTION UA - Sirius
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kiev4-cdn.lanet.tv/live/1008.m3u8:UA - Skrypin
-#DESCRIPTION UA - Skrypin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8:UA - STB Odessa
-#DESCRIPTION UA - STB Odessa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ua/stb/index.m3u8:UA - STB
-#DESCRIPTION UA - STB
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8:UA - Sun TV
-#DESCRIPTION UA - Sun TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.tv-project.com%3a1935/live/live1/playlist.m3u8:UA - Svarozhichi
-#DESCRIPTION UA - Svarozhichi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8:UA - SК1
-#DESCRIPTION UA - SК1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8:UA - TIS Odessa
-#DESCRIPTION UA - TIS Odessa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8:UA - Tonis
-#DESCRIPTION UA - Tonis
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8:UA - Tretiy Cifrovoy
-#DESCRIPTION UA - Tretiy Cifrovoy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trk555.tv%3a8888/live:UA - TRK 555
-#DESCRIPTION UA - TRK 555
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//94.240.131.3/live/livestream1:UA - TRK ALEX
-#DESCRIPTION UA - TRK ALEX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8:UA - TRK Krug Odessa
-#DESCRIPTION UA - TRK Krug Odessa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4%3atv5/playlist.m3u8:UA - TV 5
-#DESCRIPTION UA - TV 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.238.110.158%3a8080/hq.m3u8:UA - TV FM
-#DESCRIPTION UA - TV FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv7plus.com/hls/tv7_site.m3u8:UA - TV7+
-#DESCRIPTION UA - TV7+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8:UA - TVA
-#DESCRIPTION UA - TVA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.26.128.21%3a1234:UA - Tvdom
-#DESCRIPTION UA - Tvdom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.64.92.118%3a8080/Apple/1/index.m3u8:UA - Tvіj Plus
-#DESCRIPTION UA - Tvіj Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8:UA - UA Crimea
-#DESCRIPTION UA - UA Crimea
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8:UA - UA First
-#DESCRIPTION UA - UA First
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8:UA - UA TV
-#DESCRIPTION UA - UA TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4:UA - UA%3a Donbas
-#DESCRIPTION UA - UA: Donbas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.190.192%3a1935/WEB_Ukraine24/Ukraine24.stream/chunklist.m3u8:UA - UKRAINE 24
-#DESCRIPTION UA - UKRAINE 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8:UA - Vozrozhdenie
-#DESCRIPTION UA - Vozrozhdenie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.103.251/hls/xsport_ua_hi/index.m3u8:UA - XSPORT
-#DESCRIPTION UA - XSPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/wave/wave-abr/playlist.m3u8:UA - Yuzhnaja Volna
-#DESCRIPTION UA - Yuzhnaja Volna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/zdorovood/zdorovo-abr-lq/playlist.m3u8:UA - Zdorove Odessa
-#DESCRIPTION UA - Zdorove Odessa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/odtrkzt/odtrkzt-abr/playlist.m3u8:UA - Zhytomyr
-#DESCRIPTION UA - Zhytomyr
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8:UA - Еко
-#DESCRIPTION UA - Еко
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8:UA - Еспресо
-#DESCRIPTION UA - Еспресо
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.196.177.12%3a55555:UA - КТМ Oleksandriia
-#DESCRIPTION UA - КТМ Oleksandriia
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//95.67.106.10/hls/nta_ua_hi/index.m3u8:UA - НТА
-#DESCRIPTION UA - НТА
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.hope.ua/hopeua/live_1/playlist.m3u8:UA - Надiя
-#DESCRIPTION UA - Надiя
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8:UA - Перший
-#DESCRIPTION UA - Перший
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8:UA - Правда Тут
-#DESCRIPTION UA - Правда Тут
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bozztv.com/36bay2/gin/giniko_uatv_1000kb_36bay2/index.m3u8:UA TV (UA)
-#DESCRIPTION UA TV (UA)
+#SERVICE 1:64:1db:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/1tvkr/1tvkr/playlist.m3u8:1 TV Krivoy Rog
+#DESCRIPTION 1 TV Krivoy Rog
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.ua/1zahid.com_live/livestream/playlist.m3u8:1 TV Lviv
+#DESCRIPTION 1 TV Lviv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.194.79.46%3a8081/stream1/channel1/playlist.m3u8:1 TV Odessa
+#DESCRIPTION 1 TV Odessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-k2303-kbp.1plus1.video/live/1637112060/2RbTKHfA3HvR1v5oc5erRQ/184723/smil%3a184723.smil/chunklist_b2128000.m3u8:1+1
+#DESCRIPTION 1+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mrlive.1tvcrimea.ru%3a8080/1tvcrimea.m3u8:Krim 1
+#DESCRIPTION Krim 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.1tvcrimea.ru%3a8080/24tvcrimea.m3u8:Krim 24
+#DESCRIPTION Krim 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10.live-tv.od.ua%3a8083/sk1zt/sk1zt720p/playlist.m3u8:SK 1
+#DESCRIPTION SK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-k2303-kbp.1plus1.video/live/1637112266/q6Od_4blvVAjwE3Hc1rrfA/187534/smil%3a187534.smil/chunklist_b6360000.m3u8:2+2
+#DESCRIPTION 2+2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/life/k1.m3u8:K1
+#DESCRIPTION K1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.106.10/hls/nta_ua_hi/index.m3u8:4 Kanal
+#DESCRIPTION 4 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vs822.vcdn.biz/2aab0d706e1cadc06fb2211ecbae90bf_megogo/live/hls/b/700/u_sid/0/o/71044361/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/84.30.206.221*asn/type.live/chunklist-sid173456599502296-b700000.m3u8:Telekompaniya TV 4
+#DESCRIPTION Telekompaniya TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4%3atv5/playlist.m3u8:TV5 Zaporizhia
+#DESCRIPTION TV5 Zaporizhia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8:7 Kanal
+#DESCRIPTION 7 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv7plus.com/hls/tv7_site.m3u8:TV7+
+#DESCRIPTION TV7+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8?_=1637111456:11 Kanal
+#DESCRIPTION 11 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamvideol1.luxnet.ua/news24/smil%3anews24.stream.smil/chunklist_b3628000.m3u8:24 Kanal
+#DESCRIPTION 24 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8:34 Telekanal
+#DESCRIPTION 34 Telekanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trk555.tv%3a8888/live:TRK 555
+#DESCRIPTION TRK 555
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.46.112.223/live/livestream1.m3u8:TRK Aleks
+#DESCRIPTION TRK Aleks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/krugod/krugod/playlist.m3u8:TRK Kruh
+#DESCRIPTION TRK Kruh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.trkmillet.ru/millet/index.m3u8:TRK Millet
+#DESCRIPTION TRK Millet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/31chod/31chod-sub/playlist.m3u8:TRK Reporter
+#DESCRIPTION TRK Reporter
+#SERVICE 1:64:1dc:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.16.32-.m3u8:100%25 News
+#DESCRIPTION 100% News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/a1od/a1od-abr/playlist.m3u8:А1
+#DESCRIPTION А1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10.live-tv.od.ua%3a8083/36chod/36chod-abr/playlist.m3u8:Academy
+#DESCRIPTION Academy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arhat.tv/public/720p/index.m3u8:Arhat TV
+#DESCRIPTION Arhat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.atr.ua/atr/live/index.m3u8:ATR
+#DESCRIPTION ATR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//avers.pp.ua/hls/efir.m3u8:Avers
+#DESCRIPTION Avers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.50.51.34/playlist.m3u8:Balta TV
+#DESCRIPTION Balta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8:Bambarbia TV HD
+#DESCRIPTION Bambarbia TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.vtvplus.com.ua%3a81/hls/online/index.m3u8:ВТВ
+#DESCRIPTION ВТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.radiogroup.com.ua%3a8080/live/avto/index.m3u8:Car Radio
+#DESCRIPTION Car Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//langate.tv/promin/live_720/index.m3u8:Chernіveckij Promіn
+#DESCRIPTION Chernіveckij Promіn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/life/magnolia.m3u8:ChP.Info
+#DESCRIPTION ChP.Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8:CNL Европа
+#DESCRIPTION CNL Европа
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-k2302-kbp.1plus1.video/sport/smil%3asport.smil/chunklist_b6000000.m3u8:CNOPT 1
+#DESCRIPTION CNOPT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.110.1.30%3a1935/live/donbasonline/playlist.m3u8:Donbass 5 Online
+#DESCRIPTION Donbass 5 Online
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.dn.ua/hls/stream.m3u8:Donechchyna TV
+#DESCRIPTION Donechchyna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.dn.ua/hls/stream.m3u8:Donezk TV
+#DESCRIPTION Donezk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/dumska/dumska-abr/playlist.m3u8:Duma TV
+#DESCRIPTION Duma TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8:Dumskaya-TV
+#DESCRIPTION Dumskaya-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8:First Business Channel
+#DESCRIPTION First Business Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//95-213-224-183.livesports24.online/uafootballua1.m3u8:Futbol 1
+#DESCRIPTION Futbol 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.uagit.tv/gittv.m3u8:GIT
+#DESCRIPTION GIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glas.org.ua/hls/glassru.m3u8:Glass Russia
+#DESCRIPTION Glass Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glas.org.ua/hls/glassua.m3u8:Glass Ukraine
+#DESCRIPTION Glass Ukraine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/a1od/gtvod-720p/playlist.m3u8:GTV
+#DESCRIPTION GTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:HD Fashion and Lifestyle
+#DESCRIPTION HD Fashion and Lifestyle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.175.163.130/ks_plus/index.m3u8:Herson
+#DESCRIPTION Herson
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.hope.ua/hopeua/live_1/playlist.m3u8:Hope
+#DESCRIPTION Hope
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nadiya.home-net.com.ua/mob/mystream.m3u8:Hope New Channel
+#DESCRIPTION Hope New Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/ktkod/ktkod/playlist.m3u8:Inshyy
+#DESCRIPTION Inshyy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1.iptv.macc.com.ua/img/inter_3/index.m3u8:Inter
+#DESCRIPTION Inter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge3.iptv.macc.com.ua/img/inter_3/index.m3u8:Inter -2-
+#DESCRIPTION Inter -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/img/inter_2/index.m3u8:Inter -3-
+#DESCRIPTION Inter -3-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.193.128.233%3a1935/live/irt.stream/playlist.m3u8:IRT Dnieper
+#DESCRIPTION IRT Dnieper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10.live-tv.od.ua%3a8083/izod/izod-abr/playlist.m3u8:Izmail TV
+#DESCRIPTION Izmail TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10.live-tv.od.ua%3a8083/kratu/kratu-abr/playlist.m3u8:Kratu TV
+#DESCRIPTION Kratu TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/krugod/krugod-abr/krugod/krugod/playlist.m3u8:Krugod
+#DESCRIPTION Krugod
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.atr.ua/lale/live/index.m3u8:Lale
+#DESCRIPTION Lale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.simon.ua/live-HD/live/playlist_dvr.m3u8:Lens 59
+#DESCRIPTION Lens 59
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.m2.tv/hls2/stream.m3u8:M1
+#DESCRIPTION M1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.m2.tv/hls3/stream.m3u8:M2
+#DESCRIPTION M2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w4.mostvideo.tv/tv/ch1.m3u8:MostVideo.TV
+#DESCRIPTION MostVideo.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8:Music Box Ukraina
+#DESCRIPTION Music Box Ukraina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hope.ua/hopeua/live_1/playlist.m3u8:Nadiya
+#DESCRIPTION Nadiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ntktv.ua/s/ntk/ntk.m3u8:NTK HD
+#DESCRIPTION NTK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8:NTN
+#DESCRIPTION NTN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10.live-tv.od.ua%3a8083/odtrkod/odtrkod-abr/playlist.m3u8:Odessa
+#DESCRIPTION Odessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.75.33-.m3u8:ONT
+#DESCRIPTION ONT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ftp.orbita.dn.ua/hls/orbita.m3u8:Orbita TV
+#DESCRIPTION Orbita TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.193.128.233%3a1935/live/otv.stream_576p/playlist.m3u8:OTV
+#DESCRIPTION OTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8:Pershij Dilovij
+#DESCRIPTION Pershij Dilovij
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.91.177.102%3a1935/live/live1/chunklist_.m3u8:Planeta TV
+#DESCRIPTION Planeta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8:Pravda TUT
+#DESCRIPTION Pravda TUT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.21.100/hls/prm_ua_hi/index.m3u8:Pryramyy
+#DESCRIPTION Pryramyy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.luxnet.ua/luxstudio/smil%3aluxstudio.stream.smil/playlist.m3u8:Radyo Lyuks
+#DESCRIPTION Radyo Lyuks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.116.26-.m3u8:Renome
+#DESCRIPTION Renome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8:Reporter
+#DESCRIPTION Reporter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.simon.ua/live-HD/live/playlist.m3u8:Simon
+#DESCRIPTION Simon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//open-cdn.lanet.tv/live/1008.m3u8:Skrypin.ua
+#DESCRIPTION Skrypin.ua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/wave/wave-abr/playlist.m3u8:South Wave
+#DESCRIPTION South Wave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/wave/wave-720/playlist.m3u8:Southern Wave
+#DESCRIPTION Southern Wave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//95-213-224-183.livesports24.online/sport1ua.m3u8:Sport 1
+#DESCRIPTION Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.tv-project.com%3a1935/live/live1/playlist.m3u8:Svarozhychy
+#DESCRIPTION Svarozhychy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.32.67.187%3a1935/WEB_Ukraine24/ngrp%3aUkraine24.stream-adaptive/chunklist_w1727155368_b2626172.m3u8:TBN Ukraïna
+#DESCRIPTION TBN Ukraïna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rai.ua/rai/stream.m3u8:Telekanal RAI
+#DESCRIPTION Telekanal RAI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8:TIS Odessa
+#DESCRIPTION TIS Odessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10.live-tv.od.ua%3a8083/leonovtv/test1/playlist.m3u8:Travel Guide TV
+#DESCRIPTION Travel Guide TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8:Tretiy Cifrovoy
+#DESCRIPTION Tretiy Cifrovoy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8:TVA
+#DESCRIPTION TVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn10.live-tv.od.ua%3a8083/riood/tisod504/playlist.m3u8:Tys TV
+#DESCRIPTION Tys TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.106.242/hls/ua-tv_ua_mid/index.m3u8:UATV
+#DESCRIPTION UATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//app.live.112.events/hls-ua/112hd_mid/index.m3u8:Ukraine Live TV
+#DESCRIPTION Ukraine Live TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.69%3a8811/hls_sec/239.0.4.18-.m3u8:Voice
+#DESCRIPTION Voice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.175.163.130/live_yatb/playlist.m3u8:YATB
+#DESCRIPTION YATB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ztv.zp.ua/hls/live.m3u8:Z TV HD
+#DESCRIPTION Z TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/zdorovood/zdorovo/playlist.m3u8:Zdorovo
+#DESCRIPTION Zdorovo

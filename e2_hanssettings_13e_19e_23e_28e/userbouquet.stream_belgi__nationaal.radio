@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:3aa:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c2:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -51,7 +51,7 @@
 #DESCRIPTION VRT Studio Brussel - De Tijdloze
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_untz-high.mp3:VRT Studio Brussel UNTZ
 #DESCRIPTION VRT Studio Brussel UNTZ
-#SERVICE 1:64:3ab:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c3:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -225,8 +225,10 @@
 #DESCRIPTION Only90sradio (Brussel - BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.86.78%3a8038/stream:ParkinsonRadioParkies ​Belgium.BE-NL (BE)
 #DESCRIPTION ParkinsonRadioParkies ​Belgium.BE-NL (BE)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8330/:POWER (België)
-#DESCRIPTION POWER (België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.potz.be/omnia:POTZ
+#DESCRIPTION POTZ
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8330/:POWER
+#DESCRIPTION POWER
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.187.79.153%3a6158/stream:Puur Vlaams
 #DESCRIPTION Puur Vlaams
 #SERVICE 4097:0:2:1b72:c88:3:eb0000:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMUSIC.mp3:Qmusic
@@ -303,6 +305,8 @@
 #DESCRIPTION Radio Op Volle Toeren
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.59.37.6%3a11764/;:Radio Pasión (Latijns-Amerikaanse muziek - BE)
 #DESCRIPTION Radio Pasión (Latijns-Amerikaanse muziek - BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice13.fluidstream.net/studiosonart.mp3:Radio Roem - studenten (vrij 10-14.00 live)
+#DESCRIPTION Radio Roem - studenten (vrij 10-14.00 live)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.radiototaal.be/radiototaal-high.mp3:Radio Totaal
 #DESCRIPTION Radio Totaal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.202.22.75%3a8132/;:Radiofunvlaanderen (België)
@@ -321,18 +325,38 @@
 #DESCRIPTION Studio Brussel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/SoulfulHouseOne:Soulfulhouse (België)
 #DESCRIPTION Soulfulhouse (België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-classics:Studio 100 - 100 Classics
+#DESCRIPTION Studio 100 - 100 Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-crooners:Studio 100 - 100 Crooners
+#DESCRIPTION Studio 100 - 100 Crooners
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-films:Studio 100 - 100 Films
+#DESCRIPTION Studio 100 - 100 Films
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-funnyfacts:Studio 100 - 100 Funny Facts
+#DESCRIPTION Studio 100 - 100 Funny Facts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-kids:Studio 100 - 100 Kids
+#DESCRIPTION Studio 100 - 100 Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-musicals:Studio 100 - 100 Musicals
+#DESCRIPTION Studio 100 - 100 Musicals
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-slows:Studio 100 - 100 Slows
+#DESCRIPTION Studio 100 - 100 Slows
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-vanjouw:Studio 100 - 100 Van jou
+#DESCRIPTION Studio 100 - 100 Van jou
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-women:Studio 100 - 100 Woman
+#DESCRIPTION Studio 100 - 100 Woman
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.studio100.com/100-zen:Studio 100 - 100 %25Zen
+#DESCRIPTION Studio 100 - 100 %Zen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.textchat.be%3a8009/TEXTRADIO:Text Radio
 #DESCRIPTION Text Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str.topradio.be/topradio.mp3:TOP Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOP_RADIO.mp3 :TOP Radio
 #DESCRIPTION TOP Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3:TOP Radio Retro Arena
-#DESCRIPTION TOP Radio Retro Arena
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPSPINNING.mp3:TOP Radio Spinning 30
-#DESCRIPTION TOP Radio Spinning 30
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-weaver.ams03.hls.ttvnw.net/v1/playlist/CusEuw89-aEXsNEzIhp8_ujGXx2ArLGTo1Bmz0d-fU14CgkILKMUkdFm9IcyC6rhHVrSdGdWOe897zmXXLd3IQsKzkt-eFotZ_Q-6l4i6bs1MYFWSJvx9AyXuP3ph1O9-_SbeOR5ldgmMyXabh4U1XUh24hn6wnlpVNsQNAEI3CdqjPzNMvedVIR7_bePevV2W9slbdYnOQ2RmnoWTk_9L_nkygu_TLu9jlx0l-sDUJj10M3j6zIuVlfksy7mz2mIRBSS3XRKnh740kdPIRIilAnb9UTgR-MbTiKFhXecLp-GFE-Vy_b7LyNlXwJGWOHQyp0xLQ9ruQdezGmn-DnN9GxExqd-a79w45E5bQnlLM-Dkk2Ze2tJSDQI-TbmecrNiH4JDUJocYR7ntmSWPdcrzBvxSt1ylQTi-kom4DcGP17CXTqxJ7KTkFI-ziMQzihq98htaqcUXK15HiSgmso_s0wL4HPvid1agkBNr504IK7gw9rDyHEWx6uwJUDxe4vF4pAJLE4OVOXMB45CwHLXM5TfQRKG9rtRrswcszQf8Oq9ND-diAZboCW5CpU2uTCX6bR0N3ShUd7VmsO250MLJu0Nqhqe8TuRUDlK2bocnOjjwfpLExtFFLAqfj0N8JaR-YTbbDKvPq4zIpvqsQzgg3suiGkqox1niMP43SkOVw5zYk1hon50AsHvEqnE6D8mI-VBqj9XI8hYvu4r4mEvaKi7UzgywLVy1lMjOXqNT12aT9THQlre4scLffFJrXbtH0Q1vHu1RwYiAngNIelQ1t-brIFGFoY4FvmDxuHoJOB7hZjLur61Kp_Gjw8xIQN1BXLttTQuRN7iJ5fmtQihoMBWKGrOGtU7Iq-5Ss.m3u8:Top Radio webcam (BE)
-#DESCRIPTION Top Radio webcam (BE)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str.topradio.be/TOPradioArena.aac:TOP Selecdtion (België)
-#DESCRIPTION TOP Selecdtion (België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPSPINNING.mp3:TOP Non stop
+#DESCRIPTION TOP Non stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3 :TOP Retro Arena
+#DESCRIPTION TOP Retro Arena
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPSCHAAMTELOZE.MP3:TOP Schaamteloos
+#DESCRIPTION TOP Schaamteloos
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPZENAAC.aac:TOP Zen
+#DESCRIPTION TOP Zen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.trendyfm.be%3a80/:Trendy FM
 #DESCRIPTION Trendy FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.vbro.be%3a9100/vbro:VBRO
@@ -365,7 +389,7 @@
 #DESCRIPTION ZZMETAL (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK (België)
 #DESCRIPTION ZZROCK (België)
-#SERVICE 1:64:3ac:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c4:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -431,12 +455,16 @@
 #DESCRIPTION M Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/mint:Mint
 #DESCRIPTION Mint
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgiePremium  :Nostalgie (België/Wallonië)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgiePremium  :Nostalgie (België/Wallonië)
 #DESCRIPTION Nostalgie (België/Wallonië)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/nostaplus-mp3:Nostalgie+ (België/Wallonië)
 #DESCRIPTION Nostalgie+ (België/Wallonië)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieJohnnyHallyday-aac:Nostalgie-100 %25 Johnny Hallyday (België)
 #DESCRIPTION Nostalgie-100 % Johnny Hallyday (België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/Nostalgie2000-aac:Nostalgie - 2000
+#DESCRIPTION Nostalgie - 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/gen3:Nostalgie - Camping
+#DESCRIPTION Nostalgie - Camping
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.162/fr/30611/mp3_128.mp3:Nostalgie Chanson Francaises (België/Frankrijk)
 #DESCRIPTION Nostalgie Chanson Francaises (België/Frankrijk)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieCinema-aac    :Nostalgie Cinema (België)
@@ -473,6 +501,8 @@
 #DESCRIPTION Nostalgie-Rock-90 (België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieSoulparty-aac      :Nostalgie-Soul-Party (België)
 #DESCRIPTION Nostalgie-Soul-Party (België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/gen5-aac:Nostalgie - Summertime
+#DESCRIPTION Nostalgie - Summertime
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/NRJ?:NRJ Wallonië (België)
 #DESCRIPTION NRJ Wallonië (België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.157/be/34003/mp3_128.mp3:NRJ-Belgique---Best-Hits-Ever
@@ -609,7 +639,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:3ad:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c5:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -625,7 +655,7 @@
 #DESCRIPTION Radio Contact Ostbelgien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:3ae:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c6:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

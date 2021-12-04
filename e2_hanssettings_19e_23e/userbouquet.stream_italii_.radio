@@ -1,5 +1,5 @@
 #NAME Stream Italiië (IT)
-#SERVICE 1:64:3b3:0:0:0:0:0:0:0:
+#SERVICE 1:64:3cd:0:0:0:0:0:0:0:
 #DESCRIPTION ++RAI++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:RAI Radio 1
 #DESCRIPTION RAI Radio 1
@@ -25,7 +25,7 @@
 #DESCRIPTION Rai Radio Techetè
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:https%3a//radioitaliana1-lh.akamaihd.net/i/radioitaliana1_1@586844/index_128000_a-p.m3u8:Rai Radio Tutta Italiana
 #DESCRIPTION Rai Radio Tutta Italiana
-#SERVICE 1:64:3b4:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ce:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
 #DESCRIPTION 105 Indie
@@ -51,10 +51,30 @@
 #DESCRIPTION Giornale Radio Ultimo Ora
 #SERVICE 4097:0:2:373:0:0:0:0:0:0:http%3a//kos.broadstreamer.com%3a8500:ITALIAN GRAFFIATI
 #DESCRIPTION ITALIAN GRAFFIATI
-#SERVICE 4097:0:2:185:0:0:0:0:0:0:https%3a//ice06.fluidstream.net/KKItalia.aac?FLID=6:Kiss Kiss Italia (Italië)
-#DESCRIPTION Kiss Kiss Italia (Italië)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_trap.mp3:KissKiss Christmas
+#DESCRIPTION KissKiss Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_history.mp3:KissKiss History Kiss
+#DESCRIPTION KissKiss History Kiss
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_hits.mp3:KissKiss Hits
+#DESCRIPTION KissKiss Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kisskiss.fluidstream.eu/KKItalia.mp3:Kiss Kiss Italia
+#DESCRIPTION Kiss Kiss Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_hits.mp3:KissKiss Latina
+#DESCRIPTION KissKiss Latina
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kisskiss.fluidstream.eu/KKNapoli.mp3:Kiss Kiss Napoli
+#DESCRIPTION Kiss Kiss Napoli
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_rock.mp3:KissKiss Rock
+#DESCRIPTION KissKiss Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_sanvalentino.mp3:KissKiss San Valentino
+#DESCRIPTION KissKiss San Valentino
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_sanremo.mp3:KissKiss Sanremo
+#DESCRIPTION KissKiss Sanremo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_trap.mp3:KissKiss Trap
+#DESCRIPTION KissKiss Trap
 #SERVICE 4097:0:2:233:0:0:0:0:0:0:http%3a//nr6.newradio.it%3a9182/;:L'ALTRA RADIO
 #DESCRIPTION L'ALTRA RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nr5.newradio.it%3a18919/stream:LaC Radio
+#DESCRIPTION LaC Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sr15.inmystream.it/stream/lattemiele:Latte Miele 
 #DESCRIPTION Latte Miele 
 #SERVICE 4097:0:2:315:0:0:0:0:0:0:http%3a//176.31.117.120%3a8221/:LAZIO STYLE RADIO
@@ -225,12 +245,10 @@
 #DESCRIPTION RADIO JUKEBOX
 #SERVICE 4097:0:2:161:0:0:0:0:0:0:http%3a//kemoniastreaming2.net%3a8000/;:RADIO KEMONIA
 #DESCRIPTION RADIO KEMONIA
-#SERVICE 4097:0:2:37:0:0:0:0:0:0:http%3a//wma08.fluidstream.net%3a4610/:Radio Kiss Kiss (opz 1)
-#DESCRIPTION Radio Kiss Kiss (opz 1)
-#SERVICE 4097:0:2:39:0:0:0:0:0:0:http%3a//ice07.fluidstream.net%3a8080/KissKiss.mp3:Radio Kiss Kiss (opz 2))
-#DESCRIPTION Radio Kiss Kiss (opz 2))
-#SERVICE 4097:0:2:41:0:0:0:0:0:0:http%3a//wma07.fluidstream.net%3a3616/;stream.nsv:Radio Kiss Kiss Italia
-#DESCRIPTION Radio Kiss Kiss Italia
+#SERVICE 4097:0:2:37:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/KissKiss.mp3:Radio Kiss Kiss
+#DESCRIPTION Radio Kiss Kiss
+#SERVICE 4097:0:2:41:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/KissKiss1.mp3:Radio Kiss Kiss +1
+#DESCRIPTION Radio Kiss Kiss +1
 #SERVICE 4097:0:2:423:0:0:0:0:0:0:http%3a//radiokolbemelfi.ddns.net%3a1337/;:RADIO KOLBE MELFI
 #DESCRIPTION RADIO KOLBE MELFI
 #SERVICE 4097:0:2:329:0:0:0:0:0:0:http%3a//nr9.newradio.it%3a9690/stream.mp3?1486762129626.mp3:RADIO LA FENICE CHANNEL
