@@ -1,5 +1,5 @@
 #NAME Stream Bolivia (BO)
-#SERVICE 1:64:273:0:0:0:0:0:0:0:
+#SERVICE 1:64:268:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boliviatv1.srfms.com%3a5735/live/livestream/playlist.m3u8:Bolivia TV 7.1
 #DESCRIPTION Bolivia TV 7.1
@@ -11,7 +11,7 @@
 #DESCRIPTION Rec TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.3.70%3a1935/RtpBolivia/RtpBolivia/playlist.m3u8:RTP Bolivia
 #DESCRIPTION RTP Bolivia
-#SERVICE 1:64:274:0:0:0:0:0:0:0:
+#SERVICE 1:64:269:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8:Alegria TV
 #DESCRIPTION Alegria TV

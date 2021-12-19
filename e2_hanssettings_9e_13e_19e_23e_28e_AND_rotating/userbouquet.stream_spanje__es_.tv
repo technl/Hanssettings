@@ -1,12 +1,18 @@
 #NAME Stream Spanje (ES)
-#SERVICE 1:64:1956:0:0:0:0:0:0:0:
+#SERVICE 1:64:19e4:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8:TVE 1
 #DESCRIPTION TVE 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8:TVE 1 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/41/playlist.m3u8:TVE 1 -2-
 #DESCRIPTION TVE 1 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_576.m3u8:TVE 1 -3-
 #DESCRIPTION TVE 1 -3-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/index_1500_av-b.m3u8:TVE 1 Canarias
+#DESCRIPTION TVE 1 Canarias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8:TVE 1 Canarias -2-
+#DESCRIPTION TVE 1 Canarias -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8:TVE 1 Catalunya
+#DESCRIPTION TVE 1 Catalunya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8:TVE 2
 #DESCRIPTION TVE 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8:TVE 2 -2-
@@ -15,37 +21,31 @@
 #DESCRIPTION TVE 2 -3-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8:TVE 24 Horas
 #DESCRIPTION TVE 24 Horas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8:TVE 24 Horas
-#DESCRIPTION TVE 24 Horas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586405/master.m3u8:TVE +24 Eventos 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8:TVE 24 Horas -2-
+#DESCRIPTION TVE 24 Horas -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 1
 #DESCRIPTION TVE +24 Eventos 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/irtve02_lv3_aosv4_gl0.m3u8:TVE +24 Eventos 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586403/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 2
 #DESCRIPTION TVE +24 Eventos 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/irtve03_lv3_aosv4_gl0.m3u8:TVE +24 Eventos 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586404/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 3
 #DESCRIPTION TVE +24 Eventos 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8:TVE +24 Eventos 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586405/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 4
 #DESCRIPTION TVE +24 Eventos 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/index_1500_av-b.m3u8:TVE Canarias
-#DESCRIPTION TVE Canarias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8:TVE Canarias
-#DESCRIPTION TVE Canarias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8:TVE Catalunya
-#DESCRIPTION TVE Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/index_1500_av-b.m3u8:TVE Play
-#DESCRIPTION TVE Play
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//95.60.229.158%3a20000/udp/239.0.1.1%3a1234:Antena 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/91/playlist.m3u8:TVE Teledeporte
+#DESCRIPTION TVE Teledeporte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/11/playlist.m3u8:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//95.60.229.158%3a20000/udp/239.0.2.2%3a1234:Cuatro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/101/playlist.m3u8:Antena 3 Series
+#DESCRIPTION Antena 3 Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/51/playlist.m3u8:Cuatro
 #DESCRIPTION Cuatro
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//95.60.229.158%3a20000/udp/239.0.2.1%3a1234:La 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/61/playlist.m3u8:La 5
 #DESCRIPTION La 5
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//95.60.229.158%3a20000/udp/239.0.1.2%3a1234:La Sexta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/21/playlist.m3u8:La Sexta
 #DESCRIPTION La Sexta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn2.interlibre.net/hls/151/index.m3u8:La Sexta -2-
-#DESCRIPTION La Sexta -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8:La 7 Murcia HD
 #DESCRIPTION La 7 Murcia HD
-#SERVICE 1:64:1957:0:0:0:0:0:0:0:
+#SERVICE 1:64:19e5:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5940924978228.streamlock.net/8157/8157/.m3u8:28 Kanala Baskenland
 #DESCRIPTION 28 Kanala Baskenland
@@ -285,3 +285,17 @@
 #DESCRIPTION Vision 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8:Zee Mundo
 #DESCRIPTION Zee Mundo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/91/playlist.m3u8:tdp
+#DESCRIPTION tdp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/81/playlist.m3u8:la2
+#DESCRIPTION la2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/41/playlist.m3u8:la1
+#DESCRIPTION la1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/51/playlist.m3u8:QUATRO
+#DESCRIPTION QUATRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.126.141.13%3a1935/live/21/playlist.m3u8:La Sexta
+#DESCRIPTION La Sexta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-6179-tv-mobile/hls/4003v102.m3u8:DISCOVERY
+#DESCRIPTION DISCOVERY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-6069-tv-pc/hls/4001v105.m3u8:EUROSPORT
+#DESCRIPTION EUROSPORT

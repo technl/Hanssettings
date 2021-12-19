@@ -1,5 +1,5 @@
 #NAME Stream Frankrijk (FR)
-#SERVICE 1:64:1918:0:0:0:0:0:0:0:
+#SERVICE 1:64:19a4:0:0:0:0:0:0:0:
 #DESCRIPTION ++Hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s6.tntendirect.com/tf1/live/playlist.m3u8:TF1
 #DESCRIPTION TF1
@@ -51,7 +51,7 @@
 #DESCRIPTION TV5 Monde Info
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8:TV5 Monde Info -2-
 #DESCRIPTION TV5 Monde Info -2-
-#SERVICE 1:64:1919:0:0:0:0:0:0:0:
+#SERVICE 1:64:19a5:0:0:0:0:0:0:0:
 #DESCRIPTION ++Overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8:A2i Music
 #DESCRIPTION A2i Music

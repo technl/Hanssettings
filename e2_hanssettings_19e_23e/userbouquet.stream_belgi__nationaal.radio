@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:323:0:0:0:0:0:0:0:
+#SERVICE 1:64:31d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -51,7 +51,7 @@
 #DESCRIPTION VRT Studio Brussel - De Tijdloze
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_untz-high.mp3:VRT Studio Brussel UNTZ
 #DESCRIPTION VRT Studio Brussel UNTZ
-#SERVICE 1:64:324:0:0:0:0:0:0:0:
+#SERVICE 1:64:31e:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -225,6 +225,8 @@
 #DESCRIPTION Only90sradio (Brussel - BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.86.78%3a8038/stream:ParkinsonRadioParkies ​Belgium.BE-NL (BE)
 #DESCRIPTION ParkinsonRadioParkies ​Belgium.BE-NL (BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.clubfmserver.be/pink.mp3:PINK
+#DESCRIPTION PINK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.potz.be/omnia:POTZ
 #DESCRIPTION POTZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8330/:POWER
@@ -265,6 +267,8 @@
 #DESCRIPTION Q-XMAS
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.radio19.fm%3a8200:Radio 19
 #DESCRIPTION Radio 19
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.voscast.com%3a10584/stream:Radio 7 Costa Blanca
+#DESCRIPTION Radio 7 Costa Blanca
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.landparkmedia.eu/radio/8020/radio.mp3:Radio 777
 #DESCRIPTION Radio 777
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/RadioForty5:Radio45/Forty5 (België)
@@ -385,11 +389,13 @@
 #DESCRIPTION Yesterdayland Extra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3:Zen FM
 #DESCRIPTION Zen FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com//ZZMETAL:ZZMETAL (België)
-#DESCRIPTION ZZMETAL (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK (België)
-#DESCRIPTION ZZROCK (België)
-#SERVICE 1:64:325:0:0:0:0:0:0:0:
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com//ZZMETAL:ZZMETAL
+#DESCRIPTION ZZMETAL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcast.net/67912:ZZOldies
+#DESCRIPTION ZZOldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK
+#DESCRIPTION ZZROCK
+#SERVICE 1:64:31f:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -407,6 +413,8 @@
 #DESCRIPTION Bel RTL - Deci
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//franco-belrtl.ice.infomaniak.ch/franco-belrtl-192.mp3:Bel RTL - Franco
 #DESCRIPTION Bel RTL - Franco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deci-belrtl.ice.infomaniak.ch/deci-belrtl-192.mp3:Bel RTL - Noël
+#DESCRIPTION Bel RTL - Noël
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtlparty.ice.infomaniak.ch/belrtlparty-192.mp3:Bel RTL - Party
 #DESCRIPTION Bel RTL - Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//59959724487e3.streamlock.net/radio/live/chunklist.m3u8:BX1+ (België/Wallonië) met beeld
@@ -639,7 +647,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:326:0:0:0:0:0:0:0:
+#SERVICE 1:64:320:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -655,7 +663,7 @@
 #DESCRIPTION Radio Contact Ostbelgien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:327:0:0:0:0:0:0:0:
+#SERVICE 1:64:321:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

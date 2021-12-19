@@ -1,5 +1,5 @@
 #NAME Stream Estland (EE)
-#SERVICE 1:64:264:0:0:0:0:0:0:0:
+#SERVICE 1:64:25a:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8:ETV
 #DESCRIPTION ETV
@@ -11,7 +11,7 @@
 #DESCRIPTION 7D7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-ee/_definst_/smil%3atv7-ee.smil/chunklist_w542121059_b296000_slet.m3u8:Taevas TV 7
 #DESCRIPTION Taevas TV 7
-#SERVICE 1:64:265:0:0:0:0:0:0:0:
+#SERVICE 1:64:25b:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lifetv.bitflip.ee/live/stream1.m3u8:Life TV
 #DESCRIPTION Life TV

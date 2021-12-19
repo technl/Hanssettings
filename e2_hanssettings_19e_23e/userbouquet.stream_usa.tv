@@ -1,33 +1,101 @@
 #NAME Stream USA (US)
-#SERVICE 1:64:2a8:0:0:0:0:0:0:0:
+#SERVICE 1:64:2a0:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8:ABC News
-#DESCRIPTION ABC News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8:ABC News Live HD
-#DESCRIPTION ABC News Live HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8:CBSN News
-#DESCRIPTION CBSN News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8:CBS 4 Miami
-#DESCRIPTION CBS 4 Miami
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8:CBS 4 Miami -2-
-#DESCRIPTION CBS 4 Miami -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2-playlistserver.aws.syncbak.com/playlist/893557/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAwMDc1MDQsImlzcyI6IldMUyIsIm1kNSI6IjMyMjE4MzNhYzRiOTJkOTRiMDBjMDFjZjY5MDM2NmY1IiwibWlkIjoiODkzNTU3In0.arYOsp9fiM8UzYcTRIxI7GlDdA3RAgQUCX6JRb88wxQ:CBS 27 Lexington
-#DESCRIPTION CBS 27 Lexington
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8 :CNN USA
-#DESCRIPTION CNN USA
-#SERVICE 1:0:1:1146:404:1:c00000:0:0:0:http%3a//tohome.redirectme.net%3a8001/1%3a0%3a1%3a1146%3a404%3a1%3ac00000%3a0%3a0%3a0:CNN International
-#DESCRIPTION CNN International
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8:MLB Network
-#DESCRIPTION MLB Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8:NBC 6 Miami 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=ABC&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:ABC 7 New York
+#DESCRIPTION ABC 7 New York
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=CBS&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:CBS 2 New York
+#DESCRIPTION CBS 2 New York
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false:CMT
+#DESCRIPTION CMT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=CW&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:CW 57 Philadelphia
+#DESCRIPTION CW 57 Philadelphia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=GSN&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:Game Show Network
+#DESCRIPTION Game Show Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=NBC&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:NBC 6 Miami 
 #DESCRIPTION NBC 6 Miami 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8:NBC 6 Miami -2-
-#DESCRIPTION NBC 6 Miami -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8:Stadium
-#DESCRIPTION Stadium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=FOX&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:FOX 7 Miami
+#DESCRIPTION FOX 7 Miami
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=MTV&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:MTV USA
+#DESCRIPTION MTV USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=PBS&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:PBS
+#DESCRIPTION PBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=SYFY&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:SYFY
+#DESCRIPTION SYFY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=TBS&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:TBS
+#DESCRIPTION TBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=TCM&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:TCM USA
+#DESCRIPTION TCM USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8:TMZ
 #DESCRIPTION TMZ
-#SERVICE 1:64:2a9:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=TNT&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:TNT
+#DESCRIPTION TNT
+#SERVICE 1:64:2a1:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders Nieuws
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_abcnewslive_001.m3u8?ads.caid=ABCNewsLive&ads.csid=samsungtvplus_us_abcnewslive_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%257BTARGETOPT%257D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%257BPSID%257D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%257BAPP_NAME%257D&ads.xumo_contentId=58&ads.xumo_contentName=ABCNewsLive&ads.xumo_providerId=58&ads.xumo_providerName=ABCNewsLive&ads.xumo_channelId=9999533&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%257BAPP_DOMAIN%257D:ABC News
+#DESCRIPTION ABC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8:Bloomberg Quicktake
+#DESCRIPTION Bloomberg Quicktake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8:Bloomberg TV+
+#DESCRIPTION Bloomberg TV+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8:CBSN News
+#DESCRIPTION CBSN News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cheddar.samsung.wurl.com/manifest/playlist.m3u8:Cheddar News
+#DESCRIPTION Cheddar News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=CNN&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:CNN USA
+#DESCRIPTION CNN USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=CSPAN&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:C-SPAN
+#DESCRIPTION C-SPAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=FoxBusiness&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:FOX Business
+#DESCRIPTION FOX Business
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8:FOX New Now
+#DESCRIPTION FOX New Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=MSNBC&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:MSNBC
+#DESCRIPTION MSNBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newsmax-samsungus.amagi.tv/playlist.m3u8:Newsmax TV
+#DESCRIPTION Newsmax TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newsy-newsy-1.samsung.wurl.com/manifest/playlist.m3u8:Newsy
+#DESCRIPTION Newsy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tyt-samsungus.amagi.tv/playlist.m3u8:TYT Network
+#DESCRIPTION TYT Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8:Yahoo Finance
+#DESCRIPTION Yahoo Finance
+#SERVICE 1:64:2a2:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=CBSSN&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:CBS Sports Network
+#DESCRIPTION CBS Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=ESPN&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:ESPN
+#DESCRIPTION ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=ESPN2&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:ESPN 2
+#DESCRIPTION ESPN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=ESPNU&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:ESPN U
+#DESCRIPTION ESPN U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=ESPNews&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:ESPN News
+#DESCRIPTION ESPN News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=FS1&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:Fox Sports 1 (FS1)
+#DESCRIPTION Fox Sports 1 (FS1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=FS2&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:Fox Sports 2 (FS2)
+#DESCRIPTION Fox Sports 2 (FS2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=MLB&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:MLB Network
+#DESCRIPTION MLB Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=NBA&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:NBA TV
+#DESCRIPTION NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=GOLF&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:NBC Golf
+#DESCRIPTION NBC Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=NBCSN&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:NBC Sports Network
+#DESCRIPTION NBC Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=NFL&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:NFL Network
+#DESCRIPTION NFL Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=NFLRZ&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:NFL Redzone
+#DESCRIPTION NFL Redzone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8:Stadium
+#DESCRIPTION Stadium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=Tennis&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:Tennis Channel
+#DESCRIPTION Tennis Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=WWE&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:WWE Network
+#DESCRIPTION WWE Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ustvgocdn.parrotdevelopers.repl.co/CDN.php?c=YES&hash=cd770ed5487c0a5c0e10cfaf8c113c32e9889734a70e63eddae698c8be672c69:YES Network
+#DESCRIPTION YES Network
+#SERVICE 1:64:2a3:0:0:0:0:0:0:0:
 #DESCRIPTION Alleen lokale informatieve uitzendingen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8:7 News Boston
 #DESCRIPTION 7 News Boston
@@ -53,6 +121,8 @@
 #DESCRIPTION CBS 6 Albany (WRGB)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8:CBS 12 News West Palm Beach
 #DESCRIPTION CBS 12 News West Palm Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2-playlistserver.aws.syncbak.com/playlist/893557/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAwMDc1MDQsImlzcyI6IldMUyIsIm1kNSI6IjMyMjE4MzNhYzRiOTJkOTRiMDBjMDFjZjY5MDM2NmY1IiwibWlkIjoiODkzNTU3In0.arYOsp9fiM8UzYcTRIxI7GlDdA3RAgQUCX6JRb88wxQ:CBS 27 Lexington
+#DESCRIPTION CBS 27 Lexington
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.field59.com/wgcl/ngrp%3awgcl1_all/playlist.m3u8:CBS 46 WGCL
 #DESCRIPTION CBS 46 WGCL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master_6.m3u8:CBSN Boston
@@ -165,7 +235,7 @@
 #DESCRIPTION WSVN 7 News Miami
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8:WTOL 11 News Toledo
 #DESCRIPTION WTOL 11 News Toledo
-#SERVICE 1:64:2aa:0:0:0:0:0:0:0:
+#SERVICE 1:64:2a4:0:0:0:0:0:0:0:
 #DESCRIPTION Nieuwsfeeds
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8:ABC News Digital 1 
 #DESCRIPTION ABC News Digital 1 
@@ -205,7 +275,7 @@
 #DESCRIPTION NBC News Now Event 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8:WSJ Live 
 #DESCRIPTION WSJ Live 
-#SERVICE 1:64:2ab:0:0:0:0:0:0:0:
+#SERVICE 1:64:2a5:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8:3ABN
 #DESCRIPTION 3ABN

@@ -1,5 +1,5 @@
 #NAME Stream Duitsland (DE)
-#SERVICE 1:64:99:0:0:0:0:0:0:0:
+#SERVICE 1:64:8f:0:0:0:0:0:0:0:
 #DESCRIPTION * Hoofdzenders-Publieke Omroepen *
 #SERVICE 4097:0:1:6dca:44d:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.19.1%3a1234:ARD
 #DESCRIPTION ARD
@@ -61,7 +61,7 @@
 #DESCRIPTION 3sat
 #SERVICE 4097:0:1:6d68:437:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.16.1%3a1234:KiKA
 #DESCRIPTION KiKA
-#SERVICE 1:64:9a:0:0:0:0:0:0:0:
+#SERVICE 1:64:90:0:0:0:0:0:0:0:
 #DESCRIPTION * Hoofdzenders Commerciële Omroepen*
 #SERVICE 4097:0:1:2775:409:1:c00000:0:0:0:https%3a//bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-b.m3u8?sd=10&rebase=on:BILD HD
 #DESCRIPTION BILD HD
@@ -117,7 +117,7 @@
 #DESCRIPTION Welt
 #SERVICE 4097:0:1:445f:453:1:c00000:0:0:0:http%3a//news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8?#X-Forwarded-For=91.63.136.21:Welt News
 #DESCRIPTION Welt News
-#SERVICE 1:64:9b:0:0:0:0:0:0:0:
+#SERVICE 1:64:91:0:0:0:0:0:0:0:
 #DESCRIPTION * Overige zenders *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3 TV 
 #DESCRIPTION 1-2-3 TV 
@@ -211,6 +211,8 @@
 #DESCRIPTION Rockland Radio 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8:Rockland TV
 #DESCRIPTION Rockland TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-ger.gcdn.co/live/rtdeutsch/playlist_2500Kb.m3u8:RT DE
+#DESCRIPTION RT DE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58de7a369a9c4.streamlock.net/salvetv/stream_720p/playlist.m3u8:Salve TV 
 #DESCRIPTION Salve TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4%3alivestreamhd20/playlist.m3u8?=&ref=seenluft24.de:Seenluft 24
@@ -235,7 +237,7 @@
 #DESCRIPTION WMZ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8:World of Freesports
 #DESCRIPTION World of Freesports
-#SERVICE 1:64:9c:0:0:0:0:0:0:0:
+#SERVICE 1:64:92:0:0:0:0:0:0:0:
 #DESCRIPTION * Lokale zenders *
 #SERVICE 4097:0:1:16a8:3ff:1:c00000:0:0:0:http%3a//178.248.241.103/iptv/atv.ts:a.tv HD
 #DESCRIPTION a.tv HD

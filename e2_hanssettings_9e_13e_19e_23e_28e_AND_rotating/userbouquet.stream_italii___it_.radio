@@ -1,31 +1,37 @@
 #NAME Stream Italiië (IT)
-#SERVICE 1:64:1a9d:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b2d:0:0:0:0:0:0:0:
 #DESCRIPTION ++RAI++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:RAI Radio 1
 #DESCRIPTION RAI Radio 1
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:https%3a//radiouno2-lh.akamaihd.net/i/radiounosport2_1@664476/index_128000_a-p.m3u8:RAI Radio 1 Sport
-#DESCRIPTION RAI Radio 1 Sport
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/2.mp3:RAI Radio 2
 #DESCRIPTION RAI Radio 2
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:https%3a//radiodue1-lh.akamaihd.net/i/radiodueindie_1@664477/index_1_a-p.m3u8:RAI Radio 2 Indie
-#DESCRIPTION RAI Radio 2 Indie
-#SERVICE 4097:0:2:11:0:0:0:0:0:0:https%3a//radiotre1-lh.akamaihd.net/i/radiotre1_1@586832/index_128000_a-p.m3u8:RAI Radio 3
+#SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//icestreaming.rai.it/3.mp3:RAI Radio 3
 #DESCRIPTION RAI Radio 3
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/8.mp3:RAI Radio 1 Estero
+#DESCRIPTION RAI Radio 1 Estero
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/13.mp3:RAI Radio 1 Sport
+#DESCRIPTION RAI Radio 1 Sport
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/14.mp3:RAI Radio 1 Sport Estero
+#DESCRIPTION RAI Radio 1 Sport Estero
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/15.mp3:RAI Radio 2 Indie
+#DESCRIPTION RAI Radio 2 Indie
 #SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//icestreaming.rai.it/5.mp3:RAI Radio 3 Classica
 #DESCRIPTION RAI Radio 3 Classica
 #SERVICE 4097:0:2:21:0:0:0:0:0:0:http%3a//icestreaming.rai.it/7.mp3:RAI GR Parlamento
 #DESCRIPTION RAI GR Parlamento
 #SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//icestreaming.rai.it/6.mp3:RAI IsoRadio
 #DESCRIPTION RAI IsoRadio
-#SERVICE 4097:0:2:13:0:0:0:0:0:0:https%3a//radiokids1-lh.akamaihd.net/i/radiokids1_1@586845/index_128000_a-p.m3u8:Rai Radio Kids
+#SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//icestreaming.rai.it/12.mp3:RAI IsoRadio Estero
+#DESCRIPTION RAI IsoRadio Estero
+#SERVICE 4097:0:2:13:0:0:0:0:0:0:http%3a//icestreaming.rai.it/11.mp3:Rai Radio Kids
 #DESCRIPTION Rai Radio Kids
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it%3a80/10.mp3:Rai Radio Live
 #DESCRIPTION Rai Radio Live
-#SERVICE 4097:0:2:15:0:0:0:0:0:0:https%3a//radiotechete1-lh.akamaihd.net/i/radiotechete1_1@586833/index_128000_a-p.m3u8:Rai Radio Techetè
+#SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it/9.mp3:Rai Radio Techetè
 #DESCRIPTION Rai Radio Techetè
-#SERVICE 4097:0:2:15:0:0:0:0:0:0:https%3a//radioitaliana1-lh.akamaihd.net/i/radioitaliana1_1@586844/index_128000_a-p.m3u8:Rai Radio Tutta Italiana
+#SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it/4.mp3:Rai Radio Tutta Italiana
 #DESCRIPTION Rai Radio Tutta Italiana
-#SERVICE 1:64:1a9e:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b2e:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
 #DESCRIPTION 105 Indie
@@ -291,6 +297,8 @@
 #DESCRIPTION RADIO MILANO
 #SERVICE 4097:0:2:355:0:0:0:0:0:0:http%3a//ice12.fluidstream.net/millenote.mp3:RADIO MILLE NOTE
 #DESCRIPTION RADIO MILLE NOTE
+#SERVICE 4097:0:2:355:0:0:0:0:0:0:https%3a//5f204aff97bee.streamlock.net/MillenniumTV/livestream/chunklist.m3u8:Radio Millenium TV
+#DESCRIPTION Radio Millenium TV
 #SERVICE 4097:0:2:369:0:0:0:0:0:0:http%3a//95.110.226.198%3a8000:RADIO NON SOLO SUONI
 #DESCRIPTION RADIO NON SOLO SUONI
 #SERVICE 4097:0:2:97:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8218/:RADIO NORBA

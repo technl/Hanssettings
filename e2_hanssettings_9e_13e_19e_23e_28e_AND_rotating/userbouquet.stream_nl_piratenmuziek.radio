@@ -33,7 +33,7 @@
 #DESCRIPTION De Piraten Familie (De Bilt)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server.depiratengigant.nl%3a8000:De Piraten Gigant
 #DESCRIPTION De Piraten Gigant
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server2.streamcontrol.eu%3a20144/:De Piratenclub
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.176%3a8417/stream:De Piratenclub
 #DESCRIPTION De Piratenclub
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-26.stream-server.nl%3a8624/:De Veluwse Piraten
 #DESCRIPTION De Veluwse Piraten
@@ -73,10 +73,8 @@
 #DESCRIPTION Flippers Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cc6.beheerstream.com%3a8663/stream:FluxFM
 #DESCRIPTION FluxFM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.188.75%3a9000/stream192:Friese Piraten
-#DESCRIPTION Friese Piraten
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server1.sfm-stream.nl%3a9030/stream192:Fryske Rakkers
-#DESCRIPTION Fryske Rakkers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//centova.audiostreamhosting.nl%3a8129/stream:Fryske Rakkers 
+#DESCRIPTION Fryske Rakkers 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//garnwerdradio.gkstreamen.nl%3a80:Garnwerd Radio
 #DESCRIPTION Garnwerd Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-66.stream-server.nl%3a8832/stream:Gewoon FM - Gewoon Gezellig
@@ -89,12 +87,12 @@
 #DESCRIPTION Gigant FM- Kijk live in de studio (Groningen + Drenthe)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster05.streampakket.com%3a9386/stream:Gigantenteam (NL- piraten)
 #DESCRIPTION Gigantenteam (NL- piraten)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcast.net/200075:Golden Music Stream 
+#DESCRIPTION Golden Music Stream 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.5.73%3a8754/stream:Gouden Adelaar FM (NL - piraten)
 #DESCRIPTION Gouden Adelaar FM (NL - piraten)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.116.3%3a8026/stream:Goudenpiratenhits.nl
 #DESCRIPTION Goudenpiratenhits.nl
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.154.168.210%3a8045/:groningse etherpiraten.nl
-#DESCRIPTION groningse etherpiraten.nl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-25.stream-server.nl%3a8414/:Happy Radio
 #DESCRIPTION Happy Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-25.stream-server.nl%3a8542/:Heerlijk Holllands
@@ -227,6 +225,8 @@
 #DESCRIPTION Radio Cobra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiocontinu.nl/radio-continu:Radio Continu
 #DESCRIPTION Radio Continu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//proxy.live-streams.nl/radiocor:Radio Cor (Maassluis)
+#DESCRIPTION Radio Cor (Maassluis)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioheiloo.no-ip.info%3a8004/:Radio De Blauwe Tegel - NLs talig (Heiloo)
 #DESCRIPTION Radio De Blauwe Tegel - NLs talig (Heiloo)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//strandjutterradio.gkstreamen.nl%3a8018/:Radio De Strandjutter (NL)
@@ -375,8 +375,8 @@
 #DESCRIPTION Webradiotwinlife
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.39.105.171%3a8370/:WKD Team
 #DESCRIPTION WKD Team
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-10.stream-server.nl%3a8588/;:Woonwagenradio (NL - piraten)
-#DESCRIPTION Woonwagenradio (NL - piraten)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp3.live-streams.nl%3a8132/nonstop:Woonwagenradio
+#DESCRIPTION Woonwagenradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8122/stream:Zeearend.nl
 #DESCRIPTION Zeearend.nl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8122:Zeearendteam
