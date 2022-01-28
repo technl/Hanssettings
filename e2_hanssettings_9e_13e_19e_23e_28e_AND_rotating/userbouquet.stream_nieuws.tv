@@ -189,7 +189,9 @@
 #DESCRIPTION n-tv (EPG 19.2E)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-cdn.ok54.de/tv/nahetv:Nahe TV
 #DESCRIPTION Nahe TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-ger.gcdn.co/live/rtdeutsch/playlist_2500Kb.m3u8:RT DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8:RT DE
+#DESCRIPTION RT DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8:RT DE
 #DESCRIPTION RT DE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8:Tagesschau 24 HD (nieuws - Duitsland)
 #DESCRIPTION Tagesschau 24 HD (nieuws - Duitsland)
@@ -475,6 +477,10 @@
 #DESCRIPTION 100% News (RU)
 #SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8009/play/s21:RT America (Rusland)
 #DESCRIPTION RT America (Rusland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8:RT DE
+#DESCRIPTION RT DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8:RT DE
+#DESCRIPTION RT DE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8:RT Documentary (nieuws)
 #DESCRIPTION RT Documentary (nieuws)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-france.secure.footprint.net/1107.m3u8:RT France

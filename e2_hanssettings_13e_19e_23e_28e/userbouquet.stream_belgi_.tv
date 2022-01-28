@@ -1,5 +1,5 @@
 #NAME Stream België (BE)
-#SERVICE 1:64:1d3:0:0:0:0:0:0:0:
+#SERVICE 1:64:1da:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - landelijk+++
 #SERVICE 4097:0:1:5221:c99:3:0:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.111.0.6%3a1234:VRT één
 #DESCRIPTION VRT één
@@ -21,7 +21,7 @@
 #DESCRIPTION VTM NWS - tijdens journaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.parolis.be%3a1935/live/PLN_NL/chunklist_w27225067.m3u8:Federaal parlement BE (tijdens vergaderingen)
 #DESCRIPTION Federaal parlement BE (tijdens vergaderingen)
-#SERVICE 1:64:1d4:0:0:0:0:0:0:0:
+#SERVICE 1:64:1db:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - regionaal+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player-api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8:ATV (Antwerpen)
 #DESCRIPTION ATV (Antwerpen)
@@ -35,7 +35,7 @@
 #DESCRIPTION TVL - TV Limburg (België) alternatief
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player-api.new.livestream.com/accounts/27755193/events/8511193/live.secure.m3u8:TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
 #DESCRIPTION TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
-#SERVICE 1:64:1d5:0:0:0:0:0:0:0:
+#SERVICE 1:64:1dc:0:0:0:0:0:0:0:
 #DESCRIPTION Vlaanderen radio webcams
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume102.streampartner.nl/citytv/citytv/playlist.m3u8:CityMusic (Denderstreek - België) webcam
 #DESCRIPTION CityMusic (Denderstreek - België) webcam
@@ -55,9 +55,9 @@
 #DESCRIPTION VRT - Klara studio webcam (BE) - alternatief
 #SERVICE 4097:0:1:52db:c96:3:eb0000:0:0:0:https%3a//live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8:VRT - Studio Brussel - webcam studio
 #DESCRIPTION VRT - Studio Brussel - webcam studio
-#SERVICE 1:64:1d6:0:0:0:0:0:0:0:
+#SERVICE 1:64:1dd:0:0:0:0:0:0:0:
 #DESCRIPTION +++Bruxelles/Wallonie+++
-#SERVICE 1:64:1d7:0:0:0:0:0:0:0:
+#SERVICE 1:64:1de:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:420e:2f44:13e:820000:0:0:0:http%3a//rtbf.l3.freecaster.net/live/rtbf/geo/open/bc1e985c9592276a91bf1db4a6dd366efc9fc11e/laune.m3u8?token=0db0ad0d41931810f148c:RTBF La 1 HD
 #DESCRIPTION RTBF La 1 HD
@@ -69,7 +69,7 @@
 #DESCRIPTION RTBF La 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8:RTL TVI -2- (niet continu)
 #DESCRIPTION RTL TVI -2- (niet continu)
-#SERVICE 1:64:1d8:0:0:0:0:0:0:0:
+#SERVICE 1:64:1df:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8:BEL RTL
 #DESCRIPTION BEL RTL

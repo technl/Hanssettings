@@ -11,6 +11,10 @@
 #DESCRIPTION Algemeen Dagblad 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//smoote1b.omroep.nl/urishieldv2/l2fm67c0cad777c60f30006031509b000000.3b0cf49214d6d46738aa81c60ab0722f/live/nos/events/nos_event04/nos_event04.isml/nos_event04-audio_1=128000-video=2000000.m3u8:NOS feed (soms)
 #DESCRIPTION NOS feed (soms)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowza&output=playlist.m3u8:DVHN
+#DESCRIPTION DVHN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&type=live&service=wowza&output=playlist.m3u8:Leeuwarder Courant
+#DESCRIPTION Leeuwarder Courant
 #SERVICE 1:64:18e3:0:0:0:0:0:0:0:
 #DESCRIPTION BELGIE - VLAANDEREN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.parolis.be%3a1935/live/PLN_NL/chunklist_w27225067.m3u8:Federaal Parlement
@@ -63,6 +67,8 @@
 #DESCRIPTION TVE +24 Eventos 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586405/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 4
 #DESCRIPTION TVE +24 Eventos 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/index_1500_av-b.m3u8:TVE Play
+#DESCRIPTION TVE Play
 #SERVICE 1:64:18e9:0:0:0:0:0:0:0:
 #DESCRIPTION USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8:Reuters TV News

@@ -1,15 +1,17 @@
 #NAME Stream Senegal (SN)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.212.178.131%3a1935/live/Ai2tv/chunklist.m3u8:A2i TV
-#DESCRIPTION A2i TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.212.178.131%3a1935/live/Ai2tvmusique/chunklist.m3u8:A2i TV Musique
-#DESCRIPTION A2i TV Musique
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetvsteam.com%3a1935/leeeko/leeeko/chunklist.m3u8:Leeeko TV
-#DESCRIPTION Leeeko TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.212.178.131%3a1935/Livemouridetv/mouridetv/chunklist.m3u8:Mouride TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x7vidbb:2STV
+#DESCRIPTION 2STV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8:A2i Music
+#DESCRIPTION A2i Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8:A2i Naja
+#DESCRIPTION A2i Naja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8:A2i Religion
+#DESCRIPTION A2i Religion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x7xq2dw:Africa 7
+#DESCRIPTION Africa 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.109.113%3a1935/Livemouridetv/mouridetv/chunklist_w132674560.m3u8:Mouride TV
 #DESCRIPTION Mouride TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.creacast.com/mycomedy/smil%3amycomedy.smil/chunklist_w387061222_b1928000.m3u8:MYComedy (Senegal)
-#DESCRIPTION MYComedy (Senegal)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8:RTS 1
-#DESCRIPTION RTS 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.telemusik.live%3a1935/rezopropartner_1/rezopropartner_1/chunklist.m3u8:TMS
-#DESCRIPTION TMS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x7wi5y1:RFM
+#DESCRIPTION RFM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x7wcr45:TFM
+#DESCRIPTION TFM

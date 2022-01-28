@@ -1,16 +1,12 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:308:0:0:0:0:0:0:0:
+#SERVICE 1:64:314:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders++
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
 #SERVICE 4097:0:2:5259:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio2-bb-mp3:NPO Radio 2
 #DESCRIPTION NPO Radio 2
-#SERVICE 4097:0:2:459:8a6:2210:eeee0000:0:0:0:http%3a//smoote2d.omroep.nl/urishieldv2/l2fm409ea51e51bdc866005c83b8dd000000.c6755bdf25dbda60cb7619723d7dd8ab/live/npo/visualradio/radio2/radio2.isml/radio2-audio_track=128000-video=1000000.m3u8:NPO Radio 2 studiocam
-#DESCRIPTION NPO Radio 2 studiocam
 #SERVICE 4097:0:2:525a:c99:3:eb0000:0:0:0:http%3a//ics2pss.omroep.nl/3fm-bb-mp3?q=/npo/mp3/3fm-bb.pls&stream=ok:NPO 3FM
 #DESCRIPTION NPO 3FM
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ics2hss.omroep.nl%3a80/3fm-alternative-mp3:NPO 3FM Alternative
-#DESCRIPTION NPO 3FM Alternative
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ics2ess.omroep.nl%3a80/3fm-serioustalent-mp3:NPO 3FM KX
 #DESCRIPTION NPO 3FM KX
 #SERVICE 4097:0:2:525b:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl/radio4-bb-mp3:NPO Radio 4
@@ -25,6 +21,8 @@
 #DESCRIPTION NPO Sterren.nl
 #SERVICE 4097:0:2:3747:c8e:3:eb0000:0:0:0:http%3a//icecast.omroep.nl/funx-bb-mp3:FunX
 #DESCRIPTION FunX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-reggae-bb-mp3:FunX Afro
+#DESCRIPTION FunX Afro
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-arab-bb-mp3:FunX Arab
 #DESCRIPTION FunX Arab
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-dance-bb-mp3:FunX Fissa
@@ -33,8 +31,6 @@
 #DESCRIPTION FunX Hip Hop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-latin-bb-mp3:FunX Latin
 #DESCRIPTION FunX Latin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-reggae-bb-mp3:FunX Reggae
-#DESCRIPTION FunX Reggae
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-slowjamz-bb-mp3:FunX Slow Jamz
 #DESCRIPTION FunX Slow Jamz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/funx-amsterdam-bb-mp3:FunX Amsterdam
@@ -47,10 +43,12 @@
 #DESCRIPTION FunX Utrecht
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
 #DESCRIPTION Spreekbuis Radio
-#SERVICE 1:64:309:0:0:0:0:0:0:0:
+#SERVICE 1:64:315:0:0:0:0:0:0:0:
 #DESCRIPTION ++(commerciële) HOOFDzenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//40rockstream.live-streams.nl/live:40ROCK Radio
 #DESCRIPTION 40ROCK Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.40upradio.nl/40up:40UP Radio!
+#DESCRIPTION 40UP Radio!
 #SERVICE 4097:0:2:5253:c99:3:eb0000:0:0:0:http%3a//stream.100p.nl/100pctnl.mp3:100%25 NL
 #DESCRIPTION 100% NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web01_mp3:100%25 NL Feest
@@ -307,7 +305,7 @@
 #DESCRIPTION Radio 10 - Top 4000
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q4.m3u8:Radio 10 kijk live
 #DESCRIPTION Radio 10 kijk live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//music.wixstatic.com/mp3/0836eb_e531e5895d4b405e84b7fba287f7a348.mp3:Radio121
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//totaal-streaming.de/radio/8020/web:Radio121
 #DESCRIPTION Radio121
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21283.live.streamtheworld.com/RADIO509AAC.aac:Radio 509 (voor blinden/slechtzienden) aac
 #DESCRIPTION Radio 509 (voor blinden/slechtzienden) aac
@@ -341,14 +339,18 @@
 #DESCRIPTION Radio Continu Editie 2 (Friesland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radiocontinu.nl/radiocontinu-3:Radio Continu Editie 3 (overige provincies)
 #DESCRIPTION Radio Continu Editie 3 (overige provincies)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.gal.io/decibelzh:Radio Decibel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.globallogic.nl/decibel.mp3:Radio Decibel
 #DESCRIPTION Radio Decibel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioroyaal.nl/radioroyaal.mp3:Radio Decibel 80's Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25433.live.streamtheworld.com/DECIBEL80S.mp3:Radio Decibel 80's Music
 #DESCRIPTION Radio Decibel 80's Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast2.globallogic.nl/soi.mp3:Radio Decibel Ibiza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/DECIBELEURODANCE.mp3:Radio Decibel Eurodance
+#DESCRIPTION Radio Decibel Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.decibel.nl/ibiza.mp3:Radio Decibel Ibiza
 #DESCRIPTION Radio Decibel Ibiza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.34.205%3a8368/stream:Radio Mi Amigo, de échte
 #DESCRIPTION Radio Mi Amigo, de échte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.32.62.172%3a8773/stream?fbclid=IwAR3yct_wvV0f_3CeSj6f-Dl6DHzB8Wyb2pGvUCZ_4qCHqZUF1KOE-_MvkPk:Radio Mi Amigo, de échte - 2
+#DESCRIPTION Radio Mi Amigo, de échte - 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//janus.shoutca.st%3a8031/;:Radio Mi Amigo International
 #DESCRIPTION Radio Mi Amigo International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radionl.fm/radionl:RadioNL
@@ -469,7 +471,7 @@
 #DESCRIPTION Wild FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
 #DESCRIPTION ZTACK
-#SERVICE 1:64:30a:0:0:0:0:0:0:0:
+#SERVICE 1:64:316:0:0:0:0:0:0:0:
 #DESCRIPTION ++religieus++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
 #DESCRIPTION Bright FM
@@ -503,7 +505,7 @@
 #DESCRIPTION Trans World Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
 #DESCRIPTION Urk FM Geestelijk
-#SERVICE 1:64:30b:0:0:0:0:0:0:0:
+#SERVICE 1:64:317:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
 #DESCRIPTION 18Hits (NL Nationaal)
@@ -779,12 +781,12 @@
 #DESCRIPTION InnerExotics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.intenseradio.net%3a8000/live:Intense Dance Radio
 #DESCRIPTION Intense Dance Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.intergalactic.fm/1aac:Intergalectic FM - Cybernetic Broadcasting System (Den Haag)
-#DESCRIPTION Intergalectic FM - Cybernetic Broadcasting System (Den Haag)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.intergalactic.fm/2aac:Intergalectic FM - Disco Fetish (Den Haag)
-#DESCRIPTION Intergalectic FM - Disco Fetish (Den Haag)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.intergalactic.fm/3aac:Intergalectic FM - Dream Machine (Den Haag)
-#DESCRIPTION Intergalectic FM - Dream Machine (Den Haag)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.intergalactic.fm%3a80/1:Intergalectic FM - Cybernetic Broadcasting System
+#DESCRIPTION Intergalectic FM - Cybernetic Broadcasting System
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.intergalactic.fm%3a80/2:Intergalectic FM - Disco Fetish
+#DESCRIPTION Intergalectic FM - Disco Fetish
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.intergalactic.fm%3a80/3:Intergalectic FM - Dream Machine
+#DESCRIPTION Intergalectic FM - Dream Machine
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//italoradiofm.shoutcaststream.com%3a8102/live:Italoradio.FM (NL)
 #DESCRIPTION Italoradio.FM (NL)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//iturn.nl/m192:i-turn Radio

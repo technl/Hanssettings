@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:25e:0:0:0:0:0:0:0:
+#SERVICE 1:64:264:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -37,12 +37,12 @@
 #DESCRIPTION VRT MNM Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/mnm_urb-high.mp3 :VRT MNM R&Beats
 #DESCRIPTION VRT MNM R&Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/mnm_90s00s-high.mp3:VRT MNM Throwback
+#DESCRIPTION VRT MNM Throwback
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//progressive-audio.lwc.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3 :VRT NWS
 #DESCRIPTION VRT NWS
 #SERVICE 4097:0:2:52db:c96:3:eb0000:0:0:0:http%3a//icecast.vrtcdn.be/stubru-high.mp3 :VRT Studio Brussel
 #DESCRIPTION VRT Studio Brussel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs-high.mp3:VRT Studio Brussel - #ikluisterbelgisch
-#DESCRIPTION VRT Studio Brussel - #ikluisterbelgisch
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_bruut-high.mp3:VRT Studio Brussel - Bruut
 #DESCRIPTION VRT Studio Brussel - Bruut
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_hiphophooray-high.mp3:VRT Studio Brussel - Hooray
@@ -51,7 +51,9 @@
 #DESCRIPTION VRT Studio Brussel - De Tijdloze
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_untz-high.mp3:VRT Studio Brussel UNTZ
 #DESCRIPTION VRT Studio Brussel UNTZ
-#SERVICE 1:64:25f:0:0:0:0:0:0:0:
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs-high.mp3:VRT Studio Brussel Vuurland
+#DESCRIPTION VRT Studio Brussel Vuurland
+#SERVICE 1:64:265:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -183,8 +185,8 @@
 #DESCRIPTION Jouwradio (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8010/:Kerstkanaal BE
 #DESCRIPTION Kerstkanaal BE
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s19.myradiostream.com/18068/listen.mp3:KL85 (BE)
-#DESCRIPTION KL85 (BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s19.myradiostream.com/18068/listen.mp3:KL85 (De Zeezendertijd)
+#DESCRIPTION KL85 (De Zeezendertijd)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/JamendoLounge:Made With Magic Radio (Muziek rond de Disney Studio's - BE)
 #DESCRIPTION Made With Magic Radio (Muziek rond de Disney Studio's - BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.202.22.75%3a8598/live:Maeva (België)
@@ -279,8 +281,6 @@
 #DESCRIPTION Radio 854 Gold (uit Canada voor luisteraars BE en NL)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostreamen.nl%3a8106:Radio 100%25 BE (België)
 #DESCRIPTION Radio 100% BE (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.radiovictoria.be%3a5555/radio_ro:Radio coROna (België)
-#DESCRIPTION Radio coROna (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hazel.torontocast.com%3a3040/;:Radio Addictive 50's (BE)
 #DESCRIPTION Radio Addictive 50's (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamserv3.digipal.nl%3a8006/;stream.mp3:Radio Amigo's (België)
@@ -301,6 +301,8 @@
 #DESCRIPTION Radio Maria België
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.34.205%3a8368/stream:Radio Mi Amigo, de échte
 #DESCRIPTION Radio Mi Amigo, de échte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.32.62.172%3a8773/stream?fbclid=IwAR3yct_wvV0f_3CeSj6f-Dl6DHzB8Wyb2pGvUCZ_4qCHqZUF1KOE-_MvkPk:Radio Mi Amigo, de échte - 2
+#DESCRIPTION Radio Mi Amigo, de échte - 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//janus.shoutca.st%3a8031/;:Radio Mi Amigo International
 #DESCRIPTION Radio Mi Amigo International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/radio-montanabe:Radio Montana
@@ -353,6 +355,8 @@
 #DESCRIPTION Text Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOP_RADIO.mp3 :TOP Radio
 #DESCRIPTION TOP Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3:TOP Bam
+#DESCRIPTION TOP Bam
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPSPINNING.mp3:TOP Non stop
 #DESCRIPTION TOP Non stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3 :TOP Retro Arena
@@ -395,52 +399,56 @@
 #DESCRIPTION ZZOldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK
 #DESCRIPTION ZZROCK
-#SERVICE 1:64:260:0:0:0:0:0:0:0:
+#SERVICE 1:64:266:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/belrtl128:Bel RTL
-#DESCRIPTION Bel RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3:Bel RTL
 #DESCRIPTION Bel RTL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtl80.ice.infomaniak.ch/belrtl80-192.mp3:Bel RTL - 80
-#DESCRIPTION Bel RTL - 80
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belbelbelrtl.ice.infomaniak.ch/belbelbelrtl-192.mp3:Bel RTL - Bel Bel
-#DESCRIPTION Bel RTL - Bel Bel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtlcomedie.ice.infomaniak.ch/belrtlcomedie-192.mp3:Bel RTL - Comédie
-#DESCRIPTION Bel RTL - Comédie
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deci-belrtl.ice.infomaniak.ch/deci-belrtl-192.mp3:Bel RTL - Deci
-#DESCRIPTION Bel RTL - Deci
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//franco-belrtl.ice.infomaniak.ch/franco-belrtl-192.mp3:Bel RTL - Franco
-#DESCRIPTION Bel RTL - Franco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deci-belrtl.ice.infomaniak.ch/deci-belrtl-192.mp3:Bel RTL - Noël
-#DESCRIPTION Bel RTL - Noël
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtlparty.ice.infomaniak.ch/belrtlparty-192.mp3:Bel RTL - Party
-#DESCRIPTION Bel RTL - Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtl60.ice.infomaniak.ch/belrtl60-128.mp3:Bel RTL 60
+#DESCRIPTION Bel RTL 60
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtl70.ice.infomaniak.ch/belrtl70-128.mp3:Bel RTL 70
+#DESCRIPTION Bel RTL 70
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtl80.ice.infomaniak.ch/belrtl80-192.mp3:Bel RTL 80
+#DESCRIPTION Bel RTL 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtl90.ice.infomaniak.ch/belrtl90-128.mp3:Bel RTL 90
+#DESCRIPTION Bel RTL 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belbelbelrtl.ice.infomaniak.ch/belbelbelrtl-192.mp3:Bel RTL 300
+#DESCRIPTION Bel RTL 300
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtlcomedie.ice.infomaniak.ch/belrtlcomedie-192.mp3:Bel RTL Comédie
+#DESCRIPTION Bel RTL Comédie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//franco-belrtl.ice.infomaniak.ch/franco-belrtl-192.mp3:Bel RTL Franco
+#DESCRIPTION Bel RTL Franco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtlmusique.ice.infomaniak.ch/belrtlmusique-128.mp3:Bel RTL  Musique
+#DESCRIPTION Bel RTL  Musique
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtlparty.ice.infomaniak.ch/belrtlparty-192.mp3:Bel RTL Party
+#DESCRIPTION Bel RTL Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//59959724487e3.streamlock.net/radio/live/chunklist.m3u8:BX1+ (België/Wallonië) met beeld
 #DESCRIPTION BX1+ (België/Wallonië) met beeld
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//59959724487e3.streamlock.net%3a443/radioaudio/aac%3alive.aac/playlist.m3u8:BX1+ (België/Wallonië) alleen geluid
 #DESCRIPTION BX1+ (België/Wallonië) alleen geluid
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/Cherie:Chérie FM algemeen (België)
-#DESCRIPTION Chérie FM algemeen (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55567/aac_64.mp3:Chérie FM - 80's (België)
-#DESCRIPTION Chérie FM - 80's (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/be/55570/aac_64.mp3:Chérie FM - 90's (België)
-#DESCRIPTION Chérie FM - 90's (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55572/aac_64.mp3:Chérie FM - Acoustic (België)
-#DESCRIPTION Chérie FM - Acoustic (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/be/55568/aac_64.mp3:Chérie FM - Ballads (België)
-#DESCRIPTION Chérie FM - Ballads (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55566/aac_64.mp3:Chérie FM - Frenchy (België)
-#DESCRIPTION Chérie FM - Frenchy (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55565/aac_64.mp3:Chérie FM - Les plus blles voix (België)
-#DESCRIPTION Chérie FM - Les plus blles voix (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/be/55564/aac_64.mp3:Chérie FM - Love songs (België)
-#DESCRIPTION Chérie FM - Love songs (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/be/55569/aac_64.mp3:Chérie FM - Romantic (België)
-#DESCRIPTION Chérie FM - Romantic (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55563/aac_64.mp3:Chérie FM - Zen (België)
-#DESCRIPTION Chérie FM - Zen (België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/Cherie:Chérie
+#DESCRIPTION Chérie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55567/aac_64.mp3:Chérie 80's
+#DESCRIPTION Chérie 80's
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/be/55570/aac_64.mp3:Chérie 90's
+#DESCRIPTION Chérie 90's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55572/aac_64.mp3:Chérie Acoustic
+#DESCRIPTION Chérie Acoustic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/be/55568/aac_64.mp3:Chérie Ballads
+#DESCRIPTION Chérie Ballads
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55566/aac_64.mp3:Chérie Frenchy
+#DESCRIPTION Chérie Frenchy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55565/aac_64.mp3:Chérie Les plus blles voix
+#DESCRIPTION Chérie Les plus blles voix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/be/55564/aac_64.mp3:Chérie Love songs
+#DESCRIPTION Chérie Love songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/57033/aac_64.mp3?origine=playercherie:Chérie Noel
+#DESCRIPTION Chérie Noel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/be/55569/aac_64.mp3:Chérie Romantic
+#DESCRIPTION Chérie Romantic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55563/aac_64.mp3:Chérie Zen
+#DESCRIPTION Chérie Zen
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dhradio.ice.infomaniak.ch%3a80/dhradio-192:DH Radio (België)
 #DESCRIPTION DH Radio (België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dhradio-belgium.ice.infomaniak.ch/dhradio-belgium-96.aac:DH Radio - Belgium (België)
@@ -463,54 +471,52 @@
 #DESCRIPTION M Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/mint:Mint
 #DESCRIPTION Mint
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgiePremium  :Nostalgie (België/Wallonië)
-#DESCRIPTION Nostalgie (België/Wallonië)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/nostaplus-mp3:Nostalgie+ (België/Wallonië)
-#DESCRIPTION Nostalgie+ (België/Wallonië)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieJohnnyHallyday-aac:Nostalgie-100 %25 Johnny Hallyday (België)
-#DESCRIPTION Nostalgie-100 % Johnny Hallyday (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/Nostalgie2000-aac:Nostalgie - 2000
-#DESCRIPTION Nostalgie - 2000
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/gen3:Nostalgie - Camping
-#DESCRIPTION Nostalgie - Camping
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.162/fr/30611/mp3_128.mp3:Nostalgie Chanson Francaises (België/Frankrijk)
-#DESCRIPTION Nostalgie Chanson Francaises (België/Frankrijk)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieCinema-aac    :Nostalgie Cinema (België)
-#DESCRIPTION Nostalgie Cinema (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieDance80-aac :Nostalgie - Dance-80
-#DESCRIPTION Nostalgie - Dance-80
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieDance90-aac  :Nostalgie - Dance-90 (België)
-#DESCRIPTION Nostalgie - Dance-90 (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieItalia-aac:Nostalgie - Italia (België)
-#DESCRIPTION Nostalgie - Italia (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieJazz-aac   :Nostalgie - Jazz (België)
-#DESCRIPTION Nostalgie - Jazz (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieLeMeilleur-aac:Nostalgie-Le Meilleur de Nostalgie (België)
-#DESCRIPTION Nostalgie-Le Meilleur de Nostalgie (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieLove-aac:Nostalgie-Love (België)
-#DESCRIPTION Nostalgie-Love (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/Nostalgie60-aac    :Nostalgie-Musique-60 (België)
-#DESCRIPTION Nostalgie-Musique-60 (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/Nostalgie-70_aac     :Nostalgie-Musique-70 (België)
-#DESCRIPTION Nostalgie-Musique-70 (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/Nostalgie80-aac  :Nostalgie-Musique-80 (België)
-#DESCRIPTION Nostalgie-Musique-80 (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/Nostalgie90-aac   :Nostalgie-Musique-90 (België)
-#DESCRIPTION Nostalgie-Musique-90 (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieNewWave-aac :Nostalgie-NewWave (België)
-#DESCRIPTION Nostalgie-NewWave (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgiePop80-aac     :Nostalgie-Pop-80 (België)
-#DESCRIPTION Nostalgie-Pop-80 (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgiePop90-aac  :Nostalgie-Pop-90 (België)
-#DESCRIPTION Nostalgie-Pop-90 (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieRock80-aac   :Nostalgie-Rock-80 (België)
-#DESCRIPTION Nostalgie-Rock-80 (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieRock90-aac   :Nostalgie-Rock-90 (België)
-#DESCRIPTION Nostalgie-Rock-90 (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieSoulparty-aac      :Nostalgie-Soul-Party (België)
-#DESCRIPTION Nostalgie-Soul-Party (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/gen5-aac:Nostalgie - Summertime
-#DESCRIPTION Nostalgie - Summertime
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgiePremium  :Nostalgie
+#DESCRIPTION Nostalgie
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/nostaplus-mp3:Nostalgie+
+#DESCRIPTION Nostalgie+
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/Nostalgie60-aac    :Nostalgie 60
+#DESCRIPTION Nostalgie 60
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/Nostalgie-70_aac     :Nostalgie 70
+#DESCRIPTION Nostalgie 70
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/Nostalgie80-aac:Nostalgie 80
+#DESCRIPTION Nostalgie 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/Nostalgie90-aac   :Nostalgie 90
+#DESCRIPTION Nostalgie 90
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieJohnnyHallyday-aac:Nostalgie 100%25 Johnny Hallyday
+#DESCRIPTION Nostalgie 100% Johnny Hallyday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/Nostalgie2000-aac:Nostalgie 2000
+#DESCRIPTION Nostalgie 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieChansonsFrancaises-aac:Nostalgie Chanson Francaises
+#DESCRIPTION Nostalgie Chanson Francaises
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieDance80-aac:Nostalgie Dance 80
+#DESCRIPTION Nostalgie Dance 80
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieDance90-aac  :Nostalgie Dance 90
+#DESCRIPTION Nostalgie Dance 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieItalia-aac:Nostalgie Italia
+#DESCRIPTION Nostalgie Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieJazz-aac   :Nostalgie Jazz
+#DESCRIPTION Nostalgie Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieLeMeilleur-aac:Nostalgie Le Meilleur de Nostalgie
+#DESCRIPTION Nostalgie Le Meilleur de Nostalgie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieLove-aac:Nostalgie Love
+#DESCRIPTION Nostalgie Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieNewWave-aac :Nostalgie NewWave
+#DESCRIPTION Nostalgie NewWave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/NostalgieChristmas-aac:Nostalgie Noel
+#DESCRIPTION Nostalgie Noel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgiePop80-aac     :Nostalgie Pop 80
+#DESCRIPTION Nostalgie Pop 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgiePop90-aac:Nostalgie Pop 90
+#DESCRIPTION Nostalgie Pop 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieRock80-aac   :Nostalgie Rock 80
+#DESCRIPTION Nostalgie Rock 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieRock90-aac   :Nostalgie Rock 90
+#DESCRIPTION Nostalgie Rock 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieRockClassics-aac:Nostalgie Rock Classics
+#DESCRIPTION Nostalgie Rock Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/NostalgieSoulparty-aac      :Nostalgie Soul Party
+#DESCRIPTION Nostalgie Soul Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/NRJ?:NRJ Wallonië (België)
 #DESCRIPTION NRJ Wallonië (België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.157/be/34003/mp3_128.mp3:NRJ-Belgique---Best-Hits-Ever
@@ -519,6 +525,8 @@
 #DESCRIPTION NRJ-Belgique---Cover-Hits
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/34007/mp3_128.mp3:NRJ-Belgique - Dance
 #DESCRIPTION NRJ-Belgique - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/57036/aac_64.mp3:NRJ-Belgique En mode Noel
+#DESCRIPTION NRJ-Belgique En mode Noel
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/57200/mp3_128.mp3:NRJ Héros (Belgiquee)
 #DESCRIPTION NRJ Héros (Belgiquee)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.157/be/34009/mp3_128.mp3:NRJ-Belgique---Hits
@@ -647,7 +655,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:261:0:0:0:0:0:0:0:
+#SERVICE 1:64:267:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -663,7 +671,7 @@
 #DESCRIPTION Radio Contact Ostbelgien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:262:0:0:0:0:0:0:0:
+#SERVICE 1:64:268:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

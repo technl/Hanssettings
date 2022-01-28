@@ -1,9 +1,9 @@
 #NAME Stream Servie (RS)
-#SERVICE 1:64:2c7:0:0:0:0:0:0:0:
+#SERVICE 1:64:2d0:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//212.200.255.151/rtv1:RTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:mmsh%3a//212.200.255.151/rtv1:RTV 1
 #DESCRIPTION RTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//212.200.255.151/rtv2:RTV 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:mmsh%3a//212.200.255.151/rtv2:RTV 2
 #DESCRIPTION RTV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/TVAS/index.m3u8:RTV As
 #DESCRIPTION RTV As
@@ -15,18 +15,28 @@
 #DESCRIPTION N1 B&H
 #SERVICE 4097:0:1:66a5:6b9a:ec:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0:N1 HRV
 #DESCRIPTION N1 HRV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info:N1 RS
+#DESCRIPTION N1 RS
 #SERVICE 4097:0:1:b456:6c83:ec:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0:N1 SRB
 #DESCRIPTION N1 SRB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rednet.rs/providus/redtv_multi.m3u8:Red TV
 #DESCRIPTION Red TV
-#SERVICE 1:64:2c8:0:0:0:0:0:0:0:
+#SERVICE 1:64:2d1:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/AdriaMusicTV/index.m3u8:Adria Music TV
+#DESCRIPTION Adria Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajb.getaj.net/AJB/index.m3u8:Al Jazeera Balkans
+#DESCRIPTION Al Jazeera Balkans
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//s1.media-planet.sk%3a80/live/bardejov1:Bardejovka TV
 #DESCRIPTION Bardejovka TV
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//rtcg2.videostreaming.rs/rtcg/rtcg.2.stream:Crna Gora SatTV
 #DESCRIPTION Crna Gora SatTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/DjakTV/index.m3u8:Djak TV
+#DESCRIPTION Djak TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kurir-tv.haste-cdn.net/providus/live2805.m3u8:Kurir TV
 #DESCRIPTION Kurir TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-8/playlist.m3u8:Muzzik AMVA 2020
+#DESCRIPTION Muzzik AMVA 2020
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-3/playlist.m3u8:Muzzik Cafe&Club Serbia
 #DESCRIPTION Muzzik Cafe&Club Serbia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-a4/playlist.m3u8:Muzzik HipHop Serbia
@@ -53,6 +63,10 @@
 #DESCRIPTION Reduta -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:RTV Banovina
 #DESCRIPTION RTV Banovina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod1.laki.eu/sandzak/video.m3u8:Sandzak TV
+#DESCRIPTION Sandzak TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/SuperSatTV/index.m3u8:SuperSat TV HD
+#DESCRIPTION SuperSat TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/turzovka:Turzovka
 #DESCRIPTION Turzovka
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.60.238.10%3a1935/live/belleamie/playlist.m3u8:TV Belle Amie
@@ -63,5 +77,5 @@
 #DESCRIPTION TV Hram
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.pikanal.rs/pikanal/pgm.m3u8?v=1617785340:TV Pi Canal Pirot
 #DESCRIPTION TV Pi Canal Pirot
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:mmsh%3a//212.200.255.151/rtv2?MSWMExt=.asf:Vojvodina 2
-#DESCRIPTION Vojvodina 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8:TV Pirot
+#DESCRIPTION TV Pirot
