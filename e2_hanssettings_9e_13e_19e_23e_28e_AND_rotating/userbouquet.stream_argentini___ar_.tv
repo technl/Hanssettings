@@ -1,6 +1,6 @@
 #NAME Stream Argentinië (AR)
-#SERVICE 1:64:1973:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:1a0e:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/679322/events/3782013/live.m3u8:Canal 2 Jujuy
 #DESCRIPTION Canal 2 Jujuy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nd106.republicaservers.com/canal2misiones.mp4:Canal 2 Misiones
@@ -69,10 +69,12 @@
 #DESCRIPTION Canal 26
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8:Canal 26 -2-
 #DESCRIPTION Canal 26 -2-
-#SERVICE 1:64:1974:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:1a0f:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59c5c86e10038.streamlock.net%3a1935/6605140/6605140/playlist.m3u8:24/7 Canal de Noticias
 #DESCRIPTION 24/7 Canal de Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//g1.vxral-hor.transport.edge-access.net/a15/ngrp%3aa24-100056_all/a24-100056.m3u8:A24
+#DESCRIPTION A24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Argentinisima/smil%3aargentinisima.smil/playlist.m3u8:Argentinísima Satelital
 #DESCRIPTION Argentinísima Satelital
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8:Canal Acequia
@@ -97,6 +99,8 @@
 #DESCRIPTION CPE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediacontrol.jargon.com.ar%3a1935/elecotv/elecotv/playlist.m3u8:Eco TV Tandil
 #DESCRIPTION Eco TV Tandil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//elonceovh.elonce.com/hls/live.m3u8:ElOnce
+#DESCRIPTION ElOnce
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8:Holvoet TV
 #DESCRIPTION Holvoet TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming02.arcast.com.ar%3a1935/la90fm/la90fm/chunklist_w379053794.m3u8:La 90 FM

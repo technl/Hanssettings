@@ -27,8 +27,10 @@
 #DESCRIPTION MBC Max
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8:Wanasah
 #DESCRIPTION Wanasah
-#SERVICE 1:64:365:0:0:0:0:0:0:0:
+#SERVICE 1:64:3a5:0:0:0:0:0:0:0:
 #DESCRIPTION ++Abu Dhabi = hoofdstad VAE++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/adtv/smil%3aadtv.stream.smil/playlist.m3u8:Abu Dhabi Aloula
+#DESCRIPTION Abu Dhabi Aloula
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula:Abu Dhabi TV (Abu Dhabi - Arabisch)
 #DESCRIPTION Abu Dhabi TV (Abu Dhabi - Arabisch)
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama:Abu Dhabi Drama (Abu Dhabi - Arabisch)
@@ -43,8 +45,12 @@
 #DESCRIPTION Abu Dhabi Sport 4 (Abu Dhabi - Arabisch)
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat:Al Emarat (Abu Dhabi - Arabisch)
 #DESCRIPTION Al Emarat (Abu Dhabi - Arabisch)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/playlist.m3u8:Dubai Racing 2
+#DESCRIPTION Dubai Racing 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/playlist.m3u8:National Geographic Abu Dhabi (VAE)
 #DESCRIPTION National Geographic Abu Dhabi (VAE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmiffthvll.cdn.mangomolo.com/noordubaitv/smil%3anoordubaitv.smil/playlist.m3u8:Noor Dubai
+#DESCRIPTION Noor Dubai
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotaflam/03.m3u8:Rotana Aflam (Abu Dhabi - Arabisch)
 #DESCRIPTION Rotana Aflam (Abu Dhabi - Arabisch)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8:Rotana Aflam - alternatief -
@@ -71,7 +77,7 @@
 #DESCRIPTION Rotana Masrya (Abu Dhabi - Arabisch)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8:Rotana Music
 #DESCRIPTION Rotana Music
-#SERVICE 1:64:366:0:0:0:0:0:0:0:
+#SERVICE 1:64:3a6:0:0:0:0:0:0:0:
 #DESCRIPTION ++Dubai, stad in VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8:3eesh Al Aan TV
 #DESCRIPTION 3eesh Al Aan TV

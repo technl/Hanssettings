@@ -1,5 +1,5 @@
 #NAME Stream Vietnam (VN)
-#SERVICE 1:64:34d:0:0:0:0:0:0:0:
+#SERVICE 1:64:38c:0:0:0:0:0:0:0:
 #DESCRIPTION *** Hoofdzenders ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.216.122.72%3a8889/udp/225.0.0.37%3a5000:HTV 7 HD
 #DESCRIPTION HTV 7 HD
@@ -65,7 +65,7 @@
 #DESCRIPTION VTV 8 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.216.122.72%3a8889/udp/225.0.0.9%3a5000:VTV 9 HD
 #DESCRIPTION VTV 9 HD
-#SERVICE 1:64:34e:0:0:0:0:0:0:0:
+#SERVICE 1:64:38d:0:0:0:0:0:0:0:
 #DESCRIPTION *** Overige zenders ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8:Air TV
 #DESCRIPTION Air TV
@@ -97,6 +97,8 @@
 #DESCRIPTION Dao Lane Xang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8:Dhammasapha TV
 #DESCRIPTION Dhammasapha TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sda/skymart_hls.smil/playlist.m3u8:DNRTV 9
+#DESCRIPTION DNRTV 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8:GTV
 #DESCRIPTION GTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8:HBTV HD

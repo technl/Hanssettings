@@ -1,14 +1,16 @@
 #NAME Stream Peru (PE)
-#SERVICE 1:64:1d8:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:215:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh4.iblups.com/hls/irtp.m3u8:TV Peru Internacional
 #DESCRIPTION TV Peru Internacional
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/R9WtilpKKB.m3u8:TV Peru Nacional
 #DESCRIPTION TV Peru Nacional
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8:TV Perú Noticias
 #DESCRIPTION TV Perú Noticias
-#SERVICE 1:64:1d9:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:216:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige zenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8:América TV
+#DESCRIPTION América TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8:Andes Televisión
 #DESCRIPTION Andes Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a554/iptvantares/liveantarestv/playlist.m3u8:Antares TV
@@ -65,6 +67,8 @@
 #DESCRIPTION Cultura 24 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8:CVM TV
 #DESCRIPTION CVM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8:Décima TV
+#DESCRIPTION Décima TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2.cdnlayer.biz%3a8081/8038/index.m3u8:Delta TV
 #DESCRIPTION Delta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.streamingtv-mediacp.online%3a1936/8108/8108/playlist.m3u8:Diario Hechicera
@@ -203,7 +207,7 @@
 #DESCRIPTION Sumac TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7.innovatestream.pe%3a19360/supercanal/supercanal.m3u8:Super Canal
 #DESCRIPTION Super Canal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediastreamm.com%3a3126/live/tele2000live.m3u8:Tele 2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servilive.com%3a3126/live/tele2000live.m3u8:Tele 2000
 #DESCRIPTION Tele 2000
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8:Telesur
 #DESCRIPTION Telesur
@@ -241,7 +245,7 @@
 #DESCRIPTION TV Sistemas Cuzco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//170.79.102.223/UCI/index.m3u8:UCI
 #DESCRIPTION UCI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.sradiotv.com%3a1936/8078/8078/playlist.m3u8:Unitel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8:Unitel
 #DESCRIPTION Unitel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.48.236.2%3a8080/live/stream.m3u8:USMP TV
 #DESCRIPTION USMP TV

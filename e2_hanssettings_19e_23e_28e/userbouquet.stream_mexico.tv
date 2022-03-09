@@ -1,5 +1,5 @@
 #NAME Stream Mexico (MX)
-#SERVICE 1:64:2b8:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f7:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8:Azteca 1
 #DESCRIPTION Azteca 1
@@ -69,7 +69,7 @@
 #DESCRIPTION UDG TV 44 Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8:Canal 45
 #DESCRIPTION Canal 45
-#SERVICE 1:64:2b9:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f8:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt2.m3u8:A+ TV
 #DESCRIPTION A+ TV
@@ -93,6 +93,8 @@
 #DESCRIPTION Cor TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/smil%3agarage.smil/master.m3u8:El Garage TV
 #DESCRIPTION El Garage TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/estaciontv/estaciontv.smil/playlist.m3u8:Estación TV
+#DESCRIPTION Estación TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.tecnoxia.com%3a1935/8158/8158/playlist.m3u8:Hipódromo de las Américas
 #DESCRIPTION Hipódromo de las Américas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.presstv.ir/live/hispan.m3u8:Hispan TV
@@ -103,6 +105,8 @@
 #DESCRIPTION Imagen TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8:Jalisco TV
 #DESCRIPTION Jalisco TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8:Latino Kids
+#DESCRIPTION Latino Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.admefy.com/live/240/clean_peach_ef224.m3u8:Magic Kids
 #DESCRIPTION Magic Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1601580044.rsc.cdn77.org/live/_jcn_/amlst%3aMariavision/master.m3u8:María Visión Mexico

@@ -1,18 +1,18 @@
 #NAME Stream Slowakije (SK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.media-planet.sk/live/bardejov1/chunklist_w216929260.m3u8:Bardejovská TV
 #DESCRIPTION Bardejovská TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.94.54.11/live/bardejov1/playlist.m3u8:BTV
-#DESCRIPTION BTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/bardejov1:BTV - 2 -
 #DESCRIPTION BTV - 2 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.94.54.11/live/bardejov1/playlist.m3u8:BTV
+#DESCRIPTION BTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/playlist.m3u8:Fashion TV Slovak
 #DESCRIPTION Fashion TV Slovak
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/joj-360.m3u8:JOJ
-#DESCRIPTION JOJ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nn.geo.joj.sk/hls/family-360.m3u8:JOJ Family
 #DESCRIPTION JOJ Family
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/jojplus-540.m3u8:JOJ Plus HD
 #DESCRIPTION JOJ Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/joj-360.m3u8:JOJ
+#DESCRIPTION JOJ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.geniusnet.sk%3a8081/localltv/pl.m3u8:LocAll
 #DESCRIPTION LocAll
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_360p/chunklist_w1567891918.m3u8:Osem 12 Repriza
@@ -21,14 +21,16 @@
 #DESCRIPTION RIK TV Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/senzi/stream/chunklist_w186513238.m3u8:Senzi TV
 #DESCRIPTION Senzi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n8.stv.livebox.sk/vod/stv-tv-arch/18162bd755ef485c5c4af9d9ebb21512/a510/00/0009/000966/00096645-2.mp4/chunklist-v1-a1.m3u8:Správy
+#DESCRIPTION Správy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n14.stv.livebox.sk/ta3/ddc3538dd599eedd02d1ac69a6f286b6/1.smil/chunklist_b2691072.m3u8:TA3
 #DESCRIPTION TA3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.media-planet.sk%3a80/live/novezamky/BratuMarian.m3u8:Televizia Nove Zamky
 #DESCRIPTION Televizia Nove Zamky
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/ngrp%3atv8.stream_all/playlist.m3u8:TV 8
-#DESCRIPTION TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_360p/chunklist_w974670813.m3u8:TV 8 - 2 -
 #DESCRIPTION TV 8 - 2 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/ngrp%3atv8.stream_all/playlist.m3u8:TV 8
+#DESCRIPTION TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.94.54.11%3a1935/live/dolnykubin1/playlist.m3u8:TV DK
 #DESCRIPTION TV DK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tvlux.sk%3a1935/lux/lux.stream_360p/chunklist_w363529960.m3u8:TV Lux
@@ -37,10 +39,10 @@
 #DESCRIPTION TV Markíza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.media-planet.sk/live/dolnykubin1/chunklist_w420768934.m3u8:TV Mesta Dolný Kubín
 #DESCRIPTION TV Mesta Dolný Kubín
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/novezamky:TV Nové Zámky
-#DESCRIPTION TV Nové Zámky
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.105.193.219%3a88/hls/tvm.m3u8:TV Myjava
 #DESCRIPTION TV Myjava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/novezamky:TV Nové Zámky
+#DESCRIPTION TV Nové Zámky
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b17837053cfa.streamlock.net/tv8/mp4%3atv8.stream_360p/chunklist_w2016756099.m3u8:TV Osem
 #DESCRIPTION TV Osem
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//slovanet-livestream.ceelabs.com%3a1935/live/mpegts.stream_tvpoprad/playlist.m3u8:TV Poprad

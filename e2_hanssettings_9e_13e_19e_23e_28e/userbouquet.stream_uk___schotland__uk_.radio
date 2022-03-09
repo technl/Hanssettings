@@ -1,5 +1,5 @@
 #NAME Stream UK - Schotland (UK)
-#SERVICE 1:64:3ff:0:0:0:0:0:0:0:
+#SERVICE 1:64:441:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Schotland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw:BBC Radio Scotland MW
 #DESCRIPTION BBC Radio Scotland MW
@@ -63,8 +63,6 @@
 #DESCRIPTION Clyde 3 (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.audiospace.co/crystalradio:Crystal FM Community Radio for South Midlothian (Schotland, UK)
 #DESCRIPTION Crystal FM Community Radio for South Midlothian (Schotland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//comet.shoutca.st%3a8338/stream:Cuillin FM (Schotland, UK)
-#DESCRIPTION Cuillin FM (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.canstream.co.uk%3a8104/live.mp3:Cumbernauld FM (Schotland, UK)
 #DESCRIPTION Cumbernauld FM (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.hippynet.co.uk%3a8001/dunoon.mp3:DCR - Dunoon Community Radio (Schotland, UK)
@@ -133,6 +131,8 @@
 #DESCRIPTION Linn Jazz (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming03.zfast.co.uk%3a8061/stream:Listen Lanarkshire (Schotland, UK)
 #DESCRIPTION Listen Lanarkshire (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playoutonestreaming.com/proxy/riverradio:Lomond Radio (Schotland, UK)
+#DESCRIPTION Lomond Radio (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s29.myradiostream.com%3a9330/stream:Mearns 80s (Schotland, UK)
 #DESCRIPTION Mearns 80s (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.28.20.20%3a8002/live:Mearns FM (Schotland, UK)
@@ -197,6 +197,8 @@
 #DESCRIPTION Radio Saltire (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosix.com%3a8000/radiosix.mp3:Radio Six International (Schotland, UK)
 #DESCRIPTION Radio Six International (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cuillinf.radioca.st/stream:Radio Skye (Schotland)
+#DESCRIPTION Radio Skye (Schotland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.164%3a8045/;stream.mp3:Radio West Fife (Schotland, UK)
 #DESCRIPTION Radio West Fife (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.regalradio.net%3a8225/stream?:Regal Radio (Bathgate, Schotland, UK)

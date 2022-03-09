@@ -3,6 +3,8 @@
 #DESCRIPTION Business FM
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast.vgtrk.cdnvideo.ru/moscowfm128:Moskva FM
 #DESCRIPTION Moskva FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//pub0202.101.ru%3a8000/stream/air/aac/64/99:NRJ Petersbourg
+#DESCRIPTION NRJ Petersbourg
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radio7server.streamr.ru%3a8040/radio7256.mp3:Radio 7
 #DESCRIPTION Radio 7
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//chanson.hostingradio.ru%3a8041/chanson256.mp3:Radio Chanson
@@ -21,6 +23,14 @@
 #DESCRIPTION Radio Zvezda
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//retroserver.streamr.ru%3a8043/retro256.mp3:Retro FM
 #DESCRIPTION Retro FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//voicecdn.sputnikimages.com/voiceusa:Sputnik English for USA
+#DESCRIPTION Sputnik English for USA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//voicecdn.sputnikimages.com/voiceenghi:Sputnik English
+#DESCRIPTION Sputnik English
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//voicecdn.sputnikimages.com/voicespa:Sputnik Espanol
+#DESCRIPTION Sputnik Espanol
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//voicecdn.sputnikimages.com/voicerushi:Sputnik Russian
+#DESCRIPTION Sputnik Russian
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast.stranafm.cdnvideo.ru/stranafm_128:Strana FM
 #DESCRIPTION Strana FM
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//91.203.176.214%3a8000/vesnafm:Vesna FM

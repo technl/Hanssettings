@@ -1,9 +1,9 @@
 #NAME Stream Duitsland (DE)
-#SERVICE 1:64:17b:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b7:0:0:0:0:0:0:0:
 #DESCRIPTION * Hoofdzenders-Publieke Omroepen *
 #SERVICE 4097:0:1:6dca:44d:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.19.1%3a1234:ARD
 #DESCRIPTION ARD
-#SERVICE 1:0:19:283d:3fb:1:c00000:0:0:0:https%3a//mcdn.daserste.de/daserste/int/master_3628.m3u8:ARD (deels geoblocking)
+#SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:https%3a//mcdn.daserste.de/daserste/int/master_3628.m3u8:ARD (deels geoblocking)
 #DESCRIPTION ARD (deels geoblocking)
 #SERVICE 4097:0:1:6f47:445:1:c00000:0:0:0:http%3a//brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8?#X-Forwarded-For=91.63.136.21:ARD Alpha
 #DESCRIPTION ARD Alpha
@@ -13,16 +13,18 @@
 #DESCRIPTION ARD Phoenix
 #SERVICE 5002:0:1:2887:40f:1:c00000:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?#X-Forwarded-For=91.63.136.21:ARD Tagesschau 24
 #DESCRIPTION ARD Tagesschau 24
-#SERVICE 4097:0:1:2856:401:1:c00000:0:0:0:https%3a//mcdn.br.de/br/fs/bfs_sued/hls/int/master_1280p_3628.m3u8:BR Fernsehen
+#SERVICE 4097:0:1:2856:401:1:c00000:0:0:0:http%3a//brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8?#X-Forwarded-For=91.63.136.21:BR Fernsehen
 #DESCRIPTION BR Fernsehen
-#SERVICE 4097:0:1:2873:425:1:c00000:0:0:0:http%3a//hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8:HR Fernsehen
+#SERVICE 4097:0:1:2855:401:1:c00000:0:0:0:http%3a//mcdn.br.de/bfs_sued/de/profile1/1.m3u8:BR Fernsehen (deels geoblocking)
+#DESCRIPTION BR Fernsehen (deels geoblocking)
+#SERVICE 4097:0:1:2873:425:1:c00000:0:0:0:http%3a//185.234.111.35%3a8003/play/a0c2/index.m3u8:HR Fernsehen
 #DESCRIPTION HR Fernsehen
+#SERVICE 4097:0:1:2873:425:1:c00000:0:0:0:http%3a//hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8:HR Fernsehen (deels geonblocking) -2-
+#DESCRIPTION HR Fernsehen (deels geonblocking) -2-
 #SERVICE 4097:0:1:2870:425:1:c00000:0:0:0:http%3a//mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8?#X-Forwarded-For=91.63.136.21:MDR Sachsen
 #DESCRIPTION MDR Sachsen
 #SERVICE 4097:0:1:2871:425:1:c00000:0:0:0:http%3a//mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8?#X-Forwarded-For=91.63.136.21:MDR Sachsen-Anhalt
 #DESCRIPTION MDR Sachsen-Anhalt
-#SERVICE 1:0:19:2871:425:1:c00000:0:0:0:http%3a//tohome.redirectme.net%3a8001/1%3a0%3a19%3a2871%3a425%3a1%3ac00000%3a0%3a0%3a0:MDR Sachsen-Anhalt -2-
-#DESCRIPTION MDR Sachsen-Anhalt -2-
 #SERVICE 4097:0:1:2872:425:1:c00000:0:0:0:http%3a//mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8?#X-Forwarded-For=91.63.136.21:MDR Thüringen
 #DESCRIPTION MDR Thüringen
 #SERVICE 4097:0:1:2859:401:1:c00000:0:0:0:http%3a//ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_1992_av-p.m3u8:NDR Fernsehen Hamburg HD 
@@ -33,11 +35,9 @@
 #DESCRIPTION NDR Fernsehen Niedersachsen HD
 #SERVICE 4097:0:1:285a:401:1:c00000:0:0:0:http%3a//ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8:NDR Fernsehen Schleswig-Holstein HD 
 #DESCRIPTION NDR Fernsehen Schleswig-Holstein HD 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8:NDR Event 3
-#DESCRIPTION NDR Event 3
-#SERVICE 4097:0:1:286f:425:1:c00000:0:0:0:http%3a//rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8?#X-Forwarded-For=91.63.136.21:RBB Berlin
+#SERVICE 4097:0:1:286f:425:1:c00000:0:0:0:http%3a//185.234.111.35%3a8003/play/a0by/index.m3u8:RBB Berlin
 #DESCRIPTION RBB Berlin
-#SERVICE 4097:0:1:286e:425:1:c00000:0:0:0:http%3a//rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8?#X-Forwarded-For=91.63.136.21:RBB Brandenburg
+#SERVICE 4097:0:1:286e:425:1:c00000:0:0:0:http%3a//185.234.111.35%3a8003/play/a0bx/index.m3u8:RBB Brandenburg
 #DESCRIPTION RBB Brandenburg
 #SERVICE 4097:0:1:288a:40f:1:c00000:0:0:0:http%3a//srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?#X-Forwarded-For=91.63.136.21:SR Fernsehen HD
 #DESCRIPTION SR Fernsehen HD
@@ -47,77 +47,85 @@
 #DESCRIPTION SWR Fernsehen BW
 #SERVICE 4097:0:1:6e47:431:1:c00000:0:0:0:https%3a//swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8?#X-Forwarded-For=91.63.136.21:SWR Fernsehen RP
 #DESCRIPTION SWR Fernsehen RP
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:http%3a//wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8?#X-Forwarded-For=91.63.136.21:WDR Fernsehen
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0cq/index.m3u8:WDR Fernsehen
 #DESCRIPTION WDR Fernsehen
 #SERVICE 4097:0:1:6f78:457:1:0:0:0:0:http%3a//mcdn-wdr.akamaized.net/wdr/wdrfs/weltweit/master.m3u8:WDR Fernsehen (deels geoblocking)
 #DESCRIPTION WDR Fernsehen (deels geoblocking)
 #SERVICE 4097:0:1:6d66:437:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.16.2%3a1234:ZDF
 #DESCRIPTION ZDF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a005:ZDF Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0ce/index.m3u8:ZDF Info
 #DESCRIPTION ZDF Info
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a007:ZDF Neo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0c9/index.m3u8:ZDF Neo
 #DESCRIPTION ZDF Neo
 #SERVICE 4097:0:1:6d67:437:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.16.3%3a1234:3sat
 #DESCRIPTION 3sat
 #SERVICE 4097:0:1:6d68:437:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.16.1%3a1234:KiKA
 #DESCRIPTION KiKA
-#SERVICE 1:64:17c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b8:0:0:0:0:0:0:0:
 #DESCRIPTION * Hoofdzenders Commerciële Omroepen*
-#SERVICE 4097:0:1:2775:409:1:c00000:0:0:0:https%3a//bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-b.m3u8?sd=10&rebase=on:BILD HD
-#DESCRIPTION BILD HD
 #SERVICE 1:0:1:306:7:85:c00000:0:0:0:http%3a//tohome.redirectme.net%3a8001/1%3a0%3a1%3a306%3a7%3a85%3ac00000%3a0%3a0%3a0:Folx TV
 #DESCRIPTION Folx TV
-#SERVICE 4097:0:1:ef76:3f9:1:c00000:0:0:0:http%3a//31.220.41.86%3a8081/live/de-kabel1.stream/playlist.m3u8:Kabel 1
+#SERVICE 4097:0:1:ef76:3f9:1:c00000:0:0:0:http%3a//185.234.111.35%3a8003/play/a0b3/index.m3u8:Kabel 1
 #DESCRIPTION Kabel 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0b9/index.m3u8:Kabel 1 Doku
+#DESCRIPTION Kabel 1 Doku
 #SERVICE 5002:0:1:7006:436:1:c00000:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8?#X-Forwarded-For=91.63.136.21:MTV Germany HD
 #DESCRIPTION MTV Germany HD
-#SERVICE 4097:0:1:445f:453:1:c00000:0:0:0:http%3a//news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8?#X-Forwarded-For=91.63.136.21:N24 Welt News
-#DESCRIPTION N24 Welt News
-#SERVICE 4097:0:1:ef14:421:1:c00000:0:0:0:http%3a//31.220.41.86%3a8081/live/de-ntv.stream/playlist.m3u8:N-tv
+#SERVICE 4097:0:1:ef14:421:1:c00000:0:0:0:http%3a//185.234.111.35%3a8003/play/a0az/index.m3u8:N-tv
 #DESCRIPTION N-tv
 #SERVICE 4097:0:1:7008:436:1:c00000:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8?#X-Forwarded-For=91.63.136.21:Nickelodeon Deutschland
 #DESCRIPTION Nickelodeon Deutschland
-#SERVICE 4097:0:1:ef75:3f9:1:c00000:0:0:0:http%3a//31.220.41.86%3a8081/live/de-pro7.stream/playlist.m3u8:Pro 7
+#SERVICE 4097:0:1:ef75:3f9:1:c00000:0:0:0:http%3a//185.234.111.35%3a8003/play/a0b2/index.m3u8:Pro 7
 #DESCRIPTION Pro 7
-#SERVICE 4097:0:1:2f51:a1:270f:ffff0000:0:0:0:http%3a//5.146.116.76%3a8001/1%3a0%3a1%3a2F51%3aA1%3a270F%3aFFFF0000%3a0%3a0%3a0:Pro 7 Maxx
+#SERVICE 4097:0:1:2f51:a1:270f:ffff0000:0:0:0:http%3a//185.234.111.35%3a8003/play/a0b6/index.m3u8:Pro 7 Maxx
 #DESCRIPTION Pro 7 Maxx
 #SERVICE 4097:0:1:2ee3:441:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.17.1%3a1234:RTL 
 #DESCRIPTION RTL 
 #SERVICE 4097:0:1:2ef4:441:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.17.2%3a1234:RTL 2
 #DESCRIPTION RTL 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a00d:RTL FS
-#DESCRIPTION RTL FS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a00c:RTL HB NDS
-#DESCRIPTION RTL HB NDS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a00i:RTL Nitro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0ar/index.m3u8:RTL Bayern
+#DESCRIPTION RTL Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0ax/index.m3u8:RTL Nitro
 #DESCRIPTION RTL Nitro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a00j:RTL Plus
 #DESCRIPTION RTL Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a00b:RTL Regional NRW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0ay/index.m3u8:RTLup
+#DESCRIPTION RTLup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a00d:RTL FS
+#DESCRIPTION RTL FS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0aq/index.m3u8:RTL HB NDS
+#DESCRIPTION RTL HB NDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0as/index.m3u8:RTL HH SH
+#DESCRIPTION RTL HH SH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0ap/index.m3u8:RTL Regional NRW
 #DESCRIPTION RTL Regional NRW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/low/prog_index.m3u8:RTL West HD
 #DESCRIPTION RTL West HD
 #SERVICE 4097:0:1:445c:453:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.20.1%3a1234:SAT 1
 #DESCRIPTION SAT 1
-#SERVICE 4097:0:1:7d6a:141:270f:ffff0000:0:0:0:http%3a//5.146.116.76%3a8001/1%3a0%3a19%3a7D6A%3a141%3a270F%3aFFFF0000%3a0%3a0%3a0:SAT 1 Gold
+#SERVICE 4097:0:1:7d6a:141:270f:ffff0000:0:0:0:http%3a//185.234.111.35%3a8003/play/a0b5/index.m3u8:SAT 1 Gold
 #DESCRIPTION SAT 1 Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0b7/index.m3u8:SAT 1 Bayern
+#DESCRIPTION SAT 1 Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0b8/index.m3u8:SAT 1 NRW
+#DESCRIPTION SAT 1 NRW
 #SERVICE 4097:0:1:1332:3ef:1:c00000:0:0:0:http%3a//rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_3392.m3u8?#X-Forwarded-For=91.63.136.21:Servus TV Deutschland
 #DESCRIPTION Servus TV Deutschland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a013:Sixx
 #DESCRIPTION Sixx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5856e1a25f71a.streamlock.net/easycast10-live/_definst_/mp4%3alivestreamhd12/chunklist_w1656545461.m3u8:Schlager Paradies TV
-#DESCRIPTION Schlager Paradies TV
 #SERVICE 4097:0:1:2f4b:a1:270f:ffff0000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.17.3%3a1234:Super RTL
 #DESCRIPTION Super RTL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a01c:Tele 5
 #DESCRIPTION Tele 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.184%3a2000/play/a00h:VOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0au/index.m3u8:TOGGO Plus
+#DESCRIPTION TOGGO Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.111.35%3a8003/play/a0aw/index.m3u8:VOX
 #DESCRIPTION VOX
 #SERVICE 4097:0:1:445f:453:1:c00000:0:0:0:http%3a//live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8?#X-Forwarded-For=91.63.136.21:Welt
 #DESCRIPTION Welt
 #SERVICE 4097:0:1:445f:453:1:c00000:0:0:0:http%3a//news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8?#X-Forwarded-For=91.63.136.21:Welt News
 #DESCRIPTION Welt News
-#SERVICE 1:64:17d:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b9:0:0:0:0:0:0:0:
 #DESCRIPTION * Overige zenders *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3 TV 
 #DESCRIPTION 1-2-3 TV 
@@ -153,6 +161,8 @@
 #DESCRIPTION DorfTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4%3alivestreamhd5/playlist.m3u8?&ref=eotv.de:EO TV
 #DESCRIPTION EO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil%3astream_live.smil/chunklist_w1563145417_b240000.m3u8:ERF 1
+#DESCRIPTION ERF 1
 #SERVICE 4097:0:1:36b2:e:601:ffff0000:0:0:0:http%3a//stream.fs1.tv%3a8080/hls/webstream.m3u8:FS1
 #DESCRIPTION FS1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//148.251.76.72%3a8081/goodsound/goodsound.sdp/chunks.m3u8:Good Sound - Visual Radio
@@ -211,10 +221,6 @@
 #DESCRIPTION Rockland Radio 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8:Rockland TV
 #DESCRIPTION Rockland TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8:RT DE
-#DESCRIPTION RT DE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8:RT DE
-#DESCRIPTION RT DE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58de7a369a9c4.streamlock.net/salvetv/stream_720p/playlist.m3u8:Salve TV 
 #DESCRIPTION Salve TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4%3alivestreamhd20/playlist.m3u8?=&ref=seenluft24.de:Seenluft 24
@@ -239,7 +245,7 @@
 #DESCRIPTION WMZ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8:World of Freesports
 #DESCRIPTION World of Freesports
-#SERVICE 1:64:17e:0:0:0:0:0:0:0:
+#SERVICE 1:64:1ba:0:0:0:0:0:0:0:
 #DESCRIPTION * Lokale zenders *
 #SERVICE 4097:0:1:16a8:3ff:1:c00000:0:0:0:http%3a//178.248.241.103/iptv/atv.ts:a.tv HD
 #DESCRIPTION a.tv HD
@@ -303,6 +309,8 @@
 #DESCRIPTION noa4 Hamburg FHD 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls1.wtnet.de/noa4/apple/wifi6500.m3u8:noa4 Norderstedt FHD 
 #DESCRIPTION noa4 Norderstedt FHD 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8:NRWision
+#DESCRIPTION NRWision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8:nrwision Dortmund
 #DESCRIPTION nrwision Dortmund
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4%3alivestreamhd4/playlist.m3u8:Oberlausitz.tv

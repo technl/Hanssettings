@@ -1,22 +1,30 @@
 #NAME Stream Japan (JP)
-#SERVICE 1:64:278:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:2b6:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv2021.site%3a8080/9897876765/6576567/645:NHK HD
 #DESCRIPTION NHK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.tvfix.org/hls/nhke2.m3u8:NHK & NHKE
+#DESCRIPTION NHK & NHKE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.tvfix.org/hls/nhkg.m3u8:NHK & NHKG
+#DESCRIPTION NHK & NHKG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8:NHK Chinese Vision
 #DESCRIPTION NHK Chinese Vision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhk1.mov3.co/hls/nhk.m3u8:NHK General TV
 #DESCRIPTION NHK General TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8:NHK World Japan
 #DESCRIPTION NHK World Japan
-#SERVICE 1:64:279:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:2b7:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//feed.play.mv/live/10005200/isU48qPZqV/master.m3u8:Animax Japan (Engelse ondertiteling)
 #DESCRIPTION Animax Japan (Engelse ondertiteling)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sub2.neetball.net/live/neet.m3u8:AT-X
 #DESCRIPTION AT-X
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00051/index.m3u8:BS-TBS
+#DESCRIPTION BS-TBS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8:CGN TV Japan
 #DESCRIPTION CGN TV Japan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hlsok/j00011/index.m3u8:Family Gekijo
+#DESCRIPTION Family Gekijo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//host02.media-gather.jp/_media__mg00009kj5c_live/_definst_/1359071597_3874/chunklist_.m3u8:FM Hirakata TV
 #DESCRIPTION FM Hirakata TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fujitv1.mov3.co/hls/fujitv.m3u8:Fuji Television Network

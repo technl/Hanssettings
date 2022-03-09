@@ -1,5 +1,5 @@
 #NAME Stream Zwitserland (CH)
-#SERVICE 1:64:2c0:0:0:0:0:0:0:0:
+#SERVICE 1:64:300:0:0:0:0:0:0:0:
 #DESCRIPTION ** Hoofdzenders Publiek**
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a031:RSI LA 1 HD
 #DESCRIPTION RSI LA 1 HD
@@ -15,7 +15,7 @@
 #DESCRIPTION SRF 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02h:SRF Info HD
 #DESCRIPTION SRF Info HD
-#SERVICE 1:64:2c1:0:0:0:0:0:0:0:
+#SERVICE 1:64:301:0:0:0:0:0:0:0:
 #DESCRIPTION ** Hoofdzenders Commercieel **
 #SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02i:3+ HD
 #DESCRIPTION 3+ HD
@@ -27,9 +27,9 @@
 #DESCRIPTION 6+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.schweiz5.ch/schweiz5/stream.m3u8:Schweiz 5 (Zwitserland)
 #DESCRIPTION Schweiz 5 (Zwitserland)
-#SERVICE 1:64:2c2:0:0:0:0:0:0:0:
+#SERVICE 1:64:302:0:0:0:0:0:0:0:
 #DESCRIPTION ** Overige zenders **
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a030:Auftanken.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvoosa-pez0304.sctv.ch/http_adaptive_streaming/EKBJIPAAIHFIHACG.m3u8/Level(3):Auftanken.TV
 #DESCRIPTION Auftanken.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8:Canal 9
 #DESCRIPTION Canal 9
@@ -49,6 +49,8 @@
 #DESCRIPTION Kabel 1 Schweiz
 #SERVICE 1:0:1:b6:2:5:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03n:Kanal 9 HD
 #DESCRIPTION Kanal 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3alivehd/master.m3u8:Kanal 9 en Français
+#DESCRIPTION Kanal 9 en Français
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8:La Télé (Zwitserland)
 #DESCRIPTION La Télé (Zwitserland)
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//lfmmd.vedge.infomaniak.com/livecast/smil%3alfmmd.smil/playlist.m3u8:LFM (Zwitserland)
@@ -81,7 +83,7 @@
 #DESCRIPTION Wetter TV HD
 #SERVICE 4097:0:1:234:0:0:0:0:0:0:https%3a//tvm3.vedge.infomaniak.com/livecast/tvm3/f1tv.m3u8:TVM3 (Zwitserland)
 #DESCRIPTION TVM3 (Zwitserland)
-#SERVICE 1:64:2c3:0:0:0:0:0:0:0:
+#SERVICE 1:64:303:0:0:0:0:0:0:0:
 #DESCRIPTION ++visual radio++
 #SERVICE 4097:0:1:d:2:6:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8:Radio 24 - Visual Radio (Zwitserland)
 #DESCRIPTION Radio 24 - Visual Radio (Zwitserland)

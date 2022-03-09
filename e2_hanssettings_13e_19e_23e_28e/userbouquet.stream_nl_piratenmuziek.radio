@@ -79,8 +79,8 @@
 #DESCRIPTION Garnwerd Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-66.stream-server.nl%3a8832/stream:Gewoon FM - Gewoon Gezellig
 #DESCRIPTION Gewoon FM - Gewoon Gezellig
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-11.stream-server.nl%3a8554/:Gewoon-Piraten
-#DESCRIPTION Gewoon-Piraten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server-67.stream-server.nl%3a8802/stream:Gewoon Piraten Team 
+#DESCRIPTION Gewoon Piraten Team 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.19.116.253/stream:Gigant FM (Groningen + Drenthe)
 #DESCRIPTION Gigant FM (Groningen + Drenthe)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.uitzending.tv/gigantfm/gigantfm/playlist.m3u8:Gigant FM- Kijk live in de studio (Groningen + Drenthe)
@@ -169,8 +169,6 @@
 #DESCRIPTION Oude-Piraten-Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.174.76.245%3a10402/;:Panter Radio vanuit Wezep
 #DESCRIPTION Panter Radio vanuit Wezep
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.148.162.129%3a9696:Piraten Team Doetinchem
-#DESCRIPTION Piraten Team Doetinchem
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.5.73%3a8720/stream:Piraten-Radio-Muziek-Express-Radio
 #DESCRIPTION Piraten-Radio-Muziek-Express-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.20.171.34%3a8000:Piraten-Stream-Twente
@@ -189,8 +187,6 @@
 #DESCRIPTION Piratenkanon (Den Bosch)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.32.52%3a8028/PiratenKanon-AAC:PiratenKanonFM
 #DESCRIPTION PiratenKanonFM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/piratenknallersnl:piratenknallersnl
-#DESCRIPTION piratenknallersnl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiobox2.omroep.nl/audiofragment/file/196780/fragment.mp3:Piratenpodium- Oude-Piratenhits - DJ-Sietse Rodeo Hillie
 #DESCRIPTION Piratenpodium- Oude-Piratenhits - DJ-Sietse Rodeo Hillie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//piratenradio.nl%3a8200:PiratenRadio.nl
@@ -285,9 +281,7 @@
 #DESCRIPTION RADIO READYMIX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server-28.stream-server.nl%3a18828/stream:Radio Regenboog
 #DESCRIPTION Radio Regenboog
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.104.137%3a6017/:Radio Ronalisa
-#DESCRIPTION Radio Ronalisa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.104.137%3a6017/stream:Radio Ronalisa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//207.180.230.141%3a6017/stream:Radio Ronalisa
 #DESCRIPTION Radio Ronalisa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8113/stream:Radio Schlager NL
 #DESCRIPTION Radio Schlager NL
@@ -327,16 +321,12 @@
 #DESCRIPTION RVM Radio 100% gezellig (NL-piraten)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cc6.beheerstream.com/8037/live:Shadow Radio (NL-piraten)
 #DESCRIPTION Shadow Radio (NL-piraten)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-07.stream-server.nl%3a8312:Speedy Radio
-#DESCRIPTION Speedy Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.32.52%3a8016/stream:Starlightwebradio Team Limburg
-#DESCRIPTION Starlightwebradio Team Limburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.hostingbudget.nl%3a1905/stream:Starlight Webradio 
+#DESCRIPTION Starlight Webradio 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.20.171.30%3a8060/:Station MaD
 #DESCRIPTION Station MaD
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a9222/stream:Sterpiraten (NL piraten)
 #DESCRIPTION Sterpiraten (NL piraten)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-23.stream-server.nl%3a8132/stream:Streamgigant
-#DESCRIPTION Streamgigant
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//studiodrentsepoort.gkstreamen.nl%3a80/:Studiodrentsepoort.nl
 #DESCRIPTION Studiodrentsepoort.nl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.32.52%3a8070/stream:Studionathalstream.nl (Hoogeveen)
@@ -355,8 +345,6 @@
 #DESCRIPTION teamstillewilly
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.toppersteam.nl%3a8016/stream:Toppersteam
 #DESCRIPTION Toppersteam
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//83.149.126.29%3a8018:ToppieTeam
-#DESCRIPTION ToppieTeam
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tukkerfm.nl/tukkerfm:Tukker FM (Oldenzaal - Twente - Overijssel)
 #DESCRIPTION Tukker FM (Oldenzaal - Twente - Overijssel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//twentseboys.gkstreamen.nl%3a8058/:twentse Boys
@@ -369,20 +357,10 @@
 #DESCRIPTION Vechtdal NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.sephimar.nl%3a8060/stream:Vrolijke Piraat Radio (Moerdijk)
 #DESCRIPTION Vrolijke Piraat Radio (Moerdijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.31.224.21%3a8678:WebRadio Twinlife
-#DESCRIPTION WebRadio Twinlife
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster02.streampakket.com%3a9480/stream:Webradiotwinlife
-#DESCRIPTION Webradiotwinlife
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.39.105.171%3a8370/:WKD Team
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-51.stream-server.nl%3a8370/stream:WKD Team
 #DESCRIPTION WKD Team
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp3.live-streams.nl%3a8132/nonstop:Woonwagenradio
 #DESCRIPTION Woonwagenradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8122/stream:Zeearend.nl
-#DESCRIPTION Zeearend.nl
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8122:Zeearendteam
-#DESCRIPTION Zeearendteam
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.188.75%3a8009/stream:Zeepaardteam
-#DESCRIPTION Zeepaardteam
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.168.22.74%3a12002/stream2:Zender Dwerghut
 #DESCRIPTION Zender Dwerghut
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-24.stream-server.nl%3a8410/stream:Zolderpiraten

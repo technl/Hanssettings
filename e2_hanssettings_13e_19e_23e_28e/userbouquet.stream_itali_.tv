@@ -1,43 +1,65 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:30b:0:0:0:0:0:0:0:
+#SERVICE 1:64:348:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8:RAI 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ce:RAI 1
 #DESCRIPTION RAI 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvtap.net%3a8081/live/it-rai2.stream/playlist.m3u8:RAI 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8:RAI 1 -2-
+#DESCRIPTION RAI 1 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a08k:RAI 2
 #DESCRIPTION RAI 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8:RAI 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cg:RAI 3
 #DESCRIPTION RAI 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvtap.net%3a8081/live/it-rai4.stream/playlist.m3u8:RAI 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8:RAI 3 -2-
+#DESCRIPTION RAI 3 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ci:RAI 4
 #DESCRIPTION RAI 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvtap.net%3a8081/live/it-rai5.stream/playlist.m3u8:RAI 5
 #DESCRIPTION RAI 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a01m:RAI Gulp
+#DESCRIPTION RAI Gulp
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.69/s/s63/S4/mnf.m3u8:RAI Italia
 #DESCRIPTION RAI Italia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001:RAI News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cj:RAI Movie
+#DESCRIPTION RAI Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a01l:RAI News 24
 #DESCRIPTION RAI News 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/stream04/streamPlaylist.m3u8:Mediaset Italia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a08t:RAI Premium
+#DESCRIPTION RAI Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a08s:RAI Scuola
+#DESCRIPTION RAI Scuola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a08p:RAI Storia
+#DESCRIPTION RAI Storia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a01n:RAI Yoyo
+#DESCRIPTION RAI Yoyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a2:Mediaset Italia 1
 #DESCRIPTION Mediaset Italia 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/stream04/streamPlaylist.m3u8:Mediaset Rete 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0aa:Mediaset Italia 2
+#DESCRIPTION Mediaset Italia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a4:Mediaset Rete 4
 #DESCRIPTION Mediaset Rete 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/stream05/streamPlaylist.m3u8:Mediaset Canale 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a3:Mediaset Canale 5
 #DESCRIPTION Mediaset Canale 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/stream05/streamPlaylist.m3u8:Mediaset La 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a7:Mediaset La 5
 #DESCRIPTION Mediaset La 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/stream05/streamPlaylist.m3u8:Mediaset 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a1:Mediaset 20
 #DESCRIPTION Mediaset 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/stream05/streamPlaylist.m3u8:Mediaset Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ad:Mediaset Focus
 #DESCRIPTION Mediaset Focus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/stream05/streamPlaylist.m3u8:Mediaset Cine 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09z:Mediaset Cine 34
 #DESCRIPTION Mediaset Cine 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b7)/stream05/streamPlaylist.m3u8:Mediaset Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a9:Mediaset Extra
 #DESCRIPTION Mediaset Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/stream05/streamPlaylist.m3u8:Mediaset Iris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a5:Mediaset Iris
 #DESCRIPTION Mediaset Iris
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/stream05/streamPlaylist.m3u8:Mediaset Top Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ab:Mediaset Top Crime
 #DESCRIPTION Mediaset Top Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cq:La 7
+#DESCRIPTION La 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cp:La 7d
+#DESCRIPTION La 7d
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8:Sky TG 24
 #DESCRIPTION Sky TG 24
-#SERVICE 1:64:30c:0:0:0:0:0:0:0:
+#SERVICE 1:64:349:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
@@ -611,6 +633,22 @@
 #DESCRIPTION Telemolise
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8:Telemonteve
 #DESCRIPTION Telemonteve
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-fs.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8:TelePace
+#DESCRIPTION TelePace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8:TelePace 1
+#DESCRIPTION TelePace 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8:TelePace 2
+#DESCRIPTION TelePace 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8:TelePace 3
+#DESCRIPTION TelePace 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8:TelePace 4
+#DESCRIPTION TelePace 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8:TelePace News
+#DESCRIPTION TelePace News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8:TelePace Roma
+#DESCRIPTION TelePace Roma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8:TelePace Trento
+#DESCRIPTION TelePace Trento
 #SERVICE 4097:0:1:8:659:9999:0:0:0:0:https%3a//5cbd3bc28341f.streamlock.net%3a444/telesud/_definst_/live/playlist.m3u8:Telesud Trapani 
 #DESCRIPTION Telesud Trapani 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.velcom.it%3a19360/teleuniverso/teleuniverso.m3u8:Teleuniverso

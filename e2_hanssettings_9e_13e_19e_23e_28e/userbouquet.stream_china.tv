@@ -1,40 +1,48 @@
 #NAME Stream China (CN)
-#SERVICE 1:64:303:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-1/.m3u8:CCTV 1
-#DESCRIPTION CCTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-2/.m3u8:CCTV 2
-#DESCRIPTION CCTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-3/.m3u8:CCTV 3
-#DESCRIPTION CCTV 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-4/.m3u8:CCTV 4
-#DESCRIPTION CCTV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-5/.m3u8:CCTV 5
-#DESCRIPTION CCTV 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-6/.m3u8:CCTV 6
-#DESCRIPTION CCTV 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-7/.m3u8:CCTV 7
-#DESCRIPTION CCTV 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-8/.m3u8:CCTV 8
-#DESCRIPTION CCTV 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-9/.m3u8:CCTV 9
-#DESCRIPTION CCTV 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-10/.m3u8:CCTV 10
-#DESCRIPTION CCTV 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-11/.m3u8:CCTV 11
-#DESCRIPTION CCTV 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-12/.m3u8:CCTV 12
-#DESCRIPTION CCTV 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-13/.m3u8:CCTV 13
-#DESCRIPTION CCTV 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-14/.m3u8:CCTV 14
-#DESCRIPTION CCTV 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.30.3%3a6610/ysten-businessmobile/live/cctv-15/.m3u8:CCTV 15
-#DESCRIPTION CCTV 15
+#SERVICE 1:64:341:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225618/index.m3u8:CCTV 1 HD
+#DESCRIPTION CCTV 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225619/index.m3u8:CCTV 2 HD
+#DESCRIPTION CCTV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225647/index.m3u8:CCTV 3 HD
+#DESCRIPTION CCTV 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.138.59%3a18890/PLTV/88888910/224/3221225621/index.m3u8:CCTV 4 HD
+#DESCRIPTION CCTV 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225633/index.m3u8:CCTV 5 HD
+#DESCRIPTION CCTV 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225649/index.m3u8:CCTV 5+ HD
+#DESCRIPTION CCTV 5+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225632/index.m3u8:CCTV 6 HD
+#DESCRIPTION CCTV 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225624/index.m3u8:CCTV 7 HD
+#DESCRIPTION CCTV 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225631/index.m3u8:CCTV 8 HD
+#DESCRIPTION CCTV 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.138.59%3a18890/PLTV/88888910/224/3221225626/index.m3u8:CCTV 9 HD
+#DESCRIPTION CCTV 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225636/index.m3u8:CCTV 10 HD
+#DESCRIPTION CCTV 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.169.120.140%3a8080/live/cctv-11/.m3u8:CCTV 11 HD
+#DESCRIPTION CCTV 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225637/index.m3u8:CCTV 12 HD
+#DESCRIPTION CCTV 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.138.59%3a18890/PLTV/88888910/224/3221225638/index.m3u8:CCTV 13 HD
+#DESCRIPTION CCTV 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//116.199.5.52%3a8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=:CCTV 15 HD
+#DESCRIPTION CCTV 15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.138.59%3a18890/PLTV/88888910/224/3221225907/index.m3u8:CCTV 17 HD
+#DESCRIPTION CCTV 17 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8:CCTV Old Stories
+#DESCRIPTION CCTV Old Stories
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1:CETV 1
+#DESCRIPTION CETV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2:CETV 2
+#DESCRIPTION CETV 2
 #SERVICE 4097:0:1:1b02:3fe:1:c00000:0:0:0:http%3a//news.cgtn.com/resource/live/english/cgtn-news.m3u8:CGTN
 #DESCRIPTION CGTN
-#SERVICE 1:64:304:0:0:0:0:0:0:0:
-#DESCRIPTION    *** Landelijk ***
+#SERVICE 1:64:342:0:0:0:0:0:0:0:
+#DESCRIPTION ++landelijk++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8:Asian American Television - AAT TV
 #DESCRIPTION Asian American Television - AAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8:Australian Sports
@@ -115,6 +123,8 @@
 #DESCRIPTION ViuTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//61.238.6.49%3a8000/bysid/96:ViuTVsix
 #DESCRIPTION ViuTVsix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//app.xygdcm.com%3a2036/live/stream%3axy1.stream/playlist.m3u8:XYTV
+#DESCRIPTION XYTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8:Yanbian TV 2
 #DESCRIPTION Yanbian TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8:Youman Cartoon
@@ -123,8 +133,8 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//seb.sason.top/sc/ztxw_fhd.m3u8:Zhongtian News
 #DESCRIPTION Zhongtian News
-#SERVICE 1:64:305:0:0:0:0:0:0:0:
-#DESCRIPTION    *** Regionaal ***
+#SERVICE 1:64:343:0:0:0:0:0:0:0:
+#DESCRIPTION ++regionaal++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8:Bazhong Comprehensive
 #DESCRIPTION Bazhong Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8:Beijing has shopping
@@ -133,6 +143,8 @@
 #DESCRIPTION Binzhou News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.bzcm.net/1/sd/live.m3u8:Binzhou Public
 #DESCRIPTION Binzhou Public
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//granicusliveus4-a.akamaihd.net/cerritos/G0010_002/playlist.m3u8:Cerritos TV3
+#DESCRIPTION Cerritos TV3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//chaoan.chaoantv.com%3a8278/zongyi_1028/playlist.m3u8:Chaoan Comprehensive
 #DESCRIPTION Chaoan Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//chaoan.chaoantv.com%3a8278/h_yingshi_1028/playlist.m3u8:Chaoan Film and Television
@@ -171,6 +183,8 @@
 #DESCRIPTION HRB Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/hzzh/sd/live.m3u8:Huizhou News Comprehensive
 #DESCRIPTION Huizhou News Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ahhs.chinashadt.com%3a1936/live/stream%3ahs1.stream/playlist.m3u8:Huoshan TV
+#DESCRIPTION Huoshan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live4.m2oplus.nmtv.cn/6/playlist.m3u8:Inner Mongolia Agriculture and Animal Husbandry
 #DESCRIPTION Inner Mongolia Agriculture and Animal Husbandry
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live5.m2oplus.nmtv.cn/4/playlist.m3u8:Inner Mongolia children
@@ -205,6 +219,8 @@
 #DESCRIPTION Jilin Northeast Opera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.jlntv.cn/ggpd/sd/live.m3u8:Jilin Public News
 #DESCRIPTION Jilin Public News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.jlntv.cn/xcpd/sd/live.m3u8:JLNTV
+#DESCRIPTION JLNTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//61.162.225.122%3a8181/live/test1.m3u8:Ju County-1
 #DESCRIPTION Ju County-1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//61.162.225.122%3a8181/live/test2.m3u8:Ju County-2
@@ -229,6 +245,8 @@
 #DESCRIPTION Mianyang City Science and Technology
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.826pc.com/mytv/live.php?id=4:Mianyang City General
 #DESCRIPTION Mianyang City General
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/mmzh/playlist.m3u8:MMZH
+#DESCRIPTION MMZH
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//natv.cnjrna.com%3a3000/channel/sovp/1000000000000018/video_1564_none.m3u8:Nan'an TV
 #DESCRIPTION Nan'an TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.nbs.cn/channels/njtv/jkpd/flv%3a500k/live:Nanjing Educational Science
@@ -331,6 +349,8 @@
 #DESCRIPTION Sanming Public Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/swzh/sd/live.m3u8:Shanwei Public
 #DESCRIPTION Shanwei Public
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/sgxwzhHD/playlist.m3u8:Shaoguan TV
+#DESCRIPTION Shaoguan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//218.17.99.211%3a5080/livestream/ttsw6ccn.flv:Shekou Comprehensive
 #DESCRIPTION Shekou Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//scgctvshow.sctv.com/hdlive/sctv2/index.m3u8:Sichuan Cultural Tourism
@@ -361,6 +381,8 @@
 #DESCRIPTION Wanzhou Three Gorges Migrants
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.kxm.xmtv.cn/xmyidong/tvzb/live.m3u8:Xiamen Mobile TV
 #DESCRIPTION Xiamen Mobile TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8:Xiamen Star
+#DESCRIPTION Xiamen Star
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//221.233.242.239%3a280/live/71/playlist.m3u8:Xiantao News Comprehensive
 #DESCRIPTION Xiantao News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//221.233.242.239%3a280/live/72/playlist.m3u8:Xiantao style life
@@ -373,6 +395,8 @@
 #DESCRIPTION Xin'an TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zsxj.chinashadt.com%3a1935/live/xjsh.stream_360p/playlist.m3u8:Xinji Life Channel
 #DESCRIPTION Xinji Life Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.70.93.210%3a1935/live/xinwen/playlist.m3u8:Xinwen
+#DESCRIPTION Xinwen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8:Xuzhou TV 1 Shanghai
 #DESCRIPTION Xuzhou TV 1 Shanghai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8:Xuzhou TV 2 Shanghai

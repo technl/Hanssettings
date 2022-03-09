@@ -1,5 +1,5 @@
 #NAME Stream Oekraïne (UA)
-#SERVICE 1:64:1d2:0:0:0:0:0:0:0:
+#SERVICE 1:64:20f:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/1tvkr/1tvkr/playlist.m3u8:1 TV Krivoy Rog
 #DESCRIPTION 1 TV Krivoy Rog
@@ -45,7 +45,7 @@
 #DESCRIPTION TRK Millet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/31chod/31chod-sub/playlist.m3u8:TRK Reporter
 #DESCRIPTION TRK Reporter
-#SERVICE 1:64:1d3:0:0:0:0:0:0:0:
+#SERVICE 1:64:210:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.16.32-.m3u8:100%25 News
 #DESCRIPTION 100% News
@@ -191,6 +191,8 @@
 #DESCRIPTION UATV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//app.live.112.events/hls-ua/112hd_mid/index.m3u8:Ukraine Live TV
 #DESCRIPTION Ukraine Live TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ukrlive.tv/hls/hd.m3u8:Ukraine Live TV alternatief
+#DESCRIPTION Ukraine Live TV alternatief
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.69%3a8811/hls_sec/239.0.4.18-.m3u8:Voice
 #DESCRIPTION Voice
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.175.163.130/live_yatb/playlist.m3u8:YATB

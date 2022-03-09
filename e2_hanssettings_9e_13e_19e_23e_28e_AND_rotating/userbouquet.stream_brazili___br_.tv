@@ -9,6 +9,10 @@
 #DESCRIPTION Animestation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8:C-Ghost
 #DESCRIPTION C-Ghost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b33b873179a2.streamlock.net%3a1443/mastertv/livestream/playlist.m3u8:Catve Master TV
+#DESCRIPTION Catve Master TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b33b873179a2.streamlock.net%3a1443/catve2/catve2/playlist.m3u8:Catve 2
+#DESCRIPTION Catve 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8:Canal 25 Jundiaí
 #DESCRIPTION Canal 25 Jundiaí
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.novotempo.com/tv/smil%3aexecutivo.smil/chunklist_w1786386513_b628000_slpor.m3u8:Canal Executivo
@@ -25,8 +29,12 @@
 #DESCRIPTION CBN São Paulo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8:Central TV
 #DESCRIPTION Central TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live:CNN Brasil
+#DESCRIPTION CNN Brasil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8:COM Brasil
 #DESCRIPTION COM Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza4.catve.com.br%3a1935/live/livestream/media.m3u8:Cultura PR Catve
+#DESCRIPTION Cultura PR Catve
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_.m3u8:CWB TV
 #DESCRIPTION CWB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.189.113.201/hls/tve.m3u8:E-Parana
@@ -67,6 +75,8 @@
 #DESCRIPTION Nuevo Tiempo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wz3.dnip.com.br%3a1935/novaeratv/novaeratv.sdp/live.m3u8:Nova Era TV
 #DESCRIPTION Nova Era TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8:Pauta
+#DESCRIPTION Pauta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//meupainel.top%3a1936/iaptd/iaptd/chunklist_.m3u8:Plenitude do Trono de Deus TV
 #DESCRIPTION Plenitude do Trono de Deus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/portocanal/playlist.m3u8:Porto Canal
@@ -141,6 +151,8 @@
 #DESCRIPTION TV Aberta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/AVJ-9106/playlist/chunklist.m3u8:TV AD-Belém
 #DESCRIPTION TV AD-Belém
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.almg.gov.br/live/tvalmg.m3u8:TV ALMG
+#DESCRIPTION TV ALMG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8:TV Aparecida
 #DESCRIPTION TV Aparecida
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv6.zoeweb.tv%3a1935/z404-live/stream/chunklist.m3u8:TV Assembléia Ceará TV
@@ -281,6 +293,8 @@
 #DESCRIPTION TV Sol Comunidade
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8:TV Terceiro Anjo
 #DESCRIPTION TV Terceiro Anjo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-grupo-10049.ciclano.io%3a1443/grupo-10049/grupo-10049/playlist.m3u8:TV Thathi
+#DESCRIPTION TV Thathi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza.softhost.com.br%3a1935/ufg/smil%3atvufgweb/chunklist_w606185061_b1544100_sleng.m3u8:TV UFG
 #DESCRIPTION TV UFG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(6pbmcjLXNoerDLdAhoXBxw)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuXyAosvuqvlMJtsMkooySBOlQbVM33PgsYPQdea2CdwV3jCwh3bEWxgkPO8qmBPQtt_5bUEV1Mi_2t1AjM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kcUr5z4MZQ)))/index.m3u8:TV UFOP

@@ -1,5 +1,5 @@
 #NAME Stream Iran (IR)
-#SERVICE 1:64:2a2:0:0:0:0:0:0:0:
+#SERVICE 1:64:2e1:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvstream.co.uk/LS-63503-4/index.m3u8:Iran International TV
 #DESCRIPTION Iran International TV
@@ -41,8 +41,6 @@
 #DESCRIPTION IRIB Kermanshah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a02e:IRIB Kh. Jonoobi
 #DESCRIPTION IRIB Kh. Jonoobi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a01w:IRIB Kh. Razavi
-#DESCRIPTION IRIB Kh. Razavi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a01x:IRIB Kh. Shomali
 #DESCRIPTION IRIB Kh. Shomali
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a00u:IRIB Khalijefars
@@ -57,12 +55,14 @@
 #DESCRIPTION IRIB Mostanad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a01h:IRIB Namayesh
 #DESCRIPTION IRIB Namayesh
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a01p:IRIB Nasim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdm.telewebion.com/live/nasim/playlist.m3u8:IRIB Nasim
 #DESCRIPTION IRIB Nasim
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a00h:IRIB Noor
 #DESCRIPTION IRIB Noor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a01d:IRIB Quran
 #DESCRIPTION IRIB Quran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdm.telewebion.com/live/khorasanrazavi/playlist.m3u8:IRIB Razavi
+#DESCRIPTION IRIB Razavi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a026:IRIB Qazvin
 #DESCRIPTION IRIB Qazvin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a01z:IRIB Sahand
@@ -75,7 +75,7 @@
 #DESCRIPTION IRIB Varzesh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.109.224.178%3a8001/play/a02d:IRIB Yazd
 #DESCRIPTION IRIB Yazd
-#SERVICE 1:64:2a3:0:0:0:0:0:0:0:
+#SERVICE 1:64:2e2:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-215-11778-1.b.cdn13.com/onetvpersia001.m3u8?bandwidth=3196&playlistlength=5&shift=0&v=2:1 TV Persian
 #DESCRIPTION 1 TV Persian

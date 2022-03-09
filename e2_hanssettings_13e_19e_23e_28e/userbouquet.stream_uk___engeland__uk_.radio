@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:3e0:0:0:0:0:0:0:0:
+#SERVICE 1:64:421:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:3e1:0:0:0:0:0:0:0:
+#SERVICE 1:64:422:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -411,7 +411,7 @@
 #DESCRIPTION EKR - OLDIES PARADISE (Canterbury, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-electricradio.sharp-stream.com/electricradio.aac:Electric Radio (Engeland, UK)
 #DESCRIPTION Electric Radio (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream-embrace.creativedork.com/:Embrace Radio (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.broadcastradio.com%3a11905/embrace:Embrace Radio (Engeland, UK)
 #DESCRIPTION Embrace Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str2.sad.ukrd.com/encore.mp3:Encore Radio (Engeland, UK)
 #DESCRIPTION Encore Radio (Engeland, UK)
@@ -859,6 +859,8 @@
 #DESCRIPTION Mellow Magic (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.radio.co/s5e1f4b6b9/listen:Melodic Distraction (Liverpool, Engeland, UK)
 #DESCRIPTION Melodic Distraction (Liverpool, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//memorylaneradio.radioca.st/;:Memory Lane Radio (Newcastle, Engeland)
+#DESCRIPTION Memory Lane Radio (Newcastle, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.121.25%3a8230/stream:Mersey Radio (Liverpool, Engeland, UK)
 #DESCRIPTION Mersey Radio (Liverpool, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/metro.aac:Metro Radio (Engeland, UK)
@@ -1571,6 +1573,8 @@
 #DESCRIPTION Windrush Radio (Witney, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//gbradio.cdn.tibus.net/WIGWire:Wire FM 107.2 (Engeland, UK)
 #DESCRIPTION Wire FM 107.2 (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//winchest.radioca.st/stream:Winchester Radio (Winchester, Engeland)
+#DESCRIPTION Winchester Radio (Winchester, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//gbradio.cdn.tibus.net/WIGWish:Wish FM (Orrell, Engeland, UK)
 #DESCRIPTION Wish FM (Orrell, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/JamendoLounge:Wonderful Radio London (Engeland, UK)

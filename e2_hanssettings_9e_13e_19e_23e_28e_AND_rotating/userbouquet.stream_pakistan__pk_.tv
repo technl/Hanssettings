@@ -81,6 +81,8 @@
 #DESCRIPTION PTV Home
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ptv.com.pk/live/ptvworld/playlist.m3u8:PTV World
 #DESCRIPTION PTV World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hdserver.7starcloud.com%3a1935/sanatv/sanatv/playlist.m3u8:Sana TV
+#DESCRIPTION Sana TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8:Shrrang TV
 #DESCRIPTION Shrrang TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn61.liveonlineservices.com/hls/subrang.m3u8:Subrang TV

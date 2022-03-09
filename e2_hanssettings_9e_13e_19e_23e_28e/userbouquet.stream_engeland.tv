@@ -1,69 +1,81 @@
 #NAME Stream Engeland (UK)
-#SERVICE 1:64:1fe:0:0:0:0:0:0:0:
+#SERVICE 1:64:239:0:0:0:0:0:0:0:
 #DESCRIPTION ++Hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a03k:BBC 1
-#DESCRIPTION BBC 1
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a03o:BBC 2
-#DESCRIPTION BBC 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0aq:BBC 4
-#DESCRIPTION BBC 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a047:BBC ALBA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a01w:BBC 1 HD
+#DESCRIPTION BBC 1 HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a01r:BBC 2 HD
+#DESCRIPTION BBC 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a05p:BBC 3 HD
+#DESCRIPTION BBC 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a03j:BBC 4 HD
+#DESCRIPTION BBC 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a016:BBC ALBA
 #DESCRIPTION BBC ALBA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0ao:BBC News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a03f:BBC News HD
 #DESCRIPTION BBC News HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a03m:BBC Parliament
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a00y:BBC Parliament
 #DESCRIPTION BBC Parliament
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a044:BBC Scotland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a014:BBC Scotland
 #DESCRIPTION BBC Scotland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0b9:ITV 1
-#DESCRIPTION ITV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0b7:ITV 1+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a04c:ITV 1 HD
+#DESCRIPTION ITV 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a027:ITV 1+1
 #DESCRIPTION ITV 1+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0b1:ITV 2
-#DESCRIPTION ITV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a04t:ITV 2+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a041:ITV 2 HD
+#DESCRIPTION ITV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a02b:ITV 2+1
 #DESCRIPTION ITV 2+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0bb:ITV 3+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a04z:ITV 3 HD
+#DESCRIPTION ITV 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a02o:ITV 3+1
 #DESCRIPTION ITV 3+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0b8:ITV 4+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a019:ITV 4 HD
+#DESCRIPTION ITV 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a02l:ITV 4+1
 #DESCRIPTION ITV 4+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0b6:ITV Be.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a02j:ITV Be.
 #DESCRIPTION ITV Be.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0b4:STV
-#DESCRIPTION STV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05o:Channel 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a048:STV HD
+#DESCRIPTION STV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a049:UTV HD
+#DESCRIPTION UTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a01m:Channel 4 HD
 #DESCRIPTION Channel 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a04w:Channel 4+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a02s:Channel 4+1
 #DESCRIPTION Channel 4+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a032:E4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a01n:4 Seven
+#DESCRIPTION 4 Seven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a00b:E4
 #DESCRIPTION E4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a04u:E4+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a02q:E4+1
 #DESCRIPTION E4+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a02z:Film 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a008:Film 4
 #DESCRIPTION Film 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a053:Film 4+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a02z:Film 4+1
 #DESCRIPTION Film 4+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a052:More 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a02y:More 4
 #DESCRIPTION More 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a030:More 4+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a009:More 4+1
 #DESCRIPTION More 4+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06h:S4C HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a05t:4 Music
+#DESCRIPTION 4 Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00p:S4C HD
 #DESCRIPTION S4C HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a055:Channel 5
-#DESCRIPTION Channel 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05b:Channel 5+1
-#DESCRIPTION Channel 5+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a059:5 Select
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a05r:Channel 5 HD
+#DESCRIPTION Channel 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a03a:5 Action
+#DESCRIPTION 5 Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a036:5 Select
 #DESCRIPTION 5 Select
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a058:5 Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a035:5 Star
 #DESCRIPTION 5 Star
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05a:5 Star+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a037:5 Star+1
 #DESCRIPTION 5 Star+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a056:5 USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a033:5 USA
 #DESCRIPTION 5 USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a057:5 USA+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a034:5 USA+1
 #DESCRIPTION 5 USA+1
-#SERVICE 1:64:1ff:0:0:0:0:0:0:0:
+#SERVICE 1:64:23a:0:0:0:0:0:0:0:
 #DESCRIPTION ++Overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
 #DESCRIPTION 92 News UK
@@ -71,12 +83,14 @@
 #DESCRIPTION Afrobeats
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/index.m3u8:Akaal Channel UK
 #DESCRIPTION Akaal Channel UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a03n:Animal Planet +1
+#DESCRIPTION Animal Planet +1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8:Bid TV
 #DESCRIPTION Bid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05l:Blaze
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a04p:Blaze
 #DESCRIPTION Blaze
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8:Bloomberg TV Europa
-#DESCRIPTION Bloomberg TV Europa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00y:Bloomberg TV HD
+#DESCRIPTION Bloomberg TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8:Bloomberg+ 4K
 #DESCRIPTION Bloomberg+ 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
@@ -85,57 +99,33 @@
 #DESCRIPTION Brit Asia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8:British Muslim TV
 #DESCRIPTION British Muslim TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a09v:CBS Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01u:CBS Drama
 #DESCRIPTION CBS Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0a0:CBS Justice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01v:CBS Justice
 #DESCRIPTION CBS Justice
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0a4:CBS Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a023:CBS Reality
 #DESCRIPTION CBS Reality
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0a5:CBS Reality+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a024:CBS Reality+1
 #DESCRIPTION CBS Reality+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08q:Challenge
-#DESCRIPTION Challenge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8:Channel S
 #DESCRIPTION Channel S
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a07v:Channels 24
-#DESCRIPTION Channels 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//clubbingtv-samsunguk.amagi.tv/playlist.m3u8:Clubbing TV
 #DESCRIPTION Clubbing TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a07j:Clubland TV
-#DESCRIPTION Clubland TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uksono1-samsunguk.amagi.tv/playlist.m3u8:Comedy Channel
 #DESCRIPTION Comedy Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08l:Create and Craft HD
-#DESCRIPTION Create and Craft HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08y:Dave
-#DESCRIPTION Dave
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a095:Dave ja vu
-#DESCRIPTION Dave ja vu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a09b:DMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a03u:DMAX
 #DESCRIPTION DMAX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a097:DMAX+1
-#DESCRIPTION DMAX+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08z:Drama
-#DESCRIPTION Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a094:Drama+1
-#DESCRIPTION Drama+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0af:Euronews
-#DESCRIPTION Euronews
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0bj:EWTN Catholic
-#DESCRIPTION EWTN Catholic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a02v:DMAX +1
+#DESCRIPTION DMAX +1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.filmon.com/vr-streams/4136.high/playlist.m3u8:Filmon 360
 #DESCRIPTION Filmon 360
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a099:Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a02x:Food Network
 #DESCRIPTION Food Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a09a:Food Network+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a02y:Food Network+1
 #DESCRIPTION Food Network+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a081:Foodxp
-#DESCRIPTION Foodxp
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08r:Forces TV
-#DESCRIPTION Forces TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8:France 24 English
 #DESCRIPTION France 24 English
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06i:FreeSports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00r:FreeSports HD
 #DESCRIPTION FreeSports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8:FTF For the fans
 #DESCRIPTION FTF For the fans
@@ -145,53 +135,39 @@
 #DESCRIPTION Gems TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8:God TV UK 
 #DESCRIPTION God TV UK 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a07e:Good News TV
-#DESCRIPTION Good News TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05z:GREAT! Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01a:GREAT! Movies
 #DESCRIPTION GREAT! Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a066:GREAT! Movies+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01h:GREAT! Movies+1
 #DESCRIPTION GREAT! Movies+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05y:GREAT! Movies Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a019:GREAT! Movies Action
 #DESCRIPTION GREAT! Movies Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a068:GREAT! Movies Action+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01j:GREAT! Movies Action+1
 #DESCRIPTION GREAT! Movies Action+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a060:GREAT! Movies Classic+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01b:GREAT! Movies Classic
+#DESCRIPTION GREAT! Movies Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01c:GREAT! Movies Classic+1
 #DESCRIPTION GREAT! Movies Classic+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a061:GREAT! Movies Classic+1
-#DESCRIPTION GREAT! Movies Classic+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06a:GREAT! TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01l:GREAT! TV
 #DESCRIPTION GREAT! TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06b:GREAT! TV+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01m:GREAT! TV+1
 #DESCRIPTION GREAT! TV+1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8:Gusto TV
 #DESCRIPTION Gusto TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//halaldn.cdn.mangomolo.com/halavd/smil%3ahalavd.stream.smil/chunklist.m3u8:Hala London
 #DESCRIPTION Hala London
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06d:HGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a03q:HGTV
 #DESCRIPTION HGTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06f:HGTV+1
-#DESCRIPTION HGTV+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06z:Hi-Impact TV
-#DESCRIPTION Hi-Impact TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a07d:High Street TV 2
-#DESCRIPTION High Street TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a07f:High Street TV 4
-#DESCRIPTION High Street TV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05k:Hillsong
-#DESCRIPTION Hillsong
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a074:Hochanda
-#DESCRIPTION Hochanda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a09x:Horror Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01w:Horror Channel
 #DESCRIPTION Horror Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0a6:Horror Channel+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a025:Horror Channel+1
 #DESCRIPTION Horror Channel+1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hncfree-samsung-uk.amagi.tv/playlist.m3u8:Horse and Country
 #DESCRIPTION Horse and Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08k:Ideal World HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a03m:Ideal World HD
 #DESCRIPTION Ideal World HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-samsung-uk.amagi.tv/playlist.m3u8:Insight
 #DESCRIPTION Insight
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8:Inspiration TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a04u:Inspiration TV
 #DESCRIPTION Inspiration TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//introuble-samsung.amagi.tv/playlist.m3u8:Introuble
 #DESCRIPTION Introuble
@@ -199,68 +175,48 @@
 #DESCRIPTION Inwild
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inwonder-samsung-uk.amagi.tv/playlist.m3u8:Inwonder
 #DESCRIPTION Inwonder
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lo2-1.gemporia.com/abrjewellerymaker/smil%3alivestream.smil/playlist.m3u8:Jewelery Maker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a04h:Jewelery Maker
 #DESCRIPTION Jewelery Maker
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08n:LoveWorld HD
-#DESCRIPTION LoveWorld HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05x:Kerrang!
-#DESCRIPTION Kerrang!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06t:KICC TV
-#DESCRIPTION KICC TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05w:KISS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a03y:London Live
+#DESCRIPTION London Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/:Kerrang
+#DESCRIPTION Kerrang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a00w:KISS
 #DESCRIPTION KISS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08f:Magic
-#DESCRIPTION Magic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moonbug-rokuus.amagi.tv/playlist.m3u8:Moonbug Kids
 #DESCRIPTION Moonbug Kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net%3a80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8:MTA 1 World
-#DESCRIPTION MTA 1 World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8?sd=10&rebase=on:MTA 2 Europe
-#DESCRIPTION MTA 2 Europe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on:MTA 3 Arabic
-#DESCRIPTION MTA 3 Arabic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8:MTA 4 Africa
-#DESCRIPTION MTA 4 Africa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0bf:MTA Muslim TV
-#DESCRIPTION MTA Muslim TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:My5 Documentaries
 #DESCRIPTION My5 Documentaries
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:My5 GP's
 #DESCRIPTION My5 GP's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a083:NOW 70s
-#DESCRIPTION NOW 70s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05e:NOW 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a04g:NOW 80s
 #DESCRIPTION NOW 80s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a07k:NOW 90s
-#DESCRIPTION NOW 90s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05d:Paramount Network
-#DESCRIPTION Paramount Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pbs-samsunguk.amagi.tv/playlist.m3u8:PBS America
 #DESCRIPTION PBS America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08u:Pick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00j:Pick
 #DESCRIPTION Pick
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08v:Pick+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00k:Pick+1
 #DESCRIPTION Pick+1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerstv-samsunguk.amagi.tv/playlist.m3u8:Players TV
 #DESCRIPTION Players TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a063:POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01e:POP
 #DESCRIPTION POP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a069:POP+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01k:POP+1
 #DESCRIPTION POP+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a065:POP Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01g:POP Max
 #DESCRIPTION POP Max
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a067:POP Max+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01i:POP Max+1
 #DESCRIPTION POP Max+1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8:Qello Concerts by Stingray
 #DESCRIPTION Qello Concerts by Stingray
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06j:Quest HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00s:Quest HD
 #DESCRIPTION Quest HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a09f:Quest+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a038:Quest+1
 #DESCRIPTION Quest+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a09e:Quest Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a03w:Quest Red
 #DESCRIPTION Quest Red
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a09c:Quest Red+1
-#DESCRIPTION Quest Red+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a035:Quest Red +1
+#DESCRIPTION Quest Red +1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1txbbj1u9asam.cloudfront.net/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8:QVC Beauty
 #DESCRIPTION QVC Beauty
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1txbbj1u9asam.cloudfront.net/live/qvcuk_extra_clean/bitrate1.isml/3/prog_index.m3u8:QVC Extra
@@ -271,7 +227,7 @@
 #DESCRIPTION QVC UK +1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//realstories-samsung-uk.amagi.tv/playlist.m3u8:Real Stories
 #DESCRIPTION Real Stories
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06g:Really
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01q:Really
 #DESCRIPTION Really
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8:Red Bull TV
 #DESCRIPTION Red Bull TV
@@ -279,69 +235,51 @@
 #DESCRIPTION Revelation TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8:Reuters TV
 #DESCRIPTION Reuters TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-uk.gcdn.co/live/rtuk/playlist.m3u8:RT UK
-#DESCRIPTION RT UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.sheffieldlive.org/hls/main.m3u8:Sheffield Live 93.2 FM (Webradio)
 #DESCRIPTION Sheffield Live 93.2 FM (Webradio)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08t:Sky Arts
-#DESCRIPTION Sky Arts
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8:Sky News Int.
-#DESCRIPTION Sky News Int.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08w:Sky News UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00l:Sky News UK
 #DESCRIPTION Sky News UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0a9:Smithsonian
-#DESCRIPTION Smithsonian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00e:Smithsonian HD
+#DESCRIPTION Smithsonian HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofytv-samsunguk.amagi.tv/playlist.m3u8:Sofy TV
 #DESCRIPTION Sofy TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sparktv-samsunguk.amagi.tv/playlist.m3u8:Spark TV
 #DESCRIPTION Spark TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8:Sports Tonight
 #DESCRIPTION Sports Tonight
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a071:SportyStuff HD
-#DESCRIPTION SportyStuff HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8:Spotlight TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.39%3a8000/play/a04l:Spotlight TV
 #DESCRIPTION Spotlight TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8:Stingray Karaoke
 #DESCRIPTION Stingray Karaoke
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8:Tastemade
 #DESCRIPTION Tastemade
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0bg:TBN UK
-#DESCRIPTION TBN UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tennischannel-int-samsunguk.amagi.tv/playlist.m3u8:Tennis Channel UK
 #DESCRIPTION Tennis Channel UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8:Tennis Channel International
 #DESCRIPTION Tennis Channel International
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a05u:The Box UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a00u:The Box UK
 #DESCRIPTION The Box UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timeline-samsung-uk.amagi.tv/playlist.m3u8:Time Line
 #DESCRIPTION Time Line
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a062:Tiny Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01d:Tiny Pop
 #DESCRIPTION Tiny Pop
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a064:Tiny Pop+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01f:Tiny Pop+1
 #DESCRIPTION Tiny Pop+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8:TJC
-#DESCRIPTION TJC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08p:Together TV
-#DESCRIPTION Together TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a09y:Trace Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00x:TJC HD
+#DESCRIPTION TJC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.224%3a8000/play/a00q:TLC HD
+#DESCRIPTION TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a01x:Trace Hits
 #DESCRIPTION Trace Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0a1:Trace Vault
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a020:Trace Vault
 #DESCRIPTION Trace Vault
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/church-online/ingles2/playlist.m3u8:TV Mana
-#DESCRIPTION TV Mana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abr.de1se01.v2beat.live/playlist.m3u8:V2BEAT
 #DESCRIPTION V2BEAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//betamg-i.akamaihd.net/hls/live/513429/willhill/0_tklzcakd_1_1/chunklist.m3u8:William Hill BTV 1
 #DESCRIPTION William Hill BTV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//betamg-i.akamaihd.net/hls/live/513429/willhill/0_3838s0ja_1_1/chunklist.m3u8:William Hill BTV 2
 #DESCRIPTION William Hill BTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a0be:WION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.79%3a8000/play/a012:WION HD
 #DESCRIPTION WION HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wonder-samsung-uk.amagi.tv/playlist.m3u8:Wonder
 #DESCRIPTION Wonder
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a06v:Word Network
-#DESCRIPTION Word Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a08x:Yesterday
-#DESCRIPTION Yesterday
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.154.28.81%3a2052/play/a096:Yesterday+1
-#DESCRIPTION Yesterday+1
