@@ -1,5 +1,5 @@
 #NAME Stream Feeds
-#SERVICE 1:64:270:0:0:0:0:0:0:0:
+#SERVICE 1:64:264:0:0:0:0:0:0:0:
 #DESCRIPTION STREAM FEEDS-PAKKET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ec1-nl.prd.talpatvcdn.nl/7e78ccb46d97454fa3aedb21801c2b98/index_1.m3u8:SBS 6 Event Channel 1
 #DESCRIPTION SBS 6 Event Channel 1
@@ -15,7 +15,7 @@
 #DESCRIPTION DVHN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&type=live&service=wowza&output=playlist.m3u8:Leeuwarder Courant
 #DESCRIPTION Leeuwarder Courant
-#SERVICE 1:64:271:0:0:0:0:0:0:0:
+#SERVICE 1:64:265:0:0:0:0:0:0:0:
 #DESCRIPTION BELGIE - VLAANDEREN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.parolis.be%3a1935/live/PLN_NL/chunklist_w27225067.m3u8:Federaal Parlement
 #DESCRIPTION Federaal Parlement
@@ -29,21 +29,21 @@
 #DESCRIPTION VRT Events 3 / Radio 1 studiocam (België)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-cf-vrt.akamaized.net/groupa/live/7d5f0e4a-3429-4861-91d4-aa3229d7ad7b/live_aes.isml/live_aes-audio_track_0_0_dut=128000-video_track=3000000.m3u8?hd%3aSporza Livestream:VRT Feed
 #DESCRIPTION VRT Feed
-#SERVICE 1:64:272:0:0:0:0:0:0:0:
+#SERVICE 1:64:266:0:0:0:0:0:0:0:
 #DESCRIPTION BELGIE - WALLONIE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8:RTL TVI
 #DESCRIPTION RTL TVI
-#SERVICE 1:64:273:0:0:0:0:0:0:0:
+#SERVICE 1:64:267:0:0:0:0:0:0:0:
 #DESCRIPTION ++Canada++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//github.com/geonsey/Free2ViewTV/blob/master/videos/GlobalNews_Notice.mp4?raw=true:Global News Live Stream
 #DESCRIPTION Global News Live Stream
-#SERVICE 1:64:274:0:0:0:0:0:0:0:
+#SERVICE 1:64:268:0:0:0:0:0:0:0:
 #DESCRIPTION ++China++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cd-live-stream.news.cctvplus.com/live/smil%3aCHANNEL1.smil/playlist.m3u8:CCTV+ 1
 #DESCRIPTION CCTV+ 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cd-live-stream.news.cctvplus.com/live/smil%3aCHANNEL2.smil/playlist.m3u8:CCTV+ 2
 #DESCRIPTION CCTV+ 2
-#SERVICE 1:64:275:0:0:0:0:0:0:0:
+#SERVICE 1:64:269:0:0:0:0:0:0:0:
 #DESCRIPTION DUITSLAND
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8:ARD/WDR Feed
 #DESCRIPTION ARD/WDR Feed
@@ -57,13 +57,15 @@
 #DESCRIPTION NDR Event 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8:NDR Event 3
 #DESCRIPTION NDR Event 3
-#SERVICE 1:64:276:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//swrevent03hls.akamaized.net/hls/live/2016768/event03/master.m3u8:SWR Event
+#DESCRIPTION SWR Event
+#SERVICE 1:64:26a:0:0:0:0:0:0:0:
 #DESCRIPTION ++EBS = Europe By Satellite++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8:EbS Live (Europe by Satellite)
 #DESCRIPTION EbS Live (Europe by Satellite)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8:EbS+ Live (Europe by Satellite)
 #DESCRIPTION EbS+ Live (Europe by Satellite)
-#SERVICE 1:64:277:0:0:0:0:0:0:0:
+#SERVICE 1:64:26b:0:0:0:0:0:0:0:
 #DESCRIPTION SPANJE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 1
 #DESCRIPTION TVE +24 Eventos 1
@@ -75,7 +77,7 @@
 #DESCRIPTION TVE +24 Eventos 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/index_1500_av-b.m3u8:TVE Play
 #DESCRIPTION TVE Play
-#SERVICE 1:64:278:0:0:0:0:0:0:0:
+#SERVICE 1:64:26c:0:0:0:0:0:0:0:
 #DESCRIPTION USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8:Reuters TV News
 #DESCRIPTION Reuters TV News

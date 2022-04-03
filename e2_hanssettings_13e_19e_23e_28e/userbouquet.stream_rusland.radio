@@ -1,6 +1,8 @@
 #NAME Stream Rusland (RU)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//bfm.hostingradio.ru%3a9075/fm:Business FM
 #DESCRIPTION Business FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kommersant77.hostingradio.ru%3a8085/kommersant64.mp3:Kommersant FM
+#DESCRIPTION Kommersant FM
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast.vgtrk.cdnvideo.ru/moscowfm128:Moskva FM
 #DESCRIPTION Moskva FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//pub0202.101.ru%3a8000/stream/air/aac/64/99:NRJ Petersbourg

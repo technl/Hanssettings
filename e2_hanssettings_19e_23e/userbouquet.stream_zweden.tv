@@ -1,5 +1,5 @@
 #NAME Stream Zweden (SE)
-#SERVICE 1:64:2fe:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f9:0:0:0:0:0:0:0:
 #DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//forevertv.me%3a8080/Iptvtree/b957c2YMj6/85282:SVT 1
 #DESCRIPTION SVT 1
@@ -33,8 +33,10 @@
 #DESCRIPTION Kanal 11 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//forevertv.me%3a8080/Iptvtree/b957c2YMj6/11164:MTV Zweden
 #DESCRIPTION MTV Zweden
-#SERVICE 1:64:2ff:0:0:0:0:0:0:0:
+#SERVICE 1:64:2fa:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8:Aftonbladet TV
+#DESCRIPTION Aftonbladet TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8:ATG
 #DESCRIPTION ATG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil%3a03837_tx4_720p/playlist.m3u8:Dagens Industri TV
@@ -47,6 +49,8 @@
 #DESCRIPTION Expressen TV Nieuws 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kkr.dk/live/kkr/.m3u8:KKR TV
 #DESCRIPTION KKR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8:Oppna Kanalen
+#DESCRIPTION Oppna Kanalen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.132.85.39/19333-live0/_definst_/push-stortinget_1/.m3u8:Stortinget
 #DESCRIPTION Stortinget
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edg02-prd-se-dcs.solidtango.com/edge/_8ynhbua3_/8ynhbua3/playlist.m3u8:TV Malmö 

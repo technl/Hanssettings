@@ -1,6 +1,6 @@
 #NAME Stream Mexico (MX)
-#SERVICE 1:64:2c6:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:2c0:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8:Azteca 1
 #DESCRIPTION Azteca 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.241.190.126%3a1935/live/canal4/playlist.m3u8:Canal 4 Saltillo
@@ -69,8 +69,8 @@
 #DESCRIPTION UDG TV 44 Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8:Canal 45
 #DESCRIPTION Canal 45
-#SERVICE 1:64:2c7:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:2c1:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt2.m3u8:A+ TV
 #DESCRIPTION A+ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8:ADN 40 (deels Geoblocking)
@@ -103,6 +103,8 @@
 #DESCRIPTION Imagen Multicast
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8:Imagen TV
 #DESCRIPTION Imagen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tvcontrolcp.com%3a1936/8170/8170/playlist.m3u8:Innova TV
+#DESCRIPTION Innova TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8:Jalisco TV
 #DESCRIPTION Jalisco TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8:Latino Kids
@@ -111,6 +113,8 @@
 #DESCRIPTION Magic Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1601580044.rsc.cdn77.org/live/_jcn_/amlst%3aMariavision/master.m3u8:María Visión Mexico
 #DESCRIPTION María Visión Mexico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8:Metropolitana del Cuzco
+#DESCRIPTION Metropolitana del Cuzco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/miamitv/smil%3amiamitvROKU/chunklist_w1385319380_b2592000.m3u8:Miami TV Mexico
 #DESCRIPTION Miami TV Mexico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8:Milenio TV
@@ -135,6 +139,14 @@
 #DESCRIPTION Telemax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8:Teleritmo
 #DESCRIPTION Teleritmo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live:Televisa Ciudad Juarez
+#DESCRIPTION Televisa Ciudad Juarez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live:Televisa Monterrey
+#DESCRIPTION Televisa Monterrey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg/live:Televisa Sonora
+#DESCRIPTION Televisa Sonora
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live:Televisa Veracruz
+#DESCRIPTION Televisa Veracruz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingcws20.com%3a1935/tmtv/videotmtv/chunklist_w1798696550.m3u8:Transmedia TV Morelia
 #DESCRIPTION Transmedia TV Morelia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.oursnetworktv.com/latin/encoder55/playlist.m3u8:TV Guanajuato

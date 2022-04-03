@@ -1,4 +1,6 @@
 #NAME Stream Colombia (CO)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/atmtv/index.m3u8:ATM Televisión
+#DESCRIPTION ATM Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8:Avivamiento TV
 #DESCRIPTION Avivamiento TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video13.virtualtronics.com/streamer/canal2_720/index.m3u8:Canal 2
@@ -9,6 +11,8 @@
 #DESCRIPTION Canal CNC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/canalcnc/canalcnc/chunklist.m3u8:Canal CNC Medellin
 #DESCRIPTION Canal CNC Medellin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/cncpasto/cncpasto/chunklist.m3u8:Canal CNC Pasto
+#DESCRIPTION Canal CNC Pasto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc1/cnc1/chunklist_.m3u8:Canal CNC Pasto Hits Channel
 #DESCRIPTION Canal CNC Pasto Hits Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc4/cnc4/chunklist_.m3u8:Canal CNC Pasto Sentimiento Vallenato
@@ -19,10 +23,10 @@
 #DESCRIPTION Canal CNC Pasto Son Latino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc7/cnc7/chunklist_.m3u8:Canal CNC Pasto Son Popular
 #DESCRIPTION Canal CNC Pasto Son Popular
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/cncpasto/cncpasto/chunklist.m3u8:Canal CNC Pasto
-#DESCRIPTION Canal CNC Pasto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil%3alive.smil/chunklist_b1500000.m3u8:Canal Institucional
 #DESCRIPTION Canal Institucional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//g2.vxral-slo.transport.edge-access.net/a11/ngrp%3acanal_luz01-100009_all/Playlist.m3u8:Canal Luz
+#DESCRIPTION Canal Luz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8:Cosmovision
 #DESCRIPTION Cosmovision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc8/cnc8/chunklist_.m3u8:Galeras TV
@@ -37,8 +41,6 @@
 #DESCRIPTION Telecaribe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//vbox2.cehis.net/live-teleislas/teleislas app=live-teleislas pageUrl=https%3a//streaming.com.co/clientes/teleislas/index.html swfUrl=https%3a//cehis.net/player55/player.swf tcUrl=rtmp%3a//vbox2.cehis.net/live-teleislas playPath=teleislas live=1:Teleislas
 #DESCRIPTION Teleislas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b464b69d264e.streamlock.net/Channels_live/ngrp%3atelemusica_all/playlist.m3u8 :Telemusica
-#DESCRIPTION Telemusica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.logicideas.media/telepacifico-live/smil%3alive.smil/chunklist_b4500000.m3u8:Telepacifico
 #DESCRIPTION Telepacifico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8:UAO Play

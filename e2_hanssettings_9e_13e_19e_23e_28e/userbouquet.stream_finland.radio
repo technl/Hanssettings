@@ -19,6 +19,8 @@
 #DESCRIPTION Iskelmä Jyväskylä (Finland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bauermedia.fi/iskelma/kem_64.aac:Iskelmä Kemi (Kemi - Finland)
 #DESCRIPTION Iskelmä Kemi (Kemi - Finland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bauermedia.fi/iskelma/mli_128.mp3:Iskelmä Mikkeli
+#DESCRIPTION Iskelmä Mikkeli
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bauermedia.fi/iskelma/ktk_64.aac:Iskelmä Kotka (Kotka - Finland)
 #DESCRIPTION Iskelmä Kotka (Kotka - Finland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bauermedia.fi/iskelma/rov_64.aac:Iskelmä Rovaniemi (Rovaniemi - Finland)
@@ -67,8 +69,6 @@
 #DESCRIPTION Radio Inari (Ivalo - Finland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//wr2.downtime.fi/kaakko.aac:Radio Kaakkoo (Kotka - Finland)
 #DESCRIPTION Radio Kaakkoo (Kotka - Finland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:hel2-77-86-247-184.ext.nebulacloud.fi%3a8000/mikkeli:Radio Mikkeli (Finland)
-#DESCRIPTION Radio Mikkeli (Finland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//moreenistream1.uta.fi%3a8080/moreeni.mp3:Radio Moreeni (klassiek - Tampere - Finland)
 #DESCRIPTION Radio Moreeni (klassiek - Tampere - Finland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.187.5.67%3a8040/stream/1/:Radio Musa (Finland)
@@ -105,7 +105,7 @@
 #DESCRIPTION YleX (Finland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bauermedia.fi/ysari/ysari_64.aac:Ysäri (Finland)
 #DESCRIPTION Ysäri (Finland)
-#SERVICE 1:64:4d4:0:0:0:0:0:0:0:
+#SERVICE 1:64:4c9:0:0:0:0:0:0:0:
 #DESCRIPTION Publieke omroep YLE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//yleuni-f.akamaihd.net/i/yleliveradiohd_4@113881/index_256_a-p.m3u8?sd=10&rebase=on:YLE Klassinen (klassiek - Finland)
 #DESCRIPTION YLE Klassinen (klassiek - Finland)

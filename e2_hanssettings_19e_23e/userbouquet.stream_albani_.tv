@@ -1,6 +1,6 @@
 #NAME Stream Albanië (AL)
-#SERVICE 1:64:269:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:263:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8:RTSH 1
 #DESCRIPTION RTSH 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8:RTSH 2
@@ -27,7 +27,7 @@
 #DESCRIPTION RTSH Muzike
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_plus_ott_p2/playlist.m3u8:RTSH Plus
 #DESCRIPTION RTSH Plus
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//178.132.220.2%3a8001/play/a00h/index.m3u8:RTSH Satelit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.220.2%3a8001/play/a00h/index.m3u8:RTSH Satelit
 #DESCRIPTION RTSH Satelit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_shkolle_ott_p2/playlist.m3u8:RTSH Shkollë
 #DESCRIPTION RTSH Shkollë
@@ -35,8 +35,8 @@
 #DESCRIPTION RTSH Shqip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/sport_ott_p3/playlist.m3u8:RTSH Sport
 #DESCRIPTION RTSH Sport
-#SERVICE 1:64:26a:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:264:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2.abcnews.al/live/abcnews/chunks.m3u8:ABC News Albania
 #DESCRIPTION ABC News Albania
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albuk.dyndns.tv%3a1935/albuk/albuk.stream/playlist.m3u8:Alb UK TV
@@ -53,6 +53,8 @@
 #DESCRIPTION Elrodi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.131%3a1935/live/euroAl/chunklist.m3u8:EUROAL
 #DESCRIPTION EUROAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live:Euronews Albania
+#DESCRIPTION Euronews Albania
 #SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//93.157.62.180/Fox/mpegts:Fox Albania
 #DESCRIPTION Fox Albania
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.154.252.221%3a8000/play/a002/index.m3u8:Frame TV

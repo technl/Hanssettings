@@ -13,6 +13,10 @@
 #DESCRIPTION Conexion Sobre Natural (religie - Aruba)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//coolaruba.com%3a8000/stream;;audio.mp3?hash=1533912919957:Cool FM 98,9 (Oranjestad,  Aruba)
 #DESCRIPTION Cool FM 98,9 (Oranjestad,  Aruba)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live2.tensila.com/cool-v-1.arubara/hls/live/mystream.m3u8:Cool FM 98,9 (Oranjestad,  Aruba) - cam
+#DESCRIPTION Cool FM 98,9 (Oranjestad,  Aruba) - cam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live2.tensila.com/cool-v-1.arubara/hls/master.m3u8:Cool FM 98,9 (Oranjestad,  Aruba) - cam
+#DESCRIPTION Cool FM 98,9 (Oranjestad,  Aruba) - cam
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.245.51.58%3a9876/stream:Dushi FM (Aruba)
 #DESCRIPTION Dushi FM (Aruba)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//96.31.83.86%3a8134/stream:Easy FM Aruba (Oranjestad, Aruba)

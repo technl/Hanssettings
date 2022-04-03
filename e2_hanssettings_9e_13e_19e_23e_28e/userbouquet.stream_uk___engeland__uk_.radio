@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:43e:0:0:0:0:0:0:0:
+#SERVICE 1:64:432:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:43f:0:0:0:0:0:0:0:
+#SERVICE 1:64:433:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -1231,6 +1231,8 @@
 #DESCRIPTION Sami Swoi Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rss-streaming.co.uk%3a8038/;:Sandgrounder Radio (Southport, Engeland, UK)
 #DESCRIPTION Sandgrounder Radio (Southport, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/scalahigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1647092347&aw_0_1st.bauer_loggedin=false :Scala Radio
+#DESCRIPTION Scala Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scout.radio/play/podcast-download/4689/live.mp3:Scout Radio
 #DESCRIPTION Scout Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.voscast.com%3a8074/;:Scream London (Londen, Engeland, UK)
@@ -1591,6 +1593,8 @@
 #DESCRIPTION XS Manchester 106.1 (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//freeuk8.listen2myradio.com%3a33806/;:Xtra Big City Dance 24/7 (Engeland, UK)
 #DESCRIPTION Xtra Big City Dance 24/7 (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ec1.yesstreaming.net%3a1615/stream:YO1 (York)
+#DESCRIPTION YO1 (York)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fg4.sad.ukrd.com/yorkshirecoast?ts=1592748772&norequeue=1:Yorkshire Coast Radio (Scarborough, Engeland, UK)
 #DESCRIPTION Yorkshire Coast Radio (Scarborough, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.stormtx.co.uk%3a8010/stream:Your FM (Stockport, Engeland, UK)

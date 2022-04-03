@@ -1,5 +1,5 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:412:0:0:0:0:0:0:0:
+#SERVICE 1:64:407:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
@@ -507,13 +507,15 @@
 #DESCRIPTION X-Ray FM (Torhout)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.ritcs.be/stream1:XL Air (Brussel - ma t/m do 17-00.00)
 #DESCRIPTION XL Air (Brussel - ma t/m do 17-00.00)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/yolo-life-is-like-a-dance:YOLO (Bree, Kinrooi)
+#DESCRIPTION YOLO (Bree, Kinrooi)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3:Zen FM (Gent)
 #DESCRIPTION Zen FM (Gent)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.movemedia.be/zoe128:Zoe FM (Voorkempen - Zoersel)
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:413:0:0:0:0:0:0:0:
+#SERVICE 1:64:408:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)
@@ -569,7 +571,7 @@
 #DESCRIPTION Métropole (Arlon – Aarlen)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//mixxfm.ice.infomaniak.ch/mixxfm-192.mp3:Mixx FM (Charleroi)
 #DESCRIPTION Mixx FM (Charleroi)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mustfm.ice.infomaniak.ch/mustfm-192.mp3:Must FM (Namen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rcs.revma.com/cm96zpmrmm0uv:Must FM (Namen)
 #DESCRIPTION Must FM (Namen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//8500.go2stream.fr%3a8000/stream:Néo Radio (Frasnes-lez-Buissenal)
 #DESCRIPTION Néo Radio (Frasnes-lez-Buissenal)

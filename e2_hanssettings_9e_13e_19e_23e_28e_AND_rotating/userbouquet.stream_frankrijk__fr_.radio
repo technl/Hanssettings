@@ -179,16 +179,24 @@
 #DESCRIPTION FG
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fip-webradio6.mp3:FIP Autour  des disquaires
 #DESCRIPTION FIP Autour  des disquaires
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fip-webradio3.mp3:FIP autour du groove
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast.radiofrance.fr/fipgroove-midfi.mp3:FIP autour du groove
 #DESCRIPTION FIP autour du groove
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fip-webradio2.mp3:FIP autour du jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.radiofrance.fr/fipjazz-midfi.mp3:FIP autour du jazz
 #DESCRIPTION FIP autour du jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fip-webradio4.mp3:FIP autour du monde
 #DESCRIPTION FIP autour du monde
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fip-webradio1.mp3:FIP autour du rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.radiofrance.fr/fiprock-midfi.mp3:FIP autour du rock
 #DESCRIPTION FIP autour du rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fip-webradio5.mp3:FIP tout nouveau, tout FIP
-#DESCRIPTION FIP tout nouveau, tout FIP
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.radiofrance.fr/fipelectro-midfi.mp3:FIP Electro
+#DESCRIPTION FIP Electro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.radiofrance.fr/fipworld-midfi.mp3:FIP Monde
+#DESCRIPTION FIP Monde
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.radiofrance.fr/fippop-midfi.mp3:FIP Pop
+#DESCRIPTION FIP Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.radiofrance.fr/fipreggae-midfi.mp3:FIP Reggae
+#DESCRIPTION FIP Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.radiofrance.fr/fipnouveautes-midfi.mp3:FIP tout nouveau
+#DESCRIPTION FIP tout nouveau
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fipbordeaux-midfi.mp3:FIP à Bordeaux
 #DESCRIPTION FIP à Bordeaux
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fipnantes-midfi.mp3:FIP à Nantes
@@ -325,7 +333,7 @@
 #DESCRIPTION Fun Radio Chill
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/fun/202/index.m3u8:Fun Radio Fitness
 #DESCRIPTION Fun Radio Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-96000/index.m3u8:FUN Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/index.m3u8:FUN Radio
 #DESCRIPTION FUN Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/funalpes.mp3:FunAlpes Radio
 #DESCRIPTION FunAlpes Radio
@@ -859,8 +867,6 @@
 #DESCRIPTION Radio Tonic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rbg.online.radiobreizh.bzh/live.mp3:RBG - Radio Bro Gwened (Gwened, Bretagne)
 #DESCRIPTION RBG - Radio Bro Gwened (Gwened, Bretagne)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-35400/playlist.m3u8:RFM
-#DESCRIPTION RFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr11.mp3:RFM 100 %25 Français
 #DESCRIPTION RFM 100 % Français
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr12.mp3:RFM 100%25 New Wave
@@ -893,6 +899,8 @@
 #DESCRIPTION RFM Pop Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr13.mp3:RFM Slow
 #DESCRIPTION RFM Slow
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-35400/playlist.m3u8:RFM
+#DESCRIPTION RFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/rhonefm-high.aac:Rhone FM AAC+
 #DESCRIPTION Rhone FM AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/rhonefm-low.mp3:Rhone FM
@@ -921,9 +929,11 @@
 #DESCRIPTION RTL 100% Grosses Têtes
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/201/index.m3u8:RTL 100%25 Hits
 #DESCRIPTION RTL 100% Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/index.m3u8:RTL 2
+#DESCRIPTION RTL 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlreunion.ice.infomaniak.ch%3a80/rtlreunion-64.aac:RTL Reunion (Frankrijk, DROM)
 #DESCRIPTION RTL Reunion (Frankrijk, DROM)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radio.rtl.fr/rtl-1-44-128:RTL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/index.m3u8:RTL
 #DESCRIPTION RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl2/201/index.m3u8:RTL2 Acoustique
 #DESCRIPTION RTL2 Acoustique

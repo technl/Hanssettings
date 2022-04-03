@@ -1,6 +1,6 @@
 #NAME Stream Roemenië (RO)
-#SERVICE 1:64:1a79:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:1b1d:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.89.204.105%3a8001/play/a005/index.m3u8:TVR 1
 #DESCRIPTION TVR 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/tvr1_hd_live/smil%3atvr1_hd_live.smil/playlist.m3u8:TVR 1 (deels Geoblocking)
@@ -67,14 +67,16 @@
 #DESCRIPTION Smart TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.supertv.ro%3a1935/live/smil%3ahls.smil/chunklist_w917877548_b6128000_slro.m3u8:Super TV HD
 #DESCRIPTION Super TV HD
-#SERVICE 1:64:1a7a:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:1b1e:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8:1 Music Channel Romania
 #DESCRIPTION 1 Music Channel Romania
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8:A7 TV 
 #DESCRIPTION A7 TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.1616.ro%3a1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=:Agro TV
 #DESCRIPTION Agro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/ahitv/playlist.m3u8:Ahi TV Kirsehir
+#DESCRIPTION Ahi TV Kirsehir
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s5.alfaomega.tv%3a1935/alfaomega/smil%3aalfaomegatv/chunklist_w369018163_b780800.m3u8:Alfa Omega TV
 #DESCRIPTION Alfa Omega TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.4.14.12%3a9999/btvsvlive/btvsvlive/playlist.m3u8:Bucovina TV Suceava 
@@ -107,6 +109,8 @@
 #DESCRIPTION Intermedia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge8.imcr.ro%3a1359/live/myStream/chunklist_w1815731607.m3u8:ITV HD
 #DESCRIPTION ITV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83:Kiss TV
+#DESCRIPTION Kiss TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d79ae45bc63b.streamlock.net/Liratv/Liratv/chunklist_w98704019.m3u8:Lira TV
 #DESCRIPTION Lira TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.1616.ro%3a1945/look/livestream/playlist.m3u8:LookSport 1

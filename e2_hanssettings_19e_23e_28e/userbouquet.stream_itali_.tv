@@ -1,5 +1,5 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:2e5:0:0:0:0:0:0:0:
+#SERVICE 1:64:2de:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ce:RAI 1
 #DESCRIPTION RAI 1
@@ -59,7 +59,7 @@
 #DESCRIPTION La 7d
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8:Sky TG 24
 #DESCRIPTION Sky TG 24
-#SERVICE 1:64:2e6:0:0:0:0:0:0:0:
+#SERVICE 1:64:2df:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
@@ -365,6 +365,8 @@
 #DESCRIPTION Radio Mambo TV
 #SERVICE 4097:0:1:41:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8:Radio Number One TV
 #DESCRIPTION Radio Number One TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8:Radio Piter Pan TV
+#DESCRIPTION Radio Piter Pan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8:Radio Radicale TV
 #DESCRIPTION Radio Radicale TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8:Radio Radio TV

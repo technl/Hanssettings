@@ -1,6 +1,6 @@
 #NAME Stream Maleisië (MY)
-#SERVICE 1:64:36f:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:363:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/TV1/playlist.m3u8:RTM 1
 #DESCRIPTION RTM 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/TV2/playlist.m3u8:RTM 2
@@ -33,8 +33,8 @@
 #DESCRIPTION Astro Shuang Xing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Xiaotaiyang/playlist.m3u8:Astro Xiao Tai Yang
 #DESCRIPTION Astro Xiao Tai Yang
-#SERVICE 1:64:370:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:364:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Bernama/playlist.m3u8:Bernama TV
 #DESCRIPTION Bernama TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Boo/playlist.m3u8:Boo
@@ -49,6 +49,10 @@
 #DESCRIPTION HBO Malaysia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h08/01.m3u8:K+
 #DESCRIPTION K+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCtSeMwydGw6mDSZaIUaJ5bw/live:Kerala Vision News
+#DESCRIPTION Kerala Vision News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCwXrBBZnIh2ER4lal6WbAHw/live:Mathrubhumi News
+#DESCRIPTION Mathrubhumi News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h19/01.m3u8:Sony Gem
 #DESCRIPTION Sony Gem
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h143/01.m3u8:Sony One

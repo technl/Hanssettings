@@ -77,3 +77,9 @@
 #DESCRIPTION RTL Radio Letzebuerg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/radio/rtltodayradio/chunklist.m3u8:RTL Today Radio
 #DESCRIPTION RTL Today Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rtl.lu/live/hls/radio/rtltodayradio:RTL Today Radio (in HLS)
+#DESCRIPTION RTL Today Radio (in HLS)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.rtl.lu/rtltodayradio:RTL Today Radio (in mp3)
+#DESCRIPTION RTL Today Radio (in mp3)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/rtltodayradio/smil%3artltodayradio.smil/1080p.m3u8:RTL Today Radio studiocam
+#DESCRIPTION RTL Today Radio studiocam

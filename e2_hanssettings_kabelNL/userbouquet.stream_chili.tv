@@ -1,5 +1,5 @@
 #NAME Stream Chili (CL)
-#SERVICE 1:64:1d3:0:0:0:0:0:0:0:
+#SERVICE 1:64:1ce:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8:Canal 2
 #DESCRIPTION Canal 2
@@ -11,14 +11,16 @@
 #DESCRIPTION Canal 9 Bio-Bio Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.101.216.211%3a8000/play/ca13:Canal 13
 #DESCRIPTION Canal 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live:T13
+#DESCRIPTION T13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8:Canal 21
 #DESCRIPTION Canal 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/canal/canal/playlist.m3u8:Canal 29
 #DESCRIPTION Canal 29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eae379fb77bb.streamlock.net/eduardo555/eduardo555/playlist.m3u8:Canal 33 HD
 #DESCRIPTION Canal 33 HD
-#SERVICE 1:64:1d4:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
+#SERVICE 1:64:1cf:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8:ADN Radio TV
 #DESCRIPTION ADN Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8:AE Radio Concepcion
@@ -47,8 +49,8 @@
 #DESCRIPTION ITV Patagonia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server1.oklanet.cl%3a1936/maximavideo1/maximavideo1/playlist.m3u8:Maxima
 #DESCRIPTION Maxima
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8:Pauta
-#DESCRIPTION Pauta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tvcontrolcp.com%3a1936/guzman/guzman/playlist.m3u8:Ñuble RTV (Chillán)
+#DESCRIPTION Ñuble RTV (Chillán)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.elpinguino.com%3a1935/live/pinguinotv/chunklist_.m3u8:Pingüino TV
 #DESCRIPTION Pingüino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.portalfoxmix.club%3a1935/portalfoxmix/portalfoxmix/playlist.m3u8:Portalfoxmix

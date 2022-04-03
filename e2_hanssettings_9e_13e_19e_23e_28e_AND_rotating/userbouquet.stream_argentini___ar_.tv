@@ -1,5 +1,5 @@
 #NAME Stream Argentinië (AR)
-#SERVICE 1:64:1a0e:0:0:0:0:0:0:0:
+#SERVICE 1:64:1ab2:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/679322/events/3782013/live.m3u8:Canal 2 Jujuy
 #DESCRIPTION Canal 2 Jujuy
@@ -69,8 +69,8 @@
 #DESCRIPTION Canal 26
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8:Canal 26 -2-
 #DESCRIPTION Canal 26 -2-
-#SERVICE 1:64:1a0f:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
+#SERVICE 1:64:1ab3:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59c5c86e10038.streamlock.net%3a1935/6605140/6605140/playlist.m3u8:24/7 Canal de Noticias
 #DESCRIPTION 24/7 Canal de Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//g1.vxral-hor.transport.edge-access.net/a15/ngrp%3aa24-100056_all/a24-100056.m3u8:A24
@@ -101,6 +101,8 @@
 #DESCRIPTION Eco TV Tandil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//elonceovh.elonce.com/hls/live.m3u8:ElOnce
 #DESCRIPTION ElOnce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live:Encuentro
+#DESCRIPTION Encuentro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8:Holvoet TV
 #DESCRIPTION Holvoet TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming02.arcast.com.ar%3a1935/la90fm/la90fm/chunklist_w379053794.m3u8:La 90 FM
@@ -155,3 +157,5 @@
 #DESCRIPTION UniRioTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.arcast.com.ar%3a1935/utntv/utntv/playlist.m3u8:UTNtv Rio Gallegos
 #DESCRIPTION UTNtv Rio Gallegos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live:Vorterix
+#DESCRIPTION Vorterix

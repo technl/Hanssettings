@@ -3,9 +3,11 @@
 #DESCRIPTION Dacwa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//goliveafrica.media%3a9998/live/6045ccbac3484/index.m3u8:GBS TV
 #DESCRIPTION GBS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.57.103.162%3a1935/live/_definst_/kasstv/chunklist_.m3u8:Kass TV
-#DESCRIPTION Kass TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//dai.ly/x6ol8sj:Kameme TV
 #DESCRIPTION Kameme TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.57.103.162%3a1935/live/_definst_/kasstv/chunklist_.m3u8:Kass TV
+#DESCRIPTION Kass TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/user/standardgroupkenya/live:KTN News
+#DESCRIPTION KTN News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//goliveafrica.media%3a9998/live/6049f726546e1/index.m3u8:UTV
 #DESCRIPTION UTV

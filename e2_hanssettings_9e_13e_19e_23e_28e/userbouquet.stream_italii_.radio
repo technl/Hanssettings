@@ -1,5 +1,5 @@
 #NAME Stream Italiië (IT)
-#SERVICE 1:64:4d5:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ca:0:0:0:0:0:0:0:
 #DESCRIPTION ++RAI++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:RAI Radio 1
 #DESCRIPTION RAI Radio 1
@@ -31,7 +31,7 @@
 #DESCRIPTION Rai Radio Techetè
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it/4.mp3:Rai Radio Tutta Italiana
 #DESCRIPTION Rai Radio Tutta Italiana
-#SERVICE 1:64:4d6:0:0:0:0:0:0:0:
+#SERVICE 1:64:4cb:0:0:0:0:0:0:0:
 #DESCRIPTION ++festival San Remo, themazenders++
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um049.mp3:Music Radio Festival Le Canzoni Vincitrici
 #DESCRIPTION Music Radio Festival Le Canzoni Vincitrici
@@ -41,7 +41,7 @@
 #DESCRIPTION United Music Radio Festival 1951-1999
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um112.mp3:United Music Radio Festival 2000-2021
 #DESCRIPTION United Music Radio Festival 2000-2021
-#SERVICE 1:64:4d7:0:0:0:0:0:0:0:
+#SERVICE 1:64:4cc:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
 #DESCRIPTION 105 Indie
@@ -119,9 +119,7 @@
 #DESCRIPTION RADIO 105 Hip Hop RnB
 #SERVICE 4097:0:2:91:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/Radio105.mp3:RADIO 105
 #DESCRIPTION RADIO 105
-#SERVICE 4097:0:2:119:0:0:0:0:0:0:http%3a//str04.fluidstream.net/radio19.mp3:RADIO 19 GENOVA
-#DESCRIPTION RADIO 19 GENOVA
-#SERVICE 4097:0:2:195:0:0:0:0:0:0:http%3a//ice12.fluidstream.net/radio19.aac?type=.flv&amp;r=285507:RADIO 19
+#SERVICE 4097:0:2:195:0:0:0:0:0:0:https%3a//rn1.fluidstream.eu/radio19.mp3:RADIO 19
 #DESCRIPTION RADIO 19
 #SERVICE 4097:0:2:419:0:0:0:0:0:0:http%3a//sr1.inmystream.info%3a8333/;:RADIO 2 BASILICATA
 #DESCRIPTION RADIO 2 BASILICATA
@@ -253,8 +251,8 @@
 #DESCRIPTION RADIO INCONTRO DONNA
 #SERVICE 4097:0:2:185:0:0:0:0:0:0:https%3a//radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/index_1_a-p.m3u8?sd=10&rebase=on:Radio Italia (Italië)
 #DESCRIPTION Radio Italia (Italië)
-#SERVICE 4097:0:2:185:0:0:0:0:0:0:http%3a//wma01.fluidstream.net%3a7140/;stream.nsv:RADIO ITALIA ANNI 60
-#DESCRIPTION RADIO ITALIA ANNI 60
+#SERVICE 4097:0:2:185:0:0:0:0:0:0:https%3a//str01.fluidstream.net/anni60.mp3:Radio Italia Anni 60 Trentino Alto Adige 
+#DESCRIPTION Radio Italia Anni 60 Trentino Alto Adige 
 #SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.radiojeans.net/rj_hiphop_rb:RADIO JEANS
 #DESCRIPTION RADIO JEANS
 #SERVICE 4097:0:2:379:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a9096/:RADIO JUKEBOX
@@ -463,8 +461,8 @@
 #DESCRIPTION RDT STATION
 #SERVICE 4097:0:2:109:0:0:0:0:0:0:http%3a//sr9.inmystream.info%3a8006:RIN RADIO ITALIA NETWORK
 #DESCRIPTION RIN RADIO ITALIA NETWORK
-#SERVICE 4097:0:2:25:0:0:0:0:0:0:http%3a//shoutcast.rtl.it%3a3010/:RTL 102.5
-#DESCRIPTION RTL 102.5
+#SERVICE 4097:0:2:25:0:0:0:0:0:0:http%3a//streamingv2.shoutcast.com/rtl-1025-news:RTL 102.5 News
+#DESCRIPTION RTL 102.5 News
 #SERVICE 4097:0:2:27:0:0:0:0:0:0:http%3a//shoutcast.rtl.it%3a3020/:RTL Best
 #DESCRIPTION RTL Best
 #SERVICE 4097:0:2:31:0:0:0:0:0:0:http%3a//shoutcast.rtl.it%3a3040/:RTL Groove

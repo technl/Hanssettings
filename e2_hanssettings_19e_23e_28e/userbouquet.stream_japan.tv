@@ -1,55 +1,83 @@
 #NAME Stream Japan (JP)
-#SERVICE 1:64:2e7:0:0:0:0:0:0:0:
+#SERVICE 1:64:2e0:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv2021.site%3a8080/9897876765/6576567/645:NHK HD
-#DESCRIPTION NHK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.tvfix.org/hls/nhke2.m3u8:NHK & NHKE
-#DESCRIPTION NHK & NHKE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.tvfix.org/hls/nhkg.m3u8:NHK & NHKG
-#DESCRIPTION NHK & NHKG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8:NHK Chinese Vision
-#DESCRIPTION NHK Chinese Vision
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhk1.mov3.co/hls/nhk.m3u8:NHK General TV
-#DESCRIPTION NHK General TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8:NHK World Japan
-#DESCRIPTION NHK World Japan
-#SERVICE 1:64:2e8:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//feed.play.mv/live/10005200/isU48qPZqV/master.m3u8:Animax Japan (Engelse ondertiteling)
-#DESCRIPTION Animax Japan (Engelse ondertiteling)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sub2.neetball.net/live/neet.m3u8:AT-X
-#DESCRIPTION AT-X
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00051/index.m3u8:BS-TBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00048/index.m3u8?type=jp:BS Asahi
+#DESCRIPTION BS Asahi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00049/index.m3u8?type=jp:BS Fuji TV
+#DESCRIPTION BS Fuji TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00047/index.m3u8?type=jp:BS Nippon TV
+#DESCRIPTION BS Nippon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00050/index.m3u8?type=jp:BS TV Tokyo
+#DESCRIPTION BS TV Tokyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00051/index.m3u8?type=jp:BS-TBS
 #DESCRIPTION BS-TBS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8:CGN TV Japan
-#DESCRIPTION CGN TV Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hlsok/j00011/index.m3u8:Family Gekijo
-#DESCRIPTION Family Gekijo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//host02.media-gather.jp/_media__mg00009kj5c_live/_definst_/1359071597_3874/chunklist_.m3u8:FM Hirakata TV
-#DESCRIPTION FM Hirakata TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fujitv1.mov3.co/hls/fujitv.m3u8:Fuji Television Network
 #DESCRIPTION Fuji Television Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//gemstv.wide-stream.net/gemstv01/_definst_/mp4%3agstv_1:GSTV
-#DESCRIPTION GSTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hamada.gaki-no-tsukai.eu%3a2087/hls/test.m3u8:GTN Typhome (Engelse ondertiteling)
-#DESCRIPTION GTN Typhome (Engelse ondertiteling)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/switcher/smil%3amcas8.smil/master.m3u8:Gunma TV
-#DESCRIPTION Gunma TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx_live_2/master.m3u8:MX Live
-#DESCRIPTION MX Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ntv1.mov3.co/hls/ntv.m3u8:Nippon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A/live:HTB News 24
+#DESCRIPTION HTB News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00038/index.m3u8?type=jp:MBS
+#DESCRIPTION MBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00037/index.m3u8?type=jp:NHK BS1
+#DESCRIPTION NHK BS1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00036/index.m3u8?type=jp:NHK BSP
+#DESCRIPTION NHK BSP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhk1.mov3.co/hls/nhk.m3u8:NHK G
+#DESCRIPTION NHK G
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00032/index.m3u8?type=jp:NHK G Osaka
+#DESCRIPTION NHK G Osaka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00033/index.m3u8?type=jp:NHK G Tokyo
+#DESCRIPTION NHK G Tokyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8:NHK World Japan
+#DESCRIPTION NHK World Japan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00004/index.m3u8?type=jp:Nippon TV
 #DESCRIPTION Nippon TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8:NJPW World
-#DESCRIPTION NJPW World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.news24.jp/livestream/index.m3u8:NTV News 24
 #DESCRIPTION NTV News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00031/index.m3u8?type=jp:TBS
+#DESCRIPTION TBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00014/index.m3u8?type=jp:TV Asahi
+#DESCRIPTION TV Asahi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00013/index.m3u8?type=jp:TV Osaka
+#DESCRIPTION TV Osaka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hlsok/j00012/index.m3u8?type=jp:TV Tokyo
+#DESCRIPTION TV Tokyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00012/index.m3u8?type=jp:TV Tokyo -2-
+#DESCRIPTION TV Tokyo -2-
+#SERVICE 1:64:2e1:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige zenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live:All Nippon News Network
+#DESCRIPTION All Nippon News Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sub2.neetball.net/live/neet.m3u8:AT-X
+#DESCRIPTION AT-X
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hamada.gaki-no-tsukai.eu%3a2087/hls/test.m3u8:GTN Typhome
+#DESCRIPTION GTN Typhome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/switcher/smil%3amcas8.smil/master.m3u8:Gunma TV
+#DESCRIPTION Gunma TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00042/index.m3u8?type=jp:Japan Sports 1
+#DESCRIPTION Japan Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00041/index.m3u8?type=jp:Japan Sports 2
+#DESCRIPTION Japan Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00040/index.m3u8?type=jp:Japan Sports 3
+#DESCRIPTION Japan Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00039/index.m3u8?type=jp:Japan Sports 4
+#DESCRIPTION Japan Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00006/index.m3u8?type=jp:Kansai TV
+#DESCRIPTION Kansai TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx_live_2/master.m3u8:MX Live
+#DESCRIPTION MX Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8:NJPW World
+#DESCRIPTION NJPW World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live1.qvc.jp/iPhone/1501/1501.m3u8:QVC Japan
 #DESCRIPTION QVC Japan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream3.shopch.jp/HLS/master.m3u8:Shop Channel
 #DESCRIPTION Shop Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tbs.mov3.co/hls/tbs.m3u8:TBS TV
-#DESCRIPTION TBS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/mcas/smil%3amx1_prod.smil/master.m3u8:Tokyo MX1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00019/index.m3u8?type=jp:Star 1
+#DESCRIPTION Star 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00018/index.m3u8?type=jp:Star 2
+#DESCRIPTION Star 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00017/index.m3u8?type=jp:Star 3
+#DESCRIPTION Star 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hlsok/j00030/index.m3u8?type=jp:Tokyo MX1
 #DESCRIPTION Tokyo MX1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/mcas/smil%3amx2_prod.smil/master.m3u8:Tokyo MX2
 #DESCRIPTION Tokyo MX2

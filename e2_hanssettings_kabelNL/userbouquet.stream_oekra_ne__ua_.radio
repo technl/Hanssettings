@@ -1,5 +1,251 @@
 #NAME Stream Oekraïne (UA)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.nrcu.gov.ua%3a8443/ur2-mp3:UA
-#DESCRIPTION UA
+#SERVICE 1:64:354:0:0:0:0:0:0:0:
+#DESCRIPTION ++publieke zenders UA++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/tysafm-mp3:Tisa FM
+#DESCRIPTION Tisa FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-mp3:UR 1
+#DESCRIPTION UR 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.nrcu.gov.ua%3a8443/ur2-mp3:UR 2
+#DESCRIPTION UR 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur3-mp3:UR 3 Cultuur
+#DESCRIPTION UR 3 Cultuur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur4-mp3:UR 4 World Radio Service
+#DESCRIPTION UR 4 World Radio Service
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-krr-mp3:UR Dnipro (Kryvyi Rih)
+#DESCRIPTION UR Dnipro (Kryvyi Rih)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-dp-mp3:UR Dnipro
+#DESCRIPTION UR Dnipro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-if-mp3:UR Karpaten
+#DESCRIPTION UR Karpaten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-kyiv-mp3:UR Kiev
+#DESCRIPTION UR Kiev
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-cr-mp3:UR Krim
+#DESCRIPTION UR Krim
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-kr-mp3:UR Kropyvnytskyi
+#DESCRIPTION UR Kropyvnytskyi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-pl-mp3:UR Ltava
+#DESCRIPTION UR Ltava
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-vo-mp3:UR Lutsk
+#DESCRIPTION UR Lutsk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-lv-mp3:UR Lviv
+#DESCRIPTION UR Lviv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-mk-mp3:UR Mykolajiv
+#DESCRIPTION UR Mykolajiv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-od-mp3:UR Odessa
+#DESCRIPTION UR Odessa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-uz-mp3:UR Oezjhorod
+#DESCRIPTION UR Oezjhorod
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-km-mp3:UR Podillya-Centrum
+#DESCRIPTION UR Podillya-Centrum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-rv-mp3:UR Rivne
+#DESCRIPTION UR Rivne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-ck-mp3:UR Ros
+#DESCRIPTION UR Ros
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/golosdonbasu-mp3:UR Stem van Donbass
+#DESCRIPTION UR Stem van Donbass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-te-mp3:UR Ternopil
+#DESCRIPTION UR Ternopil
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-cv-mp3:UR Tsjernivtsi
+#DESCRIPTION UR Tsjernivtsi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-cn-mp3:UR Tsjernivtsi-golf
+#DESCRIPTION UR Tsjernivtsi-golf
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-vn-mp3:UR Vinnitsa
+#DESCRIPTION UR Vinnitsa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/ur1-zt-mp3:UR Zjytomyr-golf
+#DESCRIPTION UR Zjytomyr-golf
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/zwave-mp3:Zjytomyr Wave Radio
+#DESCRIPTION Zjytomyr Wave Radio
+#SERVICE 1:64:355:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige zenders++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.26.132.129%3a8000/ArmyFM:Army FM
+#DESCRIPTION Army FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.avers.pp.ua/hls_radio/efir.m3u8:Avers FM
+#DESCRIPTION Avers FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua/avtoradio.aac:Avtor Radio
+#DESCRIPTION Avtor Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.blits-fm.ua/stream320:Blits FM
+#DESCRIPTION Blits FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.bloger.fm%3a8004/blogerfm-128:Bloger FM
+#DESCRIPTION Bloger FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//complex.in.ua/b128:Boguslav FM
+#DESCRIPTION Boguslav FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//complex.in.ua/buskfm:Busk FM
+#DESCRIPTION Busk FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online.classicradio.com.ua/ClassicRadio:Classic Radio
+#DESCRIPTION Classic Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.204.133.21%3a8000/stream:Dani FM
+#DESCRIPTION Dani FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua/djfm96.aac:DJ FM
+#DESCRIPTION DJ FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//45.129.97.52%3a8000/eradio:E Radio
+#DESCRIPTION E Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//134.249.140.134%3a8000/;stream.nsv:Eko Radio
+#DESCRIPTION Eko Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online.radioplayer.ua/FlashRadio:Flash Radio
+#DESCRIPTION Flash Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream320.galychyna.fm/live:FM Halychyna
+#DESCRIPTION FM Halychyna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.gorodfm.com.ua/OnAir:Gorod FM
+#DESCRIPTION Gorod FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.radioplayer.ua/GuliayRadio:Guliay Radio
+#DESCRIPTION Guliay Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//node-19.zeno.fm/nkeaps48xg0uv?zs=NCV1ztC1Q4ObLa7-dfX8VA&rj-tok=AAABf5MBeE0AiD3xv6QVrlg0fQ&rj-ttl=5:Happy Radio
+#DESCRIPTION Happy Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online.hitfm.ua/HitFM:Hit FM
+#DESCRIPTION Hit FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.218.212.67%3a8000/stream-ps-hi:Hromadsʹke radio
+#DESCRIPTION Hromadsʹke radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen1.myradio24.com/3979:Impul's FM
+#DESCRIPTION Impul's FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//main.inf.fm%3a9101/;stream.nsv:Informator FM
+#DESCRIPTION Informator FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua/jamfm:Jam FM
+#DESCRIPTION Jam FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//node-27.zeno.fm/s12evbr1h2zuv?zs=TwgKYcLQTfKq9j3cjuQMAQ&rj-tok=AAABf5L4wz4AwrOGQhNHM0a_5Q&rj-ttl=5:Jet FM
+#DESCRIPTION Jet FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.182.22.130%3a8000/Streamogg:Kalush FM
+#DESCRIPTION Kalush FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen6.myradio24.com/82192:Kexxx FM Kiev
+#DESCRIPTION Kexxx FM Kiev
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online.kissfm.ua/KissFM:Kiss FM
+#DESCRIPTION Kiss FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//krainafm.com.ua/xml/news.mp3:Krayina FM (Kraina FM) News
+#DESCRIPTION Krayina FM (Kraina FM) News
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.65.246.132%3a8000/kiev128s.mp3:Krayina FM (Kraina FM)
+#DESCRIPTION Krayina FM (Kraina FM)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cdn.vsnw.net%3a8943/kyiv_fm_128k:Kyiv FM
+#DESCRIPTION Kyiv FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lada.fm%3a8000/radio1:Lada FM
+#DESCRIPTION Lada FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua/loungefm:Lounge FM
+#DESCRIPTION Lounge FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.lviv.fm%3a8443/lviv.fm:Lviv FM
+#DESCRIPTION Lviv FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamvideol1.luxnet.ua/luxstudio/smil%3aluxstudio.stream.smil/chunklist_b96000_ao_slukr.m3u8:Lyuks FM
+#DESCRIPTION Lyuks FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online.melodiafm.ua/MelodiaFM:Melodia FM
+#DESCRIPTION Melodia FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.mfm.ua/online128:MFM
+#DESCRIPTION MFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online.nasheradio.ua/NasheRadio:Nashe Radio
+#DESCRIPTION Nashe Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.93.125.230%3a8000/newday.mp3:New Day FM
+#DESCRIPTION New Day FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.bumblebeefm.ru%3a8000/newday:Novyy Den'
+#DESCRIPTION Novyy Den'
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua/nrj:NRJ
+#DESCRIPTION NRJ
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//node-03.zeno.fm/swyh8kws108uv?zs=QC1HHVjNRVC-rb0xgQc7RA&rj-tok=AAABf5M3ybAAtpjJNpRoK4gxSQ&rj-ttl=5:Pershe Libertariansʹke
+#DESCRIPTION Pershe Libertariansʹke
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.65.245.34%3a8000/rock:POK (Rock)
+#DESCRIPTION POK (Rock)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.80.190.246%3a8000/PRK128:Prosto Radyo
+#DESCRIPTION Prosto Radyo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a8298/stream:Radio 7
+#DESCRIPTION Radio 7
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.205.207.98%3a8081/acc.mp3:Radio 10
+#DESCRIPTION Radio 10
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio-bar.com.ua%3a8000/radiobar:Radio Bar
+#DESCRIPTION Radio Bar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//100.cv.ua%3a8443/play:Radio Bukwave FM
+#DESCRIPTION Radio Bukwave FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.65.245.34%3a8000/kiev:Radio ES
+#DESCRIPTION Radio ES
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.radioplayer.ua/RadioGold:Radio Gold
+#DESCRIPTION Radio Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.radioplayer.ua/RadioIndieUA:Radio Indie UA
+#DESCRIPTION Radio Indie UA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.radioplayer.ua/RadioItaliana:Radio Italiana
+#DESCRIPTION Radio Italiana
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fm.1tvcrimea.ru%3a19000/stream.mp3:Radio Krym 100.1
+#DESCRIPTION Radio Krym 100.1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.globalic.com.ua%3a1405/stream:Radio M
+#DESCRIPTION Radio M
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.67.8.31%3a8000/stream:Radio Mahnit
+#DESCRIPTION Radio Mahnit
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamvideo.luxnet.ua/maximum/smil%3amaximum.stream.smil/chunklist_b96000_ao_slukr.m3u8:Radio Maksymum
+#DESCRIPTION Radio Maksymum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.80.190.247%3a8001/NRK128:Radio Miami
+#DESCRIPTION Radio Miami
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//82.207.109.117%3a8000:Radio Nezalezhnist
+#DESCRIPTION Radio Nezalezhnist
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamvideol1.luxnet.ua/nostalgi/nostalgi.stream/chunklist.m3u8:Radio Nostalgi
+#DESCRIPTION Radio Nostalgi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online-radio.nv.ua/radionv.mp3:Radio NV
+#DESCRIPTION Radio NV
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio-stream-2.obozrevatel.com/radio.oboz128.mp3:Radio Obozrevatelʹ - Radyo Oboz
+#DESCRIPTION Radio Obozrevatelʹ - Radyo Oboz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua/radiopyatnica:Radio Pyatnica
+#DESCRIPTION Radio Pyatnica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//194.44.230.64%3a8000/liveradio.mp3:Radio Radekhiv
+#DESCRIPTION Radio Radekhiv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online.radiorelax.ua/RadioRelax:Radio Relax
+#DESCRIPTION Radio Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online.radioroks.ua/RadioROKS:Radio Roks
+#DESCRIPTION Radio Roks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.182.22.130%3a8000/shans_kalush:Radio SHANS
+#DESCRIPTION Radio SHANS
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioskovoroda.com%3a8000/radioskovoroda:Radio Skovoroda
+#DESCRIPTION Radio Skovoroda
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//riavoice.gcdn.co/voicesym:Radio Sputnik v Krymu
+#DESCRIPTION Radio Sputnik v Krymu
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.urg.ua/radio-stilnoe:Radio Stilnoe
+#DESCRIPTION Radio Stilnoe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.ntktv.ua%3a8000/syaivo.mp3:Radio Syaivo
+#DESCRIPTION Radio Syaivo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast-xtvmedia.ml%3a8000/RadioSymphonia.mp3:Radio Symphonia
+#DESCRIPTION Radio Symphonia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online2.radiotrek.rv.ua%3a8000/AAC+_64:Radio Trek
+#DESCRIPTION Radio Trek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen6.myradio24.com/50904:Radio Ukrayinsʹka Pisnya
+#DESCRIPTION Radio Ukrayinsʹka Pisnya
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.218.214.3%3a8000/una:Radio UNA
+#DESCRIPTION Radio UNA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.122.207.161%3a8000/Vezha_320.nsv:Radio Vezha
+#DESCRIPTION Radio Vezha
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast-xtvmedia.ml%3a8000/radiowandafm_hq.mp3:Radio Wanda FM
+#DESCRIPTION Radio Wanda FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//193.93.15.14%3a44808/radio:ReLIFE FM
+#DESCRIPTION ReLIFE FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua/retro:Retro FM
+#DESCRIPTION Retro FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukraudio.com%3a8000/channel1:Rodynne Radio
+#DESCRIPTION Rodynne Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua/shanson320:Shanson
+#DESCRIPTION Shanson
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.sokal.lviv.ua%3a8000/sokalfm96.mp3:Sokal FM
+#DESCRIPTION Sokal FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.fm.stryi.com%3a8000/stryi-fm_mp3:Stryi FM
+#DESCRIPTION Stryi FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunfmua.com%3a8000/liveplus:Sun FM
+#DESCRIPTION Sun FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//134.249.255.98%3a8000/terra:Terra FM
+#DESCRIPTION Terra FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.topradio.in.ua/topradio.mp3:Top Radio
+#DESCRIPTION Top Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//complex.in.ua/tvoeRadio:Tvoe Radio FM
+#DESCRIPTION Tvoe Radio FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.uafm.org%3a9001/uafm:UA FM
+#DESCRIPTION UA FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//193.169.80.7%3a8001/efir:UKH Radio
+#DESCRIPTION UKH Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.xtvplay.pp.ua%3a8000/UKRNR.mp3:Ukrayinsʹke Narodne Radio
+#DESCRIPTION Ukrayinsʹke Narodne Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.nrcu.gov.ua%3a8000/ur1-mp3-m:Ukrayinsʹke Radio
+#DESCRIPTION Ukrayinsʹke Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast108372.customer.uar.net/vgolos64:Vholos FM
+#DESCRIPTION Vholos FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.freeradio.com.ua/stream.mp3:Vilʹne Radio
+#DESCRIPTION Vilʹne Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c28.radioboss.fm%3a8346/stream:Yantarne FM
+#DESCRIPTION Yantarne FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.115.224.146%3a8000/evropa:Yevropa Plyus Dnepr
+#DESCRIPTION Yevropa Plyus Dnepr
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.234.148.51%3a8000/;stream.mp3?39:Zakarpattya FM
+#DESCRIPTION Zakarpattya FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/zwave-mp3-m:Zhytomyrsʹka Khvylya
+#DESCRIPTION Zhytomyrsʹka Khvylya
+#SERVICE 1:64:356:0:0:0:0:0:0:0:
+#DESCRIPTION ++via Polen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rs201-krk.rmfstream.pl/RMFUKRAINA:RMF Ukraina
 #DESCRIPTION RMF Ukraina

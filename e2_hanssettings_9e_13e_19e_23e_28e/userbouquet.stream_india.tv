@@ -245,6 +245,8 @@
 #DESCRIPTION Manoranjan Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mntv.livebox.co.in/mntvhls/mntv.m3u8:Marutam TV
 #DESCRIPTION Marutam TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8:Mathrubhumi News
+#DESCRIPTION Mathrubhumi News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.smartstream.video%3a1935/mhonemusic/mhonemusic/playlist.m3u8:MH1 Music
 #DESCRIPTION MH1 Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.smartstream.video%3a1935/mhonenews/mhonenews/playlist.m3u8:MH1 Prime
@@ -425,7 +427,7 @@
 #DESCRIPTION Sri Sankara
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8:Steelbird Music
 #DESCRIPTION Steelbird Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//query-streamlink.herokuapp.com/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCEoaVUxpFlmCxwRBy9yhb1Q/live:Studio One Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0oh/index.m3u8:Studio One Plus
 #DESCRIPTION Studio One Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//query-streamlink.herokuapp.com/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live:Studio One Yuva
 #DESCRIPTION Studio One Yuva

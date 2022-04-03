@@ -1,5 +1,5 @@
 #NAME Stream Peru (PE)
-#SERVICE 1:64:2d2:0:0:0:0:0:0:0:
+#SERVICE 1:64:2cc:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh4.iblups.com/hls/irtp.m3u8:TV Peru Internacional
 #DESCRIPTION TV Peru Internacional
@@ -7,14 +7,14 @@
 #DESCRIPTION TV Peru Nacional
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8:TV Perú Noticias
 #DESCRIPTION TV Perú Noticias
-#SERVICE 1:64:2d3:0:0:0:0:0:0:0:
+#SERVICE 1:64:2cd:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8:América TV
 #DESCRIPTION América TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8:Andes Televisión
 #DESCRIPTION Andes Televisión
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a554/iptvantares/liveantarestv/playlist.m3u8:Antares TV
-#DESCRIPTION Antares TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvantares/liveantarestv/playlist.m3u8:Antares Televisión
+#DESCRIPTION Antares Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.lhdserver.es/asiritv/live.m3u8:Asiri TV
 #DESCRIPTION Asiri TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/atmtv/index.m3u8:ATM Televisión
@@ -77,7 +77,7 @@
 #DESCRIPTION DMJ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cu.onliv3.com/livevd1/user2.m3u8:Exitosa TV
 #DESCRIPTION Exitosa TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.sradiotv.com%3a1936/8038/8038/playlist.m3u8:Fuego TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.108.83.142%3a8000/play/a003/index.m3u8:Fuego TV
 #DESCRIPTION Fuego TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.sradiotv.com%3a1936/8018/8018/playlist.m3u8:Full TV
 #DESCRIPTION Full TV
@@ -133,13 +133,15 @@
 #DESCRIPTION MTV Más Ancash
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8:Nacional TV
 #DESCRIPTION Nacional TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/nuestratvlima:Nuestra TV (Lima)
+#DESCRIPTION Nuestra TV (Lima)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8:OK TeVe
 #DESCRIPTION OK TeVe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8:Onda Digital
 #DESCRIPTION Onda Digital
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvovacion1/liveovacion1tv/playlist.m3u8:Ovación TV
 #DESCRIPTION Ovación TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/PanamericanaPTV:Panamericana TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnhd.iblups.com/hls/ptv2.m3u8:Panamericana TV
 #DESCRIPTION Panamericana TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil%3aPC.smil/playlist.m3u8:Pax TV
 #DESCRIPTION Pax TV
@@ -181,6 +183,10 @@
 #DESCRIPTION Radio Inka Abancay
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8:Radio TV Oriente
 #DESCRIPTION Radio TV Oriente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA/live:Radio Uno (Tacna)
+#DESCRIPTION Radio Uno (Tacna)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvrcrperu/livercrperutv/playlist.m3u8:Red de Comunicación Regional
+#DESCRIPTION Red de Comunicación Regional
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/retroplustv/retroplustv/playlist.m3u8:Retro Plus 1
 #DESCRIPTION Retro Plus 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/retroplussenal2/retroplussenal2/playlist.m3u8:Retro Plus 2
@@ -191,6 +197,8 @@
 #DESCRIPTION Ribereña TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8:RN Televisión
 #DESCRIPTION RN Televisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/selvatvmux/index.m3u8:RSelvaTV
+#DESCRIPTION RSelvaTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7.innovatestream.pe%3a19360/rtvtotal/rtvtotal.m3u8:RTV Total
 #DESCRIPTION RTV Total
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/sanjuaneramux/playlist.m3u8:Sanjuanera TV
@@ -261,6 +269,8 @@
 #DESCRIPTION Visión TV Musica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8:VNP
 #DESCRIPTION VNP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca.inka.net.pe/wtv/wtv/index.m3u8:Wtv (Bambamarca) 
+#DESCRIPTION Wtv (Bambamarca) 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/WillaxTV:Willax
 #DESCRIPTION Willax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8:X TV

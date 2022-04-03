@@ -1,5 +1,5 @@
 #NAME Stream China (CN)
-#SERVICE 1:64:1d5:0:0:0:0:0:0:0:
+#SERVICE 1:64:1d0:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225618/index.m3u8:CCTV 1 HD
 #DESCRIPTION CCTV 1 HD
@@ -41,7 +41,7 @@
 #DESCRIPTION CETV 2
 #SERVICE 4097:0:1:1b02:3fe:1:c00000:0:0:0:http%3a//news.cgtn.com/resource/live/english/cgtn-news.m3u8:CGTN
 #DESCRIPTION CGTN
-#SERVICE 1:64:1d6:0:0:0:0:0:0:0:
+#SERVICE 1:64:1d1:0:0:0:0:0:0:0:
 #DESCRIPTION ++landelijk++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8:Asian American Television - AAT TV
 #DESCRIPTION Asian American Television - AAT TV
@@ -133,7 +133,7 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//seb.sason.top/sc/ztxw_fhd.m3u8:Zhongtian News
 #DESCRIPTION Zhongtian News
-#SERVICE 1:64:1d7:0:0:0:0:0:0:0:
+#SERVICE 1:64:1d2:0:0:0:0:0:0:0:
 #DESCRIPTION ++regionaal++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8:Bazhong Comprehensive
 #DESCRIPTION Bazhong Comprehensive
@@ -241,6 +241,8 @@
 #DESCRIPTION Lu'an News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.china-latv.com/channel2/sd/live.m3u8:Lu'an Public
 #DESCRIPTION Lu'an Public
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/mmzh/playlist.m3u8:Màomíng Zònghé
+#DESCRIPTION Màomíng Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.826pc.com/mytv/live.php?id=2:Mianyang City Science and Technology
 #DESCRIPTION Mianyang City Science and Technology
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.826pc.com/mytv/live.php?id=4:Mianyang City General
@@ -343,6 +345,8 @@
 #DESCRIPTION Pingxiang Public
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.pxitv.com%3a8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8:Pingxiang News Comprehensive
 #DESCRIPTION Pingxiang News Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.207.29.195%3a1935/app_2/_definst_/ls_25.stream/playlist.m3u8:Qíjiāng Zònghé
+#DESCRIPTION Qíjiāng Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.smntv.cn/smtv1/sd/live.m3u8:Sanming News Comprehensive
 #DESCRIPTION Sanming News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.smntv.cn/smtv2/sd/live.m3u8:Sanming Public Channel
@@ -417,6 +421,8 @@
 #DESCRIPTION Yizhang Social Legal System
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/yfzh/sd/live.m3u8:Yunfu Comprehensive
 #DESCRIPTION Yunfu Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.zhystv.com/yset/sd/live.m3u8:Yúshù Zònghé
+#DESCRIPTION Yúshù Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//202.168.164.38%3a8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8:Zengcheng Comprehensive
 #DESCRIPTION Zengcheng Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.zjjrtv.com/zjjtv1/hd/live.m3u8:Zhangjiajie 1
@@ -425,10 +431,12 @@
 #DESCRIPTION Zhangjiajie 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.zjjrtv.com/zjjtv2/hd/live.m3u8:Zhangjiajie 3
 #DESCRIPTION Zhangjiajie 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/zjzh/playlist.m3u8:Zhànjiāng Zònghé
+#DESCRIPTION Zhànjiāng Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8:Zhangpu News
 #DESCRIPTION Zhangpu News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/zjzh/sd/live.m3u8:Zhanjiang Comprehensive
-#DESCRIPTION Zhanjiang Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8:Zhāngzhōu Xīnwén Zònghé
+#DESCRIPTION Zhāngzhōu Xīnwén Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.zkxww.com%3a1935/live4/mp4%3ach4-500k/playlist.m3u8:Zhoukou Graphic Information
 #DESCRIPTION Zhoukou Graphic Information
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.zkxww.com%3a1935/live3/mp4%3ach3-500k/playlist.m3u8:Zhoukou Science, Education and Culture

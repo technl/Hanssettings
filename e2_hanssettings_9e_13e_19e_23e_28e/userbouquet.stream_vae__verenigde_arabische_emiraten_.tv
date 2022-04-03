@@ -1,10 +1,26 @@
 #NAME Stream VAE (Verenigde Arabische Emiraten - AE)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7207:Alerth (VAE - Arabisch)
 #DESCRIPTION Alerth (VAE - Arabisch)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn3.cdn.mangomolo.com/emarat/smil%3aemarat.stream.smil/playlist.m3u8:Abu Dhabi Emirates
+#DESCRIPTION Abu Dhabi Emirates
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:Al Arabiya
+#DESCRIPTION Al Arabiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8:Al Arabiya Al Hadath
+#DESCRIPTION Al Arabiya Al Hadath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8:Al Qamar TV (360p)
+#DESCRIPTION Al Qamar TV (360p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8:Al Sharqiya Min Kabla (1080p)
+#DESCRIPTION Al Sharqiya Min Kabla (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8:Al Wousta TV (1080p)
+#DESCRIPTION Al Wousta TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8:Al Yaum TV (720p)
+#DESCRIPTION Al Yaum TV (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.live.net.sa%3a1935/live/ayat/chunklist_w1642024713.m3u8:AE - Ayat (VAE - Arabisch)
 #DESCRIPTION AE - Ayat (VAE - Arabisch)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/chunklist_w1019651088.m3u8:GEM Comedy (VAE)
 #DESCRIPTION GEM Comedy (VAE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8:Hawas TV
+#DESCRIPTION Hawas TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8:MBC
 #DESCRIPTION MBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8:MBC 2 HD
@@ -23,11 +39,29 @@
 #DESCRIPTION MBC Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8:MBC Drama PLUS
 #DESCRIPTION MBC Drama PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8:MBC Iraq
+#DESCRIPTION MBC Iraq
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8:MBC Max
 #DESCRIPTION MBC Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8:Sharjah TV
+#DESCRIPTION Sharjah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8:Sharjah 2
+#DESCRIPTION Sharjah 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8:Sharjah Sports TV
+#DESCRIPTION Sharjah Sports TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8:Wanasah
 #DESCRIPTION Wanasah
-#SERVICE 1:64:3a5:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_action/index.m3u8:Weyyak Action
+#DESCRIPTION Weyyak Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_drama/index.m3u8:Weyyak Drama
+#DESCRIPTION Weyyak Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_mix/index.m3u8:Weyyak Mix
+#DESCRIPTION Weyyak Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8:Weyyak Nawaem
+#DESCRIPTION Weyyak Nawaem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/yastv/smil%3ayastv.stream.smil/playlist.m3u8:Yas
+#DESCRIPTION Yas
+#SERVICE 1:64:39c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Abu Dhabi = hoofdstad VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/adtv/smil%3aadtv.stream.smil/playlist.m3u8:Abu Dhabi Aloula
 #DESCRIPTION Abu Dhabi Aloula
@@ -77,12 +111,18 @@
 #DESCRIPTION Rotana Masrya (Abu Dhabi - Arabisch)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8:Rotana Music
 #DESCRIPTION Rotana Music
-#SERVICE 1:64:3a6:0:0:0:0:0:0:0:
+#SERVICE 1:64:39d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Dubai, stad in VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8:3eesh Al Aan TV
 #DESCRIPTION 3eesh Al Aan TV
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione:Dubai One (Dubai - Arabisch)
 #DESCRIPTION Dubai One (Dubai - Arabisch)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmitnthvll.cdn.mangomolo.com/dubaisports/smil%3adubaisports.smil/index.m3u8:Dubai Sports 1
+#DESCRIPTION Dubai Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/index.m3u8:Dubai Sports 2
+#DESCRIPTION Dubai Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil%3adubaisportshd5.smil/index.m3u8:Dubai Sports 3
+#DESCRIPTION Dubai Sports 3
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv:Dubai TV (Dubai - Arabisch)
 #DESCRIPTION Dubai TV (Dubai - Arabisch)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/chunklist_b1600000.m3u8?fluxustv.m3u8:Dubai Racing

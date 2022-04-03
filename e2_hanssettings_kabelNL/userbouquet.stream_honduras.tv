@@ -1,6 +1,8 @@
 #NAME Stream Honduras (HN)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8:Campus TV
 #DESCRIPTION Campus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvdatta.com%3a3392/live/portaldelsurhnlive.m3u8:Canal Uno de Chuloteca
+#DESCRIPTION Canal Uno de Chuloteca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-04.ix7.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4xN_2WXoxjFwew3IT0Rkvck)/dm/3/x836wjl/s/live-2.m3u8#cell=lcore:CCI Channel
 #DESCRIPTION CCI Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//audiotvserver.net%3a1935/livemedia/cholusat/chunklist_w1981374450.m3u8:Cholusat Sur 36

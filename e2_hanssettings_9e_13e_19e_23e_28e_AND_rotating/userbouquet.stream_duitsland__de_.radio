@@ -1,8 +1,26 @@
 #NAME Stream Duitsland (DE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-dab-mp3-mq:80s80s DAB+
+#DESCRIPTION 80s80s DAB+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-soul-mp3-hq:80s80s Funk & Soul
+#DESCRIPTION 80s80s Funk & Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-ndw-mp3-hq:80s80s In The Mix
+#DESCRIPTION 80s80s In The Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-italohits-mp3-hq:80s80s Italo Disco
+#DESCRIPTION 80s80s Italo Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-love-mp3-hq:80s80s Love
+#DESCRIPTION 80s80s Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-mv-mp3-hq:80s80s MV
+#DESCRIPTION 80s80s MV
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-ndw-mp3-hq:80s80s NDW (Neue Deutsche Welle)
+#DESCRIPTION 80s80s NDW (Neue Deutsche Welle)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-neo-mp3-hq:80s80s Neo
+#DESCRIPTION 80s80s Neo
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//rockantenne-hh-stream04.radiohost.de/917xfm_mp3-192:917xfm (Hamburg)
 #DESCRIPTION 917xfm (Hamburg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.live-sm.absolutradio.de/absolut-bella/stream/mp3:Absolut Radio -  Bella
 #DESCRIPTION Absolut Radio -  Bella
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.live-sm.absolutradio.de/absolut-germany:Absolut Radio -  Germany
+#DESCRIPTION Absolut Radio -  Germany
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge04.live-sm.absolutradio.de/absolut-hot/stream/mp3:Absolut Radio -  Hot
 #DESCRIPTION Absolut Radio -  Hot
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n06.radiojar.com/5bdyvqa9bm8uv:Absolut Radio -  Love Songs
@@ -213,6 +231,30 @@
 #DESCRIPTION Ballermann-Radio-Country
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//top100.bmr-radio.com%3a8000:Ballermann-Radio-Top100
 #DESCRIPTION Ballermann-Radio-Top100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-live-mp3-hq:Barbaradio
+#DESCRIPTION Barbaradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-gerliebeslieder-mp3-hq:Barbaradio Deutsche Liebeslieder
+#DESCRIPTION Barbaradio Deutsche Liebeslieder
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-deutschpop-mp3-hq:Barbaradio Deutschpop
+#DESCRIPTION Barbaradio Deutschpop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-dinnerparty-mp3-hq:Barbaradio Dinnerparty
+#DESCRIPTION Barbaradio Dinnerparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-ihsport-mp3-hq:Barbaradio Ich hasse Sport
+#DESCRIPTION Barbaradio Ich hasse Sport
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-bumsmusik-mp3-hq:Barbaradio KnickKnack
+#DESCRIPTION Barbaradio KnickKnack
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-maedels-mp3-hq:Barbaradio Mädelsabend
+#DESCRIPTION Barbaradio Mädelsabend
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-putzfimmel-mp3-hq:Barbaradio Putzfimmel
+#DESCRIPTION Barbaradio Putzfimmel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-schmusekatze-mp3-hq:Barbaradio Schmusekatze
+#DESCRIPTION Barbaradio Schmusekatze
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-esc-mp3-hq:Barbaradio Song Contest
+#DESCRIPTION Barbaradio Song Contest
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-sonntag-mp3-hq:Barbaradio Sonntag Morgen
+#DESCRIPTION Barbaradio Sonntag Morgen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-strandbar-mp3-hq:Barbaradio Strandbar
+#DESCRIPTION Barbaradio Strandbar
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/franken/mp3/mid:Bayern 1 - Franken
 #DESCRIPTION Bayern 1 - Franken
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid:Bayern 1 - Mainfranken
@@ -235,18 +277,6 @@
 #DESCRIPTION BB Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//beatdownx.stream.laut.fm/beatdownx?t302=2017-12-02_23-00-21&uuid=b42fd430-7410-4f0c-adfa-0f45bc2e425f:beatdownx
 #DESCRIPTION beatdownx
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//46.105.118.14%3a8800:BeMyRadio (Duitsland)
-#DESCRIPTION BeMyRadio (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//46.105.118.14%3a15500:BeMyRadio 80s (Duitsland)
-#DESCRIPTION BeMyRadio 80s (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//46.105.118.14%3a7010:BeMyRadio Country (Duitsland)
-#DESCRIPTION BeMyRadio Country (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//46.105.118.14%3a17500:BeMyRadio Dance (Duitsland)
-#DESCRIPTION BeMyRadio Dance (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//46.105.118.14%3a13500:BeMyRadio Top 40 (Duitsland)
-#DESCRIPTION BeMyRadio Top 40 (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//46.105.118.14%3a25500:BeMyRadio Xmas (Duitsland)
-#DESCRIPTION BeMyRadio Xmas (Duitsland)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.berliner-rundfunk.de/brf/mp3-128/internetradio/:Berliner Rundfunk
 #DESCRIPTION Berliner Rundfunk
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streaming.fueralle.org%3a8000/bermudafunk.ogg:bermudafunk
@@ -511,13 +541,11 @@
 #DESCRIPTION detektorfm-Musik (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dtfm-s01.peoplemesh.net%3a8000/livestream.mp3:detektorfm-Wort (Duitsland)
 #DESCRIPTION detektorfm-Wort (Duitsland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//st04.dlf.de/dlf/04/64/mp3/stream.mp3:Deutschlandfunk Dokumente und Debatten (Duitsland)
-#DESCRIPTION Deutschlandfunk Dokumente und Debatten (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRDzH:Deutschlandfunk Kultur (klassiek - Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3:Deutschlandfunk Kultur (klassiek - Duitsland)
 #DESCRIPTION Deutschlandfunk Kultur (klassiek - Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRDCk:Deutschlandfunk Nova
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3:Deutschlandfunk Nova
 #DESCRIPTION Deutschlandfunk Nova
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//addrad.io/4WRDwp:Deutschlandfunk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3:Deutschlandfunk
 #DESCRIPTION Deutschlandfunk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3:Die neue 107.7 (Duitsland)
 #DESCRIPTION Die neue 107.7 (Duitsland)
@@ -965,6 +993,16 @@
 #DESCRIPTION Hitradio Bodensee 1 (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//88.198.175.30%3a5066:Hitradio Bodensee 2 (Duitsland)
 #DESCRIPTION Hitradio Bodensee 2 (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitradio-ohr.de/80er-mp3:Hitradio Ohr 80er
+#DESCRIPTION Hitradio Ohr 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitradio-ohr.de/90er-mp3:Hitradio Ohr 90er
+#DESCRIPTION Hitradio Ohr 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitradio-ohr.de/beatbox-mp3:Hitradio Ohr Beatbox
+#DESCRIPTION Hitradio Ohr Beatbox
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitradio-ohr.de/spezial-mp3:Hitradio Ohr Spezial
+#DESCRIPTION Hitradio Ohr Spezial
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitradio-ohr.de/hitradio_ohr:Hitradio Ohr
+#DESCRIPTION Hitradio Ohr
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.98.217.63%3a23434/:Hitradio-4-you
 #DESCRIPTION Hitradio-4-you
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//str0.creacast.com/hitradio_ohr:Hitradio-Ohr
@@ -2351,6 +2389,8 @@
 #DESCRIPTION Radio Freies Bayern
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.77.76.9%3a8000:Radio Fresh 80s
 #DESCRIPTION Radio Fresh 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiofd.ice.infomaniak.ch/radiofd.mp3:Radio Freundes-Dienst
+#DESCRIPTION Radio Freundes-Dienst
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radio-gaarden.de%3a8000/stream.mp3:Radio Gaarden
 #DESCRIPTION Radio Gaarden
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rs21.stream24.net%3a80/stream:Radio Galaxy - 1047
@@ -3411,10 +3451,8 @@
 #DESCRIPTION Schwany-9-Schlager Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.schwarze-welle.de%3a7500:Schwarze-Welle
 #DESCRIPTION Schwarze-Welle
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str0.creacast.com%3a80/hitradio_ohr_thema1:Schwarzwald Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.schwarzwaldradio.com/schwarzwaldradio:Schwarzwald Radio
 #DESCRIPTION Schwarzwald Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str0.creacast.com%3a80/hitradio_ohr_thema1:Schwarzwaldradio
-#DESCRIPTION Schwarzwaldradio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secondstream.de%3a10001/:Second Stream
 #DESCRIPTION Second Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutfm.stream.laut.fm/shout_fm?pl=m3u&t302=2017-12-15_18-20-18&uuid=665f670d-e9c9-4e19-a8f0-7614aa4dab5f:Shout-FM-Mainstream

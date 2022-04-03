@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:1b28:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bbe:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -53,7 +53,7 @@
 #DESCRIPTION VRT Studio Brussel UNTZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs-high.mp3:VRT Studio Brussel Vuurland
 #DESCRIPTION VRT Studio Brussel Vuurland
-#SERVICE 1:64:1b29:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bbf:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -81,10 +81,10 @@
 #DESCRIPTION BRUZZ
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8000/c-dance:C-Dance (BE)
 #DESCRIPTION C-Dance (BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.crooze.eu/proxy/cecret/stream:Cecret
+#DESCRIPTION Cecret
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream2.intronic.nl%3a80/citymusic:City-Music (België)
 #DESCRIPTION City-Music (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.clubfmserver.be%3a8000/classix.mp3:Classix
-#DESCRIPTION Classix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8092/country:Countryradio Musicbox4friends 
 #DESCRIPTION Countryradio Musicbox4friends 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.22.102.11%3a8000/stream128:Crooze FM Radio - original (België)
@@ -253,6 +253,8 @@
 #DESCRIPTION Q-Foute Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMAXIMUMHITS.mp3:Q-Maximum Hits
 #DESCRIPTION Q-Maximum Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QSPECIAL.mp3:Qmusic Moose Bar 
+#DESCRIPTION Qmusic Moose Bar 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QNEDERLANDSTALIG.mp3:Q-Nederlandstalig
 #DESCRIPTION Q-Nederlandstalig
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMAXIMUMHITS.mp3:Q-Non Stop
@@ -401,7 +403,7 @@
 #DESCRIPTION ZZOldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK
 #DESCRIPTION ZZROCK
-#SERVICE 1:64:1b2a:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bc0:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -575,8 +577,6 @@
 #DESCRIPTION Radio Emotion (België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//5.39.80.55%3a8000/live:RQC = Radio Qui Chifel (BE-Wallonië)
 #DESCRIPTION RQC = Radio Qui Chifel (BE-Wallonië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/classic21-64.aac:RTBF Classic 21
-#DESCRIPTION RTBF Classic 21
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/classic21-128.mp3:RTBF Classic 21
 #DESCRIPTION RTBF Classic 21
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-c21-60-128.mp3:RTBF Classic-21 60s
@@ -589,6 +589,8 @@
 #DESCRIPTION RTBF Classic-21 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-c21-blues-128.mp3:RTBF Classic-21 Blues
 #DESCRIPTION RTBF Classic-21 Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-c21-live-128.mp3:RTBF Classic 21 Live 
+#DESCRIPTION RTBF Classic 21 Live 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-c21-metal-128.mp3:RTBF Classic 21 Metal
 #DESCRIPTION RTBF Classic 21 Metal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-eventradio-128.mp3:RTBF Classic 21 Noir Jaune Rock (Wallonië - BE)
@@ -599,6 +601,8 @@
 #DESCRIPTION RTBF Classic 21 Route 66
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-c21-soul-128.mp3:RTBF Classic 21 Soul-Power
 #DESCRIPTION RTBF Classic 21 Soul-Power
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radios.rtbf.be/wr-c21-underground-128.mp3:RTBF Classic 21 Underground
+#DESCRIPTION RTBF Classic 21 Underground
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/rtbfi-64.aac:RTBF International
 #DESCRIPTION RTBF International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/musiclab-64.aac:RTBF Jam (BE) in aac
@@ -627,6 +631,8 @@
 #DESCRIPTION RTBF - Pure Like
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/tarmac-128.mp3:RTBF - Tarmac
 #DESCRIPTION RTBF - Tarmac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-poc-spot-128.mp3:RTBF - Ukraine
+#DESCRIPTION RTBF - Ukraine
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivaplus-64.aac:RTBF - Viva+ (BE) in aac
 #DESCRIPTION RTBF - Viva+ (BE) in aac
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivaplus-128.mp3:RTBF - Viva+ (BE) in mp3
@@ -657,7 +663,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:1b2b:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bc1:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -673,7 +679,7 @@
 #DESCRIPTION Radio Contact Ostbelgien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:1b2c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bc2:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio
