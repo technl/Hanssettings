@@ -1,5 +1,5 @@
 #NAME Stream Japan (JP)
-#SERVICE 1:64:33f:0:0:0:0:0:0:0:
+#SERVICE 1:64:34a:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00048/index.m3u8?type=jp:BS Asahi
 #DESCRIPTION BS Asahi
@@ -17,12 +17,14 @@
 #DESCRIPTION HTB News 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00038/index.m3u8?type=jp:MBS
 #DESCRIPTION MBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.110.27.87/mtnlive/720/playlist.m3u8:MTN
+#DESCRIPTION MTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00037/index.m3u8?type=jp:NHK BS1
 #DESCRIPTION NHK BS1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00036/index.m3u8?type=jp:NHK BSP
 #DESCRIPTION NHK BSP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhk1.mov3.co/hls/nhk.m3u8:NHK G
-#DESCRIPTION NHK G
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhk2.mov3.co/hls/nhk.m3u8:NHK General TV
+#DESCRIPTION NHK General TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00032/index.m3u8?type=jp:NHK G Osaka
 #DESCRIPTION NHK G Osaka
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00033/index.m3u8?type=jp:NHK G Tokyo
@@ -43,8 +45,8 @@
 #DESCRIPTION TV Tokyo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00012/index.m3u8?type=jp:TV Tokyo -2-
 #DESCRIPTION TV Tokyo -2-
-#SERVICE 1:64:340:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
+#SERVICE 1:64:34b:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live:All Nippon News Network
 #DESCRIPTION All Nippon News Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sub2.neetball.net/live/neet.m3u8:AT-X

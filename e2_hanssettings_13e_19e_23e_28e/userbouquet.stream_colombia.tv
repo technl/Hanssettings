@@ -5,6 +5,8 @@
 #DESCRIPTION Avivamiento TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video13.virtualtronics.com/streamer/canal2_720/index.m3u8:Canal 2
 #DESCRIPTION Canal 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8:Canal 9 Bío Bío Televisión
+#DESCRIPTION Canal 9 Bío Bío Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8:Canal Cali TV
 #DESCRIPTION Canal Cali TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/popular/popular/chunklist_.m3u8:Canal CNC HD
@@ -25,16 +27,24 @@
 #DESCRIPTION Canal CNC Pasto Son Popular
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil%3alive.smil/chunklist_b1500000.m3u8:Canal Institucional
 #DESCRIPTION Canal Institucional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hd.chileservidores.cl%3a1936/latina/latina/playlist.m3u8:Canal Latino
+#DESCRIPTION Canal Latino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//g2.vxral-slo.transport.edge-access.net/a11/ngrp%3acanal_luz01-100009_all/Playlist.m3u8:Canal Luz
 #DESCRIPTION Canal Luz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8:Cosmovision
 #DESCRIPTION Cosmovision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2.tustreaming.cl/culturaonline/index.m3u8:Cultura Online
+#DESCRIPTION Cultura Online
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc8/cnc8/chunklist_.m3u8:Galeras TV
 #DESCRIPTION Galeras TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/mundomas/mundomas/playlist.m3u8:Mundo Mas
 #DESCRIPTION Mundo Mas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8:Noticias Channel
 #DESCRIPTION Noticias Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited1-us.dps.live/radioztv/radioztv.smil/playlist.m3u8:Radio Zeta TV
+#DESCRIPTION Radio Zeta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8:RCN Mas
+#DESCRIPTION RCN Mas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8:Suram TV
 #DESCRIPTION Suram TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcs-live.apis.anvato.net/server/play/qRNQEfZ4Rd9snRxLQ/rendition.m3u8?track=video-4&anvsid=i176422952-n46e7e0cd-445a-46a5-a04a-1bcfb2574ea2&ts=&anvtrid=:Telecaribe

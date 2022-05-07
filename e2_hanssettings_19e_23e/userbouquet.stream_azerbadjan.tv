@@ -1,5 +1,5 @@
 #NAME Stream Azerbadjan (AZ)
-#SERVICE 1:64:275:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b1:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hasan.tvcag.live/str.yodacdn.net/arb/index.m3u8?token=5e1187fd88176de345e3cdeb5e06b1edaf1c826a-a638c51ea308530e7512e18fffc79d82-1645992959-1645982159:ARB
 #DESCRIPTION ARB
@@ -21,12 +21,14 @@
 #DESCRIPTION CBC -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8:Ictimai TV
 #DESCRIPTION Ictimai TV
-#SERVICE 1:64:276:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b2:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.53.162%3a1935/live/eltv/chunklist.m3u8:EL TV
 #DESCRIPTION EL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.netradyom.com%3a1935/live/interaz/playlist.m3u8:InterAz TV
 #DESCRIPTION InterAz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/arbkepez/live/index.m3u8:Kapaz TV
+#DESCRIPTION Kapaz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8:Mədəniyyət
 #DESCRIPTION Mədəniyyət
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qebele.tv/live/stream/index.m3u8:Qabala TV

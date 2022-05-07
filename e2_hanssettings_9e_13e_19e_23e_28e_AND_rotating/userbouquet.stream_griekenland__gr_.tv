@@ -1,22 +1,26 @@
 #NAME Stream Griekenland (GR)
-#SERVICE 1:64:1ae5:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders - Publiek -
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8000/play/s127:ERT 1 HD
+#SERVICE 1:64:11c7:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders publiek++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a018:ERT 1 HD
 #DESCRIPTION ERT 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8000/play/s129:ERT 1
-#DESCRIPTION ERT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8000/play/s132:ERT 2
-#DESCRIPTION ERT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8000/play/s126:ERT 3
-#DESCRIPTION ERT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a019:ERT 2 HD
+#DESCRIPTION ERT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a01a:ERT 3 HD
+#DESCRIPTION ERT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a01b:ERT News
+#DESCRIPTION ERT News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8:ERT World
 #DESCRIPTION ERT World
-#SERVICE 1:64:1ae6:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders - Commerciëel -
+#SERVICE 1:64:11c8:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders commerciëel++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eu2.tv4e.gr%3a554/live/smil%3amyStream.sdp.smil/playlist.m3u8:4E
 #DESCRIPTION 4E
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s120:ANT 1
-#DESCRIPTION ANT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a002:ALPHA HD
+#DESCRIPTION ALPHA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a004:ANT 1 HD
+#DESCRIPTION ANT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s120:ANT 1 -2-
+#DESCRIPTION ANT 1 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kontralive.siliconweb.com/live/kontratv/playlist.m3u8:Kontra 8
 #DESCRIPTION Kontra 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8001/play/s145:Kontra 8 -2-
@@ -33,28 +37,36 @@
 #DESCRIPTION Groovy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s121:m.TV
 #DESCRIPTION m.TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s119:Mega
-#DESCRIPTION Mega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a008:Mega HD
+#DESCRIPTION Mega HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s119:Mega -2-
+#DESCRIPTION Mega -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netmaxtv.com%3a8080/live/live/playlist.m3u8:Netmax TV
 #DESCRIPTION Netmax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s122:Open Beyond
-#DESCRIPTION Open Beyond
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a005:Open Beyond HD
+#DESCRIPTION Open Beyond HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s122:Open Beyond -2-
+#DESCRIPTION Open Beyond -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl2.sigmatv.com/hls/live.m3u8:Sigma TV
 #DESCRIPTION Sigma TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skai-live.siliconweb.com/media/cambria4/index.m3u8:Skai HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a003:Skai HD
 #DESCRIPTION Skai HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skai-live.siliconweb.com/media/cambria4/index.m3u8:Skai HD -2-
+#DESCRIPTION Skai HD -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a007:Star HD
+#DESCRIPTION Star HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s117:Star -2-
+#DESCRIPTION Star -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star -3- (deels Geoblocking)
+#DESCRIPTION Star -3- (deels Geoblocking)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s118:Skat
 #DESCRIPTION Skat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s117:Star
-#DESCRIPTION Star
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star -2- (deels Geoblocking)
-#DESCRIPTION Star -2- (deels Geoblocking)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//til.pp.ua%3a3424/live/superblive.m3u8:Super B
 #DESCRIPTION Super B
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.fm100.gr/hls/tv100/index.m3u8:TV 100
 #DESCRIPTION TV 100
-#SERVICE 1:64:1ae7:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:11c9:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/34100/playlist.m3u8:34100 TV
 #DESCRIPTION 34100 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8001/play/s146:A Epsilon
@@ -71,6 +83,8 @@
 #DESCRIPTION Alert
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8:Alfa
 #DESCRIPTION Alfa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu:Alfa Sport
+#DESCRIPTION Alfa Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie2/playlist.m3u8:APT
 #DESCRIPTION APT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/arttv/arttv/playlist.m3u8:ART TV
@@ -117,6 +131,8 @@
 #DESCRIPTION Epiloges TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/radioepirus/radioepirus/playlist.m3u8:Epirus TV1
 #DESCRIPTION Epirus TV1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdo3.alphaserver.gr%3a3466/stream/play.m3u8:Epsilon TV HD
+#DESCRIPTION Epsilon TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8001/play/s148:Extra Channel
 #DESCRIPTION Extra Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/faros2/playlist.m3u8:Faros TV 2
@@ -147,6 +163,8 @@
 #DESCRIPTION Ionian Channel 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8:Irida TV
 #DESCRIPTION Irida TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kontralive.siliconweb.com/live/kontratv/playlist.m3u8:Kontra Channel
+#DESCRIPTION Kontra Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/playlist.m3u8:KPHTH TV
 #DESCRIPTION KPHTH TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/chunklist_.m3u8:Kriti TV
@@ -223,10 +241,10 @@
 #DESCRIPTION TV Notos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.connect4.gr/live/tvrodopi/playlist.m3u8:TV Rodopi
 #DESCRIPTION TV Rodopi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu:Vouli TV
-#DESCRIPTION Vouli TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/parltv.sdp/chunklist.m3u8:Vouli Tileorasi TV
 #DESCRIPTION Vouli Tileorasi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu:Vouli TV (1080p)
+#DESCRIPTION Vouli TV (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/wixlar/wixlar/playlist.m3u8:Wixlar
 #DESCRIPTION Wixlar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cast-control.eu%3a443/xalastratv/xalastratv/playlist.m3u8:Xalastra TV

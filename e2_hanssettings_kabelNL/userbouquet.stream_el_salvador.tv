@@ -1,6 +1,6 @@
 #NAME Stream El Salvador (SV)
-#SERVICE 1:64:1da:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:1e1:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingcws40.com%3a1935/canaluno/videocanaluno/playlist.m3u8:Tele 1
 #DESCRIPTION Tele 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//can1.krakeniptv.com%3a25463/live/agape/CPLdE2EadX/1764.m3u8:Agape TV 8
@@ -11,13 +11,13 @@
 #DESCRIPTION Órbita TV Canal 25
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca9af4645e15.streamlock.net/canal33/smil%3acanal33.smil/playlist.m3u8:Canal 33
 #DESCRIPTION Canal 33
-#SERVICE 1:64:1db:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:1e2:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d32e2b9b7eed.streamlock.net%3a4443/ectv/ectv/chunklist_.m3u8:El Camino TV
 #DESCRIPTION El Camino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.info%3a1935/soltv/envivo/chunklist_.m3u8:El Sol de Morazán
 #DESCRIPTION El Sol de Morazán
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-15.viewer.dacast.com%3a80/i/dclive_1@397642/master.m3u8:Elim TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8:Elim TV
 #DESCRIPTION Elim TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//secure-video.tcsgo.com/tcshd/index.m3u8:TCS HD
 #DESCRIPTION TCS HD

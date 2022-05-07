@@ -1,16 +1,22 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:1f2:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f9:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ce:RAI 1
 #DESCRIPTION RAI 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8:RAI 1 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8020/play/a05b:RAI 1 -2-
 #DESCRIPTION RAI 1 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8:RAI 1 -3-
+#DESCRIPTION RAI 1 -3-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a08k:RAI 2
 #DESCRIPTION RAI 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8020/play/a05c:RAI 2 -2-
+#DESCRIPTION RAI 2 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cg:RAI 3
 #DESCRIPTION RAI 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8:RAI 3 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8020/play/a05d:RAI 3 -2-
 #DESCRIPTION RAI 3 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8:RAI 3 -3-
+#DESCRIPTION RAI 3 -3-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ci:RAI 4
 #DESCRIPTION RAI 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvtap.net%3a8081/live/it-rai5.stream/playlist.m3u8:RAI 5
@@ -31,36 +37,46 @@
 #DESCRIPTION RAI Storia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a01n:RAI Yoyo
 #DESCRIPTION RAI Yoyo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a2:Mediaset Italia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05f:Mediaset Italia 1
 #DESCRIPTION Mediaset Italia 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0aa:Mediaset Italia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05n:Mediaset Italia 2
 #DESCRIPTION Mediaset Italia 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a4:Mediaset Rete 4
 #DESCRIPTION Mediaset Rete 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a3:Mediaset Canale 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05h:Mediaset Rete 4 -2-
+#DESCRIPTION Mediaset Rete 4 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05g:Mediaset Canale 5
 #DESCRIPTION Mediaset Canale 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a7:Mediaset La 5
 #DESCRIPTION Mediaset La 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05k:Mediaset La 5 -2-
+#DESCRIPTION Mediaset La 5 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a1:Mediaset 20
 #DESCRIPTION Mediaset 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ad:Mediaset Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05e:Mediaset 20 -2-
+#DESCRIPTION Mediaset 20 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05r:Mediaset 27
+#DESCRIPTION Mediaset 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05q:Mediaset Focus
 #DESCRIPTION Mediaset Focus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09z:Mediaset Cine 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05b:Mediaset Cine 34
 #DESCRIPTION Mediaset Cine 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a9:Mediaset Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05m:Mediaset Extra
 #DESCRIPTION Mediaset Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0a5:Mediaset Iris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05i:Mediaset Iris
 #DESCRIPTION Mediaset Iris
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ab:Mediaset Top Crime
 #DESCRIPTION Mediaset Top Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8019/play/a05o:Mediaset Top Crime -2-
+#DESCRIPTION Mediaset Top Crime -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cq:La 7
 #DESCRIPTION La 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cp:La 7d
 #DESCRIPTION La 7d
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8:Sky TG 24
 #DESCRIPTION Sky TG 24
-#SERVICE 1:64:1f3:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
+#SERVICE 1:64:1fa:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8:111 TV
@@ -155,7 +171,9 @@
 #DESCRIPTION Cusano Italia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.88.73%3a1935/di_tv_90/live/playlist.m3u8:Di.TV 90
 #DESCRIPTION Di.TV 90
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on:Deejay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8:Deejay TV
+#DESCRIPTION Deejay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8:Deejay TV
 #DESCRIPTION Deejay TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.senecadot.com/live/flv%3atv7.sdp/chunklist_w132253248.m3u8:Digital TV 7 Benevento 
 #DESCRIPTION Digital TV 7 Benevento 
@@ -547,6 +565,8 @@
 #DESCRIPTION Tele Mantova
 #SERVICE 4097:0:1:8:609:9999:0:0:0:0:https%3a//playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8:Tele Mia 
 #DESCRIPTION Tele Mia 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/stream.m3u8:Tele Mia Extra
+#DESCRIPTION Tele Mia Extra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8:Tele Mistretta
 #DESCRIPTION Tele Mistretta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8:Tele Mistretta Radio

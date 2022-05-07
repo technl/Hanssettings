@@ -1,5 +1,5 @@
 #NAME Stream Argentinië (AR)
-#SERVICE 1:64:299:0:0:0:0:0:0:0:
+#SERVICE 1:64:2a5:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/679322/events/3782013/live.m3u8:Canal 2 Jujuy
 #DESCRIPTION Canal 2 Jujuy
@@ -69,7 +69,7 @@
 #DESCRIPTION Canal 26
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8:Canal 26 -2-
 #DESCRIPTION Canal 26 -2-
-#SERVICE 1:64:29a:0:0:0:0:0:0:0:
+#SERVICE 1:64:2a6:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59c5c86e10038.streamlock.net%3a1935/6605140/6605140/playlist.m3u8:24/7 Canal de Noticias
 #DESCRIPTION 24/7 Canal de Noticias
@@ -97,6 +97,8 @@
 #DESCRIPTION Ciudad TV Chaco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8:CPE TV
 #DESCRIPTION CPE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live:DeporTV
+#DESCRIPTION DeporTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediacontrol.jargon.com.ar%3a1935/elecotv/elecotv/playlist.m3u8:Eco TV Tandil
 #DESCRIPTION Eco TV Tandil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//elonceovh.elonce.com/hls/live.m3u8:ElOnce
@@ -135,12 +137,16 @@
 #DESCRIPTION Telediario TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8:Telefe Rosario
 #DESCRIPTION Telefe Rosario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videostream.shockmedia.com.ar%3a1936/telejunin/telejunin/playlist.m3u8:TeleJunín
+#DESCRIPTION TeleJunín
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/smil%3atlx.smil/master.m3u8:Telemax
 #DESCRIPTION Telemax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8:Telemax -2-
 #DESCRIPTION Telemax -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.coninfo.net%3a1935/previsoratv/live/playlist.m3u8:TeleNord Corrientes
 #DESCRIPTION TeleNord Corrientes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/ARBtv/teleplus/playlist.m3u8:Telered Television
+#DESCRIPTION Telered Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnnsanjuan.com%3a9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8:Telesol
 #DESCRIPTION Telesol
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.telpin.com.ar%3a1935/telpintv/ttv.stream/playlist.m3u8:Telpin TV

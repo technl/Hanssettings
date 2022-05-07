@@ -1,5 +1,5 @@
 #NAME Stream Mexico (MX)
-#SERVICE 1:64:204:0:0:0:0:0:0:0:
+#SERVICE 1:64:20b:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8:Azteca 1
 #DESCRIPTION Azteca 1
@@ -53,8 +53,12 @@
 #DESCRIPTION SET Televisión Canal 26.1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.240.210.28%3a1935/live/setpuebla/playlist.m3u8:SET Televisión Canal 26.2
 #DESCRIPTION SET Televisión Canal 26.2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8:Canal 28
+#DESCRIPTION Canal 28
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//60ed5b6d0df78.streamlock.net%3a1936/canal28/canal28/playlist.m3u8:TV Nuevo León 28
 #DESCRIPTION TV Nuevo León 28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/canal/canal/playlist.m3u8:Canal 29
+#DESCRIPTION Canal 29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8:Mexiquense TV 34.1
 #DESCRIPTION Mexiquense TV 34.1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8:AMX Noticias 34.2
@@ -69,7 +73,7 @@
 #DESCRIPTION UDG TV 44 Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8:Canal 45
 #DESCRIPTION Canal 45
-#SERVICE 1:64:205:0:0:0:0:0:0:0:
+#SERVICE 1:64:20c:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt2.m3u8:A+ TV
 #DESCRIPTION A+ TV
@@ -119,7 +123,7 @@
 #DESCRIPTION Miami TV Mexico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8:Milenio TV
 #DESCRIPTION Milenio TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8:Moovimex
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8:Moovimex
 #DESCRIPTION Moovimex
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8:MVM Noticias Oaxaca
 #DESCRIPTION MVM Noticias Oaxaca
@@ -127,6 +131,8 @@
 #DESCRIPTION Nuevo Tiempo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca3e84a76d30.streamlock.net/gpacifico3/smil%3aobregon.smil/playlist.m3u8:POP TV
 #DESCRIPTION POP TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eff35271151c.streamlock.net%3a1936/8032/8032/playlist.m3u8:Radio Ritmo FM
+#DESCRIPTION Radio Ritmo FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8172/8172/playlist.m3u8:RCG TV 1
 #DESCRIPTION RCG TV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5caf24a595d94.streamlock.net%3a1937/stream23/stream23/playlist.m3u8:RCG TV 2
@@ -135,6 +141,8 @@
 #DESCRIPTION RCG TV 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingcws20.com%3a1935/sqcs/videosqcs/playlist.m3u8:SQCS Chetumal
 #DESCRIPTION SQCS Chetumal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8:TeleFórmula
+#DESCRIPTION TeleFórmula
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/smil%3atlx.smil/master.m3u8:Telemax
 #DESCRIPTION Telemax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8:Teleritmo
@@ -147,6 +155,8 @@
 #DESCRIPTION Televisa Sonora
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live:Televisa Veracruz
 #DESCRIPTION Televisa Veracruz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vid.mega00.com%3a5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null:Tlaxcala Televisión
+#DESCRIPTION Tlaxcala Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingcws20.com%3a1935/tmtv/videotmtv/chunklist_w1798696550.m3u8:Transmedia TV Morelia
 #DESCRIPTION Transmedia TV Morelia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.oursnetworktv.com/latin/encoder55/playlist.m3u8:TV Guanajuato

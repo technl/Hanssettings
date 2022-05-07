@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:2b5:0:0:0:0:0:0:0:
+#SERVICE 1:64:2be:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:2b6:0:0:0:0:0:0:0:
+#SERVICE 1:64:2bf:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -185,6 +185,8 @@
 #DESCRIPTION Beat 103 Lancashire
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/122545/stream/162151:Beat Route Radio (Engeland, UK)
 #DESCRIPTION Beat Route Radio (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream6.hippynet.co.uk/proxy/bedford/stream:Bedford Radio (Bedford, Engeland)
+#DESCRIPTION Bedford Radio (Bedford, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s22.myradiostream.com%3a10234/;:Bedrock GOLD (Engeland, UK)
 #DESCRIPTION Bedrock GOLD (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s13.myradiostream.com/39078/listen.mp3:Bedrock Radio Goodmayes (Engeland, UK)
@@ -431,6 +433,8 @@
 #DESCRIPTION Fantastic Fifties (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc4.easywebcommunications.com%3a8181/;listen.pls:Fantastic Radio (Londen, Engeland, UK)
 #DESCRIPTION Fantastic Radio (Londen, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sc01.lemonhost.ovh/fantasyradio:Fantasy Radio (Devizes, Engeland)
+#DESCRIPTION Fantasy Radio (Devizes, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.firstfm.uk%3a8000/first1:First FM (Oxford, Engeland, UK)
 #DESCRIPTION First FM (Oxford, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n03.radiojar.com/vr2xvty6gxquv?rj-ttl=5&rj-tok=AAABcr1mZykA4CTWmOVBsBjAzg:Fist Full of Metal  (Durham, Engeland, UK)
@@ -467,6 +471,8 @@
 #DESCRIPTION Fresh  (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.friskradio.com%3a8443/stream1:Frisk Radio Northumberland
 #DESCRIPTION Frisk Radio Northumberland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast2.bargus.co.uk%3a9001/fromefm.mp3:Frome FM (Frome, Engeland)
+#DESCRIPTION Frome FM (Frome, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//carol.epichosts.co.uk%3a8200/live.mp3:Front FM  (Southend-on-Sea, Engeland, UK)
 #DESCRIPTION Front FM  (Southend-on-Sea, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-ads-03-gos2.sharp-stream.com/funkids.mp3:Fun Kids Radio (Engeland, UK)
@@ -513,6 +519,10 @@
 #DESCRIPTION Great Driffield Radio  (Driffield, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net2coventry.aac?direct=true&amsparams=playerid%253ABMUK_html5&aw_0_1st_bauer_listenerid=bff384f70c95acc596cb75d4f686eaf5&aw_0_1st_playerid=BMUK_html5&aw_0_1st_skey=15906&listenerid=bff384f70c95acc596cb75d4f686eaf5:Greatest Hits Coventry & Warwickshire (Engeland, UK)
 #DESCRIPTION Greatest Hits Coventry & Warwickshire (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-nation.sharp-stream.com/hull.mp3:Greatest Hits Hull & East Yorkshire
+#DESCRIPTION Greatest Hits Hull & East Yorkshire
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net2suffolk.aac:Greatest Hits Ipswich & Suffolk
+#DESCRIPTION Greatest Hits Ipswich & Suffolk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net2worcester.aac?amsparams=playerid%253ABMUK_html5&aw_0_1st.bauer_listenerid=bff384f70c95acc596cb75d4f686eaf5&aw_0_1st.playerid=BMUK_html5&direct=true&listenerid=bff384f70c95acc596cb75d4f686eaf5:Greatest Hits Hereford & Worcester (Engeland, UK)
 #DESCRIPTION Greatest Hits Hereford & Worcester (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/magic999.aac:Greatest Hits Lancashire (Engeland, UK)
@@ -523,6 +533,8 @@
 #DESCRIPTION Greatest Hits Manchester (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/magic1152n.aac:Greatest Hits North East (Engeland, UK)
 #DESCRIPTION Greatest Hits North East (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-nation.sharp-stream.com/samfmhampshire.aac:Greatest Hits South coast
+#DESCRIPTION Greatest Hits South coast
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/magicam.aac:Greatest Hits South Yorkshire (Engeland, UK)
 #DESCRIPTION Greatest Hits South Yorkshire (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net2westmidlands.aac:Greatest Hits West Midlands (Engeland, UK)
@@ -549,6 +561,8 @@
 #DESCRIPTION Halton Community Radio (Runcorn, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-edge-hz87v.ams.d.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b:Happy Hardcore Radio (Engeland, UK)
 #DESCRIPTION Happy Hardcore Radio (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playoutonestreaming.com/proxy/happy:Happy Radio (South Manchester + Cheshire)
+#DESCRIPTION Happy Radio (South Manchester + Cheshire)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//54.38.212.160%3a9300/stream:Harbour Radio (Great Yarmouth, Engeland, UK)
 #DESCRIPTION Harbour Radio (Great Yarmouth, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ec1.yesstreaming.net%3a1470/stream:Harrogate Community Radio (Engeland, UK)
@@ -657,6 +671,8 @@
 #DESCRIPTION Hits Radio London
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-al.planetradio.co.uk/hits.aac:Hits Radio Manchester
 #DESCRIPTION Hits Radio Manchester
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-nation.sharp-stream.com/breeze_soton.mp3:Hits Radio South coast
+#DESCRIPTION Hits Radio South coast
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4.radio.co/s5f2e8dc11/listen:Hive Radio UK (Manchester, Engeland, UK)
 #DESCRIPTION Hive Radio UK (Manchester, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s9.yesstreaming.net%3a17020/stream:Holiday Radio UK (Engeland, UK)
@@ -1463,6 +1479,8 @@
 #DESCRIPTION Times Radio (UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//uk1.streamingpulse.com%3a7038/stream:TLC Global Media Radio (Londen, Engeland, UK)
 #DESCRIPTION TLC Global Media Radio (Londen, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.broadcastradio.com%3a9132/tonefm:ToneFM (Taunton, Engeland)
+#DESCRIPTION ToneFM (Taunton, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.toohotradio.net/128:Too Hot Radio (Engeland, UK)
 #DESCRIPTION Too Hot Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s44.myradiostream.com%3a4012/;:Top 40 Radio (Engeland, UK)
@@ -1553,6 +1571,8 @@
 #DESCRIPTION Warminster Community Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/wave105.aac:Wave 105 (Engeland, UK)
 #DESCRIPTION Wave 105 (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.commedia.org.uk%3a8000/wcr.mp3:WCR FM (Warminster, Engeland)
+#DESCRIPTION WCR FM (Warminster, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/307019/stream/353876:WD Radio (Engeland, UK)
 #DESCRIPTION WD Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/we-get-lifted-radio:We Get Lifted Radio (Londen, Engeland, UK)

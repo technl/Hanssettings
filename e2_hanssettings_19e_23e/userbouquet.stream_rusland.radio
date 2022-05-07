@@ -21,6 +21,8 @@
 #DESCRIPTION Radio Mir
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//montecarlo.hostingradio.ru/montecarlo128.mp3:Radio Monte Carlo
 #DESCRIPTION Radio Monte Carlo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio-live-mg.rtr-vesti.ru/ice_hls/rrzonam_192aac/chunks.m3u8:Radio Rossii
+#DESCRIPTION Radio Rossii
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//89.208.99.16%3a8088/zvezda_128:Radio Zvezda
 #DESCRIPTION Radio Zvezda
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//retroserver.streamr.ru%3a8043/retro256.mp3:Retro FM

@@ -1,5 +1,5 @@
 #NAME Stream Chili (CL)
-#SERVICE 1:64:1ad3:0:0:0:0:0:0:0:
+#SERVICE 1:64:11b5:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8:Canal 2
 #DESCRIPTION Canal 2
@@ -19,7 +19,7 @@
 #DESCRIPTION Canal 29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eae379fb77bb.streamlock.net/eduardo555/eduardo555/playlist.m3u8:Canal 33 HD
 #DESCRIPTION Canal 33 HD
-#SERVICE 1:64:1ad4:0:0:0:0:0:0:0:
+#SERVICE 1:64:11b6:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8:ADN Radio TV
 #DESCRIPTION ADN Radio TV
@@ -39,6 +39,8 @@
 #DESCRIPTION CDtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.elpinguino.com%3a1935/live/pinguinotv_720p/hasbahca.m3u8:El Pinguino TV
 #DESCRIPTION El Pinguino TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eff35271151c.streamlock.net%3a1936/8098/8098/playlist.m3u8:EnerGeek
+#DESCRIPTION EnerGeek
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/estaciontv/estaciontv.smil/playlist.m3u8:Estacion TV HD
 #DESCRIPTION Estacion TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inliveserver.com%3a1936/11010/11010/playlist.m3u8:Hiper TV
@@ -47,6 +49,8 @@
 #DESCRIPTION Holvoet TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8:ITV Patagonia
 #DESCRIPTION ITV Patagonia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/.m3u8:La Red
+#DESCRIPTION La Red
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server1.oklanet.cl%3a1936/maximavideo1/maximavideo1/playlist.m3u8:Maxima
 #DESCRIPTION Maxima
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tvcontrolcp.com%3a1936/guzman/guzman/playlist.m3u8:Ñuble RTV (Chillán)
@@ -79,9 +83,9 @@
 #DESCRIPTION TV Pop HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/tvn/tvn.smil/playlist.m3u8:TVN HD
 #DESCRIPTION TVN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8:TVR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8:TVR
 #DESCRIPTION TVR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8:UCV3 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8:UCV3 TV
 #DESCRIPTION UCV3 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cl.origin.grupoz.cl%3a1935/uestv/live/playlist.m3u8:UESTV
 #DESCRIPTION UESTV

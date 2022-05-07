@@ -1,39 +1,39 @@
 #NAME Stream Bulgarije (BG)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//play.global.audio/bgradio.opus:BG Radio
 #DESCRIPTION BG Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge15.cdn.bg%3a2003/fls/BINAR-BgPop.stream/chunklist.m3u8:BNR Radio Binar BG Pop (Bulgarije)
-#DESCRIPTION BNR Radio Binar BG Pop (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge14.cdn.bg%3a2003/fls/BINAR-Classic.stream/chunklist.m3u8:BNR Radio Binar Classic (Bulgarije)
-#DESCRIPTION BNR Radio Binar Classic (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge12.cdn.bg%3a2003/fls/BINAR-Duende.stream/chunklist.m3u8:BNR Radio Binar Duende (Bulgarije)
-#DESCRIPTION BNR Radio Binar Duende (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge14.cdn.bg%3a2003/fls/BINAR-Folk.stream/chunklist.m3u8 :BNR Radio Binar Folk (Bulgarije)
-#DESCRIPTION BNR Radio Binar Folk (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge14.cdn.bg%3a2032/fls/Hlapeta.stream/chunklist.m3u8:BNR Radio Binar Hlapeta (Bulgarije)
-#DESCRIPTION BNR Radio Binar Hlapeta (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge13.cdn.bg%3a2003/fls/BINAR-Indie.stream/chunklist.m3u8:BNR Radio Binar Indie (Bulgarije)
-#DESCRIPTION BNR Radio Binar Indie (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge13.cdn.bg%3a2003/fls/BINAR-PunkJazz.stream/chunklist.m3u8:BNR Radio Binar Punk Jazz (Bulgarije)
-#DESCRIPTION BNR Radio Binar Punk Jazz (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge13.cdn.bg%3a2032/fls/Blagoevgrad.stream/chunklist.m3u8:BNR Radio Blagoevgrad (Bulgarije)
-#DESCRIPTION BNR Radio Blagoevgrad (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge12.cdn.bg%3a2032/fls/Burgas.stream/chunklist.m3u8:BNR Radio Burgas (Bulgarije)
-#DESCRIPTION BNR Radio Burgas (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge12.cdn.bg%3a2032/fls/Horizont.stream/chunklist.m3u8:BNR Radio Horizont (Bulgarije)
-#DESCRIPTION BNR Radio Horizont (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge15.cdn.bg%3a2032/fls/HrBotev.stream/chunklist_w1550296239.m3u8:BNR Radio Hristo Botev (Bulgarije)
-#DESCRIPTION BNR Radio Hristo Botev (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge12.cdn.bg%3a2032/fls/Kardzhali.stream/chunklist.m3u8:BNR Radio Kardzhali (Bulgarije)
-#DESCRIPTION BNR Radio Kardzhali (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge14.cdn.bg%3a2032/fls/Plovdiv.stream/chunklist_w2089034556.m3u8:BNR Radio Plovdiv (Bulgarije)
-#DESCRIPTION BNR Radio Plovdiv (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge14.cdn.bg%3a2032/fls/Shumen.stream/chunklist_w721922726.m3u8:BNR Radio Shumen (Bulgarije)
-#DESCRIPTION BNR Radio Shumen (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge13.cdn.bg%3a2032/fls/Sofia.stream/chunklist.m3u8:BNR Radio Sofia (Bulgarije)
-#DESCRIPTION BNR Radio Sofia (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge12.cdn.bg%3a2032/fls/StZagora.stream/chunklist.m3u8:BNR Radio Stara Zagora (Bulgarije)
-#DESCRIPTION BNR Radio Stara Zagora (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge13.cdn.bg%3a2032/fls/Varna.stream/chunklist.m3u8:BNR Radio Varna (Bulgarije)
-#DESCRIPTION BNR Radio Varna (Bulgarije)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge12.cdn.bg%3a2032/fls/Vidin.stream/chunklist.m3u8:BNR Radio Vidin (Bulgarije)
-#DESCRIPTION BNR Radio Vidin (Bulgarije)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lb-hls.evpn.bg/2032/fls/Hlapeta.stream/playlist.m3u8:BNR Binar Detskoto
+#DESCRIPTION BNR Binar Detskoto
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lb-hls.evpn.bg/2003/fls/BINAR-Indie.stream/playlist.m3u8:BNR Binar FunkSoul
+#DESCRIPTION BNR Binar FunkSoul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lb-hls.evpn.bg/2003/fls/BINAR-Classic.stream/playlist.m3u8:BNR Radio Binar Classic
+#DESCRIPTION BNR Radio Binar Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8022/binar-duende.aac:BNR Radio Binar Duende
+#DESCRIPTION BNR Radio Binar Duende
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lb-hls.evpn.bg/2003/fls/BINAR-Folk.stream/playlist.m3u8:BNR Radio Binar Folkor
+#DESCRIPTION BNR Radio Binar Folkor
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lb-hls.evpn.bg/2003/fls/BINAR-BgPop.stream/playlist.m3u8:BNR Radio Binar Pop
+#DESCRIPTION BNR Radio Binar Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lb-hls.evpn.bg/2003/fls/BINAR-PunkJazz.stream/playlist.m3u8:BNR Radio Binar Punk Jazz
+#DESCRIPTION BNR Radio Binar Punk Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8035/radio-blagoevgrad.aac:BNR Radio Blagoevgrad
+#DESCRIPTION BNR Radio Blagoevgrad
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8037/radio-burgas.aac:BNR Radio Burgas
+#DESCRIPTION BNR Radio Burgas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8011/horizont.aac:BNR Radio Horizont
+#DESCRIPTION BNR Radio Horizont
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8012/hristo-botev.aac:BNR Radio Hristo Botev
+#DESCRIPTION BNR Radio Hristo Botev
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8038/radio-kardzhali.aac:BNR Radio Kardzhali
+#DESCRIPTION BNR Radio Kardzhali
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.204.136.202%3a28/live128:BNR Radio Plovdiv
+#DESCRIPTION BNR Radio Plovdiv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8033/radio-shumen.aac:BNR Radio Shumen
+#DESCRIPTION BNR Radio Shumen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8030/radio-sofia.aac:BNR Radio Sofia
+#DESCRIPTION BNR Radio Sofia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//82.103.99.99%3a8000/radiosz:BNR Radio Stara Zagora
+#DESCRIPTION BNR Radio Stara Zagora
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.masters.bg%3a8000/live:BNR Radio Varna
+#DESCRIPTION BNR Radio Varna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer103.neterra.tv/radiovidin/live.m3u8:BNR Radio Vidin
+#DESCRIPTION BNR Radio Vidin

@@ -3,8 +3,6 @@
 #DESCRIPTION Accent-FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.154.168.210%3a8034/:Albatros en Patricia
 #DESCRIPTION Albatros en Patricia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.237.51.88%3a80/stream/2/:Altijd Hollands
-#DESCRIPTION Altijd Hollands
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-16.stream-server.nl%3a8452/;?1535467952659:Bellamia Radio (NL - piraten)
 #DESCRIPTION Bellamia Radio (NL - piraten)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.135.155.45%3a8010/stream:Bellamy FM (Arnhem)
@@ -331,14 +329,10 @@
 #DESCRIPTION Studionathalstream.nl (Hoogeveen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-67.stream-server.nl%3a8834/stream:Sunsetradio
 #DESCRIPTION Sunsetradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostreamen.nl%3a8300/:Team FM Overijssel / NO Polder
-#DESCRIPTION Team FM Overijssel / NO Polder
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.21.199.146%3a10060/stream:Team-FM Friesland
-#DESCRIPTION Team-FM Friesland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.21.199.146%3a10030/stream:Team-FM Twente
-#DESCRIPTION Team-FM Twente
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.21.199.146%3a8010/stream:Team-FM Vanuit-je-eigen-studio-op-de-radio
-#DESCRIPTION Team-FM Vanuit-je-eigen-studio-op-de-radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.audiostreamen.nl/teamfmatlantis:Team FM Atlantis - 24/7 piratenmuziek
+#DESCRIPTION Team FM Atlantis - 24/7 piratenmuziek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.audiostreamen.nl/teamfmpiratenplaten:Team FM Piratenplaten
+#DESCRIPTION Team FM Piratenplaten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8308/stream:teamstillewilly
 #DESCRIPTION teamstillewilly
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.toppersteam.nl%3a8016/stream:Toppersteam

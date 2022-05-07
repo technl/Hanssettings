@@ -1,5 +1,5 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:407:0:0:0:0:0:0:0:
+#SERVICE 1:64:414:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
@@ -295,8 +295,12 @@
 #DESCRIPTION Radio Mi Amigo International (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.21.16.120%3a8018/live:Radio MIG (Geraardsbergen, Ninove en Zottegem)
 #DESCRIPTION Radio MIG (Geraardsbergen, Ninove en Zottegem)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.219.80/minerva:Radio Minerva (Antwerpen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radiominerva.be/minerva:Radio Minerva (Antwerpen)
 #DESCRIPTION Radio Minerva (Antwerpen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiominervanieuws.be/cursiefje.mp3:Radio Minerva cursiefje (Antwerpen)
+#DESCRIPTION Radio Minerva cursiefje (Antwerpen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiominervanieuws.be/nieuws.mp3:Radio Minerva laatste nieuws (Antwerpen)
+#DESCRIPTION Radio Minerva laatste nieuws (Antwerpen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/feelgoodradiooo:Radio Moetoen (Vilvoorde)
 #DESCRIPTION Radio Moetoen (Vilvoorde)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomol.ice.infomaniak.ch/radiomol-192.mp3:Radio Mol (Mol)
@@ -515,7 +519,7 @@
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:408:0:0:0:0:0:0:0:
+#SERVICE 1:64:415:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)

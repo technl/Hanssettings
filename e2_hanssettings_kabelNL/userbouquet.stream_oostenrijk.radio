@@ -27,8 +27,12 @@
 #DESCRIPTION ANTENNE VORARLBERG - Schlagerkult
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//webradio.antennevorarlberg.at%3a80/spezial:ANTENNE VORARLBERG - Weihnacht
 #DESCRIPTION ANTENNE VORARLBERG - Weihnacht
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.radio.antennevorarlberg.at/av-plus80er90er:ANTENNE VORARLBERG 80er 90er
+#DESCRIPTION ANTENNE VORARLBERG 80er 90er
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//webradio.antennevorarlberg.at/fresh:Antenne Vorarlberg Fresh
 #DESCRIPTION Antenne Vorarlberg Fresh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.radio.antennevorarlberg.at/av-plusneuehits:ANTENNE VORARLBERG Plus Neue Hits
+#DESCRIPTION ANTENNE VORARLBERG Plus Neue Hits
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//webradio.antennevorarlberg.at/live:Antenne Vorarlberg
 #DESCRIPTION Antenne Vorarlberg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server35317.streamplus.de/stream.mp3:Antenne Österreich
@@ -179,8 +183,6 @@
 #DESCRIPTION Musikwelle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//11c.radiotechnikum.at/stream/10.aac:NOW Radio (Wenen, Oostenrijk)
 #DESCRIPTION NOW Radio (Wenen, Oostenrijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/oe1-q2a:Ö1
-#DESCRIPTION Ö1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/bgl-q2a:ORF Radio Burgenland
 #DESCRIPTION ORF Radio Burgenland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/ktn-q2a:ORF Radio Kärnten
@@ -263,8 +265,8 @@
 #DESCRIPTION Radio Freequenns
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//www.fro.at%3a8008/fro-128.ogg:Radio FRO
 #DESCRIPTION Radio FRO
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live.gruen-weiss.at/rgw.mp3:Radio Grn Wei
-#DESCRIPTION Radio Grn Wei
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.gruen-weiss.at/rgw.mp3:Radio Grün Weiss
+#DESCRIPTION Radio Grün Weiss
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//host6.cartwall.at%3a9630:Radio Harmonie
 #DESCRIPTION Radio Harmonie
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live.helsinki.at%3a8088/live128.mp3:Radio Helsinki 128-kbps
@@ -359,3 +361,5 @@
 #DESCRIPTION WELLE 1 voor DAB+ (Oostenrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19000/live:WELLE 1 Wien und die Welt
 #DESCRIPTION WELLE 1 Wien und die Welt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/oe1-q2a:Ö1
+#DESCRIPTION Ö1

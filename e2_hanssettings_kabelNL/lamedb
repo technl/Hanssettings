@@ -147,6 +147,9 @@ ffff0000:0c70:0600
 ffff0000:0c81:0600
 	c 266000:6900000:2:5:0:0:0
 /
+ffff0000:0c82:0600
+	c 266000:6900000:2:5:0:0:0
+/
 ffff0000:0065:08c9
 	c 538000:6900000:2:3:0:0:0
 /
@@ -790,7 +793,7 @@ WeertFM TV
 p:Ziggo
 3072:ffff0000:00cc:0600:1:0
 Studio040
-p:Ziggo
+p:Ziggo,c:050001
 3073:ffff0000:00cc:0600:1:0
 SIRIS-tv
 p:Ziggo
@@ -1033,7 +1036,7 @@ p:Ziggo
 p:Ziggo
 4e24:ffff0000:0801:0600:1:0
 SBS9
-p:Ziggo,c:090202,f:8
+p:Ziggo,c:098800,f:8
 4e26:ffff0000:0801:0600:1:0
 FOX
 p:Ziggo,f:8
@@ -1138,13 +1141,13 @@ Utsav Gold
 p:Ziggo
 4e6b:ffff0000:0804:0600:22:0
 Utsav Plus
-p:Ziggo
+p:Ziggo,c:050001
 4e6c:ffff0000:0804:0600:22:0
 Zee Cinema
-p:Ziggo
+p:Ziggo,c:050001,c:098808
 4e6d:ffff0000:0804:0600:22:0
 Zee TV
-p:Ziggo
+p:Ziggo,c:050001,c:098808
 4e6e:ffff0000:0804:0600:22:0
 Zing
 p:Ziggo
@@ -1241,15 +1244,12 @@ p:Ziggo,c:050001,c:098808
 4a3e:ffff0000:0805:0600:31:0
 ESPN UHD
 p:Ziggo,c:050007
-4a4d:ffff0000:0806:0600:1:0
-FOX Sports 1
-p:Ziggo
 4a51:ffff0000:0806:0600:1:0
 Ketnet
-p:Ziggo
+p:Ziggo,c:098800
 4a53:ffff0000:0806:0600:1:0
 SBS6
-p:Ziggo,c:090200
+p:Ziggo,c:098800
 4a54:ffff0000:0806:0600:1:0
 Ziggo TV
 p:Ziggo
@@ -1307,30 +1307,6 @@ p:Ziggo
 4a50:ffff0000:0806:0600:25:0
 Net5 HD
 p:Ziggo,c:050001,c:090202
-4e49:ffff0000:0807:0600:1:0
-NPO 1
-p:Ziggo
-4e4a:ffff0000:0807:0600:1:0
-NPO 2
-p:Ziggo
-4e4b:ffff0000:0807:0600:1:0
-NPO 3
-p:Ziggo
-4a61:ffff0000:0807:0600:1:0
-NPO 1
-p:Ziggo,c:090202
-4a62:ffff0000:0807:0600:1:0
-NPO 2
-p:Ziggo,c:098800
-4a63:ffff0000:0807:0600:1:0
-NPO 3
-p:Ziggo,c:090202
-4a64:ffff0000:0807:0600:1:0
-Ziggo Sport
-p:Ziggo
-4a67:ffff0000:0807:0600:1:0
-2M
-p:Ziggo,c:050001
 4679:ffff0000:0807:0600:2:0
 Sunlite Radio
 p:Ziggo
@@ -1369,7 +1345,7 @@ Viaplay Xtra
 p:Ziggo,c:050001
 4a75:ffff0000:0808:0600:1:0
 Veronica / Disney XD
-p:Ziggo,c:090202
+p:Ziggo,c:098800
 4a76:ffff0000:0808:0600:1:0
 Comedy Central
 p:Ziggo
@@ -1378,7 +1354,7 @@ RTL
 p:Ziggo
 4a78:ffff0000:0808:0600:1:0
 HISTORY
-p:Ziggo
+p:Ziggo,c:090202
 4a7b:ffff0000:0808:0600:1:0
 ZDF
 p:Ziggo
@@ -1463,21 +1439,18 @@ p:Ziggo,c:098800
 4aba:ffff0000:080b:0600:25:0
 SBS6 HD
 p:Ziggo,c:050001,c:098800
-4ac9:ffff0000:080c:0600:1:0
-Cartoon Network
-p:Ziggo
 4ac5:ffff0000:080c:0600:22:0
 RTV-7
 p:Ziggo,c:050001
 5298:ffff0000:080c:0600:25:0
 L1TV
-p:Ziggo
+p:Ziggo,c:050001
 4ac6:ffff0000:080c:0600:25:0
 Secret Circle
-p:Ziggo
+p:Ziggo,c:050001
 4ac8:ffff0000:080c:0600:25:0
 L1 TV
-p:Ziggo
+p:Ziggo,c:050001
 4acf:ffff0000:080c:0600:25:0
 NPO Politiek en Nieuws
 p:Ziggo,c:050001,c:098800
@@ -1567,25 +1540,25 @@ Omrop Fryslân
 p:Ziggo
 52d7:ffff0000:080e:0600:25:0
 RTV Utrecht
-p:Ziggo
+p:Ziggo,c:050001
 52d8:ffff0000:080e:0600:25:0
 TV Rijnmond
-p:Ziggo
+p:Ziggo,c:050001,c:098800
 52d9:ffff0000:080e:0600:25:0
 Omroep Flevoland
-p:Ziggo
+p:Ziggo,c:050001
 52da:ffff0000:080e:0600:25:0
 AT5
 p:Ziggo,c:050001
 52db:ffff0000:080e:0600:25:0
 NH Nieuws
-p:Ziggo
+p:Ziggo,c:050001
 52dc:ffff0000:080e:0600:25:0
 TV West
-p:Ziggo
+p:Ziggo,c:050001,c:098800
 52de:ffff0000:080e:0600:25:0
 Omrop Fryslân
-p:Ziggo
+p:Ziggo,c:050001
 7613:ffff0000:080f:0600:25:0
 Ziggo Live Events ESPN
 p:Ziggo,c:050001
@@ -1654,7 +1627,7 @@ TRT Turk
 p:Ziggo
 4b4d:ffff0000:0812:0600:22:0
 TV8 Int.
-p:Ziggo
+p:Ziggo,c:050001
 4b4e:ffff0000:0812:0600:22:0
 TV Oranje
 p:Ziggo
@@ -1696,7 +1669,7 @@ Nicktoons
 p:Ziggo
 4b66:ffff0000:0814:0600:22:0
 Evil Angel
-p:Ziggo
+p:Ziggo,c:050001
 4b67:ffff0000:0814:0600:22:0
 Nick Jr.
 p:Ziggo
@@ -1705,22 +1678,22 @@ MTV 90s
 p:Ziggo
 4b69:ffff0000:0814:0600:22:0
 PassieXXX
-p:Ziggo
+p:Ziggo,c:050001
 4b6c:ffff0000:0814:0600:22:0
 X-MO
-p:Ziggo
+p:Ziggo,c:050001
 4b6f:ffff0000:0814:0600:22:0
 DUSK
-p:Ziggo
+p:Ziggo,c:050001
 4b70:ffff0000:0814:0600:22:0
 MvH Hard
-p:Ziggo
+p:Ziggo,c:050001
 4b72:ffff0000:0814:0600:22:0
 MBC
 p:Ziggo
 4b6b:ffff0000:0814:0600:25:0
 NPO 1 extra
-p:Ziggo,c:050001,c:090202
+p:Ziggo,c:050001,c:098800
 4b71:ffff0000:0814:0600:25:0
 Penthouse Gold
 p:Ziggo,c:050001
@@ -2032,7 +2005,7 @@ Eurosport 1 HD
 p:Ziggo,c:050001
 4bf8:ffff0000:0834:0600:1:0
 Net5
-p:Ziggo,c:090202
+p:Ziggo,c:098800
 4bf9:ffff0000:0834:0600:1:0
 MTV
 p:Ziggo
@@ -2074,7 +2047,7 @@ Baby TV
 p:Ziggo
 4c23:ffff0000:0836:0600:22:0
 BBC Entertainment
-p:Ziggo
+p:Ziggo,c:050001,c:090202
 4c26:ffff0000:0836:0600:22:0
 Nick Music
 p:Ziggo
@@ -2230,19 +2203,19 @@ Eurosport 2 HD
 p:Ziggo,c:050001
 4c7f:ffff0000:083b:0600:25:0
 TV Noord
-p:Ziggo
+p:Ziggo,c:050001
 4c87:ffff0000:083b:0600:25:0
 TV Drenthe
-p:Ziggo
+p:Ziggo,c:050001
 4c88:ffff0000:083b:0600:25:0
 TV Oost
-p:Ziggo
+p:Ziggo,c:050001
 4c89:ffff0000:083b:0600:25:0
 Omroep Brabant
-p:Ziggo
+p:Ziggo,c:050001,c:098800
 4c8a:ffff0000:083b:0600:25:0
 TV Gelderland
-p:Ziggo
+p:Ziggo,c:050001,c:098800
 3521:ffff0000:083c:0600:1:0
 test4
 p:Ziggo
@@ -2335,7 +2308,7 @@ p:
 p:
 4aef:ffff0000:0840:0600:1:0
 Disney Channel
-p:Ziggo
+p:Ziggo,c:098800
 4af2:ffff0000:0840:0600:1:0
 NDR
 p:Ziggo
@@ -2501,6 +2474,42 @@ p:Ziggo
 0f1f:ffff0000:0c81:0600:2:0
 Maasland Radio
 p:Ziggo
+1b00:ffff0000:0c82:0600:1:0
+ML5 TV
+p:Ziggo
+1b01:ffff0000:0c82:0600:1:0
+Omroep P&M
+p:Ziggo
+1b02:ffff0000:0c82:0600:1:0
+WeertFM TV
+p:Ziggo
+1afe:ffff0000:0c82:0600:1:0
+Omroep Venlo
+p:Ziggo,c:050001
+0f4b:ffff0000:0c82:0600:2:0
+Omroep Venlo FM
+p:Ziggo
+0f4d:ffff0000:0c82:0600:2:0
+ML5 Radio
+p:Ziggo
+0f4e:ffff0000:0c82:0600:2:0
+Omroep P&M Radio
+p:Ziggo
+0f4f:ffff0000:0c82:0600:2:0
+WeertFM
+p:Ziggo
+0f53:ffff0000:0c82:0600:2:0
+SOL2 Radio
+p:Ziggo
+1afd:ffff0000:0c82:0600:22:0
+SOL2
+p:Ziggo
+1b06:ffff0000:0c82:0600:25:0
+TV Ellef
+p:Ziggo,c:050001
+1aff:ffff0000:0c82:0600:25:0
+Roerstreek OR6
+p:Ziggo,c:050001
 0406:ffff0000:0065:08c9:1:0
 NPO 3
 p:CAIW Media

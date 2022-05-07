@@ -1,165 +1,169 @@
 #NAME Stream Polen (PL)
-#SERVICE 1:64:35d:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02m/index.m3u8:RTP 1
-#DESCRIPTION RTP 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02n/index.m3u8:RTP 2
-#DESCRIPTION RTP 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02q/index.m3u8:RTP 3
-#DESCRIPTION RTP 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/RTP3/index.m3u8:RTP 3 -2-
-#DESCRIPTION RTP 3 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02f/index.m3u8:RTP Açores
-#DESCRIPTION RTP Açores
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.212.178.69%3a41042/bysid/608:RTP Internacional 
-#DESCRIPTION RTP Internacional 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02e/index.m3u8:RTP Madeira
-#DESCRIPTION RTP Madeira
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a039/index.m3u8:RTP Mémoria
-#DESCRIPTION RTP Mémoria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02o/index.m3u8:SIC
-#DESCRIPTION SIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a053/index.m3u8:SIC Caras
-#DESCRIPTION SIC Caras
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.impresa.pt/live/sicint/sicint.m3u8:SIC Internacional
-#DESCRIPTION SIC Internacional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02h/index.m3u8:SIC K
-#DESCRIPTION SIC K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a082/index.m3u8:SIC Mulher
-#DESCRIPTION SIC Mulher
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a04t/index.m3u8:SIC Noticias
-#DESCRIPTION SIC Noticias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a052/index.m3u8:SIC Radical
-#DESCRIPTION SIC Radical
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02p/index.m3u8:TVI
-#DESCRIPTION TVI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a04u/index.m3u8:TVI Ficção
-#DESCRIPTION TVI Ficção
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8:TVI Reality
-#DESCRIPTION TVI Reality
-#SERVICE 1:64:35e:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a0ak/index.m3u8:24 Kitchen Portugal
-#DESCRIPTION 24 Kitchen Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8:ADB TV
-#DESCRIPTION ADB TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a071/index.m3u8:AMC HD Portugal
-#DESCRIPTION AMC HD Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a03y/index.m3u8:AXN HD Portugal
-#DESCRIPTION AXN HD Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a0aj/index.m3u8:AXN Movies Portugal
-#DESCRIPTION AXN Movies Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a0al/index.m3u8:AXN White Portugal
-#DESCRIPTION AXN White Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a076/index.m3u8:BBC Entertainment Portugal
-#DESCRIPTION BBC Entertainment Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a08a/index.m3u8:Biggs
-#DESCRIPTION Biggs
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a085/index.m3u8:Blaze
-#DESCRIPTION Blaze
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a06t/index.m3u8:Canal 11
-#DESCRIPTION Canal 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.sinoinformatica.com.br%3a1935/cmtupa-live/sessaoaovivo/livestream.m3u8:Canal De Tupa
-#DESCRIPTION Canal De Tupa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live4.tdm.com.mo%3a80/ch2/_definst_/ch2.live/playlist.m3u8:Canal Macau
-#DESCRIPTION Canal Macau
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a04o/index.m3u8:Canal Panda Portugal
-#DESCRIPTION Canal Panda Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8:Canal Parlamento
-#DESCRIPTION Canal Parlamento
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.245.88.237%3a8080/play/a025:Cartoon Network Portugal
-#DESCRIPTION Cartoon Network Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.245.88.237%3a8080/play/a00y:Cinemundo HD Portugal
-#DESCRIPTION Cinemundo HD Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a037/index.m3u8:CMTV Portugal
-#DESCRIPTION CMTV Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02k/index.m3u8:CNN Portugal
-#DESCRIPTION CNN Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a06l/index.m3u8:Discovery Channel Portugal
-#DESCRIPTION Discovery Channel Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a06m/index.m3u8:Disney Channel Portugal
-#DESCRIPTION Disney Channel Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a07v/index.m3u8:Disney Júnior Portugal
-#DESCRIPTION Disney Júnior Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.245.88.237%3a8080/play/a02s:Dizi Channel Portugal
-#DESCRIPTION Dizi Channel Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a03z/index.m3u8:FOX HD Portugal
-#DESCRIPTION FOX HD Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a044/index.m3u8:FOX Comedy
-#DESCRIPTION FOX Comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a061/index.m3u8:FOX Crime Portugal
-#DESCRIPTION FOX Crime Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a060/index.m3u8:FOX Life Portugal
-#DESCRIPTION FOX Life Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a084/index.m3u8:FOX Movies HD Portugal
-#DESCRIPTION FOX Movies HD Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02l/index.m3u8:Globo
-#DESCRIPTION Globo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a077/index.m3u8:Globo News
-#DESCRIPTION Globo News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a06n/index.m3u8:Globo Now
-#DESCRIPTION Globo Now
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02c/index.m3u8:História Portugal
-#DESCRIPTION História Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a04x/index.m3u8:Hollywood HD Portugal
-#DESCRIPTION Hollywood HD Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.22.11.11%3a1935/igronline/igronline2/playlist.m3u8:Igreja Online
-#DESCRIPTION Igreja Online
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.22.11.11%3a1935/ktv/ktv2/chunklist.m3u8:Kuriakos TV
-#DESCRIPTION Kuriakos TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8:Kuriakos Cine
-#DESCRIPTION Kuriakos Cine
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kkids/kkids3/TeamBlue.m3u8:Kuriakos Kids
-#DESCRIPTION Kuriakos Kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8:Kuriakos Music
-#DESCRIPTION Kuriakos Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a02i/index.m3u8:MTV Portugal
-#DESCRIPTION MTV Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a03x/index.m3u8:National Geographic Portugal
-#DESCRIPTION National Geographic Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a073/index.m3u8:Nickelodeon Portugal
-#DESCRIPTION Nickelodeon Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a04y/index.m3u8:Odisseia Portugal
-#DESCRIPTION Odisseia Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8:ON TV
-#DESCRIPTION ON TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1825121495.m3u8:Porto Canal
-#DESCRIPTION Porto Canal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash.softhost.com.br%3a1935/pucgoias/aovivo/live.m3u8:PUC TV Go
-#DESCRIPTION PUC TV Go
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8:Radio Clube TV
-#DESCRIPTION Radio Clube TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4-slbps-sambavideos.akamaized.net/live/3282%252C8114%252Cec4b5a296d97fa99bf990662f5b4f8e1%253Bbase64np%253BMc8VDxqNjXKCAf8%2521/amlst%253AMc_tFgfGiHOdQXPB/chunklist_.m3u8:Rede Minas
-#DESCRIPTION Rede Minas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8:SBT HD
-#DESCRIPTION SBT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8:Sobrenatural TV
-#DESCRIPTION Sobrenatural TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.245.88.237%3a8080/play/a009:Sporting TV HD Portugal
-#DESCRIPTION Sporting TV HD Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a08h/index.m3u8:SyFy HD Portugal
-#DESCRIPTION SyFy HD Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a083/index.m3u8:TLC Portugal
-#DESCRIPTION TLC Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a070/index.m3u8:TV Cine Action
-#DESCRIPTION TV Cine Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a068/index.m3u8:TV Cine Edition
-#DESCRIPTION TV Cine Edition
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a069/index.m3u8:TV Cine Emotion
-#DESCRIPTION TV Cine Emotion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a06z/index.m3u8:TV Cine Top
-#DESCRIPTION TV Cine Top
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//200.189.113.201%3a80/hls/tve.m3u8:TV Cultura Portugal
-#DESCRIPTION TV Cultura Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-b02.videos.sapo.pt/live/santuario.stream/playlist.m3u8:TV Fátima
-#DESCRIPTION TV Fátima
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.22.11.11%3a1935/tvmana/tvmana2/playlist.m3u8:TV Maná 1
-#DESCRIPTION TV Maná 1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.novotempo.com%3a1935/tv/tvnovotempo.smil/live.m3u8:TV Novo Tempo
-#DESCRIPTION TV Novo Tempo
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//flash1.crossdigital.com.br%3a1935/2063/2063/live.m3u8:TV Santa Cecilia
-#DESCRIPTION TV Santa Cecilia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.245.88.237%3a8080/play/a02g:UM Europa
-#DESCRIPTION UM Europa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.203%3a8000/play/a06u/index.m3u8:ZAP Viva
-#DESCRIPTION ZAP Viva
+#SERVICE 1:64:368:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0be:TVP 1 HD
+#DESCRIPTION TVP 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ek:TVP 2 HD
+#DESCRIPTION TVP 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05l:TVP ABC
+#DESCRIPTION TVP ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0b4:TVP Dokument
+#DESCRIPTION TVP Dokument
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a060:TVP Historia
+#DESCRIPTION TVP Historia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05g:TVP Kultura
+#DESCRIPTION TVP Kultura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a8501/tvpinfo:TVP Info HD
+#DESCRIPTION TVP Info HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/7418/tvp_polonia_425/1/1/tracks-v1a1/mono.m3u8:TVP Polonia
+#DESCRIPTION TVP Polonia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a045:TVP Rozrywka
+#DESCRIPTION TVP Rozrywka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05v:TVP Seriale
+#DESCRIPTION TVP Seriale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a06l:TVP Sport HD
+#DESCRIPTION TVP Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a035:TV 4 Polska
+#DESCRIPTION TV 4 Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a036:TV 6 Polska HD
+#DESCRIPTION TV 6 Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05f:TVS Polska
+#DESCRIPTION TVS Polska
+#SERVICE 1:64:369:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04b:4 Fun Dance
+#DESCRIPTION 4 Fun Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04a:4 Fun Kids
+#DESCRIPTION 4 Fun Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4 Fun TV
+#DESCRIPTION 4 Fun TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0c5:13 Ulica HD
+#DESCRIPTION 13 Ulica HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09r:Ale Kino+ HD
+#DESCRIPTION Ale Kino+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ei:AXN
+#DESCRIPTION AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0di:AXN Black Polska
+#DESCRIPTION AXN Black Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a06o:AXN Spin
+#DESCRIPTION AXN Spin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0dh:AXN White Polska
+#DESCRIPTION AXN White Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04f:Boomerang Polska HD
+#DESCRIPTION Boomerang Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ba:Canal+ Dokument
+#DESCRIPTION Canal+ Dokument
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09i:Canal+ Family
+#DESCRIPTION Canal+ Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09h:Canal+ Film
+#DESCRIPTION Canal+ Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09u:Canal+ Kuchnia
+#DESCRIPTION Canal+ Kuchnia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a03g:Canal+ Now
+#DESCRIPTION Canal+ Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a03j:Canal+ Premium
+#DESCRIPTION Canal+ Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09o:Canal+ Seriale
+#DESCRIPTION Canal+ Seriale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a03k:Canal+ Sport HD
+#DESCRIPTION Canal+ Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a070:Canal+ Sport 3
+#DESCRIPTION Canal+ Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a07j:Canal+ Sport 4
+#DESCRIPTION Canal+ Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0d5:Comedy Central Polska HD
+#DESCRIPTION Comedy Central Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a042:Da Vinci Polska
+#DESCRIPTION Da Vinci Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0e0:Disney Channel HD Polska
+#DESCRIPTION Disney Channel HD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0fb:Disney Junior Polska
+#DESCRIPTION Disney Junior Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0dt:Disney XD Polska
+#DESCRIPTION Disney XD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0do:Disco Polo Music
+#DESCRIPTION Disco Polo Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0bi:Discovery Polska
+#DESCRIPTION Discovery Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a06m:Discovery Historia
+#DESCRIPTION Discovery Historia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a098:Discovery Life
+#DESCRIPTION Discovery Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0f8:Discovery Science
+#DESCRIPTION Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0br:E! Entertainment
+#DESCRIPTION E! Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a03h:Eleven Sports 4
+#DESCRIPTION Eleven Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04k:Eska TV
+#DESCRIPTION Eska TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04j:Eska TV Extra
+#DESCRIPTION Eska TV Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05z:FilmBox Action Polska
+#DESCRIPTION FilmBox Action Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a047:FilmBox Arthouse
+#DESCRIPTION FilmBox Arthouse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a061:FilmBox Extra Polska
+#DESCRIPTION FilmBox Extra Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05y:FilmBox Family
+#DESCRIPTION FilmBox Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05w:FilmBox Premium Polska HD
+#DESCRIPTION FilmBox Premium Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04l:Fokus TV
+#DESCRIPTION Fokus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ej:Fox Comedy
+#DESCRIPTION Fox Comedy
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0bv:Golf Channel Polska
+#DESCRIPTION Golf Channel Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0f3:HBO
+#DESCRIPTION HBO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a06w:HBO 2
+#DESCRIPTION HBO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a06x:HBO 3
+#DESCRIPTION HBO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0eq:History
+#DESCRIPTION History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0bu:History 2
+#DESCRIPTION History 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0bj:ID Polska HD
+#DESCRIPTION ID Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05x:Kino Polska
+#DESCRIPTION Kino Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a03m:MiniMini+
+#DESCRIPTION MiniMini+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a16200/motowizja:Motowizja HD
+#DESCRIPTION Motowizja HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0d3:MTV Live HD Polska
+#DESCRIPTION MTV Live HD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0d1:MTV Polska HD
+#DESCRIPTION MTV Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a06c:Muisc Box Polska
+#DESCRIPTION Muisc Box Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a03v:National Geographic
+#DESCRIPTION National Geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ew:Nat Geo People
+#DESCRIPTION Nat Geo People
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cv:Nick Jr. Polska
+#DESCRIPTION Nick Jr. Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cx:Nickelodeon Polska
+#DESCRIPTION Nickelodeon Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.254.16.186/NutaTV/index.m3u8:NUTA TV
+#DESCRIPTION NUTA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04i:Polo TV
+#DESCRIPTION Polo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream14.polskieradio.pl%3a1935/pr4_video/video_pr4.stream/playlist.m3u8:Radio Czworka
+#DESCRIPTION Radio Czworka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0c3:Sci Fi Polska
+#DESCRIPTION Sci Fi Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//54.39.17.6%3a8080/tele5/playlist.m3u8:Tele 5
+#DESCRIPTION Tele 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV K Kujawy
+#DESCRIPTION TV K Kujawy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvreg.klemit.net/regionalna/stream/index.m3u8:TV Regionalna
+#DESCRIPTION TV Regionalna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8:TV Republika
+#DESCRIPTION TV Republika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.173.176.107%3a1935/live/tvk.stream/playlist.m3u8:TV Toruń
+#DESCRIPTION TV Toruń
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8:TV Trwam
+#DESCRIPTION TV Trwam

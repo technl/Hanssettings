@@ -1,10 +1,16 @@
 #NAME Stream Kazachstan (KZ)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/1hd.m3u8:1HD Music Television
+#DESCRIPTION 1HD Music Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/7_kanal.m3u8:7 Kanal
 #DESCRIPTION 7 Kanal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/31Kanal_38_39.m3u8:31 Kanal
 #DESCRIPTION 31 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/A2.m3u8:A2
+#DESCRIPTION A2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8:Almaty TV
 #DESCRIPTION Almaty TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/amedia_hit_hd.m3u8:Amedia Hit
+#DESCRIPTION Amedia Hit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.kaztrk.kz/regional/oraltv/index.m3u8:Aqjai’yq
 #DESCRIPTION Aqjai’yq
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.kaztrk.kz/regional/aktobetv/index.m3u8:Aqtobe TV
@@ -35,8 +41,6 @@
 #DESCRIPTION Hoboe TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.kaztrk.kz/regional/taraztv/index.m3u8:Jambyl
 #DESCRIPTION Jambyl
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-24kz.cdnvideo.ru/24kz/24kz.sdp/chunklist.m3u8:Khabar 24
-#DESCRIPTION Khabar 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kazakhtv.ultraiptv.com/kazakhtv/0-03.m3u8:Kazakh TV
 #DESCRIPTION Kazakh TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/KMA.m3u8:КМА
@@ -47,6 +51,8 @@
 #DESCRIPTION КТК
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.kaztrk.kz/regional/mangystautv/index.m3u8:Mangystaý
 #DESCRIPTION Mangystaý
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/Mir24.m3u8:Mir 24
+#DESCRIPTION Mir 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8:MTRK
 #DESCRIPTION MTRK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.kaztrk.kz/regional/kostanaytv/index.m3u8:Qostania
@@ -57,3 +63,5 @@
 #DESCRIPTION Semei
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/TDK-42_38_39.m3u8:TDK 42
 #DESCRIPTION TDK 42
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-24kz.cdnvideo.ru/24kz/24kz.sdp/chunklist.m3u8:Xabar 24
+#DESCRIPTION Xabar 24

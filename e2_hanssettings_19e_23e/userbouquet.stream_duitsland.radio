@@ -231,8 +231,6 @@
 #DESCRIPTION Ballermann-Radio-Country
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//top100.bmr-radio.com%3a8000:Ballermann-Radio-Top100
 #DESCRIPTION Ballermann-Radio-Top100
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-live-mp3-hq:Barbaradio
-#DESCRIPTION Barbaradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-gerliebeslieder-mp3-hq:Barbaradio Deutsche Liebeslieder
 #DESCRIPTION Barbaradio Deutsche Liebeslieder
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-deutschpop-mp3-hq:Barbaradio Deutschpop
@@ -255,6 +253,8 @@
 #DESCRIPTION Barbaradio Sonntag Morgen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-strandbar-mp3-hq:Barbaradio Strandbar
 #DESCRIPTION Barbaradio Strandbar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-live-mp3-hq:Barbaradio
+#DESCRIPTION Barbaradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/franken/mp3/mid:Bayern 1 - Franken
 #DESCRIPTION Bayern 1 - Franken
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid:Bayern 1 - Mainfranken
@@ -905,6 +905,8 @@
 #DESCRIPTION Gospelradiode
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//h2315646.stratoserver.net%3a8090/:Grenzland-Musik
 #DESCRIPTION Grenzland-Musik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//grossstadtradio.streamabc.net/51-gsrberlininternet-mp3-192-5049689:Grossstadtradio
+#DESCRIPTION Grossstadtradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiohamburg.hoerradar.de/hamburg-zwei-mp3-128:Hamburg 2
 #DESCRIPTION Hamburg 2
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radiohamburg.hoerradar.de/hamburg-zwei-mp3-128?sABC=59q01484%25230%2523s58q219o90642456or95s6ns726669n1%2523yvfgrayvir&amsparams=playerid%3alistenlive;skey%3a1506808964:Hamburg-Zwei
@@ -1127,10 +1129,6 @@
 #DESCRIPTION Indie-goes-to-Hollywood
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//indieselect.stream.laut.fm/indieselect?t302=2017-12-10_05-10-24&uuid=8e6b0fac-2bb5-45ed-90f5-a8959738b451:Indieselect
 #DESCRIPTION Indieselect
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3:INFOradio-RBB
-#DESCRIPTION INFOradio-RBB
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/48/stream.mp3:INFOradio-RBB
-#DESCRIPTION INFOradio-RBB
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//88.198.175.30%3a5550/stream:inpulz Stadtradio Freiberg
 #DESCRIPTION inpulz Stadtradio Freiberg
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radio_de.instrumentalhits.de/rmninstrumental:Instrumental Hits (Duitsland)
@@ -1529,6 +1527,8 @@
 #DESCRIPTION MAGIC-Top100
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server8.blitz-stream.de%3a9900/;listen.pls:Main-Kinzig-Welle
 #DESCRIPTION Main-Kinzig-Welle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge14.streamonkey.net/mallorcaeins-1:Mallora E1NS
+#DESCRIPTION Mallora E1NS
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream06.iloveradio.de/iloveradio5.mp3:Mashup-Radio
 #DESCRIPTION Mashup-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.200.223.147%3a10100:Mausis-Musik-Palast
@@ -1627,6 +1627,8 @@
 #DESCRIPTION Megapark Beach Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.megapark-radio.com/:Megapark Radio
 #DESCRIPTION Megapark Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.radiodienst.de/proxy/megaberlin/berlin:MEGARADIOmix
+#DESCRIPTION MEGARADIOmix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rs28.stream24.net/stream:MeinSportradio
 #DESCRIPTION MeinSportradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//81.169.225.125%3a11911/;:Melodic-Radio
@@ -2565,6 +2567,8 @@
 #DESCRIPTION Radio MK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.multicult.fm%3a8000/hifi.m3u:Radio Multicult 2.0
 #DESCRIPTION Radio Multicult 2.0
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//musicstar.radionetz.de/musicstar.mp3:Radio Musicstar
+#DESCRIPTION Radio Musicstar
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomuelheim.cast.addradio.de/radiomuelheim/simulcast/high/stream.mp3:Radio Mülheim (Duitsland)
 #DESCRIPTION Radio Mülheim (Duitsland)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3.l.nmdn.net%3a80/ps-neandertal/livestream.mp3:Radio Neandertal
@@ -2991,20 +2995,40 @@
 #DESCRIPTION RauteMusik-Trap
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//de-hz-fal-stream04.rautemusik.fm%3a80/wackenradio:RauteMusik-Wacken-Radio
 #DESCRIPTION RauteMusik-Wacken-Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid:RBB Antenne Brandenburg
-#DESCRIPTION RBB Antenne Brandenburg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid:RBB BERLIN 888
-#DESCRIPTION RBB BERLIN 888
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid:RBB Fritz
-#DESCRIPTION RBB Fritz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid:RBB InfoRadio
-#DESCRIPTION RBB InfoRadio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high:RBB Kulturradio
-#DESCRIPTION RBB Kulturradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioeins.de/frankfurt/livemp3:RBB Radio Eins Frankfurt
-#DESCRIPTION RBB Radio Eins Frankfurt
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid:RBB Radio Eins
-#DESCRIPTION RBB Radio Eins
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.rbb888.de/livemp3:rbb 88.8
+#DESCRIPTION rbb 88.8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid:rbb 88.8
+#DESCRIPTION rbb 88.8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.antennebrandenburg.de/cottbus/livemp3:rbb Antenne Brandenburg Cottbus
+#DESCRIPTION rbb Antenne Brandenburg Cottbus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.antennebrandenburg.de/frankfurt/livemp3:rbb Antenne Brandenburg Frankfurt
+#DESCRIPTION rbb Antenne Brandenburg Frankfurt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.antennebrandenburg.de/perleberg/livemp3:rbb Antenne Brandenburg Perleberg
+#DESCRIPTION rbb Antenne Brandenburg Perleberg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.antennebrandenburg.de/prenzlau/livemp3:rbb Antenne Brandenburg Prenzlau
+#DESCRIPTION rbb Antenne Brandenburg Prenzlau
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid:rbb Antenne Brandenburg
+#DESCRIPTION rbb Antenne Brandenburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.fritz.de/livemp3:rbb Fritz
+#DESCRIPTION rbb Fritz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid:rbb Fritz
+#DESCRIPTION rbb Fritz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.rbbkultur.de/livemp3:rbb Kultur
+#DESCRIPTION rbb Kultur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high:rbb Kultur
+#DESCRIPTION rbb Kultur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid:rbb Radio Eins
+#DESCRIPTION rbb Radio Eins
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioeins.de/livemp3:rbb RadioEins 
+#DESCRIPTION rbb RadioEins 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioeins.de/cottbus/livemp3:rbb RadioEins Cottbus
+#DESCRIPTION rbb RadioEins Cottbus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioeins.de/frankfurt/livemp3:rbb RadioEins Frankfurt
+#DESCRIPTION rbb RadioEins Frankfurt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.inforadio.de/livemp3:rbb24 InfoRadio
+#DESCRIPTION rbb24 InfoRadio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid:rbb24 InfoRadio
+#DESCRIPTION rbb24 InfoRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.118.122.220%3a8002/stream:Reboot-FM
 #DESCRIPTION Reboot-FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ais.rastamusic.com%3a80/rastamusic.mp3:Reggae-Radio-Rastamusiccom
@@ -3833,5 +3857,9 @@
 #DESCRIPTION Zappa-Stream-Radio-zappateerscom
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//80.252.104.101%3a8000/zeigler:Zeiglers-wunderbare-Welt-des-Pop
 #DESCRIPTION Zeiglers-wunderbare-Welt-des-Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge60.streamonkey.net/zound1-max:Zound1 Max
+#DESCRIPTION Zound1 Max
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge03.streamonkey.net/zound1-mix:Zound1 Mix
+#DESCRIPTION Zound1 Mix
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radio.zwischen-welten.info%3a8000/listen/:Zwischen-Welten
 #DESCRIPTION Zwischen-Welten

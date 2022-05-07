@@ -1,29 +1,31 @@
 #NAME Stream Turkije (TR)
-#SERVICE 1:64:228:0:0:0:0:0:0:0:
+#SERVICE 1:64:22f:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1102/index.m3u8:TRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a00g:TRT 1 HD
 #DESCRIPTION TRT 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.213%3a3301:TRT 1 -2-
-#DESCRIPTION TRT 1 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trt1.medya.trt.com.tr/master.m3u8:TRT 1 -3- (deels Geoblocking)
-#DESCRIPTION TRT 1 -3- (deels Geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trt1.medya.trt.com.tr/master.m3u8:TRT 1 -2- (deels Geoblocking)
+#DESCRIPTION TRT 1 -2- (deels Geoblocking)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trt2.medya.trt.com.tr/master.m3u8:TRT 2
 #DESCRIPTION TRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a05j:TRT 2 -2-
+#DESCRIPTION TRT 2 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a019:TRT 4K
+#DESCRIPTION TRT 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtavaz.medya.trt.com.tr/master.m3u8:TRT Avaz
 #DESCRIPTION TRT Avaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1107/index.m3u8:TRT Belgesel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtbelgesel.live.trt.com.tr/master.m3u8:TRT Belgesel
 #DESCRIPTION TRT Belgesel
 #SERVICE 4097:0:1:bf1:8dd7:ec:0:0:0:0:https%3a//tv-trtcocuk.live.trt.com.tr/master.m3u8:TRT Cocuk HD
 #DESCRIPTION TRT Cocuk HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1103/index.m3u8:TRT Cocuk -2-
-#DESCRIPTION TRT Cocuk -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1104/index.m3u8:TRT Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a00z:TRT Haber HD
 #DESCRIPTION TRT Haber HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.219%3a3301:TRT Kurdi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a015:TRT Kurdi
 #DESCRIPTION TRT Kurdi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.216%3a3301:TRT Muzik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a014:TRT Muzik
 #DESCRIPTION TRT Muzik
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.215%3a3301:TRT Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a010:TRT Spor
+#DESCRIPTION TRT Spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a013:TRT Türk
 #DESCRIPTION TRT Türk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtworld.live.trt.com.tr/master.m3u8:TRT World HD
 #DESCRIPTION TRT World HD
@@ -33,62 +35,46 @@
 #DESCRIPTION TGRT EU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8:TGRT Haber
 #DESCRIPTION TGRT Haber
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1116/index.m3u8:A Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a01n:A Haber HD
 #DESCRIPTION A Haber HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.123%3a3301:A Haber -2-
-#DESCRIPTION A Haber -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1111/index.m3u8:ATV Turkiye HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a01m:ATV Turkiye HD
 #DESCRIPTION ATV Turkiye HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.127%3a3301:ATV Turkiye -2-
-#DESCRIPTION ATV Turkiye -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.195%3a3301:ATV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a02s:ATV 2
 #DESCRIPTION ATV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.128%3a3301:A Hbr
-#DESCRIPTION A Hbr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.124%3a3301:A Spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a01n:A Haber
+#DESCRIPTION A Haber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a01o:A Spor
 #DESCRIPTION A Spor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1117/index.m3u8:Beyaz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a03g:Beyaz TV
 #DESCRIPTION Beyaz TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1114/index.m3u8:CNN Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a00i:CNN Türk HD
 #DESCRIPTION CNN Türk HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1113/index.m3u8:Euro D HD
-#DESCRIPTION Euro D HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_foxtv2/live.m3u8:Fox TV
 #DESCRIPTION Fox TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8:Haber Global
 #DESCRIPTION Haber Global
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1126/index.m3u8:Haber Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a003:Haber Turk HD
 #DESCRIPTION Haber Turk HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ensonhaber.com/tv/tr/haberturk/index.m3u8:Haber Türk -2-
 #DESCRIPTION Haber Türk -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.2.83%3a3301:Kanal 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a01v:Kanal 7
 #DESCRIPTION Kanal 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kanal7.com/live/kanal7LiveDesktop/index.m3u8:Kanal 7 -2-
 #DESCRIPTION Kanal 7 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1108/index.m3u8:Kanal 7 Avrupa HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kanal7.com/live/kanal7AvrupaLive/index.m3u8:Kanal 7 Avrupa HD
 #DESCRIPTION Kanal 7 Avrupa HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1112/index.m3u8:KANAL D HD
-#DESCRIPTION KANAL D HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.2.3%3a3301:Kanal D -2-
-#DESCRIPTION Kanal D -2-
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.181%3a3301:NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a00h:Kanal D
+#DESCRIPTION Kanal D
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a00b:NTV HD
 #DESCRIPTION NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8:Power Turk
-#DESCRIPTION Power Turk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8:Power TV
-#DESCRIPTION Power TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1115/index.m3u8:Shiow Max HD
-#DESCRIPTION Shiow Max HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.2.97%3a3301:Show Max -2-
-#DESCRIPTION Show Max -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.185%3a3301:Show TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a005:Show Max HD
+#DESCRIPTION Show Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a002:Show TV
 #DESCRIPTION Show TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ensonhaber.com/tv/tr/showtv/index.m3u8:Show TV -2-
 #DESCRIPTION Show TV -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1109/index.m3u8:Star TV HD
-#DESCRIPTION Star TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.180%3a3301:Star TV -2-
-#DESCRIPTION Star TV -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=http%3a//www.dailymotion.com/video/x729whv:Star TV
+#DESCRIPTION Star TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.tiviturk.de/live/tiviturk.m3u8:Tivi Türk
 #DESCRIPTION Tivi Türk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8:Torba TV
@@ -99,13 +85,17 @@
 #DESCRIPTION TV Den
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8:TV Em
 #DESCRIPTION TV Em
-#SERVICE 1:64:229:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1101/index.m3u8:Tele 1 HD
-#DESCRIPTION Tele 1 HD
+#SERVICE 1:64:230:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.brtk.net%3a1935/live/BRTHD/playlist.m3u8:BRT 1 HD
+#DESCRIPTION BRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.brtk.net%3a1935/live/brt1/playlist.m3u8:BRT 2 HD
+#DESCRIPTION BRT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.brtk.net%3a1935/live/brt2/playlist.m3u8:BRT 3
+#DESCRIPTION BRT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com%3a1935/tv1/bant1:TV 1
 #DESCRIPTION TV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.2.5%3a3301:Teve 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a00j:Teve 2
 #DESCRIPTION Teve 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8:Kanal 3
 #DESCRIPTION Kanal 3
@@ -115,11 +105,9 @@
 #DESCRIPTION TV 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8:Kanal 5
 #DESCRIPTION Kanal 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1118/index.m3u8:TV 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a01s:TV 8 HD
 #DESCRIPTION TV 8 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.245%3a3301:TV 8 -2-
-#DESCRIPTION TV 8 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.250.60.146%3a4022/udp/239.203.1.246%3a3301:TV 8.5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a01t:TV 8.5
 #DESCRIPTION TV 8.5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//waw1.artiyerelmedya.net/kanal12/bant1/playlist.m3u8:Kanal 12
 #DESCRIPTION Kanal 12
@@ -133,6 +121,8 @@
 #DESCRIPTION Kanal 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8:Kanal 26
 #DESCRIPTION Kanal 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8:Kanal 32
+#DESCRIPTION Kanal 32
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal33/smil%3akanal33.smil/.m3u8:Kanal 33
 #DESCRIPTION Kanal 33
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/kanal34tv/kanal34tv/chunklist.m3u8:Kanal 34
@@ -159,8 +149,8 @@
 #DESCRIPTION Kanal Avrupa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8:Kanal B
 #DESCRIPTION Kanal B
-#SERVICE 1:64:22a:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
+#SERVICE 1:64:231:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8:AA Live
 #DESCRIPTION AA Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8:Afyon Turk TV
@@ -189,6 +179,8 @@
 #DESCRIPTION Bengüturk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8:Berat TV
 #DESCRIPTION Berat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8:Beyaz TV
+#DESCRIPTION Beyaz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8:Bloomberg HT
 #DESCRIPTION Bloomberg HT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/playlist.m3u8:Bodrum Belediyesi Web TV
@@ -327,6 +319,8 @@
 #DESCRIPTION Turkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch007_400/index.m3u8:Türkmenistan
 #DESCRIPTION Türkmenistan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8:TVnet
+#DESCRIPTION TVnet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.2.148.141%3a80/bar1119/index.m3u8:Ulke HD
 #DESCRIPTION Ulke HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/vuslattv/playlist.m3u8:Vuslat TV

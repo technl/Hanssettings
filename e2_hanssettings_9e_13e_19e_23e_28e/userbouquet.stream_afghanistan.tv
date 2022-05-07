@@ -1,6 +1,6 @@
 #NAME Stream Afghanistan (AF)
-#SERVICE 1:64:30a:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:317:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8:Al Sharq
 #DESCRIPTION Al Sharq
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.arianaafgtv.com/ariana/playlist.m3u8:ATN Afghan
@@ -29,8 +29,8 @@
 #DESCRIPTION Tolo News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fflivetolotv.b-cdn.net/media_1.m3u8:Tolo TV
 #DESCRIPTION Tolo TV
-#SERVICE 1:64:30b:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:318:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8:Bahar TV
 #DESCRIPTION Bahar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8:Ganje Hozour
@@ -41,7 +41,7 @@
 #DESCRIPTION Hewad TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8:Iman TV
 #DESCRIPTION Iman TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//208.93.117.113/live/Stream1/chunklist.m3u8:Kayhan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8:Kayhan TV
 #DESCRIPTION Kayhan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.mihantv.com/live/playlist.m3u8:Mihan TV
 #DESCRIPTION Mihan TV

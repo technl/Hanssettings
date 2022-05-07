@@ -21,8 +21,10 @@
 #DESCRIPTION 1 TV Music Russia BY 1
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:1 TV Music Russia BY 2 HD
 #DESCRIPTION 1 TV Music Russia BY 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.209.197.187%3a8080/udp/239.0.100.144%3a1234:2x2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8:2x2
 #DESCRIPTION 2x2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.209.197.187%3a8080/udp/239.0.100.144%3a1234:2x2 +2
+#DESCRIPTION 2x2 +2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.65.18.213/perviy_molodeginyi_3100kb.m3u8:8 Kanal Krasnoyarskiy Kray
 #DESCRIPTION 8 Kanal Krasnoyarskiy Kray
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.99.110.252/stream8/playlist.m3u8:8 Kanal Krym
@@ -121,8 +123,8 @@
 #DESCRIPTION Food Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8:Fox Life Russia
 #DESCRIPTION Fox Life Russia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8:Fox Russia
-#DESCRIPTION Fox Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/FOX_HD.m3u8:Fox Russia HD
+#DESCRIPTION Fox Russia HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Futbol TV
 #DESCRIPTION Futbol TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.gtk.tv/hls/gtyar.m3u8:Gorodskoy Telekanal (Yaroslavl')
@@ -323,6 +325,8 @@
 #DESCRIPTION Pershyy Zakhodnyy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.185.3.218%3a4000/play/603:Pervyy Kanal
 #DESCRIPTION Pervyy Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:Pervyy Muzykal'nyy Kanal
+#DESCRIPTION Pervyy Muzykal'nyy Kanal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv25.vintera.tv%3a8081/1pnk/1pnk/playlist.m3u8:PNK 1
 #DESCRIPTION PNK 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/poehali.m3u8:Poyekhali!
@@ -351,10 +355,10 @@
 #DESCRIPTION Ramowka TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//online-video.rbc.ru/online/rbctv.m3u8:Ratnik
 #DESCRIPTION Ratnik
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online-video.rbc.ru/online/rbctv.m3u8:RBK
-#DESCRIPTION RBK
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//online.video.rbc.ru/online/rbctv_576p/index.m3u8:RBK -2-
-#DESCRIPTION RBK -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online-video.rbc.ru/online/rbctv.m3u8:RBC
+#DESCRIPTION RBC
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//online.video.rbc.ru/online/rbctv_576p/index.m3u8:RBC -2-
+#DESCRIPTION RBC -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ad-hls-rentv.cdnvideo.ru/ren/smil%3aren.smil/chunklist_b1024000.m3u8:REN TV
 #DESCRIPTION REN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/RenTV.m3u8:REN TV International
@@ -365,8 +369,10 @@
 #DESCRIPTION Rodnoy Kanal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8:Rostov-Papa
 #DESCRIPTION Rostov-Papa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.rt.com/hls/rtdru.m3u8:RT Documentary Russian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uiptv.do.am/1ufc/300663722/playlist.m3u8:RT Documentary Russian
 #DESCRIPTION RT Documentary Russian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hr6yv36f.rmbl.ws/slot-30/ngrp%3asrak-wx8r_all/playlist.m3u8:RT News
+#DESCRIPTION RT News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s63/index.m3u8:RTG HD
 #DESCRIPTION RTG HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s80/index.m3u8:RTG TV
@@ -513,6 +519,8 @@
 #DESCRIPTION TV Pro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//air.tvk6.ru/tvk24/playlist.m3u8:TVK 24
 #DESCRIPTION TVK 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/tvm_edge/playlist.m3u8:TVM Channel
+#DESCRIPTION TVM Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8:TVR 24
 #DESCRIPTION TVR 24
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8:Tyumenskoye Vremya

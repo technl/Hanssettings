@@ -1,6 +1,6 @@
 #NAME Stream Bosnië-Herzegovina (BA)
-#SERVICE 1:64:27b:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:2b7:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//proxy.bihnet.net%3a88/live/b1tv.m3u8:B1 TV
 #DESCRIPTION B1 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dns2.rtvbn.com%3a8080/live/index.m3u8:BN TV
@@ -11,11 +11,13 @@
 #DESCRIPTION RTV BPK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8:RTV HB
 #DESCRIPTION RTV HB
-#SERVICE 1:64:27c:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:2b8:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/malta.m3u8:Moja TV
 #DESCRIPTION Moja TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.0.130%3a8082:Slon Extra
-#DESCRIPTION Slon Extra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//balkanmedia.dynu.net/hls/tv5web.m3u8:Televizija 5
 #DESCRIPTION Televizija 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.0.130%3a8082:TV Slon Extra
+#DESCRIPTION TV Slon Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/watch?v=YHLiGONh--I:TV Slon Info
+#DESCRIPTION TV Slon Info

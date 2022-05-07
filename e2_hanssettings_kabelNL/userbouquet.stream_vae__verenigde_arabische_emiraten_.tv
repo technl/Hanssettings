@@ -1,8 +1,4 @@
 #NAME Stream VAE (Verenigde Arabische Emiraten - AE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7207:Alerth (VAE - Arabisch)
-#DESCRIPTION Alerth (VAE - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn3.cdn.mangomolo.com/emarat/smil%3aemarat.stream.smil/playlist.m3u8:Abu Dhabi Emirates
-#DESCRIPTION Abu Dhabi Emirates
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:Al Arabiya
 #DESCRIPTION Al Arabiya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8:Al Arabiya Al Hadath
@@ -15,34 +11,40 @@
 #DESCRIPTION Al Wousta TV (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8:Al Yaum TV (720p)
 #DESCRIPTION Al Yaum TV (720p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.live.net.sa%3a1935/live/ayat/chunklist_w1642024713.m3u8:AE - Ayat (VAE - Arabisch)
-#DESCRIPTION AE - Ayat (VAE - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/chunklist_w1019651088.m3u8:GEM Comedy (VAE)
-#DESCRIPTION GEM Comedy (VAE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7207:Alerth
+#DESCRIPTION Alerth
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8:Hawas TV
 #DESCRIPTION Hawas TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8:MBC
-#DESCRIPTION MBC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8:MBC 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1 HD
+#DESCRIPTION MBC 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1 North America HD
+#DESCRIPTION MBC 1 North America HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zinachannels.zinamedia.net/ar-s/mbc-2/index.m3u8:MBC 2 HD
 #DESCRIPTION MBC 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8:MBC 3
-#DESCRIPTION MBC 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8:MBC 4
-#DESCRIPTION MBC 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.94.31.190%3a7003/play/a0c2:MBC 2 -2-
+#DESCRIPTION MBC 2 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zinachannels.zinamedia.net/ar-s/mbc-3/index.m3u8:MBC 3 HD
+#DESCRIPTION MBC 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8:MBC 3 -2-
+#DESCRIPTION MBC 3 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zinachannels.zinamedia.net/ar-s/mbc-4/index.m3u8:MBC 4 HD
+#DESCRIPTION MBC 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8:MBC 5
 #DESCRIPTION MBC 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8:MBC Action HD
-#DESCRIPTION MBC Action HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8:MBC Bollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.198%3a8000/play/a02v/index.m3u8:MBC Action
+#DESCRIPTION MBC Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.198%3a8000/play/a02y/index.m3u8:MBC Bollywood
 #DESCRIPTION MBC Bollywood
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8 :MBC Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8:MBC Drama
 #DESCRIPTION MBC Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8:MBC Drama PLUS
-#DESCRIPTION MBC Drama PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8:MBC+ Drama
+#DESCRIPTION MBC+ Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8:MBC Iraq
 #DESCRIPTION MBC Iraq
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8:MBC Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.198%3a8000/play/a02x/index.m3u8:MBC Max
 #DESCRIPTION MBC Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8:MBC Persia
+#DESCRIPTION MBC Persia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8:Sharjah TV
 #DESCRIPTION Sharjah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8:Sharjah 2
@@ -61,93 +63,47 @@
 #DESCRIPTION Weyyak Nawaem
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/yastv/smil%3ayastv.stream.smil/playlist.m3u8:Yas
 #DESCRIPTION Yas
-#SERVICE 1:64:237:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8:Zee Aflam
+#DESCRIPTION Zee Aflam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8:Zee Alwan
+#DESCRIPTION Zee Alwan
+#SERVICE 1:64:23e:0:0:0:0:0:0:0:
 #DESCRIPTION ++Abu Dhabi = hoofdstad VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/adtv/smil%3aadtv.stream.smil/playlist.m3u8:Abu Dhabi Aloula
 #DESCRIPTION Abu Dhabi Aloula
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula:Abu Dhabi TV (Abu Dhabi - Arabisch)
-#DESCRIPTION Abu Dhabi TV (Abu Dhabi - Arabisch)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama:Abu Dhabi Drama (Abu Dhabi - Arabisch)
-#DESCRIPTION Abu Dhabi Drama (Abu Dhabi - Arabisch)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/adsports1/smil%3aadsports1.stream.smil/playlist.m3u8:Abu Dhabi Sport 1 (Abu Dhabi - Arabisch)
-#DESCRIPTION Abu Dhabi Sport 1 (Abu Dhabi - Arabisch)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:Abu Dhabi Sport 2 (Abu Dhabi - Arabisch)
-#DESCRIPTION Abu Dhabi Sport 2 (Abu Dhabi - Arabisch)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3:Abu Dhabi Sport 3 (Abu Dhabi - Arabisch)
-#DESCRIPTION Abu Dhabi Sport 3 (Abu Dhabi - Arabisch)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4:Abu Dhabi Sport 4 (Abu Dhabi - Arabisch)
-#DESCRIPTION Abu Dhabi Sport 4 (Abu Dhabi - Arabisch)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat:Al Emarat (Abu Dhabi - Arabisch)
-#DESCRIPTION Al Emarat (Abu Dhabi - Arabisch)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.198%3a8000/play/a08n/index.m3u8:Abu Dhabi Drama
+#DESCRIPTION Abu Dhabi Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn3.cdn.mangomolo.com/emarat/smil%3aemarat.stream.smil/playlist.m3u8:Abu Dhabi Emirates
+#DESCRIPTION Abu Dhabi Emirates
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/adsports1/smil%3aadsports1.stream.smil/playlist.m3u8:Abu Dhabi Sports 1
+#DESCRIPTION Abu Dhabi Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn5.cdn.mangomolo.com/adsports2/smil%3aadsports2.stream.smil/playlist.m3u8:Abu Dhabi Sports 2
+#DESCRIPTION Abu Dhabi Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn3.cdn.mangomolo.com/adsports3/smil%3aadsports3.stream.smil/playlist.m3u8:Abu Dhabi Sports 3
+#DESCRIPTION Abu Dhabi Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.198%3a8000/play/a08k/index.m3u8:Abu Dhabi TV
+#DESCRIPTION Abu Dhabi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/playlist.m3u8:National Geographic Abu Dhabi
+#DESCRIPTION National Geographic Abu Dhabi
+#SERVICE 1:64:23f:0:0:0:0:0:0:0:
+#DESCRIPTION ++Dubai, stad in VAE++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/playlist.m3u8:Dubai One
+#DESCRIPTION Dubai One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/playlist.m3u8:Dubai Racing 1
+#DESCRIPTION Dubai Racing 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/playlist.m3u8:Dubai Racing 2
 #DESCRIPTION Dubai Racing 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/playlist.m3u8:National Geographic Abu Dhabi (VAE)
-#DESCRIPTION National Geographic Abu Dhabi (VAE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmiffthvll.cdn.mangomolo.com/noordubaitv/smil%3anoordubaitv.smil/playlist.m3u8:Noor Dubai
-#DESCRIPTION Noor Dubai
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotaflam/03.m3u8:Rotana Aflam (Abu Dhabi - Arabisch)
-#DESCRIPTION Rotana Aflam (Abu Dhabi - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8:Rotana Aflam - alternatief -
-#DESCRIPTION Rotana Aflam - alternatief -
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8:Rotana Cinema (Abu Dhabi - Arabisch)
-#DESCRIPTION Rotana Cinema (Abu Dhabi - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8:Rotana Cinema - alternatief -
-#DESCRIPTION Rotana Cinema - alternatief -
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8:Rotana Classic (Abu Dhabi - Arabisch)
-#DESCRIPTION Rotana Classic (Abu Dhabi - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8:Rotana Classic - alternatief -
-#DESCRIPTION Rotana Classic - alternatief -
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8:Rotana Clip (Abu Dhabi - Arabisch)
-#DESCRIPTION Rotana Clip (Abu Dhabi - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8:Rotana Clip - alternatief -
-#DESCRIPTION Rotana Clip - alternatief -
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8:Rotana Drama
-#DESCRIPTION Rotana Drama
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8:Rotana Khalijia (Abu Dhabi - Arabisch)
-#DESCRIPTION Rotana Khalijia (Abu Dhabi - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8:Rotana Khalijia - alternatief -
-#DESCRIPTION Rotana Khalijia - alternatief -
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8:Rotana Masrya (Abu Dhabi - Arabisch)
-#DESCRIPTION Rotana Masrya (Abu Dhabi - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8:Rotana Music
-#DESCRIPTION Rotana Music
-#SERVICE 1:64:238:0:0:0:0:0:0:0:
-#DESCRIPTION ++Dubai, stad in VAE++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8:3eesh Al Aan TV
-#DESCRIPTION 3eesh Al Aan TV
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione:Dubai One (Dubai - Arabisch)
-#DESCRIPTION Dubai One (Dubai - Arabisch)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmitnthvll.cdn.mangomolo.com/dubaisports/smil%3adubaisports.smil/index.m3u8:Dubai Sports 1
 #DESCRIPTION Dubai Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/index.m3u8:Dubai Sports 2
 #DESCRIPTION Dubai Sports 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil%3adubaisportshd5.smil/index.m3u8:Dubai Sports 3
 #DESCRIPTION Dubai Sports 3
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv:Dubai TV (Dubai - Arabisch)
-#DESCRIPTION Dubai TV (Dubai - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/chunklist_b1600000.m3u8?fluxustv.m3u8:Dubai Racing
-#DESCRIPTION Dubai Racing
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmiffthvll.cdn.mangomolo.com/dubaizaman/smil%3adubaizaman.smil/playlist.m3u8:Dubai Zaman (VAE)
-#DESCRIPTION Dubai Zaman (VAE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman:Dubai Zaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil%3adubaitv.stream.smil/playlist.m3u8:Dubai TV
+#DESCRIPTION Dubai TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmiffthvll.cdn.mangomolo.com/dubaizaman/smil%3adubaizaman.smil/playlist.m3u8:Dubai Zaman
 #DESCRIPTION Dubai Zaman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8:OSN Cinema 1
-#DESCRIPTION OSN Cinema 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8:MBC Drama+ (VAE)
-#DESCRIPTION MBC Drama+ (VAE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8:MBC FM (VAE)
-#DESCRIPTION MBC FM (VAE)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai:Samai Dubai (Dubai - Arabisch)
-#DESCRIPTION Samai Dubai (Dubai - Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8:Spacetoon (VAE)
-#DESCRIPTION Spacetoon (VAE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8:Star Movies (HD)
-#DESCRIPTION Star Movies (HD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8:Star World (HD)
-#DESCRIPTION Star World (HD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-wanasah-prod.shahid.net/wanasah-prod.m3u8:Wanasah (VAE)
-#DESCRIPTION Wanasah (VAE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/zeeaflam/index.m3u8:Zee Aflam
-#DESCRIPTION Zee Aflam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8:Zee Alwan
-#DESCRIPTION Zee Alwan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmiffthvll.cdn.mangomolo.com/noordubaitv/smil%3anoordubaitv.smil/playlist.m3u8:Noor Dubai
+#DESCRIPTION Noor Dubai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil%3asamadubai.stream.smil/playlist.m3u8:Sama Dubai
+#DESCRIPTION Sama Dubai

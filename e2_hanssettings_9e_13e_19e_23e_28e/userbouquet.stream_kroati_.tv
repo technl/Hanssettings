@@ -1,6 +1,6 @@
 #NAME Stream Kroatië (HR)
-#SERVICE 1:64:35d:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:36a:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226130/04.m3u8:HRT 1
 #DESCRIPTION HRT 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.89/PLTV/88888888/224/3221226140/04.m3u8:HRT 2
@@ -13,14 +13,14 @@
 #DESCRIPTION N1 Hrvatska
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8:RTL Hrvatska
 #DESCRIPTION RTL Hrvatska
-#SERVICE 1:64:35e:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Banovina TV
-#DESCRIPTION Banovina TV
+#SERVICE 1:64:36b:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_122/amlst%3a200012-111298/chunklist_b2000000.m3u8:Mary TV HD
 #DESCRIPTION Mary TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8:MAXtv Promo Kanal
 #DESCRIPTION MAXtv Promo Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Radio Televizija Banovina
+#DESCRIPTION Radio Televizija Banovina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.201.163.244%3a8080/hls/hdmi.m3u8:STV
 #DESCRIPTION STV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//185.62.75.22%3a1935/trend/myStream:Trend TV
