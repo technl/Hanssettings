@@ -75,6 +75,8 @@
 #DESCRIPTION BBC Toronto Gaunda Punjab
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8:BFlix Movies
 #DESCRIPTION BFlix Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0rj/index.m3u8:Bhojpuri Cinema
+#DESCRIPTION Bhojpuri Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//199.168.96.106%3a1935/blessingtv-tamillive/smil%3aMobilStream.smil/chunklist_w1425300954_b1600000.m3u8:Blessing TV
 #DESCRIPTION Blessing TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8:Bollywood
@@ -103,8 +105,12 @@
 #DESCRIPTION Colors Bangla
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ccw0kadyrw3e.cloudfront.net/out/v1/1e458979ab744694bbef32b7bc0a3174/index_9.m3u8:CTVN AKD Plus TV
 #DESCRIPTION CTVN AKD Plus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/darshanatv/index.m3u8:Darshana TV
+#DESCRIPTION Darshana TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8:DD National
 #DESCRIPTION DD National
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live:DD News
+#DESCRIPTION DD News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.media.nic.in/live/ddpunjabi1/index.m3u8:DD Punjabi
 #DESCRIPTION DD Punjabi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8:DD Sports
@@ -129,6 +135,8 @@
 #DESCRIPTION Divyavani TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8:DocuBay TV
 #DESCRIPTION DocuBay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8:Dream TV
+#DESCRIPTION Dream TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.144.149.82%3a8080/NOTV/DREAMHD/index.m3u8?token=GTR:Dreamz TV
 #DESCRIPTION Dreamz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.smartstream.video/smartstream-us/dy365/dy365/chunklist_w766366174.m3u8:DY 365 TV
@@ -161,6 +169,8 @@
 #DESCRIPTION Gusto TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htripura.livebox.co.in/htripurahls/htripura.m3u8:Headlines Tripura TV
 #DESCRIPTION Headlines Tripura TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0rg/index.m3u8:Hi Dost!
+#DESCRIPTION Hi Dost!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn12.henico.net%3a8080/live/jbani/index.m3u8:Hulchul TV
 #DESCRIPTION Hulchul TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetv.ibc24.in/livestream.m3u8:IBC 24
@@ -199,8 +209,12 @@
 #DESCRIPTION Jhanjar Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8:Jonack TV
 #DESCRIPTION Jonack TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCkCWitaToNG1_lR-Si1oMrg/live:Kairali News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/people/Live/Channel(People)/index.m3u8:Kairali News
 #DESCRIPTION Kairali News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.com/neestream_01/kairalitv/playlist.m3u8:Kairali TV
+#DESCRIPTION Kairali TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/kairaliwe/index.m3u8?token=693400:Kairali WE
+#DESCRIPTION Kairali WE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8:Kalaignar TV
 #DESCRIPTION Kalaignar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8:Kalinga TV
@@ -251,6 +265,8 @@
 #DESCRIPTION Manoranjan Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mntv.livebox.co.in/mntvhls/mntv.m3u8:Marutam TV
 #DESCRIPTION Marutam TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8:Mastiii
+#DESCRIPTION Mastiii
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8:Mathrubhumi News
 #DESCRIPTION Mathrubhumi News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0pa/index.m3u8:Mazhavil Manorama
@@ -423,7 +439,7 @@
 #DESCRIPTION Sardari TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//95eryw7zdwn4-hls-live.wmncdn.net/sarvdharamsangam/tv.stream/chunks.m3u8:Sarv Dharam Sangam TV
 #DESCRIPTION Sarv Dharam Sangam TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//query-streamlink.herokuapp.com/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live:Sathiyam TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live:Sathiyam TV
 #DESCRIPTION Sathiyam TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//satsangtv.sanskargroup.in/satsangtvlive.m3u8:Satsang
 #DESCRIPTION Satsang
@@ -431,7 +447,7 @@
 #DESCRIPTION SD Media
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8:Serveur TV
 #DESCRIPTION Serveur TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCHtYUfPnQci6GoUpPlWfrOg/live:Shekinah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0ok/index.m3u8:Shekinah TV
 #DESCRIPTION Shekinah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525:Shirdi Live
 #DESCRIPTION Shirdi Live

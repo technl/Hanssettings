@@ -1,5 +1,5 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:432:0:0:0:0:0:0:0:
+#SERVICE 1:64:42c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
@@ -57,8 +57,8 @@
 #DESCRIPTION Classixx (Gavere, BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.clubfmserver.be%3a8000/radioclubfm.mp3:Club FM (Eeklo - België)
 #DESCRIPTION Club FM (Eeklo - België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//14833.live.streamtheworld.com/SAM03AAC392.mp3:De goeie ouwe tijd (Poederlee)
-#DESCRIPTION De goeie ouwe tijd (Poederlee)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//26383.live.streamtheworld.com/SAM03AAC392.mp3:De Goeie Ouwe Tijd (Poederlee)
+#DESCRIPTION De Goeie Ouwe Tijd (Poederlee)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//vps.melindafm.be%3a8443/1:Decibelhuis (Ichtegem)
 #DESCRIPTION Decibelhuis (Ichtegem)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.twinmedia.be%3a8010/stream/1/:Diana Oldies (Studio 22, Gullegem)
@@ -289,14 +289,16 @@
 #DESCRIPTION Radio Media (regio Avelgem/Kluisbergen, BE) altern.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.movemedia.be/meteor:Radio Meteor (Aalter en Tielt)
 #DESCRIPTION Radio Meteor (Aalter en Tielt)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2424.cloudrad.io%3a8248/live:Radio Mfm (Brakel, SL Houtem, Zottegem, BE)
-#DESCRIPTION Radio Mfm (Brakel, SL Houtem, Zottegem, BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2424.cloudrad.io%3a8248/live:Radio Mfm (Brakel, SL Houtem, Zottegem)
+#DESCRIPTION Radio Mfm (Brakel, SL Houtem, Zottegem)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kepler.shoutca.st%3a8117/;mp3:Radio Mi Amigo International (BE)
 #DESCRIPTION Radio Mi Amigo International (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.21.16.120%3a8018/live:Radio MIG (Geraardsbergen, Ninove en Zottegem)
 #DESCRIPTION Radio MIG (Geraardsbergen, Ninove en Zottegem)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radiominerva.be/minerva:Radio Minerva (Antwerpen)
 #DESCRIPTION Radio Minerva (Antwerpen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.movemedia.be/minerva:Radio Minerva
+#DESCRIPTION Radio Minerva
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiominervanieuws.be/cursiefje.mp3:Radio Minerva cursiefje (Antwerpen)
 #DESCRIPTION Radio Minerva cursiefje (Antwerpen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiominervanieuws.be/nieuws.mp3:Radio Minerva laatste nieuws (Antwerpen)
@@ -519,7 +521,7 @@
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:433:0:0:0:0:0:0:0:
+#SERVICE 1:64:42d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)

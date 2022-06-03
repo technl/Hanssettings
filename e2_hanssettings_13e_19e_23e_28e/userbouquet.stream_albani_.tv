@@ -1,5 +1,5 @@
 #NAME Stream Albanië (AL)
-#SERVICE 1:64:2fd:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f8:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8:RTSH 1
 #DESCRIPTION RTSH 1
@@ -35,14 +35,14 @@
 #DESCRIPTION RTSH Shqip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/sport_ott_p3/playlist.m3u8:RTSH Sport
 #DESCRIPTION RTSH Sport
-#SERVICE 1:64:2fe:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f9:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2.abcnews.al/live/abcnews/chunks.m3u8:ABC News Albania
 #DESCRIPTION ABC News Albania
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albuk.dyndns.tv%3a1935/albuk/albuk.stream/playlist.m3u8:Alb UK TV
 #DESCRIPTION Alb UK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:AlbMUSIC
-#DESCRIPTION AlbMUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//albportal.net/albkanalemusic.m3u8:AlbKanale Music TV
+#DESCRIPTION AlbKanale Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.albavision.net%3a1123/live/albdreams.m3u8:ALBDREAMS TV
 #DESCRIPTION ALBDREAMS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8:ALPO

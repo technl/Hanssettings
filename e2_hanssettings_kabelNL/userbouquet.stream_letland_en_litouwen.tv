@@ -1,5 +1,5 @@
 #NAME Stream Letland (LV) en Litouwen (LT)
-#SERVICE 1:64:201:0:0:0:0:0:0:0:
+#SERVICE 1:64:1fb:0:0:0:0:0:0:0:
 #DESCRIPTION ++Letland (LV)++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a44e5b800a41.streamlock.net%3a1935/liveVLR1/mp4%3aLR1/playlist.m3u8:Latvijas Radio 1 106.1 FM Latgale
 #DESCRIPTION Latvijas Radio 1 106.1 FM Latgale
@@ -9,9 +9,9 @@
 #DESCRIPTION Ren TV Baltic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player.tvnet.lv/stream/amlst%3a61659/chunklist_w1822312625_b528000_pd892000.m3u8:TV Net
 #DESCRIPTION TV Net
-#SERVICE 1:64:202:0:0:0:0:0:0:0:
+#SERVICE 1:64:1fc:0:0:0:0:0:0:0:
 #DESCRIPTION ++Litouwen (LT)++
-#SERVICE 1:64:203:0:0:0:0:0:0:0:
+#SERVICE 1:64:1fd:0:0:0:0:0:0:0:
 #DESCRIPTION - Hoofdzenders -
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.95%3a1234:LNK
 #DESCRIPTION LNK
@@ -41,7 +41,7 @@
 #DESCRIPTION BTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.118.158.168%3a4022/udp/239.255.1.94%3a1234:Lietuvos Rytas
 #DESCRIPTION Lietuvos Rytas
-#SERVICE 1:64:204:0:0:0:0:0:0:0:
+#SERVICE 1:64:1fe:0:0:0:0:0:0:0:
 #DESCRIPTION - Overige zenders -
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-k2302-kbp.1plus1.video/sport/smil%3asport.smil/playlist.m3u8:KOK Fights
 #DESCRIPTION KOK Fights

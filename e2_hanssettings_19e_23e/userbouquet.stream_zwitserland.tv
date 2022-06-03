@@ -1,109 +1,73 @@
 #NAME Stream Zwitserland (CH)
-#SERVICE 1:64:337:0:0:0:0:0:0:0:
-#DESCRIPTION ** Hoofdzenders Publiek**
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a031:RSI LA 1 HD
-#DESCRIPTION RSI LA 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a032:RSI LA 2 HD
-#DESCRIPTION RSI LA 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03v:RTS 1 HD
-#DESCRIPTION RTS 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03d:RTS 2 HD
-#DESCRIPTION RTS 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02n:SRF 1 HD
-#DESCRIPTION SRF 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02o:SRF 2 HD
-#DESCRIPTION SRF 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02h:SRF Info HD
-#DESCRIPTION SRF Info HD
-#SERVICE 1:64:338:0:0:0:0:0:0:0:
-#DESCRIPTION ** Hoofdzenders Commercieel **
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02i:3+ HD
+#SERVICE 1:64:2ff:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a002:3+ HD
 #DESCRIPTION 3+ HD
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02j:4+ HD
-#DESCRIPTION 4+ HD
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02k:5+ HD
-#DESCRIPTION 5+ HD
-#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a02l:6+ HD
-#DESCRIPTION 6+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.schweiz5.ch/schweiz5/stream.m3u8:Schweiz 5 (Zwitserland)
-#DESCRIPTION Schweiz 5 (Zwitserland)
-#SERVICE 1:64:339:0:0:0:0:0:0:0:
-#DESCRIPTION ** Overige zenders **
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvoosa-pez0304.sctv.ch/http_adaptive_streaming/EKBJIPAAIHFIHACG.m3u8/Level(3):Auftanken.TV
-#DESCRIPTION Auftanken.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a00p:RSI La 1 HD
+#DESCRIPTION RSI La 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a00q:RSI La 2 HD
+#DESCRIPTION RSI La 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a004:RTS 1 HD
+#DESCRIPTION RTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a00b:RTS 2 HD
+#DESCRIPTION RTS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8:RTS Couleur 3
+#DESCRIPTION RTS Couleur 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a012:SRF 1 HD
+#DESCRIPTION SRF 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a017:SRF 2 HD
+#DESCRIPTION SRF 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a016:SRF Info HD
+#DESCRIPTION SRF Info HD
+#SERVICE 1:64:300:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.alsace20.fr/live/alsace20/ngrp%3aalsace20_all/playlist.m3u8:Alsace 20
 #DESCRIPTION Alsace 20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8:Canal 9
 #DESCRIPTION Canal 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canalalpha.vedge.infomaniak.com/livecast/smil%3acanalalpha.smil/manifest.m3u8:Canal Alpha
 #DESCRIPTION Canal Alpha
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8:Canal Alpha Ju
-#DESCRIPTION Canal Alpha Ju
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8:Canal Alpha Jura
+#DESCRIPTION Canal Alpha Jura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3acanalalpha/playlist.m3u8:Canal Alpha Neuchatel
 #DESCRIPTION Canal Alpha Neuchatel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8:Couleur 3
-#DESCRIPTION Couleur 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil%3a03837_tx4_720p/playlist.m3u8:DI TV
-#DESCRIPTION DI TV
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8:Die Neue Zeit TV (Zwitserland)
-#DESCRIPTION Die Neue Zeit TV (Zwitserland)
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8:Die Neue Zeit TV
+#DESCRIPTION Die Neue Zeit TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil%3adieutv.smil/playlist.m3u8:Dieu TV
 #DESCRIPTION Dieu TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5856e1a25f71a.streamlock.net/easycast9-live/mp4%3alivestreamhd5/playlist.m3u8:eo TV
 #DESCRIPTION eo TV
-#SERVICE 4097:0:1:1e:2:5:0:0:0:0:http%3a//46.101.244.86%3a8081/folx-abr/live-abr/fle/fle1/chunks.m3u8:Folx.TV (muziek voor AT + DE + CH)
-#DESCRIPTION Folx.TV (muziek voor AT + DE + CH)
-#SERVICE 1:0:1:4e23:43a:1:c00000:0:0:0:http%3a//tohome.redirectme.net%3a8001/1%3a0%3a1%3a4e23%3a43a%3a1%3ac00000%3a0%3a0%3a0:Kabel 1 Schweiz
-#DESCRIPTION Kabel 1 Schweiz
-#SERVICE 1:0:1:b6:2:5:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03n:Kanal 9 HD
-#DESCRIPTION Kanal 9 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3alivehd/master.m3u8:Kanal 9 en Français
 #DESCRIPTION Kanal 9 en Français
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8:La Télé (Zwitserland)
-#DESCRIPTION La Télé (Zwitserland)
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//lfmmd.vedge.infomaniak.com/livecast/smil%3alfmmd.smil/playlist.m3u8:LFM (Zwitserland)
-#DESCRIPTION LFM (Zwitserland)
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//62.113.221.4/tv2000plus-live/_definst_/mp4%3aquantisana/playlist.m3u8:QS24 (Zwitserland)
-#DESCRIPTION QS24 (Zwitserland)
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8:La Télé
+#DESCRIPTION La Télé
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//lfmmd.vedge.infomaniak.com/livecast/smil%3alfmmd.smil/playlist.m3u8:LFM
+#DESCRIPTION LFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.meteonews.net/hls/stream.m3u8:Meteonews
 #DESCRIPTION Meteonews
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.bitonlive.net%3a8080/hls/ottofm2/index.m3u8:Otto FM TV
 #DESCRIPTION Otto FM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rp_tv_1.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8:Radio Pilatus webcam (Zwitserland)
-#DESCRIPTION Radio Pilatus webcam (Zwitserland)
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//event.vedge.infomaniak.com/livecast/event.stream/chunklist.m3u8:Rouge TV (Zwitserland)
-#DESCRIPTION Rouge TV (Zwitserland)
-#SERVICE 4097:0:1:4e26:43a:1:c00000:0:0:0:http%3a//tohome.redirectme.net%3a8001/1%3a0%3a1%3a4E26%3a43A%3a1%3aC00000%3a0%3a0%3a0:SAT.1 CH
-#DESCRIPTION SAT.1 CH
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03r:Tele 1 HD
-#DESCRIPTION Tele 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.gruppocdt.ch/hls/teleticino.m3u8:Tele Ticino
-#DESCRIPTION Tele Ticino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.gruppocdt.ch/hls/teleticino.m3u8:Teleticino
-#DESCRIPTION Teleticino
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8:Tele Bärn HD (Zwitserland)
-#DESCRIPTION Tele Bärn HD (Zwitserland)
-#SERVICE 4097:0:1:b5:2:5:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8:Tele M1 HD (Zwitserland)
-#DESCRIPTION Tele M1 HD (Zwitserland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03q:Telebasel HD
-#DESCRIPTION Telebasel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge8.vedge.infomaniak.com/livecast/ik%3atelebielinguech/manifest.m3u8:TeleBielingue HD
-#DESCRIPTION TeleBielingue HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03u:TeleZüri HD
-#DESCRIPTION TeleZüri HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.10.117.3%3a5000/play/a03s:TVO HD
-#DESCRIPTION TVO HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.meteonews.net/hls/stream.m3u8:Wetter TV HD
-#DESCRIPTION Wetter TV HD
-#SERVICE 4097:0:1:234:0:0:0:0:0:0:https%3a//tvm3.vedge.infomaniak.com/livecast/tvm3/f1tv.m3u8:TVM3 (Zwitserland)
-#DESCRIPTION TVM3 (Zwitserland)
-#SERVICE 1:64:33a:0:0:0:0:0:0:0:
-#DESCRIPTION ++visual radio++
-#SERVICE 4097:0:1:d:2:6:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8:Radio 24 - Visual Radio (Zwitserland)
-#DESCRIPTION Radio 24 - Visual Radio (Zwitserland)
-#SERVICE 4097:0:1:b:2:6:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8:Radio Argovia - Visual Radio (Zwitserland)
-#DESCRIPTION Radio Argovia - Visual Radio (Zwitserland)
-#SERVICE 4097:0:1:b:2:6:0:0:0:0:https%3a//2-fss-2.themediacdn.com/pl_124/amlst%3a204654-1927794/playlist.m3u8:Radio Ticino Channel
-#DESCRIPTION Radio Ticino Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.gruppocdt.ch/hls/radio3i.m3u8:Radio 3i
 #DESCRIPTION Radio 3i
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rp_tv_1.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8:Radio Pilatus webcam
+#DESCRIPTION Radio Pilatus webcam
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//event.vedge.infomaniak.com/livecast/event.stream/chunklist.m3u8:Rouge TV
+#DESCRIPTION Rouge TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8:Tele 1
+#DESCRIPTION Tele 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8:Tele Bärn HD
+#DESCRIPTION Tele Bärn HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:https%3a//cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8:Tele Basel
+#DESCRIPTION Tele Basel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3atelebielinguech/manifest.m3u8:Tele Bielingue
+#DESCRIPTION Tele Bielingue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8:Tele M1
+#DESCRIPTION Tele M1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.gruppocdt.ch/hls/teleticino.m3u8:Tele Ticino
+#DESCRIPTION Tele Ticino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/WBrfPA9txtU5iuPYBt6pjA/index-s32.m3u8:Tele Züri
+#DESCRIPTION Tele Züri
+#SERVICE 4097:0:1:234:0:0:0:0:0:0:https%3a//tvm3.vedge.infomaniak.com/livecast/tvm3/f1tv.m3u8:TVM 3
+#DESCRIPTION TVM 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8:TVO
+#DESCRIPTION TVO

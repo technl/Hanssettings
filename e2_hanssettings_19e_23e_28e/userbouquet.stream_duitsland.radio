@@ -1,20 +1,30 @@
 #NAME Stream Duitsland (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-dab-mp3-mq:80s80s DAB+
 #DESCRIPTION 80s80s DAB+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-deutsch-mp3-hq:80s80s Deutsch
+#DESCRIPTION 80s80s Deutsch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-mweb-mp3-hq:80s80s Digital
+#DESCRIPTION 80s80s Digital
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-soul-mp3-hq:80s80s Funk & Soul
 #DESCRIPTION 80s80s Funk & Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-hiphop-mp3-hq:80s80s Hip Hop
+#DESCRIPTION 80s80s Hip Hop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-ndw-mp3-hq:80s80s In The Mix
 #DESCRIPTION 80s80s In The Mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-italohits-mp3-hq:80s80s Italo Disco
 #DESCRIPTION 80s80s Italo Disco
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-love-mp3-hq:80s80s Love
 #DESCRIPTION 80s80s Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80s80s.hoerradar.de/80s80s-maxis-mp3-hq:80s80s Maxis
+#DESCRIPTION 80s80s Maxis
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-mv-mp3-hq:80s80s MV
 #DESCRIPTION 80s80s MV
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-ndw-mp3-hq:80s80s NDW (Neue Deutsche Welle)
 #DESCRIPTION 80s80s NDW (Neue Deutsche Welle)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-neo-mp3-hq:80s80s Neo
 #DESCRIPTION 80s80s Neo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80s80s.hoerradar.de/80s80s-summerhits-mp3-hq:80s80s Summer
+#DESCRIPTION 80s80s Summer
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//rockantenne-hh-stream04.radiohost.de/917xfm_mp3-192:917xfm (Hamburg)
 #DESCRIPTION 917xfm (Hamburg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.live-sm.absolutradio.de/absolut-bella/stream/mp3:Absolut Radio -  Bella
@@ -373,6 +383,8 @@
 #DESCRIPTION Bremen Zwei Zeiglers Wunderbare Welt des Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3:Bremen Zwei
 #DESCRIPTION Bremen Zwei
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.brillux.radio/app:Brillux Radio
+#DESCRIPTION Brillux Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//burnfm.radionetz.de%3a8000/burn-fm.mp3:BurnFM
 #DESCRIPTION BurnFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bytefm.cast.addradio.de/bytefm/main/mid/stream:ByteFM
@@ -1677,6 +1689,8 @@
 #DESCRIPTION MusikWelle Allgäu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//meralunafm.radionetz.de%3a8001/meralunafm.mp3:Méra Luna FM (Hamburg)
 #DESCRIPTION Méra Luna FM (Hamburg)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//i2.cdn.jetstre.am%3a8000/sz%253Dnice-broadcast-media-gmbh%253Dsmb-DAB-128-mp3:Münchner Kirchenradio
+#DESCRIPTION Münchner Kirchenradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/mittelalter-net:Narrenwut
 #DESCRIPTION Narrenwut
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//82.193.248.59%3a8000/radio98einsonair:NB-Radiotreff-880

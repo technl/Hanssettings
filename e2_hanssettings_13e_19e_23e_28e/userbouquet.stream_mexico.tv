@@ -1,5 +1,5 @@
 #NAME Stream Mexico (MX)
-#SERVICE 1:64:35a:0:0:0:0:0:0:0:
+#SERVICE 1:64:355:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8:Azteca 1
 #DESCRIPTION Azteca 1
@@ -25,6 +25,8 @@
 #DESCRIPTION Canal 6 Multimedios Puebla
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8:Canal 6 Multimedios Saltillo
 #DESCRIPTION Canal 6 Multimedios Saltillo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/ReadyTV/ReadyHD/playlist.m3u8:Ready TV Canal 6
+#DESCRIPTION Ready TV Canal 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt.m3u8:Azteca 7
 #DESCRIPTION Azteca 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8:Tele Sistema Canal 9
@@ -73,7 +75,7 @@
 #DESCRIPTION UDG TV 44 Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8:Canal 45
 #DESCRIPTION Canal 45
-#SERVICE 1:64:35b:0:0:0:0:0:0:0:
+#SERVICE 1:64:356:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt2.m3u8:A+ TV
 #DESCRIPTION A+ TV
@@ -119,12 +121,16 @@
 #DESCRIPTION María Visión Mexico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8:Metropolitana del Cuzco
 #DESCRIPTION Metropolitana del Cuzco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x7v76vf:México Travel Channel
+#DESCRIPTION México Travel Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/miamitv/smil%3amiamitvROKU/chunklist_w1385319380_b2592000.m3u8:Miami TV Mexico
 #DESCRIPTION Miami TV Mexico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8:Milenio TV
 #DESCRIPTION Milenio TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8:Moovimex
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8:Moovimex
 #DESCRIPTION Moovimex
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//177.53.152.186%3a8000/play/a00g/index.m3u8:MX Old
+#DESCRIPTION MX Old
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8:MVM Noticias Oaxaca
 #DESCRIPTION MVM Noticias Oaxaca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.live.novotempo.com/tv/smil%3atvnuevotiempo.smil/playlist.m3u8:Nuevo Tiempo
@@ -139,6 +145,10 @@
 #DESCRIPTION RCG TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5caf24a595d94.streamlock.net%3a1937/stream56/stream56/playlist.m3u8:RCG TV 3
 #DESCRIPTION RCG TV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/sintesistv:Sintesis TV
+#DESCRIPTION Sintesis TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2.fastcast4u.com%3a3728/live/soniderostvlive.m3u8:Sonideros TV
+#DESCRIPTION Sonideros TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingcws20.com%3a1935/sqcs/videosqcs/playlist.m3u8:SQCS Chetumal
 #DESCRIPTION SQCS Chetumal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8:TeleFórmula
@@ -149,12 +159,22 @@
 #DESCRIPTION Teleritmo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live:Televisa Ciudad Juarez
 #DESCRIPTION Televisa Ciudad Juarez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live:Televisa Guadalajara
+#DESCRIPTION Televisa Guadalajara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live:Televisa Laguna
+#DESCRIPTION Televisa Laguna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live:Televisa Monterrey
 #DESCRIPTION Televisa Monterrey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC752DYv5vPlTSMrvEjfZXcw/live:Televisa Noreste
+#DESCRIPTION Televisa Noreste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live:Televisa San Luis Potosí
+#DESCRIPTION Televisa San Luis Potosí
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg/live:Televisa Sonora
 #DESCRIPTION Televisa Sonora
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live:Televisa Veracruz
 #DESCRIPTION Televisa Veracruz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live:Televisa Zacatecas
+#DESCRIPTION Televisa Zacatecas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vid.mega00.com%3a5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null:Tlaxcala Televisión
 #DESCRIPTION Tlaxcala Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingcws20.com%3a1935/tmtv/videotmtv/chunklist_w1798696550.m3u8:Transmedia TV Morelia
@@ -183,3 +203,5 @@
 #DESCRIPTION Uno TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8:Vallenato Internacional
 #DESCRIPTION Vallenato Internacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/Vallevision/ValleHD/playlist.m3u8:Vallevision
+#DESCRIPTION Vallevision

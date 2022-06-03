@@ -31,8 +31,8 @@
 #DESCRIPTION Radio 100,7 FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zeus.lrb.lu%3a8000/stream:Radio Aktiv 106.5 FM
 #DESCRIPTION Radio Aktiv 106.5 FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.ara.lu/stream.mp3:Radio Ara
-#DESCRIPTION Radio Ara
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.voscast.com%3a11187/RadioARA.mp3 :Radio ARA 
+#DESCRIPTION Radio ARA 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge52.streamonkey.net/radioc-live:Radio C Luxembourg
 #DESCRIPTION Radio C Luxembourg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onairradio.dyndns.org%3a8000/live:Radio Cents
@@ -69,17 +69,17 @@
 #DESCRIPTION RTL Gold
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlradio-streaming.rtl.lu/radio/rtllx/aac_256k.m3u8:RTL LX
 #DESCRIPTION RTL LX
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtldtl.hoerradar.de/rtldtl-beste-hits-mp3-128?sABC=5n36r436%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523enqvb-oebjfre.vasb&amsparams=playerid%3aradio-browser.info;skey%3a1513546806:RTL Radio
-#DESCRIPTION RTL Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3:RTL Radio 1007
 #DESCRIPTION RTL Radio 1007
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//shoutcast.rtl.lu/rtl:RTL Radio Letzebuerg
 #DESCRIPTION RTL Radio Letzebuerg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/radio/rtltodayradio/chunklist.m3u8:RTL Today Radio
-#DESCRIPTION RTL Today Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtldtl.hoerradar.de/rtldtl-beste-hits-mp3-128?sABC=5n36r436%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523enqvb-oebjfre.vasb&amsparams=playerid%3aradio-browser.info;skey%3a1513546806:RTL Radio
+#DESCRIPTION RTL Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rtl.lu/live/hls/radio/rtltodayradio:RTL Today Radio (in HLS)
 #DESCRIPTION RTL Today Radio (in HLS)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.rtl.lu/rtltodayradio:RTL Today Radio (in mp3)
 #DESCRIPTION RTL Today Radio (in mp3)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/rtltodayradio/smil%3artltodayradio.smil/1080p.m3u8:RTL Today Radio studiocam
 #DESCRIPTION RTL Today Radio studiocam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/radio/rtltodayradio/chunklist.m3u8:RTL Today Radio
+#DESCRIPTION RTL Today Radio

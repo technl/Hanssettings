@@ -1,5 +1,5 @@
 #NAME Stream Argentinië (AR)
-#SERVICE 1:64:2a5:0:0:0:0:0:0:0:
+#SERVICE 1:64:29e:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/679322/events/3782013/live.m3u8:Canal 2 Jujuy
 #DESCRIPTION Canal 2 Jujuy
@@ -19,8 +19,8 @@
 #DESCRIPTION Canal 4 Posadas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//184.154.28.210%3a1935/canal4/canal4/playlist.m3u8:Télam 4
 #DESCRIPTION Télam 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59537faa0729a.streamlock.net/cincotv/cincotv/chunklist.m3u8:Canal 5 Tigre
-#DESCRIPTION Canal 5 Tigre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59537faa0729a.streamlock.net/cincotv/cincotv/chunklist.m3u8:Canal 5
+#DESCRIPTION Canal 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8:5RTV Santa Fe
 #DESCRIPTION 5RTV Santa Fe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8:5RTV Santa Fe -2-
@@ -69,7 +69,7 @@
 #DESCRIPTION Canal 26
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8:Canal 26 -2-
 #DESCRIPTION Canal 26 -2-
-#SERVICE 1:64:2a6:0:0:0:0:0:0:0:
+#SERVICE 1:64:29f:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59c5c86e10038.streamlock.net%3a1935/6605140/6605140/playlist.m3u8:24/7 Canal de Noticias
 #DESCRIPTION 24/7 Canal de Noticias
@@ -105,6 +105,8 @@
 #DESCRIPTION ElOnce
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live:Encuentro
 #DESCRIPTION Encuentro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videohd.live%3a19360/8010/8010.m3u8:Gen TV
+#DESCRIPTION Gen TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8:Holvoet TV
 #DESCRIPTION Holvoet TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming02.arcast.com.ar%3a1935/la90fm/la90fm/chunklist_w379053794.m3u8:La 90 FM

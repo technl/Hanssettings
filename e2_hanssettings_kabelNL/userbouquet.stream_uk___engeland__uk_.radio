@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:2be:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b8:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:2bf:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b9:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -425,8 +425,8 @@
 #DESCRIPTION Erewash Sound (Derbyshire)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//109.169.46.197%3a8054/stream:Erotic Radio (Londen, Engeland, UK)
 #DESCRIPTION Erotic Radio (Londen, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.162%3a8116/stream:EruptionRadio (Romford, Engeland, UK)
-#DESCRIPTION EruptionRadio (Romford, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.162%3a8116/stream:EruptionRadio (Bristol, Cambridge, Ireland)
+#DESCRIPTION EruptionRadio (Bristol, Cambridge, Ireland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.expressfm.com/expressfm.mp3:Express FM (Portsmouth, Engeland, UK)
 #DESCRIPTION Express FM (Portsmouth, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radionomy.com/JamendoLounge?lang=nl%252cen-US%253bq%253d0.7%252cen%253bq%253d0.3:Fantastic Fifties (Engeland, UK)
@@ -811,6 +811,8 @@
 #DESCRIPTION Lionhaert Radio (Alnmwick, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net1lincoln.aac?direct=true:Lincs FM (Grantham, Engeland, UK)
 #DESCRIPTION Lincs FM (Grantham, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/sbd3c05b2d/listen:Link FM (Sheffield, Engeland) - Pakistaans
+#DESCRIPTION Link FM (Sheffield, Engeland) - Pakistaans
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n08.radiojar.com/zhyg8qga29duv?rj-ttl=5&rj-tok=AAABctc3bugAO1jceMdfdNVysw:Linedancer Radio (Engeland, UK)
 #DESCRIPTION Linedancer Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ais-sa2.cdnstream1.com/2382_128.mp3:Lite Radio (Surrey)
@@ -1569,8 +1571,6 @@
 #DESCRIPTION Visitor Radio Cambridge (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.commedia.org.uk%3a8000/wcr.mp3:Warminster Community Radio (Engeland, UK)
 #DESCRIPTION Warminster Community Radio (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/wave105.aac:Wave 105 (Engeland, UK)
-#DESCRIPTION Wave 105 (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.commedia.org.uk%3a8000/wcr.mp3:WCR FM (Warminster, Engeland)
 #DESCRIPTION WCR FM (Warminster, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/307019/stream/353876:WD Radio (Engeland, UK)

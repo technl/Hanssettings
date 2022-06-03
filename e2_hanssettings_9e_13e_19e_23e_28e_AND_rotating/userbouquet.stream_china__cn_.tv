@@ -1,5 +1,5 @@
 #NAME Stream China (CN)
-#SERVICE 1:64:11b7:0:0:0:0:0:0:0:
+#SERVICE 1:64:11cc:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225618/index.m3u8:CCTV 1 HD
 #DESCRIPTION CCTV 1 HD
@@ -41,7 +41,7 @@
 #DESCRIPTION CETV 2
 #SERVICE 4097:0:1:1b02:3fe:1:c00000:0:0:0:http%3a//news.cgtn.com/resource/live/english/cgtn-news.m3u8:CGTN
 #DESCRIPTION CGTN
-#SERVICE 1:64:11b8:0:0:0:0:0:0:0:
+#SERVICE 1:64:11cd:0:0:0:0:0:0:0:
 #DESCRIPTION ++landelijk++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8:Asian American Television - AAT TV
 #DESCRIPTION Asian American Television - AAT TV
@@ -129,11 +129,7 @@
 #DESCRIPTION Yanbian TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8:Youman Cartoon
 #DESCRIPTION Youman Cartoon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8:Zhejiang Satellite TV
-#DESCRIPTION Zhejiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//seb.sason.top/sc/ztxw_fhd.m3u8:Zhongtian News
-#DESCRIPTION Zhongtian News
-#SERVICE 1:64:11b9:0:0:0:0:0:0:0:
+#SERVICE 1:64:11ce:0:0:0:0:0:0:0:
 #DESCRIPTION ++regionaal++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8:Bazhong Comprehensive
 #DESCRIPTION Bazhong Comprehensive
@@ -151,8 +147,12 @@
 #DESCRIPTION Chaoan Film and Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qxlmlive.cbg.cn%3a1935/app_2/ls_56.stream/chunklist.m3u8:Chongqing Mobile Airport Channel
 #DESCRIPTION Chongqing Mobile Airport Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qxlmlive.cbg.cn%3a1935/app_2/ls_35.stream/chunklist.m3u8:Chóngqìng Zhōng Xiàn
+#DESCRIPTION Chóngqìng Zhōng Xiàn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8:Daqing News Comprehensive
 #DESCRIPTION Daqing News Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//60.175.115.119%3a1935/live/wenhua/playlist.m3u8:Fèng Tái wénhuà Shēnghuó
+#DESCRIPTION Fèng Tái wénhuà Shēnghuó
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream6.fjtv.net/child/sd/live.m3u8:Fujian Children
 #DESCRIPTION Fujian Children
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.fjtv.net/zhpd/sd/live.m3u8:Fujian Comprehensive
@@ -167,6 +167,8 @@
 #DESCRIPTION Fujian Tourism
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.fjtv.net/dsjpd/sd/live.m3u8:Fujian TV Series
 #DESCRIPTION Fujian TV Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbfc.chinashadt.com%3a2036/live/6.stream/playlist.m3u8:Héběi Jīngjì
+#DESCRIPTION Héběi Jīngjì
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pili-live-hls.hebitv.com/hebi/hebi.m3u8:Hebi News Comprehensive
 #DESCRIPTION Hebi News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/hyzh/sd/live.m3u8:Heyuan Comprehensive
@@ -233,8 +235,12 @@
 #DESCRIPTION Lianyungang Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.lyg1.com/ggpd/sd/live.m3u8:Lianyungang Public
 #DESCRIPTION Lianyungang Public
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8:Liáoníng Wèishì
+#DESCRIPTION Liáoníng Wèishì
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8:Lichuan Public Channel
 #DESCRIPTION Lichuan Public Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hblh.chinashadt.com%3a2036/live/stream%3alh2.stream/playlist.m3u8:Lóng Huà Yǐngshì
+#DESCRIPTION Lóng Huà Yǐngshì
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.china-latv.com/channel3/sd/live.m3u8:Lu'an Film and Television Life
 #DESCRIPTION Lu'an Film and Television Life
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.china-latv.com/channel1/sd/live.m3u8:Lu'an News Comprehensive
@@ -357,6 +363,8 @@
 #DESCRIPTION Shaoguan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//218.17.99.211%3a5080/livestream/ttsw6ccn.flv:Shekou Comprehensive
 #DESCRIPTION Shekou Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbsz.chinashadt.com%3a2036/live/stream%3asztv.stream/playlist.m3u8:Shēn Zhōu Zònghé Píndào
+#DESCRIPTION Shēn Zhōu Zònghé Píndào
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//scgctvshow.sctv.com/hdlive/sctv2/index.m3u8:Sichuan Cultural Tourism
 #DESCRIPTION Sichuan Cultural Tourism
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//scgctvshow.sctv.com/hdlive/sctv3/index.m3u8:Sichuan Economy
@@ -383,6 +391,8 @@
 #DESCRIPTION Wanzhou Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123.146.162.24%3a8013/tslslive/PU2vzMI/hls/live_sd.m3u8:Wanzhou Three Gorges Migrants
 #DESCRIPTION Wanzhou Three Gorges Migrants
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wjyanghu.com/live/CH1.m3u8:Wǔjìn Xīnwén
+#DESCRIPTION Wǔjìn Xīnwén
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.kxm.xmtv.cn/xmyidong/tvzb/live.m3u8:Xiamen Mobile TV
 #DESCRIPTION Xiamen Mobile TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8:Xiamen Star
@@ -415,8 +425,8 @@
 #DESCRIPTION Yangjiang Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8:Yixing News Channel
 #DESCRIPTION Yixing News Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hnyz.chinashadt.com%3a2036/live/stream%3atv1.stream_360p/playlist.m3u8:Yizhang News Comprehensive
-#DESCRIPTION Yizhang News Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hnyz.chinashadt.com%3a2036/live/stream%3atv1.stream_360p/playlist.m3u8:Yí Zhāng Xīnwén Zònghé
+#DESCRIPTION Yí Zhāng Xīnwén Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hnyz.chinashadt.com%3a2036/live/stream%3atv2.stream_360p/playlist.m3u8:Yizhang Social Legal System
 #DESCRIPTION Yizhang Social Legal System
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/yfzh/sd/live.m3u8:Yunfu Comprehensive
@@ -437,6 +447,12 @@
 #DESCRIPTION Zhangpu News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8:Zhāngzhōu Xīnwén Zònghé
 #DESCRIPTION Zhāngzhōu Xīnwén Zònghé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8:Zhejiang Satellite TV
+#DESCRIPTION Zhejiang Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qxlmlive.cbg.cn%3a1935/app_2/_definst_/ls_35.stream/playlist.m3u8:Zhōng Xiàn Zònghé
+#DESCRIPTION Zhōng Xiàn Zònghé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//seb.sason.top/sc/ztxw_fhd.m3u8:Zhongtian News
+#DESCRIPTION Zhongtian News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.zkxww.com%3a1935/live4/mp4%3ach4-500k/playlist.m3u8:Zhoukou Graphic Information
 #DESCRIPTION Zhoukou Graphic Information
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.zkxww.com%3a1935/live3/mp4%3ach3-500k/playlist.m3u8:Zhoukou Science, Education and Culture

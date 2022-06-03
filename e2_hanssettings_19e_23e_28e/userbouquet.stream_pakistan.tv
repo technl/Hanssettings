@@ -3,14 +3,14 @@
 #DESCRIPTION 92 News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
 #DESCRIPTION 92 News UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8:AVT Khyber
-#DESCRIPTION AVT Khyber
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.arylive.com/arymusik/myStream/index.m3u8:ARY Musik
 #DESCRIPTION ARY Musik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arylive.com/aryqtv/myStream/index.m3u8:ARY QTV
 #DESCRIPTION ARY QTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamone.simpaisa.com%3a8443/pitvlive1/atv.smil/playlist.m3u8:ATV
 #DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamone.simpaisa.com%3a8443/pitvlive1/khyber.smil/playlist.m3u8:AVT Khyber
+#DESCRIPTION AVT Khyber
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamone.simpaisa.com%3a8443/pitvlive1/awaztv.smil/playlist.m3u8:Awaz TV
 #DESCRIPTION Awaz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p:Barkat TV
@@ -41,6 +41,8 @@
 #DESCRIPTION Harpal Geo TV Entertainment
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8?720p:HK TV  
 #DESCRIPTION HK TV  
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn61.liveonlineservices.com/hls/humraaz.m3u8:Humraaz TV
+#DESCRIPTION Humraaz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1909304242_b864000.m3u8:IIPC TV English
 #DESCRIPTION IIPC TV English
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive83-lh.akamaihd.net/i/dclive_1@16005/index_150_av-p.m3u8?sd=10&rebase=on:Jhumar TV

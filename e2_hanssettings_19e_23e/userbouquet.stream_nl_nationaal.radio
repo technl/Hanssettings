@@ -1,5 +1,5 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:38f:0:0:0:0:0:0:0:
+#SERVICE 1:64:356:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders++
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
@@ -11,8 +11,6 @@
 #DESCRIPTION NPO 3FM KX
 #SERVICE 4097:0:2:525b:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl/radio4-bb-mp3:NPO Radio 4
 #DESCRIPTION NPO Radio 4
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/radio4-eigentijds-mp3:NPO Radio 4 Concerten
-#DESCRIPTION NPO Radio 4 Concerten
 #SERVICE 4097:0:2:525c:c99:3:eb0000:0:0:0:http%3a//ics2nss.omroep.nl%3a80/radio5-bb-mp3:NPO Radio 5
 #DESCRIPTION NPO Radio 5
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/radio6-bb-mp3:NPO Soul & Jazz
@@ -43,7 +41,7 @@
 #DESCRIPTION FunX Utrecht
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
 #DESCRIPTION Spreekbuis Radio
-#SERVICE 1:64:390:0:0:0:0:0:0:0:
+#SERVICE 1:64:357:0:0:0:0:0:0:0:
 #DESCRIPTION ++(commerciële) HOOFDzenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//40rockstream.live-streams.nl/live:40ROCK Radio
 #DESCRIPTION 40ROCK Radio
@@ -201,10 +199,12 @@
 #DESCRIPTION Grolsch 0.0 FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice.cr6.streamzilla.xlcdn.com%3a8000/sz=Hallokidsradio=mp3:HalloKids Radio
 #DESCRIPTION HalloKids Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hetstamcafe.stream-server.nl/stream:Het Stamcafe.nl
-#DESCRIPTION Het Stamcafe.nl
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hetstamcafe.nl/hetstamcafe.mp3:Het Stamcafe.nl
-#DESCRIPTION Het Stamcafe.nl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hetstamcafe.stream-server.nl/stream:Het Stamcafé
+#DESCRIPTION Het Stamcafé
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hetstamcafe.nl/hetstamcafe.mp3:Het Stamcafé
+#DESCRIPTION Het Stamcafé
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitzzz.nl/hitzzz:Hitzzz!!
+#DESCRIPTION Hitzzz!!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-67.stream-server.nl%3a8400:Hot Radio Hits
 #DESCRIPTION Hot Radio Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.164.95.243%3a8035/HOT:Hot Traxx (Camfactor)
@@ -269,6 +269,8 @@
 #DESCRIPTION LINDA.NL Linda Lievelings
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TALPA_TRIAL_SC01.mp3 :LINDA.NL Zomer In Je Bol
 #DESCRIPTION LINDA.NL Zomer In Je Bol
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediaserv68.live-streams.nl%3a18014/stream:Loopreizen Radio
+#DESCRIPTION Loopreizen Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.lxclassics.com/:LX-Classics
 #DESCRIPTION LX-Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.magicfm.nl/magicfm:Magic FM
@@ -335,10 +337,10 @@
 #DESCRIPTION Radio Decibel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.globallogic.nl/decibel.mp3:Radio Decibel
 #DESCRIPTION Radio Decibel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25433.live.streamtheworld.com/DECIBEL80S.mp3:Radio Decibel 80's Music
-#DESCRIPTION Radio Decibel 80's Music
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/DECIBELEURODANCE.mp3:Radio Decibel Eurodance
 #DESCRIPTION Radio Decibel Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25433.live.streamtheworld.com/DECIBEL80S.mp3:Radio Decibel Greatest Hits
+#DESCRIPTION Radio Decibel Greatest Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.decibel.nl/ibiza.mp3:Radio Decibel Ibiza
 #DESCRIPTION Radio Decibel Ibiza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.34.205%3a8368/stream:Radio Mi Amigo, de échte
@@ -467,7 +469,7 @@
 #DESCRIPTION Wild FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
 #DESCRIPTION ZTACK
-#SERVICE 1:64:391:0:0:0:0:0:0:0:
+#SERVICE 1:64:358:0:0:0:0:0:0:0:
 #DESCRIPTION ++religieus++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
 #DESCRIPTION Bright FM
@@ -499,7 +501,7 @@
 #DESCRIPTION Trans World Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
 #DESCRIPTION Urk FM Geestelijk
-#SERVICE 1:64:392:0:0:0:0:0:0:0:
+#SERVICE 1:64:359:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
 #DESCRIPTION 18Hits (NL Nationaal)

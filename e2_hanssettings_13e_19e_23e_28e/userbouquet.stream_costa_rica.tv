@@ -1,10 +1,14 @@
 #NAME Stream Costa Rica (CR)
-#SERVICE 1:64:329:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:324:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teleunotv.cr%3a1935/TVUNO/TVUNO/playlist.m3u8:Tele 1 TV
 #DESCRIPTION Tele 1 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//inliveserver.com%3a1935/14510/14510/playlist.m3u8:Antena 6
 #DESCRIPTION Antena 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil%3alive.smil/playlist.m3u8:Canal 6
+#DESCRIPTION Canal 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x29e3wg:Teletica 7
+#DESCRIPTION Teletica 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http%3a//www.multimedios.com:Canal 8
 #DESCRIPTION Canal 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/TVSUR/TVSUR/playlist.m3u8:TV Sur Canal 9
@@ -23,14 +27,16 @@
 #DESCRIPTION Anexion TV 36
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.info/canal38/envivo/playlist.m3u8:Canal 38 HD
 #DESCRIPTION Canal 38 HD
-#SERVICE 1:64:32a:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:325:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:Colosal TV HD
 #DESCRIPTION Colosal TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.livestream.com/60fd3829_a5d997b6ddff9adb9848157f58b078baffdf2d03/events/000000000023030a/ada22c4b-e944-4de1-8cc3-a7dec8b01177_446.m3u8:Enlace Juvenil
 #DESCRIPTION Enlace Juvenil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:Extrema TV
 #DESCRIPTION Extrema TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/HBTV/HBTV/playlist.m3u8:HBTV TicaVisión
+#DESCRIPTION HBTV TicaVisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/chunklist_w1223558379.m3u8:Radio 88 Stereo
 #DESCRIPTION Radio 88 Stereo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.sradiotv.com%3a1936/8064/8064/playlist.m3u8:San Rafael en Linea

@@ -1,29 +1,35 @@
 #NAME Stream Venezuela (VE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/radiodigitalfm/radiodigitalfm/chunklist.m3u8:Cadena Digital 100.7 FM Caracas
-#DESCRIPTION Cadena Digital 100.7 FM Caracas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.189.191.70%3a1935/corazonllanerotvweb/corazonllanerotvweb/chunklist_w1799524531.m3u8:Corazón Llanero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcp.myplaytv.com/petrotv/petrotv/playlist.m3u8:BitRadio
+#DESCRIPTION BitRadio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcp.myplaytv.com/canali/canali/playlist.m3u8:Canal i
+#DESCRIPTION Canal i
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8:Canal Nubeh TV
+#DESCRIPTION Canal Nubeh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/catatumbotv/catatumbotv/playlist.m3u8:Catatumbo
+#DESCRIPTION Catatumbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcp.myplaytv.com/coll/coll/playlist.m3u8:Corazón Llanero
 #DESCRIPTION Corazón Llanero
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com/promar/promar/chunklist_w1402153935.m3u8:Noticias de Barquisimeto (Venezuela)
-#DESCRIPTION Noticias de Barquisimeto (Venezuela)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rcnhd.cdn.net.co/live04/ntn24_480p.m3u8:NTN24 (Venezuela)
-#DESCRIPTION NTN24 (Venezuela)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.wms28.lorini.net/promar/promar/live.m3u8:Promar TV (Venezuela)
-#DESCRIPTION Promar TV (Venezuela)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist_w256483679.m3u8:TeleSUR - Internacional Spaans (Venezuela)
-#DESCRIPTION TeleSUR - Internacional Spaans (Venezuela)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d7g1ebft2592.cloudfront.net/mblivev3/hd/chunklist_w1496259205.m3u8:TeleSUR - International Engels (Venezuela)
-#DESCRIPTION TeleSUR - International Engels (Venezuela)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8 :TeleSUR
-#DESCRIPTION TeleSUR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7.innovatestream.pe%3a19360/oasisrtv/oasisrtv.m3u8:Oasis RTV Trujillo
+#DESCRIPTION Oasis RTV Trujillo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8:Oxigeno TV
+#DESCRIPTION Oxigeno TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com/promar/promar/chunklist_w1402153935.m3u8:Promar TV
+#DESCRIPTION Promar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8:Telesur
+#DESCRIPTION Telesur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud.streamingconnect.tv%3a455/televen/televenweb.m3u8:Televen
+#DESCRIPTION Televen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/tvo/tvo/chunklist_w545582271.m3u8:Televisora de Oriente
 #DESCRIPTION Televisora de Oriente
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8:TLT 
-#DESCRIPTION TLT 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.wms28.lorini.net/tvo/tvo/playlist.m3u8:TVO (muziek - Venezuela)
-#DESCRIPTION TVO (muziek - Venezuela)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.wms28.lorini.net/valetv/valetv/playlist.m3u8:Vale TV (Venezuela)
-#DESCRIPTION Vale TV (Venezuela)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//593fa17dec176.streamlock.net%3a455/vtvweb4/vtvweb4/playlist.m3u8:Venezolana de TV (Venezuela)
-#DESCRIPTION Venezolana de TV (Venezuela)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8:TNO Radio
+#DESCRIPTION TNO Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn01.yowi.tv/KPFPGJU8A6/master.m3u8:TV Familia
+#DESCRIPTION TV Familia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com/valetv/valetv/playlist.m3u8:Vale TV
+#DESCRIPTION Vale TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.122.96.187%3a8888/http/006:Ve Plus
+#DESCRIPTION Ve Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/tvepaco/tvepaco/playlist.m3u8:Vepaco TV
 #DESCRIPTION Vepaco TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.161.188.242%3a88/vidatv/index.m3u8:Vida TV
+#DESCRIPTION Vida TV

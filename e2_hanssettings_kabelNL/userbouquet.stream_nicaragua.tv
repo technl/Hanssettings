@@ -1,6 +1,10 @@
 #NAME Stream Nicaragua (NI)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/canal6nicaraguaoficial:Canal 6
+#DESCRIPTION Canal 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_.m3u8:Canal 12
 #DESCRIPTION Canal 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/vivanicaragua13:Viva Nicaragua Canal 13
+#DESCRIPTION Viva Nicaragua Canal 13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8:Enlace 21
 #DESCRIPTION Enlace 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar%3a1935/live/26hd-720/playlist.m3u8:Canal 26

@@ -1,5 +1,5 @@
 #NAME Stream Italiië (IT)
-#SERVICE 1:64:450:0:0:0:0:0:0:0:
+#SERVICE 1:64:449:0:0:0:0:0:0:0:
 #DESCRIPTION ++RAI++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:RAI Radio 1
 #DESCRIPTION RAI Radio 1
@@ -31,7 +31,7 @@
 #DESCRIPTION Rai Radio Techetè
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it/4.mp3:Rai Radio Tutta Italiana
 #DESCRIPTION Rai Radio Tutta Italiana
-#SERVICE 1:64:451:0:0:0:0:0:0:0:
+#SERVICE 1:64:44a:0:0:0:0:0:0:0:
 #DESCRIPTION ++festival San Remo, themazenders++
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um049.mp3:Music Radio Festival Le Canzoni Vincitrici
 #DESCRIPTION Music Radio Festival Le Canzoni Vincitrici
@@ -41,7 +41,7 @@
 #DESCRIPTION United Music Radio Festival 1951-1999
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um112.mp3:United Music Radio Festival 2000-2021
 #DESCRIPTION United Music Radio Festival 2000-2021
-#SERVICE 1:64:452:0:0:0:0:0:0:0:
+#SERVICE 1:64:44b:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
 #DESCRIPTION 105 Indie
@@ -55,6 +55,26 @@
 #DESCRIPTION CIAO COMO RADIO
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/dimensioneradio-128.mp3:DIMENSIONE RADIO
 #DESCRIPTION DIMENSIONE RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8:Deejay 30 Songs
+#DESCRIPTION Deejay 30 Songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb10-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/live.m3u8 :Deejay 80s
+#DESCRIPTION Deejay 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb9-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8:Deejay Gasolina
+#DESCRIPTION Deejay Gasolina
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayontheroad/playlist.m3u8:Deejay on the Road
+#DESCRIPTION Deejay on the Road
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/live.m3u8:Deejay One Love
+#DESCRIPTION Deejay One Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/live.m3u8:Deejay One Two One Two
+#DESCRIPTION Deejay One Two One Two
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb11-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/live.m3u8:Deejay Radio Linetti
+#DESCRIPTION Deejay Radio Linetti
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb5-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/live.m3u8:Deejay Suona Italia
+#DESCRIPTION Deejay Suona Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/live.m3u8:Deejay Time
+#DESCRIPTION Deejay Time
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/live.m3u8:Deejay Tropical Pizza
+#DESCRIPTION Deejay Tropical Pizza
 #SERVICE 4097:0:2:285:0:0:0:0:0:0:http%3a//nr9.newradio.it%3a9071/:GAMMA RADIO
 #DESCRIPTION GAMMA RADIO
 #SERVICE 4097:0:2:285:0:0:0:0:0:0:https%3a//gr.fluidstream.eu/gr1.mp3:Giornale Radio All News
@@ -111,6 +131,12 @@
 #DESCRIPTION LOLLI RADIO Oldies (IT)
 #SERVICE 4097:0:2:175:0:0:0:0:0:0:https%3a//stream.lolliradio.net/lolli_soft.mp3:LOLLI RADIO SOFT NOTIZIE
 #DESCRIPTION LOLLI RADIO SOFT NOTIZIE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nr7.newradio.it%3a19353/stream:Luceverde Radio
+#DESCRIPTION Luceverde Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8:M2o
+#DESCRIPTION M2o
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8:M2o Dance
+#DESCRIPTION M2o Dance
 #SERVICE 4097:0:2:201:0:0:0:0:0:0:http%3a//nr5.newradio.it%3a8545/stream:NEW RADIO
 #DESCRIPTION NEW RADIO
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//edge.radiomontecarlo.net/rmcweb003:R&B
@@ -179,8 +205,20 @@
 #DESCRIPTION RADIO CAFE'
 #SERVICE 4097:0:2:155:0:0:0:0:0:0:http%3a//188.13.39.146%3a8000/;:RADIO CALOLZIO
 #DESCRIPTION RADIO CALOLZIO
-#SERVICE 4097:0:2:51:0:0:0:0:0:0:http%3a//radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8:Radio Capital
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rci.canaleitalia.tv%3a8007/:Radio Canale Italia
+#DESCRIPTION Radio Canale Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8:Radio Capital
 #DESCRIPTION Radio Capital
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb8-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/live.m3u8:Radio Capital Classic Rock
+#DESCRIPTION Radio Capital Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8:Radio Capital Funky Town
+#DESCRIPTION Radio Capital Funky Town
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalmusic/playlist.m3u8:Radio Capital Music
+#DESCRIPTION Radio Capital Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/live.m3u8:Radio Capital Soft
+#DESCRIPTION Radio Capital Soft
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/live.m3u8:Radio Capital W L'Italia
+#DESCRIPTION Radio Capital W L'Italia
 #SERVICE 4097:0:2:389:0:0:0:0:0:0:http%3a//mp3.rtvslo.si/capo:Radio capodistria
 #DESCRIPTION Radio capodistria
 #SERVICE 4097:0:2:321:0:0:0:0:0:0:http%3a//37.187.93.104%3a8054/stream:RADIO CARINA
@@ -201,11 +239,13 @@
 #DESCRIPTION RADIO COMPANY
 #SERVICE 4097:0:2:107:0:0:0:0:0:0:http%3a//nr9.newradio.it%3a9029:RADIO CUORE
 #DESCRIPTION RADIO CUORE
+#SERVICE 4097:0:2:107:0:0:0:0:0:0:https%3a//bay1.streamfm.it%3a8030/aacp:Radio Cusano Campus
+#DESCRIPTION Radio Cusano Campus
 #SERVICE 4097:0:2:217:0:0:0:0:0:0:http%3a//37.247.49.19/105Dance90.mp3:RADIO DANCE 90
 #DESCRIPTION RADIO DANCE 90
 #SERVICE 4097:0:2:129:0:0:0:0:0:0:http%3a//dreamsiteradiocp3.com%3a8024/;:RADIO DANCE TRIESTE
 #DESCRIPTION RADIO DANCE TRIESTE
-#SERVICE 4097:0:2:47:0:0:0:0:0:0:http%3a//radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8:Radio Deejay
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8:Radio Deejay
 #DESCRIPTION Radio Deejay
 #SERVICE 4097:0:2:353:0:0:0:0:0:0:http%3a//dimensioneradio.ice.infomaniak.ch/dimensioneradio-128.mp3:RADIO DIMENSIONE
 #DESCRIPTION RADIO DIMENSIONE
@@ -251,8 +291,12 @@
 #DESCRIPTION RADIO IBIZA
 #SERVICE 4097:0:2:251:0:0:0:0:0:0:http%3a//nr7.newradio.it%3a9375/;stream.mp3:RADIO INCONTRO DONNA
 #DESCRIPTION RADIO INCONTRO DONNA
-#SERVICE 4097:0:2:185:0:0:0:0:0:0:https%3a//radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/index_1_a-p.m3u8?sd=10&rebase=on:Radio Italia (Italië)
-#DESCRIPTION Radio Italia (Italië)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/index_1_a-p.m3u8?sd=10&rebase=on:Radio Italia
+#DESCRIPTION Radio Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.xdevel.com/audio2s976608-1381/stream/icecast.audio:Radio Italia San Remo
+#DESCRIPTION Radio Italia San Remo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.xdevel.com/audio0s976608-1379/stream/icecast.audio:Radio Italia Trend
+#DESCRIPTION Radio Italia Trend
 #SERVICE 4097:0:2:185:0:0:0:0:0:0:https%3a//str01.fluidstream.net/anni60.mp3:Radio Italia Anni 60 Trentino Alto Adige 
 #DESCRIPTION Radio Italia Anni 60 Trentino Alto Adige 
 #SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.radiojeans.net/rj_hiphop_rb:RADIO JEANS
@@ -315,8 +359,10 @@
 #DESCRIPTION RADIO NON SOLO SUONI
 #SERVICE 4097:0:2:97:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8218/:RADIO NORBA
 #DESCRIPTION RADIO NORBA
-#SERVICE 4097:0:2:203:0:0:0:0:0:0:http%3a//ice12.fluidstream.net/rn1.mp3:RADIO NUMBER ONE
-#DESCRIPTION RADIO NUMBER ONE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice12.fluidstream.net/rn1.mp3:Radio Number ONE
+#DESCRIPTION Radio Number ONE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice12.fluidstream.net/rn1.mp3:Radio Number ONE
+#DESCRIPTION Radio Number ONE
 #SERVICE 4097:0:2:371:0:0:0:0:0:0:http%3a//eu1.fastcast4u.com%3a10942:RADIO NUOVA SANGIORGIO
 #DESCRIPTION RADIO NUOVA SANGIORGIO
 #SERVICE 4097:0:2:393:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a8118/;stream.mp3:RADIO ONDA LIGURE

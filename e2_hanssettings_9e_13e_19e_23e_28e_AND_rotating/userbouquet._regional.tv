@@ -1,44 +1,50 @@
 #NAME  Regional
-#SERVICE 1:64:cc9:0:0:0:0:0:0:0:
+#SERVICE 1:64:cce:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Belintersat 1 (51.5E) - Ku Band ●●●●
-#SERVICE 1:64:cca:0:0:0:0:0:0:0:
+#SERVICE 1:64:ccf:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Fotelka  ———
 #SERVICE 1:0:19:12:12e:162d:2030000:0:0:0:
-#SERVICE 1:64:ccb:0:0:0:0:0:0:0:
+#SERVICE 1:64:cd0:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Turksat 2A / Turksat 3A (42.0�E) ●●●●
-#SERVICE 1:64:ccc:0:0:0:0:0:0:0:
+#SERVICE 1:64:cd1:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TURKSAT  ———
 #SERVICE 1:0:1:cf10:7aaa:42e:1a40000:0:0:0:
 #SERVICE 1:0:19:ca6d:7b0e:42e:1a40000:0:0:0:
-#SERVICE 1:64:ccd:0:0:0:0:0:0:0:
+#SERVICE 1:64:cd2:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat W4 / Eutelsat W7 (36.0�E) ●●●●
-#SERVICE 1:64:cce:0:0:0:0:0:0:0:
+#SERVICE 1:64:cd3:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Multichoice Africa  ———
 #SERVICE 1:0:1:1b5f:ff7f:36e:1680000:0:0:0:
-#SERVICE 1:64:ccf:0:0:0:0:0:0:0:
+#SERVICE 1:64:cd4:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eurobird 1 / Astra 1N / Astra 2A / Astra 2B / Astra 2D (28.2�E) ●●●●
-#SERVICE 1:64:cd0:0:0:0:0:0:0:0:
+#SERVICE 1:64:cd5:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Freesat  ———
 #SERVICE 1:0:19:514a:810:2:11a0000:0:0:0:
-#SERVICE 1:64:cd1:0:0:0:0:0:0:0:
+#SERVICE 1:64:cd6:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Sky Digital  ———
 #SERVICE 1:0:1:1917:7ff:2:11a0000:0:0:0:
 #SERVICE 1:0:19:50fa:80f:2:11a0000:0:0:0:
 #SERVICE 1:0:1:585f:82e:2:11a0000:0:0:0:
-#SERVICE 1:64:cd2:0:0:0:0:0:0:0:
+#SERVICE 1:64:cd7:0:0:0:0:0:0:0:
+#DESCRIPTION ●●●● Badr 5 / Badr 4 / Badr 6 (26.0�E) ●●●●
+#SERVICE 1:64:cd8:0:0:0:0:0:0:0:
+#DESCRIPTION ———  Digi TV  ———
+#SERVICE 1:0:19:1fe5:1e87:2be:1040000:0:0:0:
+#SERVICE 1:0:19:1fe3:1e87:2be:1040000:0:0:0:
+#SERVICE 1:64:cd9:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Astra 3B / Astra 3A / Thor 2 (23.5�E) ●●●●
-#SERVICE 1:64:cd3:0:0:0:0:0:0:0:
+#SERVICE 1:64:cda:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Canal Digitaal  ———
 #SERVICE 1:0:19:5268:c99:3:eb0000:0:0:0:
 #SERVICE 1:0:19:524d:c99:3:eb0000:0:0:0:
 #SERVICE 1:0:19:5250:c99:3:eb0000:0:0:0:
 #SERVICE 1:0:19:5265:c99:3:eb0000:0:0:0:
 #SERVICE 1:0:19:5252:c99:3:eb0000:0:0:0:
-#SERVICE 1:64:cd4:0:0:0:0:0:0:0:
+#SERVICE 1:64:cdb:0:0:0:0:0:0:0:
 #DESCRIPTION ———  M7 Group  ———
 #SERVICE 1:0:19:312:c94:3:eb0000:0:0:0:
 #SERVICE 1:0:19:524f:c99:3:eb0000:0:0:0:
-#SERVICE 1:64:cd5:0:0:0:0:0:0:0:
+#SERVICE 1:64:cdc:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Telekom Srbija  ———
 #SERVICE 1:0:19:4ede:c81:3:eb0000:0:0:0:
 #SERVICE 1:0:19:4ee0:c81:3:eb0000:0:0:0:
@@ -46,16 +52,16 @@
 #SERVICE 1:0:19:4e80:c86:3:eb0000:0:0:0:
 #SERVICE 1:0:19:4ee4:c81:3:eb0000:0:0:0:
 #SERVICE 1:0:19:4edf:c8a:3:eb0000:0:0:0:
-#SERVICE 1:64:cd6:0:0:0:0:0:0:0:
+#SERVICE 1:64:cdd:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Astra 1KR / Astra 1L / Astra 2C / Astra 1M / Astra 1H (19.2�E) ●●●●
-#SERVICE 1:64:cd7:0:0:0:0:0:0:0:
+#SERVICE 1:64:cde:0:0:0:0:0:0:0:
 #DESCRIPTION ———    ———
 #SERVICE 1:0:19:16af:3ff:1:c00000:0:0:0:
 #SERVICE 1:0:19:16b0:3ff:1:c00000:0:0:0:
-#SERVICE 1:64:cd8:0:0:0:0:0:0:0:
+#SERVICE 1:64:cdf:0:0:0:0:0:0:0:
 #DESCRIPTION ———  -  ———
 #SERVICE 1:0:1:3339:45b:1:c00000:0:0:0:
-#SERVICE 1:64:cd9:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce0:0:0:0:0:0:0:0:
 #DESCRIPTION ———  ARD Digital  ———
 #SERVICE 1:0:19:2856:401:1:c00000:0:0:0:
 #SERVICE 1:0:1:6dce:44d:1:c00000:0:0:0:
@@ -110,7 +116,7 @@
 #SERVICE 1:0:1:6e96:4b1:1:c00000:0:0:0:
 #SERVICE 1:0:1:6e97:4b1:1:c00000:0:0:0:
 #SERVICE 1:0:1:6f77:457:1:c00000:0:0:0:
-#SERVICE 1:64:cda:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce1:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Austriasat  ———
 #SERVICE 1:0:1:32cd:45d:1:c00000:0:0:0:
 #SERVICE 1:0:1:32d3:45d:1:c00000:0:0:0:
@@ -122,17 +128,17 @@
 #SERVICE 1:0:1:32d1:45d:1:c00000:0:0:0:
 #SERVICE 1:0:1:32cb:45d:1:c00000:0:0:0:
 #SERVICE 1:0:1:3337:45b:1:c00000:0:0:0:
-#SERVICE 1:64:cdb:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce2:0:0:0:0:0:0:0:
 #DESCRIPTION ———  BetaDigital  ———
 #SERVICE 1:0:1:4c:21:85:c00000:0:0:0:
 #SERVICE 1:0:1:2f:21:85:c00000:0:0:0:
-#SERVICE 1:64:cdc:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce3:0:0:0:0:0:0:0:
 #DESCRIPTION ———  BMT  ———
 #SERVICE 1:0:19:16a8:3ff:1:c00000:0:0:0:
 #SERVICE 1:0:19:16ac:3ff:1:c00000:0:0:0:
 #SERVICE 1:0:19:16a9:3ff:1:c00000:0:0:0:
 #SERVICE 1:0:19:16aa:3ff:1:c00000:0:0:0:
-#SERVICE 1:64:cdd:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce4:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Canal+ France  ———
 #SERVICE 1:0:19:21a2:448:1:c00000:0:0:0:
 #SERVICE 1:0:19:21a9:448:1:c00000:0:0:0:
@@ -159,51 +165,51 @@
 #SERVICE 1:0:19:21a6:448:1:c00000:0:0:0:
 #SERVICE 1:0:19:24bd:43c:1:c00000:0:0:0:
 #SERVICE 1:0:19:1f47:42e:1:c00000:0:0:0:
-#SERVICE 1:64:cde:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce5:0:0:0:0:0:0:0:
 #DESCRIPTION ———  CBC  ———
 #SERVICE 1:0:1:2ee4:441:1:c00000:0:0:0:
-#SERVICE 1:64:cdf:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce6:0:0:0:0:0:0:0:
 #DESCRIPTION ———  GLOBECAST  ———
 #SERVICE 1:0:19:18f0:3f4:1:c00000:0:0:0:
 #SERVICE 1:0:19:18f1:3f4:1:c00000:0:0:0:
-#SERVICE 1:64:ce0:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce7:0:0:0:0:0:0:0:
 #DESCRIPTION ———  MB Satellite  ———
 #SERVICE 1:0:1:3146:459:1:c00000:0:0:0:
-#SERVICE 1:64:ce1:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce8:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Movistar+  ———
 #SERVICE 1:0:1:7473:3f0:1:c00000:0:0:0:
 #SERVICE 1:0:1:7729:416:1:c00000:0:0:0:
-#SERVICE 1:64:ce2:0:0:0:0:0:0:0:
+#SERVICE 1:64:ce9:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Sky Deutschland  ———
 #SERVICE 1:0:19:1331:3ef:1:c00000:0:0:0:
-#SERVICE 1:64:ce3:0:0:0:0:0:0:0:
+#SERVICE 1:64:cea:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TSA  ———
 #SERVICE 1:0:1:7a4c:410:1:c00000:0:0:0:
-#SERVICE 1:64:ce4:0:0:0:0:0:0:0:
+#SERVICE 1:64:ceb:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat Sesat / Eutelsat W3C / Eurobird 16A (16.0�E) ●●●●
-#SERVICE 1:64:ce5:0:0:0:0:0:0:0:
+#SERVICE 1:64:cec:0:0:0:0:0:0:0:
 #DESCRIPTION ———    ———
 #SERVICE 1:0:19:58:64:64:a00000:0:0:0:
-#SERVICE 1:64:ce6:0:0:0:0:0:0:0:
+#SERVICE 1:64:ced:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Max TV  ———
 #SERVICE 1:0:19:67:2:40:a00000:0:0:0:
-#SERVICE 1:64:ce7:0:0:0:0:0:0:0:
+#SERVICE 1:64:cee:0:0:0:0:0:0:0:
 #DESCRIPTION ———  SRTV  ———
 #SERVICE 1:0:19:15:1f4:5:a00000:0:0:0:
 #SERVICE 1:0:19:16:1f4:5:a00000:0:0:0:
 #SERVICE 1:0:19:17:1f4:5:a00000:0:0:0:
 #SERVICE 1:0:19:18:1f4:5:a00000:0:0:0:
 #SERVICE 1:0:19:19:1f4:5:a00000:0:0:0:
-#SERVICE 1:64:ce8:0:0:0:0:0:0:0:
+#SERVICE 1:64:cef:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Total TV  ———
 #SERVICE 1:0:19:676:9fc4:16e:a00000:0:0:0:
 #SERVICE 1:0:19:356:c3b4:16e:a00000:0:0:0:
 #SERVICE 1:0:19:54a:75fb:16e:a00000:0:0:0:
 #SERVICE 1:0:19:547:75fb:16e:a00000:0:0:0:
 #SERVICE 1:0:19:548:75fb:16e:a00000:0:0:0:
-#SERVICE 1:64:ce9:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf0:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Hotbird 8 / Hotbird 6 / Hotbird 9 (13.0�E) ●●●●
-#SERVICE 1:64:cea:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf1:0:0:0:0:0:0:0:
 #DESCRIPTION ———  KABELIO.CH  ———
 #SERVICE 1:0:19:36e4:6a4:13e:820000:0:0:0:
 #SERVICE 1:0:19:374b:6a4:13e:820000:0:0:0:
@@ -212,7 +218,7 @@
 #SERVICE 1:0:19:374c:6a4:13e:820000:0:0:0:
 #SERVICE 1:0:19:6b:3264:13e:820000:0:0:0:
 #SERVICE 1:0:19:374d:6a4:13e:820000:0:0:0:
-#SERVICE 1:64:ceb:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf2:0:0:0:0:0:0:0:
 #DESCRIPTION ———  RAI  ———
 #SERVICE 1:0:19:4552:30d4:13e:820000:0:0:0:
 #SERVICE 1:0:19:4544:30d4:13e:820000:0:0:0:
@@ -237,167 +243,198 @@
 #SERVICE 1:0:19:4549:30d4:13e:820000:0:0:0:
 #SERVICE 1:0:19:4550:30d4:13e:820000:0:0:0:
 #SERVICE 1:0:19:454e:30d4:13e:820000:0:0:0:
-#SERVICE 1:64:cec:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf3:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Telespazio  ———
 #SERVICE 1:0:19:425a:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:19:425c:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:19:4260:3db8:13e:820000:0:0:0:
-#SERVICE 1:64:ced:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf4:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eurobird 9A (9.0�E) ●●●●
-#SERVICE 1:64:cee:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf5:0:0:0:0:0:0:0:
 #DESCRIPTION ———    ———
 #SERVICE 1:0:19:1773:60e1:217c:5a0000:0:0:0:
-#SERVICE 1:0:19:1c15:384:110:5a0000:0:0:0:
+#SERVICE 1:0:19:138a:50e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:afa:28e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cef:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf6:0:0:0:0:0:0:0:
 #DESCRIPTION ———  7 GOLD  ———
 #SERVICE 1:0:19:1776:60e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cf0:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf7:0:0:0:0:0:0:0:
 #DESCRIPTION ———  ADN ITALIA  ———
 #SERVICE 1:0:19:264c:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cf1:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf8:0:0:0:0:0:0:0:
 #DESCRIPTION ———  ARD Digital  ———
 #SERVICE 1:0:19:7d3:20e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cf2:0:0:0:0:0:0:0:
+#SERVICE 1:64:cf9:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Canale Italia  ———
 #SERVICE 1:0:19:3ee:10e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cf3:0:0:0:0:0:0:0:
+#SERVICE 1:64:cfa:0:0:0:0:0:0:0:
 #DESCRIPTION ———  COELMEDIA  ———
 #SERVICE 1:0:19:1777:60e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:7de:20e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:1b60:70e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cf4:0:0:0:0:0:0:0:
+#SERVICE 1:64:cfb:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Cosmote  ———
 #SERVICE 1:0:19:450:6:aa:5a0000:0:0:0:
 #SERVICE 1:0:19:3fd:1:aa:5a0000:0:0:0:
-#SERVICE 1:64:cf5:0:0:0:0:0:0:0:
+#SERVICE 1:64:cfc:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Ditv Multimedia  ———
 #SERVICE 1:0:19:12ca:48e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cf6:0:0:0:0:0:0:0:
+#SERVICE 1:64:cfd:0:0:0:0:0:0:0:
 #DESCRIPTION ———  ESPERIA TV  ———
 #SERVICE 1:0:19:264e:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cf7:0:0:0:0:0:0:0:
+#SERVICE 1:64:cfe:0:0:0:0:0:0:0:
 #DESCRIPTION ———  FERMO TV  ———
 #SERVICE 1:0:19:177a:60e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cf8:0:0:0:0:0:0:0:
+#SERVICE 1:64:cff:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Global  ———
 #SERVICE 1:0:19:3f6:10e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:2656:98e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:264d:98e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:fa7:40e1:217c:5a0000:0:0:0:
-#SERVICE 1:0:19:fa7:40e1:217c:5ab00f:0:0:0:
-#SERVICE 1:64:cf9:0:0:0:0:0:0:0:
+#SERVICE 1:0:19:138c:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d00:0:0:0:0:0:0:0:
 #DESCRIPTION ———  GTV  ———
 #SERVICE 1:0:19:12c8:48e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cfa:0:0:0:0:0:0:0:
+#SERVICE 1:64:d01:0:0:0:0:0:0:0:
 #DESCRIPTION ———  In Aria!  ———
 #SERVICE 1:0:19:fad:40e1:217c:5a0000:0:0:0:
-#SERVICE 1:0:19:fad:40e1:217c:5ab00f:0:0:0:
+#SERVICE 1:0:19:1a9b:68e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:fa2:40e1:217c:5a0000:0:0:0:
-#SERVICE 1:0:19:fa2:40e1:217c:5ab00f:0:0:0:
 #SERVICE 1:0:19:1772:60e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:1b69:70e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cfb:0:0:0:0:0:0:0:
+#SERVICE 1:64:d02:0:0:0:0:0:0:0:
 #DESCRIPTION ———  InAria  ———
 #SERVICE 1:0:19:7d1:20e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cfc:0:0:0:0:0:0:0:
+#SERVICE 1:64:d03:0:0:0:0:0:0:0:
 #DESCRIPTION ———  ItaliaNetwork  ———
 #SERVICE 1:0:19:177b:60e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cfd:0:0:0:0:0:0:0:
+#SERVICE 1:64:d04:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Medialooks  ———
 #SERVICE 1:0:19:265b:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cfe:0:0:0:0:0:0:0:
+#SERVICE 1:64:d05:0:0:0:0:0:0:0:
 #DESCRIPTION ———  MEDIANORDEST  ———
 #SERVICE 1:0:19:af6:28e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:cff:0:0:0:0:0:0:0:
+#SERVICE 1:64:d06:0:0:0:0:0:0:0:
+#DESCRIPTION ———  NOITV  ———
+#SERVICE 1:0:19:138b:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d07:0:0:0:0:0:0:0:
+#DESCRIPTION ———  Persidera  ———
+#SERVICE 1:0:19:14:202:1d:5a0000:0:0:0:
+#SERVICE 1:64:d08:0:0:0:0:0:0:0:
 #DESCRIPTION ———  PIU VALLI TV  ———
 #SERVICE 1:0:19:7db:20e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d00:0:0:0:0:0:0:0:
+#SERVICE 1:64:d09:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Pubblisole  ———
 #SERVICE 1:0:19:12c6:48e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d01:0:0:0:0:0:0:0:
+#SERVICE 1:64:d0a:0:0:0:0:0:0:0:
 #DESCRIPTION ———  REGGIO TV  ———
 #SERVICE 1:0:19:2655:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d02:0:0:0:0:0:0:0:
+#SERVICE 1:64:d0b:0:0:0:0:0:0:0:
 #DESCRIPTION ———  REI  ———
 #SERVICE 1:0:19:12c9:48e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d03:0:0:0:0:0:0:0:
+#SERVICE 1:64:d0c:0:0:0:0:0:0:0:
 #DESCRIPTION ———  ROSSINI  ———
 #SERVICE 1:0:19:1779:60e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d04:0:0:0:0:0:0:0:
+#SERVICE 1:64:d0d:0:0:0:0:0:0:0:
 #DESCRIPTION ———  RTTR-OPIM-TRENTO  ———
 #SERVICE 1:0:19:af2:28e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d05:0:0:0:0:0:0:0:
+#SERVICE 1:64:d0e:0:0:0:0:0:0:0:
+#DESCRIPTION ———  RTV38  ———
+#SERVICE 1:0:19:1389:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d0f:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Service N  ———
 #SERVICE 1:0:19:1b68:70e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d06:0:0:0:0:0:0:0:
+#SERVICE 1:64:d10:0:0:0:0:0:0:0:
 #DESCRIPTION ———  SETTE GOLD  ———
 #SERVICE 1:0:19:265c:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d07:0:0:0:0:0:0:0:
+#SERVICE 1:64:d11:0:0:0:0:0:0:0:
+#DESCRIPTION ———  SOKO  ———
+#SERVICE 1:0:19:138e:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d12:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Tele Dehon  ———
 #SERVICE 1:0:19:265a:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d08:0:0:0:0:0:0:0:
+#SERVICE 1:64:d13:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TELEA1  ———
 #SERVICE 1:0:19:2651:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d09:0:0:0:0:0:0:0:
+#SERVICE 1:64:d14:0:0:0:0:0:0:0:
+#DESCRIPTION ———  TELECOLOR  ———
+#SERVICE 1:0:19:fa8:40e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d15:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Telemia  ———
 #SERVICE 1:0:19:2654:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d0a:0:0:0:0:0:0:0:
+#SERVICE 1:64:d16:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Telemormanno  ———
 #SERVICE 1:0:19:2657:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d0b:0:0:0:0:0:0:0:
+#SERVICE 1:64:d17:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Telepadova  ———
 #SERVICE 1:0:19:af4:28e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d0c:0:0:0:0:0:0:0:
+#SERVICE 1:64:d18:0:0:0:0:0:0:0:
+#DESCRIPTION ———  TELEREGIONE TOSCANA  ———
+#SERVICE 1:0:19:1394:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d19:0:0:0:0:0:0:0:
+#DESCRIPTION ———  Teleuniverso  ———
+#SERVICE 1:0:19:1a93:68e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d1a:0:0:0:0:0:0:0:
+#DESCRIPTION ———  TERRA S.p.A.  ———
+#SERVICE 1:0:19:138f:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d1b:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TLS  ———
 #SERVICE 1:0:19:faf:40e1:217c:5a0000:0:0:0:
-#SERVICE 1:0:19:faf:40e1:217c:5ab00f:0:0:0:
 #SERVICE 1:0:19:fa6:40e1:217c:5a0000:0:0:0:
-#SERVICE 1:0:19:fa6:40e1:217c:5ab00f:0:0:0:
-#SERVICE 1:64:d0d:0:0:0:0:0:0:0:
+#SERVICE 1:64:d1c:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TLTMOLISE  ———
 #SERVICE 1:0:19:1b67:70e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d0e:0:0:0:0:0:0:0:
+#SERVICE 1:64:d1d:0:0:0:0:0:0:0:
+#DESCRIPTION ———  TOSCANA TV  ———
+#SERVICE 1:0:19:1396:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:0:19:1390:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d1e:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Trmedia  ———
 #SERVICE 1:0:19:12c3:48e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:12c2:48e1:217c:5a0000:0:0:0:
 #SERVICE 1:0:19:12c1:48e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d0f:0:0:0:0:0:0:0:
+#SERVICE 1:64:d1f:0:0:0:0:0:0:0:
+#DESCRIPTION ———  TSD  ———
+#SERVICE 1:0:19:1395:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d20:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TSN  ———
 #SERVICE 1:0:19:7d8:20e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d10:0:0:0:0:0:0:0:
+#SERVICE 1:64:d21:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Tv Centro Marche  ———
 #SERVICE 1:0:19:1771:60e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d11:0:0:0:0:0:0:0:
+#SERVICE 1:64:d22:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Tv parma  ———
 #SERVICE 1:0:19:12c4:48e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d12:0:0:0:0:0:0:0:
+#SERVICE 1:64:d23:0:0:0:0:0:0:0:
+#DESCRIPTION ———  TVP  ———
+#SERVICE 1:0:19:1393:50e1:217c:5a0000:0:0:0:
+#SERVICE 1:64:d24:0:0:0:0:0:0:0:
 #DESCRIPTION ———  tvqui  ———
 #SERVICE 1:0:19:12c5:48e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d13:0:0:0:0:0:0:0:
+#SERVICE 1:64:d25:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TVRS  ———
 #SERVICE 1:0:19:1774:60e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d14:0:0:0:0:0:0:0:
+#SERVICE 1:64:d26:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Via Emilia TV  ———
 #SERVICE 1:0:19:12c7:48e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d15:0:0:0:0:0:0:0:
+#SERVICE 1:64:d27:0:0:0:0:0:0:0:
 #DESCRIPTION ———  VIDEO CALABRIA  ———
 #SERVICE 1:0:19:2649:98e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d16:0:0:0:0:0:0:0:
+#SERVICE 1:64:d28:0:0:0:0:0:0:0:
 #DESCRIPTION ———  VIDEOMEDIA-TN  ———
 #SERVICE 1:0:19:af8:28e1:217c:5a0000:0:0:0:
-#SERVICE 1:64:d17:0:0:0:0:0:0:0:
+#SERVICE 1:64:d29:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● BulgariaSat (1.9�E) ●●●●
-#SERVICE 1:64:d18:0:0:0:0:0:0:0:
+#SERVICE 1:64:d2a:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Neosat  ———
 #SERVICE 1:0:19:b6:11:2:13b095:0:0:0:
-#SERVICE 1:64:d19:0:0:0:0:0:0:0:
+#SERVICE 1:64:d2b:0:0:0:0:0:0:0:
 #DESCRIPTION ———  POLARIS  ———
 #SERVICE 1:0:19:bc:11:2:13b095:0:0:0:
 #SERVICE 1:0:19:1da:b:1:13305c:0:0:0:
-#SERVICE 1:64:d1a:0:0:0:0:0:0:0:
+#SERVICE 1:64:d2c:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Intelsat 10-02 / Thor 5 / Thor 6 (0.8�W) ●●●●
-#SERVICE 1:64:d1b:0:0:0:0:0:0:0:
+#SERVICE 1:64:d2d:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Allente  ———
 #SERVICE 1:0:19:1c98:a:46:e080000:0:0:0:
 #SERVICE 1:0:19:465c:46:46:e080000:0:0:0:
@@ -423,14 +460,14 @@
 #SERVICE 1:0:19:1260:3f:46:e080000:0:0:0:
 #SERVICE 1:0:19:1262:3f:46:e080000:0:0:0:
 #SERVICE 1:0:19:125f:3f:46:e080000:0:0:0:
-#SERVICE 1:64:d1c:0:0:0:0:0:0:0:
+#SERVICE 1:64:d2e:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Amos 2 / Amos 3 (4.0�W) ●●●●
-#SERVICE 1:64:d1d:0:0:0:0:0:0:0:
+#SERVICE 1:64:d2f:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Ukrkosmos  ———
 #SERVICE 1:0:19:15:2:2a:de80000:0:0:0:
-#SERVICE 1:64:d1e:0:0:0:0:0:0:0:
+#SERVICE 1:64:d30:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Atlantic Bird 3 (5.0�W) ●●●●
-#SERVICE 1:64:d1f:0:0:0:0:0:0:0:
+#SERVICE 1:64:d31:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Bis  ———
 #SERVICE 1:0:19:1007:5078:55f:dde0000:0:0:0:
 #SERVICE 1:0:19:1022:5014:55f:dde0000:0:0:0:
@@ -456,24 +493,25 @@
 #SERVICE 1:0:19:1018:5014:55f:dde0000:0:0:0:
 #SERVICE 1:0:19:1011:5078:55f:dde0000:0:0:0:
 #SERVICE 1:0:19:1010:5078:55f:dde0000:0:0:0:
-#SERVICE 1:64:d20:0:0:0:0:0:0:0:
+#SERVICE 1:64:d32:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Canale Italia  ———
 #SERVICE 1:0:19:3ee:ffff:ffff:dde3129:0:0:0:
-#SERVICE 1:64:d21:0:0:0:0:0:0:0:
+#SERVICE 1:64:d33:0:0:0:0:0:0:0:
 #DESCRIPTION ———  EUTELSAT  ———
 #SERVICE 1:0:19:1aa:4fb0:55f:dde0000:0:0:0:
-#SERVICE 1:64:d22:0:0:0:0:0:0:0:
+#SERVICE 1:64:d34:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Fransat  ———
 #SERVICE 1:0:19:1f6:5014:55f:dde0000:0:0:0:
 #SERVICE 1:0:19:1f7:5014:55f:dde0000:0:0:0:
 #SERVICE 1:0:19:1025:4fb0:55f:dde0000:0:0:0:
-#SERVICE 1:64:d23:0:0:0:0:0:0:0:
+#SERVICE 1:64:d35:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Global  ———
 #SERVICE 1:0:19:26b4:a801:217c:dde0000:0:0:0:
-#SERVICE 1:64:d24:0:0:0:0:0:0:0:
+#SERVICE 1:64:d36:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Rai Way  ———
 #SERVICE 1:0:19:74:a001:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:78:a001:217c:dde0000:0:0:0:
+#SERVICE 1:0:19:93:a001:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:5c:a000:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:72:a001:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:6a:a001:217c:dde0000:0:0:0:
@@ -488,7 +526,7 @@
 #SERVICE 1:0:19:76:a001:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:6c:a001:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:73:a001:217c:dde0000:0:0:0:
-#SERVICE 1:64:d25:0:0:0:0:0:0:0:
+#SERVICE 1:64:d37:0:0:0:0:0:0:0:
 #DESCRIPTION ———  RAI  ———
 #SERVICE 1:0:19:4bb:85:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:4be:85:217c:dde0000:0:0:0:
@@ -546,7 +584,7 @@
 #SERVICE 1:0:19:588:ad:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:551:a3:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:554:a3:217c:dde0000:0:0:0:
-#SERVICE 1:64:d26:0:0:0:0:0:0:0:
+#SERVICE 1:64:d38:0:0:0:0:0:0:0:
 #DESCRIPTION ———  RaiWay  ———
 #SERVICE 1:0:19:65:a000:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:59:a000:217c:dde0000:0:0:0:
@@ -559,44 +597,44 @@
 #SERVICE 1:0:19:69:a000:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:5d:a000:217c:dde0000:0:0:0:
 #SERVICE 1:0:19:5a:a000:217c:dde0000:0:0:0:
-#SERVICE 1:64:d27:0:0:0:0:0:0:0:
+#SERVICE 1:64:d39:0:0:0:0:0:0:0:
 #DESCRIPTION ———  RTS  ———
 #SERVICE 1:0:19:26b8:a801:217c:dde0000:0:0:0:
-#SERVICE 1:64:d28:0:0:0:0:0:0:0:
+#SERVICE 1:64:d3a:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Service Provider  ———
 #SERVICE 1:0:19:26ad:a801:217c:dde0000:0:0:0:
-#SERVICE 1:64:d29:0:0:0:0:0:0:0:
+#SERVICE 1:64:d3b:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TeleRegione Live  ———
 #SERVICE 1:0:19:26b3:a801:217c:dde0000:0:0:0:
-#SERVICE 1:64:d2a:0:0:0:0:0:0:0:
+#SERVICE 1:64:d3c:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Uno 4  ———
 #SERVICE 1:0:19:26b5:a801:217c:dde0000:0:0:0:
-#SERVICE 1:64:d2b:0:0:0:0:0:0:0:
+#SERVICE 1:64:d3d:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Videolina  ———
 #SERVICE 1:0:19:26af:a801:217c:dde0000:0:0:0:
-#SERVICE 1:64:d2c:0:0:0:0:0:0:0:
+#SERVICE 1:64:d3e:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Intelsat 907 (27.5�W) ●●●●
-#SERVICE 1:64:d2d:0:0:0:0:0:0:0:
+#SERVICE 1:64:d3f:0:0:0:0:0:0:0:
 #DESCRIPTION ———  UTV  ———
 #SERVICE 1:0:19:4e80:1000:1:cfdace7:0:0:0:
-#SERVICE 1:64:d2e:0:0:0:0:0:0:0:
+#SERVICE 1:64:d40:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Hispasat 1E / Hispasat 1C / Hispasat 1D (30.0�W) ●●●●
-#SERVICE 1:64:d2f:0:0:0:0:0:0:0:
+#SERVICE 1:64:d41:0:0:0:0:0:0:0:
 #DESCRIPTION ———    ———
 #SERVICE 1:0:19:455:65:53:ce40000:0:0:0:
-#SERVICE 1:64:d30:0:0:0:0:0:0:0:
+#SERVICE 1:64:d42:0:0:0:0:0:0:0:
 #DESCRIPTION ———  CARTV  ———
 #SERVICE 1:0:19:27b2:3e9:22d4:ce40000:0:0:0:
 #SERVICE 1:0:19:27b0:3e9:22d4:ce40000:0:0:0:
-#SERVICE 1:64:d31:0:0:0:0:0:0:0:
+#SERVICE 1:64:d43:0:0:0:0:0:0:0:
 #DESCRIPTION ———  CMT  ———
 #SERVICE 1:0:19:2:1:22d4:ce40000:0:0:0:
 #SERVICE 1:0:19:1:1:22d4:ce40000:0:0:0:
-#SERVICE 1:64:d32:0:0:0:0:0:0:0:
+#SERVICE 1:64:d44:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Meo  ———
 #SERVICE 1:0:19:6a:65:53:ce40000:0:0:0:
 #SERVICE 1:0:19:76:65:53:ce40000:0:0:0:
-#SERVICE 1:64:d33:0:0:0:0:0:0:0:
+#SERVICE 1:64:d45:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Nos  ———
 #SERVICE 1:0:19:9f:65:53:ce40000:0:0:0:
 #SERVICE 1:0:19:a8:65:53:ce40000:0:0:0:

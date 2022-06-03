@@ -1,5 +1,5 @@
 #NAME Stream Griekenland (GR)
-#SERVICE 1:64:11c7:0:0:0:0:0:0:0:
+#SERVICE 1:64:11dc:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders publiek++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a018:ERT 1 HD
 #DESCRIPTION ERT 1 HD
@@ -11,7 +11,7 @@
 #DESCRIPTION ERT News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8:ERT World
 #DESCRIPTION ERT World
-#SERVICE 1:64:11c8:0:0:0:0:0:0:0:
+#SERVICE 1:64:11dd:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders commerciëel++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eu2.tv4e.gr%3a554/live/smil%3amyStream.sdp.smil/playlist.m3u8:4E
 #DESCRIPTION 4E
@@ -65,7 +65,7 @@
 #DESCRIPTION Super B
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.fm100.gr/hls/tv100/index.m3u8:TV 100
 #DESCRIPTION TV 100
-#SERVICE 1:64:11c9:0:0:0:0:0:0:0:
+#SERVICE 1:64:11de:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/34100/playlist.m3u8:34100 TV
 #DESCRIPTION 34100 TV

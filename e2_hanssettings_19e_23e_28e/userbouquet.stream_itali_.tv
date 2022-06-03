@@ -1,16 +1,12 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:2ea:0:0:0:0:0:0:0:
+#SERVICE 1:64:2e3:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ce:RAI 1
 #DESCRIPTION RAI 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8020/play/a05b:RAI 1 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8:RAI 1 -2-
 #DESCRIPTION RAI 1 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8:RAI 1 -3-
-#DESCRIPTION RAI 1 -3-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a08k:RAI 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.49.27.130%3a8000/play/a0d0:RAI 2
 #DESCRIPTION RAI 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8020/play/a05c:RAI 2 -2-
-#DESCRIPTION RAI 2 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0cg:RAI 3
 #DESCRIPTION RAI 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.110%3a8020/play/a05d:RAI 3 -2-
@@ -75,7 +71,7 @@
 #DESCRIPTION La 7d
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8:Sky TG 24
 #DESCRIPTION Sky TG 24
-#SERVICE 1:64:2eb:0:0:0:0:0:0:0:
+#SERVICE 1:64:2e4:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
@@ -127,8 +123,8 @@
 #DESCRIPTION Bike
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8:Brindiamo Channel
 #DESCRIPTION Brindiamo Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//srv3.meway.tv%3a1957/cafe/live:CafeTV24 Veneto 
-#DESCRIPTION CafeTV24 Veneto 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/cafe/live/playlist.m3u8:Cafe TV 24
+#DESCRIPTION Cafe TV 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/calabriaunotv/calabriaunotv/playlist.m3u8:Calabria Uno TV
 #DESCRIPTION Calabria Uno TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net%3a443/CalabriaTv2/CalabriaTv2/playlist.m3u8:Calabria TV
@@ -651,6 +647,8 @@
 #DESCRIPTION Telebelluno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8:Teleblu Foggia
 #DESCRIPTION Teleblu Foggia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telejato.liberotratto.com/hls/0/stream.m3u8:Telejato
+#DESCRIPTION Telejato
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.202.128.1%3a1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8:Telemolise
 #DESCRIPTION Telemolise
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8:Telemonteve

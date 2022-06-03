@@ -1,6 +1,6 @@
 #NAME Stream Canada (CA)
-#SERVICE 1:64:31b:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:316:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8:CBC News
 #DESCRIPTION CBC News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8:CBC News Highlights
@@ -43,8 +43,8 @@
 #DESCRIPTION ICI Télé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8:ICI Montreal
 #DESCRIPTION ICI Montreal
-#SERVICE 1:64:31c:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:317:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//158.69.124.9%3a1935/5aabtv/5aabtv/chunklist.m3u8:5AAB TV
 #DESCRIPTION 5AAB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8:A3 Bikini
@@ -67,6 +67,8 @@
 #DESCRIPTION CityTV Toronto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stmv2.srvstm.com/classique/classique/playlist.m3u8:Classique TV
 #DESCRIPTION Classique TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//admin.ottdemo.rrsat.com%3a1935/ctntv/ctntv2/playlist.m3u8:CTN
+#DESCRIPTION CTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8:Deal Or No Deal
 #DESCRIPTION Deal Or No Deal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8:DryBar Comedy

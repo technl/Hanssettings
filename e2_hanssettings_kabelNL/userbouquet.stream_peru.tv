@@ -1,5 +1,5 @@
 #NAME Stream Peru (PE)
-#SERVICE 1:64:217:0:0:0:0:0:0:0:
+#SERVICE 1:64:211:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh4.iblups.com/hls/irtp.m3u8:TV Peru Internacional
 #DESCRIPTION TV Peru Internacional
@@ -9,7 +9,7 @@
 #DESCRIPTION TV Peru Nacional 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8:TV Perú Noticias
 #DESCRIPTION TV Perú Noticias
-#SERVICE 1:64:218:0:0:0:0:0:0:0:
+#SERVICE 1:64:212:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8:América TV
 #DESCRIPTION América TV
@@ -85,7 +85,7 @@
 #DESCRIPTION Expresión Tacna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cu.onliv3.com/livevd1/user2.m3u8:Exitosa TV
 #DESCRIPTION Exitosa TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.108.83.142%3a8000/play/a003/index.m3u8:Fuego TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8:Fuego TV
 #DESCRIPTION Fuego TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.sradiotv.com%3a1936/8018/8018/playlist.m3u8:Full TV
 #DESCRIPTION Full TV
@@ -149,7 +149,7 @@
 #DESCRIPTION Nuestra TV (Lima)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8:OK TeVe
 #DESCRIPTION OK TeVe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8:Onda Digital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ondadigital.pe%3a1936/ondatv2/ondatv2/playlist.m3u8:Onda Digital
 #DESCRIPTION Onda Digital
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvovacion1/liveovacion1tv/playlist.m3u8:Ovación TV
 #DESCRIPTION Ovación TV
@@ -175,8 +175,12 @@
 #DESCRIPTION Quattro TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.tustreaming.cl/quillavision/index.m3u8:Quillavision
 #DESCRIPTION Quillavision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/calortv:Radio Calor (Huancayo)
+#DESCRIPTION Radio Calor (Huancayo)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//megastreamm.com%3a3611/stream/play.m3u8:Radio Chalaca
 #DESCRIPTION Radio Chalaca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3175/hybrid/play.m3u8:Radio Inka Abancay
+#DESCRIPTION Radio Inka Abancay
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3731/stream/play.m3u8:Radio Rutas del Perú
 #DESCRIPTION Radio Rutas del Perú
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvsanborja/livesanborjatv/playlist.m3u8:Radio San Borja TV
@@ -185,18 +189,16 @@
 #DESCRIPTION Radio Tropical Tarapoto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.sradiotv.com%3a1936/binacional/binacional/playlist.m3u8:Radio TV Binacional
 #DESCRIPTION Radio TV Binacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8:Radio TV Oriente
+#DESCRIPTION Radio TV Oriente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA/live:Radio Uno (Tacna)
+#DESCRIPTION Radio Uno (Tacna)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC2pEdgRlAdGozFhlEb73PKA/live:Radio Victoria 780 AM
 #DESCRIPTION Radio Victoria 780 AM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3090/stream/play.m3u8:Radio Xtrema
 #DESCRIPTION Radio Xtrema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamlive7.hearthis.at/hls/9355343.m3u8:Radio y Tv Filadelfia
 #DESCRIPTION Radio y Tv Filadelfia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3175/hybrid/play.m3u8:Radio Inka Abancay
-#DESCRIPTION Radio Inka Abancay
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8:Radio TV Oriente
-#DESCRIPTION Radio TV Oriente
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA/live:Radio Uno (Tacna)
-#DESCRIPTION Radio Uno (Tacna)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvrcrperu/livercrperutv/playlist.m3u8:Red de Comunicación Regional
 #DESCRIPTION Red de Comunicación Regional
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/retroplustv/retroplustv/playlist.m3u8:Retro Plus 1
@@ -245,6 +247,8 @@
 #DESCRIPTION Telesur Tacna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videoserver.tmcreativos.com%3a19360/televisiontpp/televisiontpp.m3u8:Televisión Tarapoto
 #DESCRIPTION Televisión Tarapoto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvdatta.com%3a3084/live/toptvaguaytialive.m3u8:Top FM TV Atalaya
+#DESCRIPTION Top FM TV Atalaya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8:Top Latino TV
 #DESCRIPTION Top Latino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8:TPTO TV
@@ -267,7 +271,7 @@
 #DESCRIPTION TV Peruanísima
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8:TV Sistemas Cuzco
 #DESCRIPTION TV Sistemas Cuzco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//170.79.102.223/UCI/index.m3u8:UCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servilive.com%3a3449/live/mlecaroslive.m3u8:UCI
 #DESCRIPTION UCI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8:Unitel
 #DESCRIPTION Unitel

@@ -13,10 +13,10 @@
 #DESCRIPTION EDN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.dattalive.com/8122/8122/chunklist_.m3u8:Globo TV
 #DESCRIPTION Globo TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-01.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpgbV60ZwoIzyoqzsJFhHhKw)/dm/3/x81za5c/s/live-3.m3u8#cell=lcore:HCH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x81za5c:HCH
 #DESCRIPTION HCH
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-08.dc3.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4_2LFAh4mN1bpYz9jzMzssc)/dm/3/x83axzj/s/live-2.m3u8#cell=lcore:Hondured Canal 13
-#DESCRIPTION Hondured Canal 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//dai.ly/x83axzj:Hondured 13
+#DESCRIPTION Hondured 13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//emisoras.hn%3a8081/jbn/tracks-v1a1/mono.m3u8:JBN
 #DESCRIPTION JBN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e85d90130e77.streamlock.net/6022/6022/chunklist_.m3u8:LTV

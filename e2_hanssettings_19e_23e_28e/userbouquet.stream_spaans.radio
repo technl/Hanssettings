@@ -41,8 +41,10 @@
 #DESCRIPTION EsRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast-streaming.nice264.com/europafmback:Europa FM
 #DESCRIPTION Europa FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//flaixfmmob.streaming-pro.com%3a8002/;:Flaix FM
-#DESCRIPTION Flaix FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.giraweb.com/8020/stream:Flaix FM Andorra
+#DESCRIPTION Flaix FM Andorra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.giraweb.com/8010/stream:Flaixbac Andorra
+#DESCRIPTION Flaixbac Andorra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.10.10.206/rtva/canalflamenco.mp3:Flamenco Radio
 #DESCRIPTION Flamenco Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hitfm.kissfmradio.cires21.com/hitfm.mp3:Hit FM
@@ -93,9 +95,9 @@
 #DESCRIPTION Onda Color (Ceiuta, Spanje, noord-Afrika)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.viastreaming.net%3a7420/stream/1/:Q FM Cool Jazz
 #DESCRIPTION Q FM Cool Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rac1.radiocat.net/;:RAC 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3:RAC 1
 #DESCRIPTION RAC 1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming105.radiocat.net%3a8090/;:RAC 105
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3:RAC 105
 #DESCRIPTION RAC 105
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.voscast.com%3a10584/stream:Radio 7 Costa Blanca (Vlaamse zender)
 #DESCRIPTION Radio 7 Costa Blanca (Vlaamse zender)
@@ -123,18 +125,6 @@
 #DESCRIPTION Radio Melilla Cadena SER (Spanje)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stan319.radioca.st/stream:Radio Mi Amigo, de échte
 #DESCRIPTION Radio Mi Amigo, de échte
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8:Radio RNE 1 Nacional
-#DESCRIPTION Radio RNE 1 Nacional
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/index_128_a-p.m3u8:Radio RNE 2 Clásica
-#DESCRIPTION Radio RNE 2 Clásica
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/index_128_a-p.m3u8:Radio RNE 3
-#DESCRIPTION Radio RNE 3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/rnerne4_1@793569/index_128_a-p.m3u8:Radio RNE 4
-#DESCRIPTION Radio RNE 4
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8:Radio RNE 5
-#DESCRIPTION Radio RNE 5
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8:Radio RNE Exterior
-#DESCRIPTION Radio RNE Exterior
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21263.live.streamtheworld.com/SER_SEVILLAAAC.aac:Radio Sevilla
 #DESCRIPTION Radio Sevilla
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiott-web.streaming-pro.com%3a6103/radiott.mp3:Radio Tele Taxi
@@ -145,6 +135,26 @@
 #DESCRIPTION Radiole Costa de la Luz, Huelva
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//19993.live.streamtheworld.com/RADIOLEAAC.aac:Radiolé
 #DESCRIPTION Radiolé
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/rtvesec/rne_re_main.m3u8:RNE Exterior
+#DESCRIPTION RNE Exterior
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve--di--crtve-ice--01--cdn.cast.addradio.de/crtve/rner3/main/mp3/high:RNE Radio 3
+#DESCRIPTION RNE Radio 3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve--di--crtve-ice--01--cdn.cast.addradio.de/crtve/rner4/main/mp3/high:RNE Radio 4 Catalunya
+#DESCRIPTION RNE Radio 4 Catalunya
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve--di--crtve-ice--03--cdn.cast.addradio.de/crtve/rne5/main/mp3/high:RNE Radio 5 Todo Nocitias
+#DESCRIPTION RNE Radio 5 Todo Nocitias
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne5-bcn.cast.addradio.de/crtve/rne5/bcn/mp3/high:RNE Radio 5 Todo Noticias Catalunya (Barcelona)
+#DESCRIPTION RNE Radio 5 Todo Noticias Catalunya (Barcelona)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne5-mad.cast.addradio.de/crtve/rne5/mad/mp3/high:RNE Radio 5 Todo Noticias Madrid
+#DESCRIPTION RNE Radio 5 Todo Noticias Madrid
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtvelivestreamv3.akamaized.net/rtvesec/rne_r2_main.m3u8 :RNE Radio Clásica
+#DESCRIPTION RNE Radio Clásica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne1-cat.cast.addradio.de/crtve/rne1/cat/mp3/high:RNE Radio Nacional Catalunya
+#DESCRIPTION RNE Radio Nacional Catalunya
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne1-mad.cast.addradio.de/crtve/rne1/mad/mp3/high:RNE Radio Nacional Madrid
+#DESCRIPTION RNE Radio Nacional Madrid
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne1-cnr.cast.addradio.de/crtve/rne1/cnr/mp3/high:RNE Radio Nacional
+#DESCRIPTION RNE Radio Nacional
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.55.74.207/cope/rockfm/chunks.m3u8?GKID=c7a9ffb6277011e9809800163e914f69:Rock FM
 #DESCRIPTION Rock FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.internetgirona.com%3a8008/onair:Ràdio Platja d'Aro
@@ -155,5 +165,5 @@
 #DESCRIPTION Talk Radio Europe Costa Blanca
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//vaughanradioweb.streaming-pro.com%3a8057/;:Vaughan Radio
 #DESCRIPTION Vaughan Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jfkradio.es/6/110/10501/es/v1/auth.akacast.akamaistream.net/icy/mp3/xtrafm:XtraFM Costa Bianca (Spanje)
-#DESCRIPTION XtraFM Costa Bianca (Spanje)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jfkradio.es/xtrafm.aac:XtraFM Costa Bianca
+#DESCRIPTION XtraFM Costa Bianca

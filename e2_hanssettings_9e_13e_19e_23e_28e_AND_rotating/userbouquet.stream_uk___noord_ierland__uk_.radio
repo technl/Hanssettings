@@ -1,5 +1,5 @@
 #NAME Stream UK - Noord-Ierland (UK)
-#SERVICE 1:64:12c0:0:0:0:0:0:0:0:
+#SERVICE 1:64:12d5:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Noord-Ierland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q?:BBC Radio 1 Northern Ireland
 #DESCRIPTION BBC Radio 1 Northern Ireland
@@ -41,6 +41,8 @@
 #DESCRIPTION Elite Radio (Dungannon, Noord-Ierland, UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.111.140.6%3a9633/;:Energy 106 Belfast (Noord-Ierland, UK)
 #DESCRIPTION Energy 106 Belfast (Noord-Ierland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.162%3a8116/stream:EruptionRadio (Bristol, Cambridge, Ireland)
+#DESCRIPTION EruptionRadio (Bristol, Cambridge, Ireland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.83.150.15%3a8378/stream/2/;:Ferry FM (Portaferry, Noord-Ierland, UK)
 #DESCRIPTION Ferry FM (Portaferry, Noord-Ierland, UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.10.4%3a8237/stream:Finn Valley FM (Country Donagal, Noord-Ierland, UK)

@@ -1,13 +1,13 @@
 #NAME Stream Armenië (AM)
-#SERVICE 1:64:2a7:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:2a0:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8:H1
 #DESCRIPTION H1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s2/index.m3u8:H2
 #DESCRIPTION H2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s12/index.m3u8:H3
 #DESCRIPTION H3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-5tvam.cdnvideo.ru/5tvam/5tvam/playlist.m3u8:5 Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s6/index.m3u8:5 Channel
 #DESCRIPTION 5 Channel
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s4/index.m3u8:Armenia TV Armenië
 #DESCRIPTION Armenia TV Armenië
@@ -37,8 +37,8 @@
 #DESCRIPTION ATV Kinoman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s53/index.m3u8:ATV Tava
 #DESCRIPTION ATV Tava
-#SERVICE 1:64:2a8:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:2a1:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8:Amga
 #DESCRIPTION Amga
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s6/index.m3u8:Ararat TV
@@ -49,6 +49,8 @@
 #DESCRIPTION ARTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s3/index.m3u8:Azatutyun TV
 #DESCRIPTION Azatutyun TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.254.76.34%3a17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo:Horizon Armenian
+#DESCRIPTION Horizon Armenian
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s5/index.m3u8:Kentron TV
 #DESCRIPTION Kentron TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.usatv.com/hls/master-iNEWARM.m3u8:Nor Hayastan
