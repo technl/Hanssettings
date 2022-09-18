@@ -1,6 +1,8 @@
 #NAME Stream Arabisch (algemeen)
-#SERVICE 1:64:26b:0:0:0:0:0:0:0:
-#DESCRIPTION ++algemeen + land onbepaald++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/alarabiya_live_channel/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8:Al Arabiya
+#DESCRIPTION Al Arabiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alaraby.cdn.octivid.com/alaraby2n/smil%3aalaraby2n.stream.smil/playlist.m3u8:Al Arabya 2 TV
+#DESCRIPTION Al Arabya 2 TV
 #SERVICE 4097:0:1:8:999:7777:0:0:0:0:rtmp%3a//stream.truth-voice.net/FadyLive//FadyLive:AL FADY (Arabisch)
 #DESCRIPTION AL FADY (Arabisch)
 #SERVICE 4097:0:1:8:999:7777:0:0:0:0:http%3a//media.islamexplained.com%3a1935/live/_definst_mp4%3aahme.stream_360p/playlist.m3u8:AL HAYAT (Arabisch)
@@ -33,6 +35,8 @@
 #DESCRIPTION CGTN Arabic (Arabisch)
 #SERVICE 4097:0:1:8:999:7777:0:0:0:0:rtmp%3a//str81.creacast.com%3a80/cna/live.sdp:CNA (Arabisch)
 #DESCRIPTION CNA (Arabisch)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/p/cnbcarabia-live.m3u8:CNBC Arabia
+#DESCRIPTION CNBC Arabia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8:Deutsche Welle Arabia (Duitsland)
 #DESCRIPTION Deutsche Welle Arabia (Duitsland)
 #SERVICE 4097:0:1:8:999:7777:0:0:0:0:http%3a//futuretv.cdn.mangomolo.com/futuretv/smil%3afuturetv.smil/gmswf.m3u8:Future TV (Arabisch)
@@ -67,11 +71,9 @@
 #DESCRIPTION Pezhvak Show (Arabisch)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns8.indexforce.com%3a1935/alsharqiyalive/mystream/playlist.m3u8:Sharqiya News (Arabisch)
 #DESCRIPTION Sharqiya News (Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.skynewsarabia.com/vod/smil%3a1220294.smil/chunklist_b844100.m3u8:Sky News Arabia (nieuws - Arabisch)
-#DESCRIPTION Sky News Arabia (nieuws - Arabisch)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.skynewsarabia.com/hls/sna.m3u8:Sky News Arabia
+#DESCRIPTION Sky News Arabia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8:Star Movies (Arabisch)
 #DESCRIPTION Star Movies (Arabisch)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//live.noorlive.com%3a1935/wesal/wesal1:Wesal Haq TV (Arabisch)
 #DESCRIPTION Wesal Haq TV (Arabisch)
-#SERVICE 1:64:26c:0:0:0:0:0:0:0:
-#DESCRIPTION ++landen eigen stream-boeket++

@@ -1,5 +1,5 @@
 #NAME Stream Italiië (IT)
-#SERVICE 1:64:350:0:0:0:0:0:0:0:
+#SERVICE 1:64:405:0:0:0:0:0:0:0:
 #DESCRIPTION ++RAI++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:RAI Radio 1
 #DESCRIPTION RAI Radio 1
@@ -31,7 +31,7 @@
 #DESCRIPTION Rai Radio Techetè
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it/4.mp3:Rai Radio Tutta Italiana
 #DESCRIPTION Rai Radio Tutta Italiana
-#SERVICE 1:64:351:0:0:0:0:0:0:0:
+#SERVICE 1:64:406:0:0:0:0:0:0:0:
 #DESCRIPTION ++festival San Remo, themazenders++
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um049.mp3:Music Radio Festival Le Canzoni Vincitrici
 #DESCRIPTION Music Radio Festival Le Canzoni Vincitrici
@@ -41,7 +41,7 @@
 #DESCRIPTION United Music Radio Festival 1951-1999
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um112.mp3:United Music Radio Festival 2000-2021
 #DESCRIPTION United Music Radio Festival 2000-2021
-#SERVICE 1:64:352:0:0:0:0:0:0:0:
+#SERVICE 1:64:407:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
 #DESCRIPTION 105 Indie
@@ -137,6 +137,16 @@
 #DESCRIPTION M2o
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamcdnb11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8:M2o Dance
 #DESCRIPTION M2o Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge.singsingmusic.net/MC2.mp3:MC2
+#DESCRIPTION MC2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge.singsingmusic.net/singsingweb003:MC2 Easy Rider
+#DESCRIPTION MC2 Easy Rider
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.singsingmusic.net/singsingweb005:MC2 Italia
+#DESCRIPTION MC2 Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge.singsingmusic.net/mc2montenapoleone:MC2 Montenapoleone
+#DESCRIPTION MC2 Montenapoleone
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.singsingmusic.net/singsingweb018:MC2 Tiffany Channel
+#DESCRIPTION MC2 Tiffany Channel
 #SERVICE 4097:0:2:201:0:0:0:0:0:0:http%3a//nr5.newradio.it%3a8545/stream:NEW RADIO
 #DESCRIPTION NEW RADIO
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//edge.radiomontecarlo.net/rmcweb003:R&B
@@ -369,7 +379,7 @@
 #DESCRIPTION RADIO ONDA LIGURE
 #SERVICE 4097:0:2:127:0:0:0:0:0:0:http%3a//radio.dyne.org%3a8000/ondarossa.mp3:RADIO ONDA ROSSA
 #DESCRIPTION RADIO ONDA ROSSA
-#SERVICE 4097:0:2:141:0:0:0:0:0:0:http%3a//81.208.101.95%3a8080/;:RADIO ONDE FURLANE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.117.65.249%3a8000:RADIO ONDE FURLANE
 #DESCRIPTION RADIO ONDE FURLANE
 #SERVICE 4097:0:2:399:0:0:0:0:0:0:http%3a//s3.mediastreaming.it%3a7200/;stream.mp3:RADIO ORIZZONTE MOLISE
 #DESCRIPTION RADIO ORIZZONTE MOLISE
@@ -503,6 +513,8 @@
 #DESCRIPTION RADIOLINA
 #SERVICE 4097:0:2:405:0:0:0:0:0:0:http%3a//92.222.155.230%3a7203/:RADIOSTUDIO DELTA
 #DESCRIPTION RADIOSTUDIO DELTA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge.singsingmusic.net/singsingweb003:RMC2 Planet Rock Channel
+#DESCRIPTION RMC2 Planet Rock Channel
 #SERVICE 4097:0:2:45:0:0:0:0:0:0:http%3a//www.rds.it%3a8000/stream:RDS
 #DESCRIPTION RDS
 #SERVICE 4097:0:2:171:0:0:0:0:0:0:http%3a//dreamsiteradiocp3.com%3a8024/;:RDT STATION

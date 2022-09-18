@@ -1,13 +1,13 @@
 #NAME Stream NL regionaal & lokaal
-#SERVICE 1:64:a2:0:0:0:0:0:0:0:
+#SERVICE 1:64:a4:0:0:0:0:0:0:0:
 #DESCRIPTION +++Friesland+++
 #SERVICE 4097:0:1:524d:c99:3:eb0000:0:0:0:https%3a//d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8:Omrop Fryslân HD
 #DESCRIPTION Omrop Fryslân HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/chunklist_b1894400_slNLD.m3u8:LEO Middelsé (Leeuwarden)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8:LEO Middelsé (Leeuwarden)
 #DESCRIPTION LEO Middelsé (Leeuwarden)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//olon.ctl.cdn.ebsd.ericsson.net/L9A/8773632e/bdc062c5.isml/.master.m3u8:Centraal TV (Weststellingerwerf)
 #DESCRIPTION Centraal TV (Weststellingerwerf)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e6ab219de8f5.streamlock.net/omroeprsh/omroeprsh/chunklist_w1758036133.m3u8?ref=RSHLIVE:Omroep RSH (Harlingen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e6ab219de8f5.streamlock.net/omroeprsh/omroeprsh/playlist.m3u8:Omroep RSH (Harlingen)
 #DESCRIPTION Omroep RSH (Harlingen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8:Omroep Súdwest Fryslan
 #DESCRIPTION Omroep Súdwest Fryslan
@@ -19,7 +19,7 @@
 #DESCRIPTION RTV NOF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8:RTV NOF webcam radio (Noordoost-Friesland)
 #DESCRIPTION RTV NOF webcam radio (Noordoost-Friesland)
-#SERVICE 1:64:a3:0:0:0:0:0:0:0:
+#SERVICE 1:64:a5:0:0:0:0:0:0:0:
 #DESCRIPTION +++Groningen+++
 #SERVICE 4097:0:1:5265:c99:3:eb0000:0:0:0:http%3a//media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8:RTV Noord
 #DESCRIPTION RTV Noord
@@ -31,7 +31,7 @@
 #DESCRIPTION Groningen1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza2.videostreamingwowza.com/Groningen1/Groningen1/playlist.m3u8:Groningen1
 #DESCRIPTION Groningen1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//dacastmmd.mmdlive.lldns.net/dacastmmd/2ce776e33d0c48358ca138ff633f5558/chunklist_b4628000.m3u8?p=79&s=1653366703&e=1653366823&h=7d0eaa828b2ace5a6a797f97b8a3c2f1:Omroep Eemsdelta (Delfzijl)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dacastmmd.mmdlive.lldns.net/dacastmmd/2ce776e33d0c48358ca138ff633f5558/playlist.m3u8:Omroep Eemsdelta (Delfzijl)
 #DESCRIPTION Omroep Eemsdelta (Delfzijl)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2i7mcr606u870.cloudfront.net/nlpo/clr-nlpo/omroephethogeland/video-1280x720p25-3000/index.m3u8:Omroep Het Hogeland (WInsum, Groningen)
 #DESCRIPTION Omroep Het Hogeland (WInsum, Groningen)
@@ -47,7 +47,7 @@
 #DESCRIPTION RTV Westerwolde
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8:RTV Zulthe Marum (Westerkwartier)
 #DESCRIPTION RTV Zulthe Marum (Westerkwartier)
-#SERVICE 1:64:a4:0:0:0:0:0:0:0:
+#SERVICE 1:64:a6:0:0:0:0:0:0:0:
 #DESCRIPTION +++Drenthe+++
 #SERVICE 4097:0:1:524f:c99:3:eb0000:0:0:0:https%3a//cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8:RTV Drenthe HD
 #DESCRIPTION RTV Drenthe HD
@@ -73,9 +73,11 @@
 #DESCRIPTION RTV Zulthe (Noordenveld/Westerkwartier, Drenthe)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza2.videostreamingwowza.com/eeldevrieszuidlaren/eeldevrieszuidlaren/chunklist_w1974062864.m3u8:Tynaarlo Lokaal (Tynaarlo)
 #DESCRIPTION Tynaarlo Lokaal (Tynaarlo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza2.videostreamingwowza.com/eeldevrieszuidlaren/eeldevrieszuidlaren/playlist.m3u8:Tynaarlo Lokaal (Tynaarlo)
+#DESCRIPTION Tynaarlo Lokaal (Tynaarlo)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.uitzending.tv%3a19360/zo34/zo34.m3u8:ZO!34 (Coevorden/Emmen)
 #DESCRIPTION ZO!34 (Coevorden/Emmen)
-#SERVICE 1:64:a5:0:0:0:0:0:0:0:
+#SERVICE 1:64:a7:0:0:0:0:0:0:0:
 #DESCRIPTION +++Overijssel+++
 #SERVICE 4097:0:1:5252:c99:3:eb0000:0:0:0:https%3a//mediacdn.rtvoost.nl/live/rtvoost/tv/index.m3u8:RTV Oost HD
 #DESCRIPTION RTV Oost HD
@@ -91,17 +93,17 @@
 #DESCRIPTION Deventer  RTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olon.ctl.cdn.ebsd.ericsson.net/L9A/bfa769b7/b24a7257.isml/.m3u8?dvr_window_length=7200:TV 350 (Rijssen - Overijssel)
 #DESCRIPTION TV 350 (Rijssen - Overijssel)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//61ae39677a1ab.streamlock.net/streektv/streektv/chunklist_w1336338635.m3u8:DNO Streek TV (Staphorst)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8:DNO Streek TV (Staphorst)
 #DESCRIPTION DNO Streek TV (Staphorst)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/session/8773de9da31af8e1f00b1c46b7c79674/sz/Hellendoorn/webdav/live/Hoi/720p.m3u8:HOI! (Hellendoorn- Overijssel)
 #DESCRIPTION HOI! (Hellendoorn- Overijssel)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8:NOOS TV  (Dedemsvaart/Gramsbergen/Hardenberg - Overijssel)
 #DESCRIPTION NOOS TV  (Dedemsvaart/Gramsbergen/Hardenberg - Overijssel)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/chunklist_w1110928444_b1894400_slNLD.m3u8:Omroep Noord Oost Overijssel (Overijssel)
-#DESCRIPTION Omroep Noord Oost Overijssel (Overijssel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8:Omroep Noord Oost Overijssel
+#DESCRIPTION Omroep Noord Oost Overijssel
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.radio350.nl/hls/radio350.m3u8:Radio350 webcam (Rijssen)
 #DESCRIPTION Radio350 webcam (Rijssen)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza3.videostreamingwowza.com/rtvfocuszwolle/rtvfocuszwolle/chunklist_.m3u8:RTV Focus (Zwolle)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza3.videostreamingwowza.com/rtvfocuszwolle/rtvfocuszwolle/playlist.m3u8:RTV Focus (Zwolle)
 #DESCRIPTION RTV Focus (Zwolle)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olon.ctl.cdn.ebsd.ericsson.net/L9A/64ce9eab/17a939ec.isml/.m3u8?dvr_window_length=7200:RTV IJsselmond (Kampen)
 #DESCRIPTION RTV IJsselmond (Kampen)
@@ -111,16 +113,18 @@
 #DESCRIPTION Salland1 (Deventer/Olst/Raalte/Wijhe)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-02/284-3006078/Twente_HD_TV.smil/playlist.m3u8:TwenteTV
 #DESCRIPTION TwenteTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms2.mx-cd.net/tv/VechtdalTV.smil/playlist.m3u8:Vechtdal Leeft (Dalfsen/Ommen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8:Vechtdal Leeft (Dalfsen/Ommen)
 #DESCRIPTION Vechtdal Leeft (Dalfsen/Ommen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/chunklist_w574429490_b1894400_slNLD.m3u8:Vechtdal Leeft (Dalfsen/Ommen)
 #DESCRIPTION Vechtdal Leeft (Dalfsen/Ommen)
-#SERVICE 1:64:a6:0:0:0:0:0:0:0:
+#SERVICE 1:64:a8:0:0:0:0:0:0:0:
 #DESCRIPTION +++Gelderland+++
 #SERVICE 4097:0:1:5250:c99:3:eb0000:0:0:0:http%3a//web.omroepgelderland.nl/live/livetv.m3u8:Omroep Gelderland HD
 #DESCRIPTION Omroep Gelderland HD
 #SERVICE 4097:0:1:5250:c99:3:eb0000:0:0:0:http%3a//web.omroepgelderland.nl/live/tvlive.m3u8:Omroep Gelderland HD - alternatief
 #DESCRIPTION Omroep Gelderland HD - alternatief
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8:1Achterhoek
+#DESCRIPTION 1Achterhoek
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.a1mediagroep.eu/hls/a1tv.m3u8:A1 Regio TV (Barneveld/Nijkerk)
 #DESCRIPTION A1 Regio TV (Barneveld/Nijkerk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.a1mediagroep.eu/hls/a1studio.m3u8:A1 Radio webcam studio (Barneveld/Nijkerk)
@@ -137,10 +141,8 @@
 #DESCRIPTION Omroep Lingewaard
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.rn7.nl/rn7tv/live_576/playlist.m3u8:Radio RN7
 #DESCRIPTION Radio RN7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms2.mx-cd.net/tv/Regio8TV.smil/chunklist.m3u8:REGIO8 (Achterhoek, Gelderland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/71-475821/Regio8TV.smil/playlist.m3u8:REGIO8 (Achterhoek, Gelderland)
 #DESCRIPTION REGIO8 (Achterhoek, Gelderland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/71-475821/Regio8TV.smil/chunklist_w1231568258_b1894400_slNLD.m3u8:REGIO8 (Achterhoek, Gelderland) - alternatief
-#DESCRIPTION REGIO8 (Achterhoek, Gelderland) - alternatief
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.rn7.nl/rn7live_abr/tv/playlist.m3u8:RN7 Nijmegen en regio
 #DESCRIPTION RN7 Nijmegen en regio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//olon.ctl.cdn.ebsd.ericsson.net/L8B/8b17540d/390ae055.isml/master.m3u8:RTV794 (Epe en Heerde)
@@ -157,12 +159,10 @@
 #DESCRIPTION RTV Favoriet (Zevenaar, Westervoort, Doesburg en Duiven)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/session/338217a2f0dbe3718971fe55337640ca/sz/RTV_Hattem/webdav/live/tvhattem/720p.m3u8:RTV Hattem / NO-Veluwe TV
 #DESCRIPTION RTV Hattem / NO-Veluwe TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/chunklist_w929487671_b1894400_slNLD.m3u8:RTV Nunspeet (Gelderland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8:RTV Nunspeet (Gelderland)
 #DESCRIPTION RTV Nunspeet (Gelderland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s14.ssl-stream.com%3a3797/live/rtvrijnstreeklive.m3u8:RTV Rijnstreek, Wageningen e.o. (Gelderland)
 #DESCRIPTION RTV Rijnstreek, Wageningen e.o. (Gelderland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8:RTV Slingeland
-#DESCRIPTION RTV Slingeland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server-67.stream-server.nl%3a1936/Samen1TV/Samen1TV/chunklist.m3u8:Samen1
 #DESCRIPTION Samen1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8:SRC TV (Rivierenland)
@@ -173,7 +173,7 @@
 #DESCRIPTION XON (Ede)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8:XON (Ede)
 #DESCRIPTION XON (Ede)
-#SERVICE 1:64:a7:0:0:0:0:0:0:0:
+#SERVICE 1:64:a9:0:0:0:0:0:0:0:
 #DESCRIPTION +++Utrecht+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8:RTV Utrecht HD
 #DESCRIPTION RTV Utrecht HD
@@ -181,10 +181,10 @@
 #DESCRIPTION RTV Utrecht HD (epg Ziggo)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.mediagroep-eva.nl%3a8000/hls/live.m3u8:EVA (Utrecht, Amersfoort, Leusden)
 #DESCRIPTION EVA (Utrecht, Amersfoort, Leusden)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/chunklist_.m3u8:LOS (Spakenburg)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/playlist.m3u8:LOS (Spakenburg)
 #DESCRIPTION LOS (Spakenburg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/chunklist_w1284521201_b3328000_slNLD.m3u8:Regio90TV (Utrechtse Heuvelrug/Wijk bij Duurstede - Utrecht)
-#DESCRIPTION Regio90TV (Utrechtse Heuvelrug/Wijk bij Duurstede - Utrecht)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8:Regio90TV (Utrechtse Heuvelrug/Wijk bij Duurstede)
+#DESCRIPTION Regio90TV (Utrechtse Heuvelrug/Wijk bij Duurstede)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8:Regio TV De Bilt (Utrecht)
 #DESCRIPTION Regio TV De Bilt (Utrecht)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8:RPL TV Woerden
@@ -201,7 +201,7 @@
 #DESCRIPTION Slotstad TV (Zeist)
 #SERVICE 4097:0:1:1:0:33:0:0:0:0:http%3a//media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8:UStad HD (stad Utrecht)
 #DESCRIPTION UStad HD (stad Utrecht)
-#SERVICE 1:64:a8:0:0:0:0:0:0:0:
+#SERVICE 1:64:aa:0:0:0:0:0:0:0:
 #DESCRIPTION +++Flevoland+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/2000/prog_index.m3u8:Omroep Flevoland HD
 #DESCRIPTION Omroep Flevoland HD
@@ -211,13 +211,15 @@
 #DESCRIPTION Omroep Flevoland - Visual Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/playlist.m3u8:Omroep Almere (Flevoland)
 #DESCRIPTION Omroep Almere (Flevoland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e2b3e3114872.streamlock.net%3a1443/lozlive/smil%3alozlive/chunklist_b2512000_slnld.m3u8:LOZ - Lokale Omroep Zeewolde
-#DESCRIPTION LOZ - Lokale Omroep Zeewolde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8:1Almere TV
+#DESCRIPTION 1Almere TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e2b3e3114872.streamlock.net%3a1443/lozlive/smil%3alozlive/playlist.m3u8:LOZ (Lokale Omroep Zeewolde)
+#DESCRIPTION LOZ (Lokale Omroep Zeewolde)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olon.ctl.cdn.ebsd.ericsson.net/L8B/9a708947/16898d06.isml/master.m3u8:Radio Lelystad TV (Flevoland)
 #DESCRIPTION Radio Lelystad TV (Flevoland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza3.videostreamingwowza.com/broadcastmediasolutions/broadcastmediasolutions/playlist.m3u8:RTV527 (Emmeloord)
 #DESCRIPTION RTV527 (Emmeloord)
-#SERVICE 1:64:a9:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab:0:0:0:0:0:0:0:
 #DESCRIPTION +++Noord-Holland+++
 #SERVICE 4097:0:1:4b0b:80e:600:ffff0000:0:0:0:https%3a//takeoff.jetstre.am/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8:NH Nieuws
 #DESCRIPTION NH Nieuws
@@ -241,7 +243,7 @@
 #DESCRIPTION L.O.V.E. TV (Edam + Volendam)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/session/d2fa403da76c6022786d2c3a19dc8b3b/sz/nhnieuws/wowza4/live/nhgooi/playlist.m3u8:NH Gooi (Blaricum/Hilversum e.o.)
 #DESCRIPTION NH Gooi (Blaricum/Hilversum e.o.)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-09/137-567119/Omroep_PIM.smil/chunklist_w477974988_b1894400_slNLD.m3u8:Omroep PIM (Monnickendam)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-09/137-567119/Omroep_PIM.smil/playlist.m3u8:Omroep PIM (Monnickendam)
 #DESCRIPTION Omroep PIM (Monnickendam)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioaalsmeer.nl%3a4443/live/tv.m3u8:Radio Aalsmeer TV
 #DESCRIPTION Radio Aalsmeer TV
@@ -279,7 +281,7 @@
 #DESCRIPTION WEEFF TV (Enkhuizen e.o.)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//icecast.bytesheep.net/zfmzandvoort_cam.webm:ZFM - webcam - (Zandvoort)
 #DESCRIPTION ZFM - webcam - (Zandvoort)
-#SERVICE 1:64:aa:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac:0:0:0:0:0:0:0:
 #DESCRIPTION +++Zuid-Holland+++
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp%3atv-feed_all/playlist.m3u8:Omroep West HD
 #DESCRIPTION Omroep West HD
@@ -323,8 +325,8 @@
 #DESCRIPTION RTV ATOS (Zwijndrecht)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8:RTV Dordrecht
 #DESCRIPTION RTV Dordrecht
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/dtv-10/266-2630088/RTV_Katwijk_TV.smil/chunklist_w451333520_b3328000_slNLD.m3u8:RTV Katwijk (Zuid-Holland)
-#DESCRIPTION RTV Katwijk (Zuid-Holland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/dtv-10/266-2630088/RTV_Katwijk_TV.smil/playlist.m3u8:RTV Katwijk
+#DESCRIPTION RTV Katwijk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1c3b6dit0y64a.cloudfront.net/nlpo/clr-nlpo/rtvkrimpenerwaard/index.m3u8:RTV Krimpenewaard (Bergambacht)
 #DESCRIPTION RTV Krimpenewaard (Bergambacht)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olon.ctl.cdn.ebsd.ericsson.net/L9A/9c900fc0/e8a80d15.isml/.m3u8?dvr_window_length=7200:RTV Papendrecht (Zuid-Holland)
@@ -343,11 +345,11 @@
 #DESCRIPTION Sleutelstad TV (Leiden)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//olon.ctl.cdn.ebsd.ericsson.net/L8B/5080c284/f0bd7608.isml/master.m3u8:Studio Alphen aan den Rijn (Zuid-Holland)
 #DESCRIPTION Studio Alphen aan den Rijn (Zuid-Holland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/99-660295/WOS.smil/chunklist_w2094589882_b4292608_slNLD.m3u8:WOS TV ('s-Gravenzande)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8:WOS TV ('s-Gravenzande)
 #DESCRIPTION WOS TV ('s-Gravenzande)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zfmzoetermeer.nl/live/master.m3u8:ZFM Zoetermeer (Zuid-Holland)
 #DESCRIPTION ZFM Zoetermeer (Zuid-Holland)
-#SERVICE 1:64:ab:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad:0:0:0:0:0:0:0:
 #DESCRIPTION +++Zeeland+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8:Omroep Zeeland HD
 #DESCRIPTION Omroep Zeeland HD
@@ -355,9 +357,9 @@
 #DESCRIPTION Omroep Zeeland HD (epg Ziggo)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8:GO-TV HD (Terneuzen)
 #DESCRIPTION GO-TV HD (Terneuzen)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/chunklist_w1383383443_b3328000_slNLD.m3u8:Omroep Hulst (Zeeland)
-#DESCRIPTION Omroep Hulst (Zeeland)
-#SERVICE 1:64:ac:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8:Omroep Hulst
+#DESCRIPTION Omroep Hulst
+#SERVICE 1:64:ae:0:0:0:0:0:0:0:
 #DESCRIPTION +++Noord-Brabant+++
 #SERVICE 4097:0:1:5268:c99:3:0:0:0:0:http%3a//d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8:Omroep Brabant HD (epg Astra)
 #DESCRIPTION Omroep Brabant HD (epg Astra)
@@ -389,13 +391,13 @@
 #DESCRIPTION DTV Maashorst
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olon.ctl.cdn.ebsd.ericsson.net/L9A/ac5bfcf8/94ccfc8b.isml/.m3u8?dvr_window_length=7200:Hallo Gilze Rijen (Noord-Brabant)
 #DESCRIPTION Hallo Gilze Rijen (Noord-Brabant)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8:HTR (Heusden)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8:HTR (Heusden)
 #DESCRIPTION HTR (Heusden)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/chunklist_w1666492733_b3328000_slNLD.m3u8:HTR (Heusden)
 #DESCRIPTION HTR (Heusden)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8:Kempen TV (Hapert e.o.)
 #DESCRIPTION Kempen TV (Hapert e.o.)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/chunklist_w1894010637_b1894400_slNLD.m3u8:Kempen TV (Hapert e.o.)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8:Kempen TV (Hapert e.o.)
 #DESCRIPTION Kempen TV (Hapert e.o.)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ext.streampartner.nl/nosignal/testscreen.mp4:KommuS TV (Geldrop, Noord-Brabant) soms beeld
 #DESCRIPTION KommuS TV (Geldrop, Noord-Brabant) soms beeld
@@ -409,7 +411,7 @@
 #DESCRIPTION Lokaal 7 St. Michielsgestel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olon.ctl.cdn.ebsd.ericsson.net/L8B/fe821f26/66c845c7.isml/.m3u8?dvr_window_length=7200:LOM (Mill - Noord-Brabant)
 #DESCRIPTION LOM (Mill - Noord-Brabant)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver02.omroepnuenen.nl/lon/lonweb_720p/chunklist_w1525543881.m3u8:LON (Nuenen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver02.omroepnuenen.nl/lon/lonweb_720p/playlist.m3u8:LON (Nuenen)
 #DESCRIPTION LON (Nuenen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver02.omroepnuenen.nl/best/bestweb_720p/chunklist.m3u8:Omroep Best
 #DESCRIPTION Omroep Best
@@ -425,7 +427,7 @@
 #DESCRIPTION Omroep Land van Cuijk (Mill - Noord-Brabant)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8:Omroep Meierij (Sint Oedenrode - Noord-Brabant)
 #DESCRIPTION Omroep Meierij (Sint Oedenrode - Noord-Brabant)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver02.omroepnuenen.nl/kontakt/kontakt_720p/chunklist_w1134198877.m3u8:Omroep Peelrand (Laarbeek, Gemert-Bakel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8:Omroep Peelrand (Laarbeek, Gemert-Bakel)
 #DESCRIPTION Omroep Peelrand (Laarbeek, Gemert-Bakel)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist.m3u8:Omroep Tilburg
 #DESCRIPTION Omroep Tilburg
@@ -433,14 +435,18 @@
 #DESCRIPTION Ons West Brabant
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8:ORTS (Oosterhout)
 #DESCRIPTION ORTS (Oosterhout)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radiojnd.cdn.hostin.cc/radiojnd/chunklist_w395219843.m3u8:Radio JND visueel (Eindhoven e.o.)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8:Radio JND visueel (Eindhoven e.o.)
 #DESCRIPTION Radio JND visueel (Eindhoven e.o.)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8:Rararadio (Eindhoven)
 #DESCRIPTION Rararadio (Eindhoven)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-67.stream-server.nl%3a1936/RosTVkrant/RosTVkrant/playlist.m3u8:ROS TV (Rosmalen)
 #DESCRIPTION ROS TV (Rosmalen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1ivuiwceej7mo.cloudfront.net/nlpo/clr-nlpo/vostv/index.m3u8?:RTV VOS (Valkenswaard)
+#DESCRIPTION RTV VOS (Valkenswaard)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olon.ctl.cdn.ebsd.ericsson.net/L8A/670cc78b/e1510e0d.isml/.m3u8?dvr_window_length=7200:RTV VOS (Valkenswaard)
 #DESCRIPTION RTV VOS (Valkenswaard)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//593aed234297b.streamlock.net%3a1935/henrymeeuws/henrymeeuws/chunklist.m3u8:Radio VOS FM
+#DESCRIPTION Radio VOS FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/session/7c3712bdfcad3cc9ab1fb26fbc5240ee/sz/RuchpenRTV/webdav/live/RucphenTV/720p.m3u8:Rucphen RTV (Noord-Brabant)
 #DESCRIPTION Rucphen RTV (Noord-Brabant)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videostream.siris.nl/hls/playoutweb/index.m3u8:SIRIS TV (Asten, Someren)
@@ -449,19 +455,17 @@
 #DESCRIPTION SLOG TV (Geertruidenberg - Noord-Brabant)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/session/1c672e4ef3828054d954e36a4bd6b1ca/sz/SLOSteenbergen/webdav/live/SLOSTV/720p.m3u8:SLOS TV (Steenbergen - Noord-Brabant)
 #DESCRIPTION SLOS TV (Steenbergen - Noord-Brabant)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8:Studio 040 (Eindhoven e.o.)
-#DESCRIPTION Studio 040 (Eindhoven e.o.)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8:Studio 040 (Eindhoven e.o.) in exteplayer3
-#DESCRIPTION Studio 040 (Eindhoven e.o.) in exteplayer3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//593aed234297b.streamlock.net%3a1935/henrymeeuws/henrymeeuws/chunklist.m3u8:Radio VOS FM
-#DESCRIPTION Radio VOS FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8:Studio040 (Eindhoven e.o.)
+#DESCRIPTION Studio040 (Eindhoven e.o.)
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8:Studio040 (Eindhoven e.o.) in exteplayer3
+#DESCRIPTION Studio040 (Eindhoven e.o.) in exteplayer3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.rtvhorizon.nl/hls/horizon/index.m3u8:RTV Horizon TV (Heeze/Leende, Noord-Brabant)
 #DESCRIPTION RTV Horizon TV (Heeze/Leende, Noord-Brabant)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server-23.stream-server.nl%3a1936/WinkRadio/WinkRadio/chunklist_w245682010.m3u8:Winkradio beeld (Waalre - Noord-Brabant)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server-23.stream-server.nl%3a1936/WinkRadio/WinkRadio/playlist.m3u8:Winkradio beeld (Waalre - Noord-Brabant)
 #DESCRIPTION Winkradio beeld (Waalre - Noord-Brabant)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zuidwesttv.nl/live/zwtv_ultra/index.m3u8:Zuidwest TV (Bergen op Zoom, Roosendaal en Woensdrecht)
 #DESCRIPTION Zuidwest TV (Bergen op Zoom, Roosendaal en Woensdrecht)
-#SERVICE 1:64:ad:0:0:0:0:0:0:0:
+#SERVICE 1:64:af:0:0:0:0:0:0:0:
 #DESCRIPTION +++Limburg+++
 #SERVICE 4097:0:1:4ac8:80c:600:ffff0000:0:0:0:http%3a//d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8:L1TV HD
 #DESCRIPTION L1TV HD
@@ -471,16 +475,16 @@
 #DESCRIPTION Bie OS (Limburg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8:Meer TV (Meerssen -Limburg)
 #DESCRIPTION Meer TV (Meerssen -Limburg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8:Meer TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8:Meer TV
 #DESCRIPTION Meer TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/chunklist.m3u8:ML5 (Limburg)
 #DESCRIPTION ML5 (Limburg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms7.mx-cd.net/tv/ML5-2_TV.smil/playlist.m3u8:ML5 webcam radio (Limburg)
 #DESCRIPTION ML5 webcam radio (Limburg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/dtv-10/157-1217118/Omroep_Horst_aan_de_Maas_TV.smil/chunklist_w859062550_b3328000_slNLD.m3u8:Omroep Horst aan de Maas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/dtv-10/157-1217118/Omroep_Horst_aan_de_Maas_TV.smil/playlist.m3u8:Omroep Horst aan de Maas
 #DESCRIPTION Omroep Horst aan de Maas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist_slNLD.m3u8:Omroep P&M (Panningen - Limburg)
-#DESCRIPTION Omroep P&M (Panningen - Limburg)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8:Omroep P&M (Panningen)
+#DESCRIPTION Omroep P&M (Panningen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8:Omroep Venlo
 #DESCRIPTION Omroep Venlo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8:Omroep Venray
@@ -499,9 +503,7 @@
 #DESCRIPTION TVELLEF (Midden- en Zuid-Limburg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8:TVEllef (Midden- en Zuid-Limburg) - alternatief
 #DESCRIPTION TVEllef (Midden- en Zuid-Limburg) - alternatief
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms7.mx-cd.net/tv/109-573495/WeertFM_TV.smil/chunklist.m3u8 :Weert FM (NL Limburg)
-#DESCRIPTION Weert FM (NL Limburg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/chunklist_w523242805_b3328000_slNLD.m3u8:Weert FM (NL Limburg)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8:Weert FM (NL Limburg)
 #DESCRIPTION Weert FM (NL Limburg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//olon.ctl.cdn.ebsd.ericsson.net/L8B/f17f4777/035a4f5c.isml/master.m3u8:ZO-NWS (Beekdaelen en Brunssum - Limburg)
 #DESCRIPTION ZO-NWS (Beekdaelen en Brunssum - Limburg)

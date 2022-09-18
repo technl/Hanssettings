@@ -1,5 +1,5 @@
 #NAME Stream UK - Schotland (UK)
-#SERVICE 1:64:3b4:0:0:0:0:0:0:0:
+#SERVICE 1:64:460:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Schotland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw:BBC Radio Scotland MW
 #DESCRIPTION BBC Radio Scotland MW
@@ -55,6 +55,8 @@
 #DESCRIPTION Celtic Music Radio (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.radiomonitor.com/CentralFM?token=Y4eGYWWFhGRmg4d0l8DBo5O+k34=:Central FM (Schotland, UK)
 #DESCRIPTION Central FM (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chiefradio.out.airtime.pro/chiefradio_a:Chief Radio
+#DESCRIPTION Chief Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-al.planetradio.co.uk/clyde1.aac:Clyde 1 (Schotland, UK)
 #DESCRIPTION Clyde 1 (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-al.planetradio.co.uk/clyde2.aac:Clyde 2 (Schotland, UK)
@@ -75,6 +77,8 @@
 #DESCRIPTION East Coast FM (Haddington, Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.adtonos.com%3a8103/edge:Edge Radio (Schotland, UK)
 #DESCRIPTION Edge Radio (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ehfm.out.airtime.pro/ehfm_a:EHFM
+#DESCRIPTION EHFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-al.planetradio.co.uk/forth1.aac:Forth 1 (Schotland, UK)
 #DESCRIPTION Forth 1 (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-al.planetradio.co.uk/forth2.aac:Forth 2 (Schotland, UK)
@@ -99,6 +103,8 @@
 #DESCRIPTION Heart Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.broadcastradio.com%3a8610/heartland:Heartland FM (Schotland, UK)
 #DESCRIPTION Heartland FM (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.radio.co/sa0f1967d5/listen:Heartsong Live
+#DESCRIPTION Heartsong Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//node-25.zeno.fm/a608cgux3yzuv?rj-ttl=5&rj-tok=AAABclaz4c0AseS-0MiVGk3wdA:HikeNcity (Schotland, UK)
 #DESCRIPTION HikeNcity (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//everestcast.shoutcastservices.com%3a1285/stream:Hit 40 Radio (Schotland, UK)
@@ -147,6 +153,8 @@
 #DESCRIPTION Midsummer Radio (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//premium.shoutcastsolutions.com/radio/8000/1:MKB Independent Radio (Schotland, UK)
 #DESCRIPTION MKB Independent Radio (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playoutonestreaming.com/proxy/mix1radio:Mix 1 Radio
+#DESCRIPTION Mix 1 Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//50.97.94.44%3a8190/;:myRock Radio (Schotland, UK)
 #DESCRIPTION myRock Radio (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-ads-05-gos2.sharp-stream.com/nationscotlandi.aac:Nation Radio Scotland
@@ -247,7 +255,9 @@
 #DESCRIPTION Tay FM (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/tayam.aac:Tay 2 FM (Schotland, UK)
 #DESCRIPTION Tay 2 FM (Schotland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//uk3.internet-radio.com%3a8154/stream:TD9 Radio (Hawick, Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.162%3a8010/stream/;stream/1:TD1 Radio
+#DESCRIPTION TD1 Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcast.net/68890:TD9 Radio (Hawick, Schotland, UK)
 #DESCRIPTION TD9 Radio (Hawick, Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//gbradio.cdn.tibus.net/SUNGRTHITS:The Scottish Sun Greatest Hits (Schotland, UK)
 #DESCRIPTION The Scottish Sun Greatest Hits (Schotland, UK)
@@ -255,6 +265,8 @@
 #DESCRIPTION The Scottish Sun Hits (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.8.115.147%3a9022/stream:Tiger Live (Schotland, UK)
 #DESCRIPTION Tiger Live (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming01.zfast.co.uk/proxy/cibroadc:Timeless Radio
+#DESCRIPTION Timeless Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//109.169.46.197%3a8107/;:Trancetechnic (Schotland, UK)
 #DESCRIPTION Trancetechnic (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.164%3a8020/stream?:Two Lochs Radio (Schotland, UK)

@@ -1,5 +1,5 @@
 #NAME Stream Costa Rica (CR)
-#SERVICE 1:64:2c4:0:0:0:0:0:0:0:
+#SERVICE 1:64:2e3:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teleunotv.cr%3a1935/TVUNO/TVUNO/playlist.m3u8:Tele 1 TV
 #DESCRIPTION Tele 1 TV
@@ -27,7 +27,7 @@
 #DESCRIPTION Anexion TV 36
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.info/canal38/envivo/playlist.m3u8:Canal 38 HD
 #DESCRIPTION Canal 38 HD
-#SERVICE 1:64:2c5:0:0:0:0:0:0:0:
+#SERVICE 1:64:2e4:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:Colosal TV HD
 #DESCRIPTION Colosal TV HD
@@ -35,8 +35,6 @@
 #DESCRIPTION Enlace Juvenil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:Extrema TV
 #DESCRIPTION Extrema TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/HBTV/HBTV/playlist.m3u8:HBTV TicaVisión
-#DESCRIPTION HBTV TicaVisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/chunklist_w1223558379.m3u8:Radio 88 Stereo
 #DESCRIPTION Radio 88 Stereo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.sradiotv.com%3a1936/8064/8064/playlist.m3u8:San Rafael en Linea
@@ -47,7 +45,11 @@
 #DESCRIPTION Telered Television HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/telesur/telesur/playlist.m3u8:Telesur
 #DESCRIPTION Telesur
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com/telesur/telesur/chunklist_w1240568243.m3u8:Telesur  -2-
-#DESCRIPTION Telesur  -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com/telesur/telesur/chunklist_w1240568243.m3u8:Telesur -2-
+#DESCRIPTION Telesur -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/videotour/videotour/playlist.m3u8:Video Tour Channel
 #DESCRIPTION Video Tour Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8:VM Latino
+#DESCRIPTION VM Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8198/index.m3u8:VoiceOver Radio TV
+#DESCRIPTION VoiceOver Radio TV

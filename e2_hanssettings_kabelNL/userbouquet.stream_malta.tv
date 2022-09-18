@@ -1,39 +1,59 @@
 #NAME Stream Malta (MT)
-#SERVICE 1:64:201:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live01.delivery.twentythree.com/live/amlst%3apori8uh2e1658j578b2d8a5llc%3a71154069-1278e729306f170d3483.mp4/chunklist_.m3u8:TVM
+#SERVICE 1:64:22a:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a5.smashmalta.com%3a82/live/isuku/midoriya/7.ts:TVM
 #DESCRIPTION TVM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live01.delivery.twentythree.com/live/amlst%3aij6066nbjfi8vhoaf4ncj7ve6m%3a71154145-58e9bd481c3251010565.mp4/chunklist_.m3u8:TVM News+
-#DESCRIPTION TVM News+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//netondemand.mt%3a8443/live/net/chunklist_w1293505680_DVR_tkdG9rZW5zdGFydHRpbWU9MTYzNTEyNTc1OSZ0b2tlbmVuZHRpbWU9MTYzNTE2ODk1OSZ0b2tlbmhhc2g9UDNoalgza0F5SDNFcWljUEhoWm5Ebmp5RUJhaEppU2VrZ2FpODF5UERNcz0=.m3u8:Net TV
-#DESCRIPTION Net TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8:One
-#DESCRIPTION One
-#SERVICE 1:64:202:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/23.ts:Mr Fish TV
-#DESCRIPTION Mr Fish TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/5.ts:Smash TV
-#DESCRIPTION Smash TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/29.ts:Smash 7 News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a5.smashmalta.com%3a82/live/isuku/midoriya/6.ts:TVM 2
+#DESCRIPTION TVM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a5.smashmalta.com%3a82/live/isuku/midoriya/4.ts:NET
+#DESCRIPTION NET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a5.smashmalta.com%3a82/live/isuku/midoriya/5.ts:ONE
+#DESCRIPTION ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a5.smashmalta.com%3a82/live/isuku/midoriya/3.ts:Parliament TV
+#DESCRIPTION Parliament TV
+#SERVICE 1:64:22b:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3b.smashmalta.com%3a82/live/smash/smash/26.ts:Jamahariya TV
+#DESCRIPTION Jamahariya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/4.ts:Missio TV
+#DESCRIPTION Missio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/5.ts:Puttinu Cares
+#DESCRIPTION Puttinu Cares
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.216.35.24%3a82/live/Gordon_Manche/Riveroflove/52.ts:River Christian Channel
+#DESCRIPTION River Christian Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a4.smashmalta.com%3a82/live/smash/smash/5.ts:Smash TV HD
+#DESCRIPTION Smash TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a4.smashmalta.com%3a82/live/smash/smash/85.ts:Smash TV SD
+#DESCRIPTION Smash TV SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/7.ts:Smash 7 News
 #DESCRIPTION Smash 7 News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/26.ts:Smash Arabic Music
-#DESCRIPTION Smash Arabic Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/21.ts:Smash Cam
-#DESCRIPTION Smash Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/12.ts:Smash Country
-#DESCRIPTION Smash Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/15.ts:Smash Food
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/12.ts:Smash TVShopping
+#DESCRIPTION Smash TVShopping
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/11.ts:Smash Food
 #DESCRIPTION Smash Food
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/10.ts:Smash Jazz
-#DESCRIPTION Smash Jazz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/27.ts:Smash Movies
-#DESCRIPTION Smash Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/8.ts:Smash Music
-#DESCRIPTION Smash Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/19.ts:Smash Politika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3b.smashmalta.com%3a82/live/smash/smash/19.ts:Smash Politika
 #DESCRIPTION Smash Politika
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/25.ts:Smash Rock
-#DESCRIPTION Smash Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/14.ts:Smash TSN TV Shop
-#DESCRIPTION Smash TSN TV Shop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/3.ts:Smash Explore
+#DESCRIPTION Smash Explore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/10.ts:Smash Movies
+#DESCRIPTION Smash Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/9.ts:Smash Jazz
+#DESCRIPTION Smash Jazz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/6.ts:Smash Music
+#DESCRIPTION Smash Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/2.ts:Smash House of Rock
+#DESCRIPTION Smash House of Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/1.ts:Smash Country
+#DESCRIPTION Smash Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/8.ts:Smash Arabija
+#DESCRIPTION Smash Arabija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a4.smashmalta.com%3a82/live/smash/smash/80.ts:Smash Radio 104.6FM (Live Stream)
+#DESCRIPTION Smash Radio 104.6FM (Live Stream)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3b.smashmalta.com%3a82/live/smash/smash/38.ts:Smash Jazz Club (Radio)
+#DESCRIPTION Smash Jazz Club (Radio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3b.smashmalta.com%3a82/live/smash/smash/37.ts:Smash Rock Classics (Radio)
+#DESCRIPTION Smash Rock Classics (Radio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3b.smashmalta.com%3a82/live/smash/smash/36.ts:Smash Bella Italia (Radio)
+#DESCRIPTION Smash Bella Italia (Radio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a6.smashmalta.com%3a82/live/urusei/yatsura/13.ts:UTV Mission
+#DESCRIPTION UTV Mission

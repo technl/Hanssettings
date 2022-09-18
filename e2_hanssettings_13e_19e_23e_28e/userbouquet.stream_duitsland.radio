@@ -55,6 +55,8 @@
 #DESCRIPTION AIDAradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/austriapop.mp3:Aldiana Radio Deutschland - Austria Pop
 #DESCRIPTION Aldiana Radio Deutschland - Austria Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//aldianaradio.eu/downloads/aldianamemories-danceversion.mp3:Aldiana Radio Deutschland - Memories
+#DESCRIPTION Aldiana Radio Deutschland - Memories
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/season.mp3:Aldiana Radio Deutschland - Seasonal
 #DESCRIPTION Aldiana Radio Deutschland - Seasonal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.moodsense.nl/aldianaradio.mp3:Aldiana Radio Deutschland
@@ -753,6 +755,8 @@
 #DESCRIPTION Femotion Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//mp3.ffh.de/ffhchannels/hqacoustichits.aac:FFH - Acoustic Hits
 #DESCRIPTION FFH - Acoustic Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.ffh.de/ffhchannels/hqbestof.aac:FFH - Best of 2022
+#DESCRIPTION FFH - Best of 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.ffh.de/ffhchannels/hqbrandneu.mp3:FFH - Brandneu
 #DESCRIPTION FFH - Brandneu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.ffh.de/ffhplus/hqcharts.aac:FFH - Charts
@@ -771,6 +775,8 @@
 #DESCRIPTION FFH - Eurodance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.ffh.de/ffhchannels/hqvoting.mp3:FFH - HitRadio FFH
 #DESCRIPTION FFH - HitRadio FFH
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.ffh.de/ffhchannels/hqjustwhite.aac:FFH - Just White
+#DESCRIPTION FFH - Just White
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/spezial1.mp3:FFH - Konfetti Hits
 #DESCRIPTION FFH - Konfetti Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.ffh.de/ffhchannels/hqseasons.mp3:FFH - Kuschel-Herbst
@@ -1001,8 +1007,6 @@
 #DESCRIPTION Hit-Radio-N1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//tuner.hit104.com%3a80:HIT104
 #DESCRIPTION HIT104
-#SERVICE 4097:0:1:27:2:6:0:0:0:0:http%3a//148.251.76.72%3a8081/hitnrw/streamout.sdp/playlist.m3u8:Hitarena NRW TV - Visual Radio (Duitsland)
-#DESCRIPTION Hitarena NRW TV - Visual Radio (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//138.201.234.214%3a9992:Hitradio Bodensee 1 (Duitsland)
 #DESCRIPTION Hitradio Bodensee 1 (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//88.198.175.30%3a5066:Hitradio Bodensee 2 (Duitsland)
@@ -1017,6 +1021,16 @@
 #DESCRIPTION Hitradio Ohr Spezial
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitradio-ohr.de/hitradio_ohr:Hitradio Ohr
 #DESCRIPTION Hitradio Ohr
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_100maxis_192k_mp3:Hitradio RTL 100%25 Maxis
+#DESCRIPTION Hitradio RTL 100% Maxis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_100maxis_192k_mp3:Hitradio RTL 100%25 Maxis
+#DESCRIPTION Hitradio RTL 100% Maxis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_rock_192k_mp3:Hitradio RTL Rock
+#DESCRIPTION Hitradio RTL Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_rock_192k_mp3:Hitradio RTL Rock
+#DESCRIPTION Hitradio RTL Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_simulcast__leipzig_128k_mp3:Hitradio RTL
+#DESCRIPTION Hitradio RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.98.217.63%3a23434/:Hitradio-4-you
 #DESCRIPTION Hitradio-4-you
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//str0.creacast.com/hitradio_ohr:Hitradio-Ohr
@@ -1033,8 +1047,6 @@
 #DESCRIPTION Hitradio-RT1-Sdschwaben
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.hitradiort1.c.nmdn.net/rt1suedschwabenhp/livestream.mp3?rpempv=3.1.101;:Hitradio-RT1-Sdschwaben-Memmingen
 #DESCRIPTION Hitradio-RT1-Sdschwaben-Memmingen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_simulcast__leipzig_128k_mp3:Hitradio-RTL
-#DESCRIPTION Hitradio-RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_top40_128k_mp3:Hitradio-RTL-Sachsen---Top-40
 #DESCRIPTION Hitradio-RTL-Sachsen---Top-40
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.audio.3qsdn.com/senderkw-mp3:Hitradio-SKW
@@ -1793,6 +1805,8 @@
 #DESCRIPTION Nectarine Demoscene Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice.cr1.streamzilla.xlcdn.com%3a8001/sz=nice-broadcast-media-gmbh=niceradio1-mp3-256:nice
 #DESCRIPTION nice
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-nitrosommer-aacplus-64-1359838:Nitro Sommer Radio
+#DESCRIPTION Nitro Sommer Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//norawebstreams-stream22.radiohost.de/nora-80er_mp3-192:NORA 80er
 #DESCRIPTION NORA 80er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//norawebstreams-stream22.radiohost.de/nora-oldieparty_mp3-192:NORA Oldie Party
@@ -1943,8 +1957,8 @@
 #DESCRIPTION punkrockers-radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//83.125.45.214%3a8000/punk:Punksender
 #DESCRIPTION Punksender
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radionetz.de%3a8000/purefm-bln.mp3:Pure-FM
-#DESCRIPTION Pure-FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radionetz.de/purefm-bln.mp3:Pure FM
+#DESCRIPTION Pure FM
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//91.250.102.222%3a29000/;.mp3:Pure-Metal-Radio
 #DESCRIPTION Pure-Metal-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//queerlive.stream.laut.fm/queerlive?t302=2017-12-13_10-20-30&uuid=af46e1ef-8e05-4920-955a-7efd90308420:Queer Live schwul-lesbisch-anders
@@ -2053,8 +2067,8 @@
 #DESCRIPTION Radio 700
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radio8.de%3a8000/live:Radio 8 (Ansbach)
 #DESCRIPTION Radio 8 (Ansbach)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//90vier.ip-streaming.net/radio90vier:Radio 90.vier ( Niedersachsen - Duitsland)
-#DESCRIPTION Radio 90.vier ( Niedersachsen - Duitsland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//90vier.ip-streaming.net/radio90vier:Radio 90.vier (Niedersachsen)
+#DESCRIPTION Radio 90.vier (Niedersachsen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.l.nmdn.net%3a80/ps-radiomg/livestream.mp3:Radio 901
 #DESCRIPTION Radio 901
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiomg/livestream.mp3:Radio 901-Mnchengladbach
@@ -2431,34 +2445,26 @@
 #DESCRIPTION Radio Galaxy - Oberfranken
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rgo-ais-edge-3002-fra-eco-cdn.cast.addradio.de/rgo/live/mp3/high:Radio Germany One
 #DESCRIPTION Radio Germany One
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiogong963.c.nmdn.net/ps-radiogongchannel6/livestream.mp3:Radio Gong 963 X-Mas
-#DESCRIPTION Radio Gong 963 X-Mas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webstream.gong971.de/billybillmaiershow:Radio Gong 971 Billy Billmaier Show
-#DESCRIPTION Radio Gong 971 Billy Billmaier Show
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webstream.gong971.de/heavygong:Radio Gong 971 Heavy
-#DESCRIPTION Radio Gong 971 Heavy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webstream.gong971.de/gong971:Radio Gong 971
-#DESCRIPTION Radio Gong 971
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiogong963.c.nmdn.net/fs_radiogongevent/livestream.mp3:Radio Gong Event Channel
-#DESCRIPTION Radio Gong Event Channel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3ad.gongwb.c.nmdn.net/ps-gongwbinthemix/livestream.mp3:Radio Gong In the Mix
-#DESCRIPTION Radio Gong In the Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiogong963.c.nmdn.net/fs_radiogongchannel4/livestream.mp3:Radio Gong Kulthits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong-channel08.cast.addradio.de/radiogong/channel08/mp3/high:Radio Gong Akustik Covers
+#DESCRIPTION Radio Gong Akustik Covers
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong-channel09.cast.addradio.de/radiogong/channel09/mp3/high:Radio Gong Kids
+#DESCRIPTION Radio Gong Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiogong/channel04/mp3/high?_art=dj0yJmlwPTYyLjE5NS4xODguMTA1JmlkPWljc2N4bC1zcG1xYW01a2ImdD0xNjU3OTU3MTg3JnM9Nzg2NmYyOWMjMGQ2Zjg1OWY4OWQxNGM4ODVlMzQ2YmI5NWQ0MWQzYzY:Radio Gong Kulthits
 #DESCRIPTION Radio Gong Kulthits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiogong963.c.nmdn.net/fs_radiogong963/livestream.mp3:Radio Gong München
-#DESCRIPTION Radio Gong München
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiogong963.c.nmdn.net/fs_radiogongchannel5/livestream.mp3:Radio Gong PartyGong
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiogong/live/mp3/high?_art=dj0yJmlwPTYyLjE5NS4xODguMTA1JmlkPWljc2N4bC11bGQ1ZWU2amImdD0xNjU3OTU3MDg4JnM9Nzg2NmYyOWMjYjk2NmUwZjhkNTdmYjJkY2QyMmQ0ODYwZWJmNDU1MGE:Radio Gong Live
+#DESCRIPTION Radio Gong Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong-channel07.cast.addradio.de/radiogong/channel07/mp3/high:Radio Gong München Grooved
+#DESCRIPTION Radio Gong München Grooved
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong-channel02.cast.addradio.de/radiogong/channel02/mp3/high:Radio Gong München Relaxed
+#DESCRIPTION Radio Gong München Relaxed
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong-channel08.cast.addradio.de/radiogong/channel08/mp3/high:Radio Gong PartyGong
 #DESCRIPTION Radio Gong PartyGong
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiogong963.c.nmdn.net/fs_radiogongrelaxed/livestream.mp3:Radio Gong Relaxed
-#DESCRIPTION Radio Gong Relaxed
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3ad.gongwb.c.nmdn.net/ps-gongwbstars/livestream.mp3:Radio Gong Stars
-#DESCRIPTION Radio Gong Stars
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiogong963.c.nmdn.net/fs_radiogongtop50/livestream.mp3:Radio Gong Top 50
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/radiogong/channel01/mp3/high?_art=dj0yJmlwPTYyLjE5NS4xODguMTA1JmlkPWljc2N4bC1sdXVhZ2U2amImdD0xNjU3OTU3MTI0JnM9Nzg2NmYyOWMjZWEzOTI3NjYwYWJlODhmYTJlNTZhOTExNTMyYjkwYWIhttp%3a//radiogong--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/radiogong/channel01/mp3/high?_art=dj0yJmlwPTYyLjE5NS4xODguMTA1JmlkPWljc2N4bC1sdXVhZ2U2amImdD0xNjU3OTU3MTI0JnM9Nzg2NmYyOWMjZWEzOTI3NjYwYWJlODhmYTJlNTZhOTExNTMyYjkwYWI:Radio Gong Top 50
 #DESCRIPTION Radio Gong Top 50
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiogong963.c.nmdn.net/fs_radiogongchannel6/livestream.mp3:Radio Gong Weihnachtshits
-#DESCRIPTION Radio Gong Weihnachtshits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3ad.gongwb.c.nmdn.net/ps-gongwb/livestream.mp3:Radio Gong
-#DESCRIPTION Radio Gong
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong--di--nacs-ais-lgc--03--cdn.cast.addradio.de/radiogong/channel03/mp3/high?_art=dj0yJmlwPTYyLjE5NS4xODguMTA1JmlkPWljc2N4bC01ZTRoZ2U2amImdD0xNjU3OTU3MjQyJnM9Nzg2NmYyOWMjZWUwOTg4NTA2MDcxMWY1OTYxMGU4YWUzYmNiNjA5N2Q:Radio Gong Wiesn Hits
+#DESCRIPTION Radio Gong Wiesn Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong-channel06.cast.addradio.de/radiogong/channel06/mp3/high:Radio Gong X-Mas
+#DESCRIPTION Radio Gong X-Mas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogreek.out.airtime.pro%3a8000/radiogreek_a:Radio Greek
 #DESCRIPTION Radio Greek
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radioguetersloh.c.nmdn.net/radioguetersloh/livestream.mp3:Radio Gütersloh (Duitsland)
@@ -2517,8 +2523,8 @@
 #DESCRIPTION Radio HSF
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server22746.streamplus.de%3a7000/;:Radio Immanuel
 #DESCRIPTION Radio Immanuel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4broadcast.de%3a8300:Radio Ingolstadt
-#DESCRIPTION Radio Ingolstadt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4broadcast.de%3a8300:Radio IN  Ingolstadt)
+#DESCRIPTION Radio IN  Ingolstadt)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.audio.3qsdn.com/9CLbQJKjt4BmhGw:Radio ISW = Inn-Salzach-Welle (Duitsland)
 #DESCRIPTION Radio ISW = Inn-Salzach-Welle (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.audio.3qsdn.com/VtcP2M83QdDnxTK:Radio ISW = Inn-Salzach-Welle - +Plus (Duitsland)
@@ -2617,6 +2623,8 @@
 #DESCRIPTION Radio Osnabrück (Duitsland)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fra.radiostream.de%3a36949:Radio Ostfriesland
 #DESCRIPTION Radio Ostfriesland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-ostrock.de:Radio Ostrock
+#DESCRIPTION Radio Ostrock
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//tuner.radiopaloma.de%3a80/:Radio Paloma
 #DESCRIPTION Radio Paloma
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.paradiso.de/paradiso-berlin/mp3-128/paradiso.bln.mp3:Radio Paradiso Berlin
@@ -3259,6 +3267,10 @@
 #DESCRIPTION RTL 90er 104.6
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-90s.cast.addradio.de/rt1/90s/mp3/high/stream.mp3:RTL 90s
 #DESCRIPTION RTL 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fhhalle.streamabc.net/fhhal-rtlabriss-mp3-128-1016614 :RTL Abriss
+#DESCRIPTION RTL Abriss
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-acoustichits-mp3-128-7712388 :RTL Accoustic Hits
+#DESCRIPTION RTL Accoustic Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtl2000er-mp3-128-2732132:RTL Berlin - 2000er (DE)
 #DESCRIPTION RTL Berlin - 2000er (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.hoerradar.de/rtlberlin-80er-mp3-128:RTL Berlin - 80er (DE)
@@ -3289,8 +3301,8 @@
 #DESCRIPTION RTL Berlin - Smooth (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.hoerradar.de/thewave-mp3-128   :RTL Berlin - The Wave (DE)
 #DESCRIPTION RTL Berlin - The Wave (DE)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.hoerradar.de/rtlberlin-top40-mp3-128:RTL Berlin - Top 40 (DE)
-#DESCRIPTION RTL Berlin - Top 40 (DE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlberlintop40-mp3-128-7655404:RTL Berlin - Top 40
+#DESCRIPTION RTL Berlin - Top 40
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.hoerradar.de/rtlberlin-event01-mp3-128:RTL Berlin - Weihnachtsradio (DE)
 #DESCRIPTION RTL Berlin - Weihnachtsradio (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlxmsgreath-mp3-128-5365238:RTL Berlin - Weihnachtsradio Greatest Hits (DE)
@@ -3301,28 +3313,36 @@
 #DESCRIPTION RTL Berlin - Weihnachtsradio Rock Hits (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.hoerradar.de/rtlberlin-live-mp3-128:RTL Berlin Hitradio Live (= hoofdzender, DE)
 #DESCRIPTION RTL Berlin Hitradio Live (= hoofdzender, DE)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/rtl-black/mp3-128:RTL Black Hits 104.6
-#DESCRIPTION RTL Black Hits 104.6
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/rtl-black/mp3-128:RTL Black Greatest Hits
+#DESCRIPTION RTL Black Greatest Hits
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rt1-black.cast.addradio.de/rt1/black/mp3/high/stream.mp3:RTL Black
 #DESCRIPTION RTL Black
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/chill/mp3-128:RTL Chill 104.6
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-top40bbrg-mp3-128-6914032 :RTL Brandenburgs Top 40
+#DESCRIPTION RTL Brandenburgs Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlchill-mp3-128-1280829 :RTL Chill 104.6
 #DESCRIPTION RTL Chill 104.6
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rt1-chillhouse.cast.addradio.de/rt1/chillhouse/mp3/high/stream.mp3:RTL Chillhouse
 #DESCRIPTION RTL Chillhouse
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlbmjzryazozzq0w9-mp3-128-5138667 :RTL Dance Hits
+#DESCRIPTION RTL Dance Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-dance.cast.addradio.de/rt1/dance/mp3/high/stream.mp3:RTL Dance
 #DESCRIPTION RTL Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/deutsch/mp3-128:RTL Deutsch 104.6
 #DESCRIPTION RTL Deutsch 104.6
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-deutsch.cast.addradio.de/rt1/deutsch/mp3/high/stream.mp3:RTL Deutsch
-#DESCRIPTION RTL Deutsch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-deutsch.cast.addradio.de/rt1/deutsch/mp3/high/stream.mp3:RTL Deutsch Greatest Hits
+#DESCRIPTION RTL Deutsch Greatest Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sec-rtldtl.hoerradar.de/rtldtl-national-mp3-128:RTL Deutsches Hitradio
 #DESCRIPTION RTL Deutsches Hitradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rtlradio.de/rtl-de-beste-hits/mp3-128:RTL Die Besten Hits aller Zeiten
 #DESCRIPTION RTL Die Besten Hits aller Zeiten
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/elektro/mp3-128:RTL Elektro 104.6
-#DESCRIPTION RTL Elektro 104.6
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/elektro/mp3-128:RTL DJ Mix
+#DESCRIPTION RTL DJ Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-entdeckeneuemusik-mp3-128-1272702:RTL Entedecke Neue Musik
+#DESCRIPTION RTL Entedecke Neue Musik
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rt1-eurodance.cast.addradio.de/rt1/eurodance/mp3/high/stream.mp3:RTL Euro Dance
 #DESCRIPTION RTL Euro Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fhhalle.streamabc.net/fhhal-rtlflash-mp3-128-3071502:RTL Flash Back
+#DESCRIPTION RTL Flash Back
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rt1-funk.cast.addradio.de/rt1/funk/mp3/high/stream.mp3:RTL Funk
 #DESCRIPTION RTL Funk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/rtl-60er70er/mp3-128:RTL Greatest Hits 104.6
@@ -3335,7 +3355,7 @@
 #DESCRIPTION RTL Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/luxus/mp3-128:RTL Luxus Hits 104.6
 #DESCRIPTION RTL Luxus Hits 104.6
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/rtl-neue-hits/mp3-128:RTL Neue Hits 104.6
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlneuehits-mp3-128-7497197:RTL Neue Hits 104.6
 #DESCRIPTION RTL Neue Hits 104.6
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rt1-numberones.cast.addradio.de/rt1/numberones/mp3/high/stream.mp3:RTL Number-Ones
 #DESCRIPTION RTL Number-Ones
@@ -3349,8 +3369,10 @@
 #DESCRIPTION RTL Radio (Duitsland + Luxemburg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-relax.cast.addradio.de/rt1/relax/mp3/high/stream.mp3:RTL Relax
 #DESCRIPTION RTL Relax
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/rtl-poprock/mp3-128:RTl Rock Hits 104.6
-#DESCRIPTION RTl Rock Hits 104.6
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fhhalle.streamabc.net/fhhal-rtlremmi-mp3-128-8837212:RTL Remmi Demmi
+#DESCRIPTION RTL Remmi Demmi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/rtl-poprock/mp3-128:RTL Rock Greatest Hits
+#DESCRIPTION RTL Rock Greatest Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-rock.cast.addradio.de/rt1/rock/mp3/high/stream.mp3:RTL Rock
 #DESCRIPTION RTL Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rti-radio.de%3a8092:RTL Saksesch-Radio
@@ -3391,12 +3413,152 @@
 #DESCRIPTION RTL Spreeradio-80er105.5
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.thewaveradio.de/wave-live/mp3-128:RTL The Wave 104.6
 #DESCRIPTION RTL The Wave 104.6
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal_890rtltre_3wru-mp3-256-3686620 :RTL Top Hits 2022
+#DESCRIPTION RTL Top Hits 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.104.6rtl.com/rtl-top40/mp3-128:RTL Top- 40 104.6
 #DESCRIPTION RTL Top- 40 104.6
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-weekend.cast.addradio.de/rt1/weekend/mp3/high/stream.mp3:RTL Weekend
 #DESCRIPTION RTL Weekend
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-xmas.cast.addradio.de/rt1/xmas/mp3/high/stream.mp3:RTL Xmas
 #DESCRIPTION RTL Xmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-plus2000er-mp3-192-2467117:RTL+ 2000er
+#DESCRIPTION RTL+ 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-2010-mp3-192-6819577:RTL+ 2010er
+#DESCRIPTION RTL+ 2010er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlplus70er-mp3-192-5093070:RTL+ 70er
+#DESCRIPTION RTL+ 70er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-plus80errock-mp3-192-6101416:RTL+ 80er Rock
+#DESCRIPTION RTL+ 80er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-80soft-mp3-192-9605117:RTL+ 80er Soft
+#DESCRIPTION RTL+ 80er Soft
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-plus80er-mp3-192-1270102:RTL+ 80er
+#DESCRIPTION RTL+ 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-90dance-mp3-192-6343827:RTL+ 90er Dance
+#DESCRIPTION RTL+ 90er Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-plus90er-mp3-192-3934896:RTL+ 90er
+#DESCRIPTION RTL+ 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-abba-mp3-192-7142875:RTL+ Abba
+#DESCRIPTION RTL+ Abba
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-acoustic-mp3-192-2305541:RTL+ Akustik
+#DESCRIPTION RTL+ Akustik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-atwork-mp3-192-1694007:RTL+ At Work
+#DESCRIPTION RTL+ At Work
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-bonjovi-mp3-192-2079373:RTL+ Bon Jovi
+#DESCRIPTION RTL+ Bon Jovi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-boygroups-mp3-192-9312628:RTL+ Boybands
+#DESCRIPTION RTL+ Boybands
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-pluscharts-mp3-192-6275339:RTL+ Charts
+#DESCRIPTION RTL+ Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-chillout-mp3-192-2763255:RTL+ Chillout
+#DESCRIPTION RTL+ Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-classicrock-mp3-192-6688991:RTL+ Classic Rock
+#DESCRIPTION RTL+ Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-coffeehouse-mp3-192-5274468:RTL+ Coffee House
+#DESCRIPTION RTL+ Coffee House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-country-mp3-128-5265258:RTL+ Country
+#DESCRIPTION RTL+ Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-dancemix-mp3-192-4593214:RTL+ Dance Mix
+#DESCRIPTION RTL+ Dance Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-dtpop-mp3-192-7603466:RTL+ Deutsch Pop
+#DESCRIPTION RTL+ Deutsch Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-deutschrap-mp3-192-9821581:RTL+ Deutschrap
+#DESCRIPTION RTL+ Deutschrap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-edsheeran-mp3-192-1209017:RTL+ Ed Sheeran
+#DESCRIPTION RTL+ Ed Sheeran
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-plusedm-mp3-192-9201763:RTL+ EDM
+#DESCRIPTION RTL+ EDM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-feelgood-mp3-192-5183553:RTL+ Feelgood
+#DESCRIPTION RTL+ Feelgood
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-festival-mp3-192-2720892:RTL+ Festival
+#DESCRIPTION RTL+ Festival
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-plusgrhits-mp3-192-5156341:RTL+ Greatest Hits
+#DESCRIPTION RTL+ Greatest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-heavymetal-mp3-128-2458069:RTL+ Heavy Metal
+#DESCRIPTION RTL+ Heavy Metal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-hits-mp3-192-8362164:RTL+ Hits
+#DESCRIPTION RTL+ Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-homeoffice-mp3-192-7450296:RTL+ Homeoffice
+#DESCRIPTION RTL+ Homeoffice
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-house-mp3-192-1546687:RTL+ House
+#DESCRIPTION RTL+ House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-indieclassics-mp3-192-5882968:RTL+ Indie Classic
+#DESCRIPTION RTL+ Indie Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-indie-mp3-192-3165346:RTL+ Indie
+#DESCRIPTION RTL+ Indie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-jlo-mp3-192-3811965:RTL+ Jennifer Lopez
+#DESCRIPTION RTL+ Jennifer Lopez
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-kpop-mp3-192-5520170:RTL+ K-Pop
+#DESCRIPTION RTL+ K-Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-kidschillout-mp3-128-3408943:RTL+ Kids Chillout
+#DESCRIPTION RTL+ Kids Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlbrshdwgqa9c54qt-mp3-192-8143129:RTL+ Kids Hits
+#DESCRIPTION RTL+ Kids Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-kidsparty-mp3-128-7211949:RTL+ Kids Party
+#DESCRIPTION RTL+ Kids Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-latin-mp3-128-9561742:RTL+ Latin
+#DESCRIPTION RTL+ Latin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-lena-mp3-192-2527774:RTL+ Lena
+#DESCRIPTION RTL+ Lena
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-pluslounge-mp3-192-5475921:RTL+ Lounge
+#DESCRIPTION RTL+ Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-lovesongs-mp3-192-2506593:RTL+ Love Songs
+#DESCRIPTION RTL+ Love Songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-madonna-mp3-192-9078577:RTL+ Madonna
+#DESCRIPTION RTL+ Madonna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-mallehits-mp3-192-5969428:RTL+ Mallorca Hits
+#DESCRIPTION RTL+ Mallorca Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-jackson-mp3-192-3297401:RTL+ Michael Jackson
+#DESCRIPTION RTL+ Michael Jackson
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-mixfjaehn-mp3-192-2159652:RTL+ Mixes by Felix Jaehn
+#DESCRIPTION RTL+ Mixes by Felix Jaehn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-morning-mp3-192-4166768:RTL+ Morning
+#DESCRIPTION RTL+ Morning
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-plusneuehits-mp3-192-1630075:RTL+ Neue Hits
+#DESCRIPTION RTL+ Neue Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-oldies-mp3-192-9282756:RTL+ Oldies
+#DESCRIPTION RTL+ Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-party-mp3-192-4398067:RTL+ Party
+#DESCRIPTION RTL+ Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlpluspoppunk-mp3-192-6268042:RTL+ Pop Punk
+#DESCRIPTION RTL+ Pop Punk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-pride-mp3-192-7077648:RTL+ Pride
+#DESCRIPTION RTL+ Pride
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-plusrnb-mp3-192-1310985:RTL+ R&B
+#DESCRIPTION RTL+ R&B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rap-mp3-192-3478994:RTL+ Rap Classics
+#DESCRIPTION RTL+ Rap Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-raphits-mp3-192-7741778:RTL+ Rap Hits
+#DESCRIPTION RTL+ Rap Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-plusrealitylove-mp3-192-7059759:RTL+ Reality Love
+#DESCRIPTION RTL+ Reality Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-relax-mp3-192-5724059:RTL+ Relax
+#DESCRIPTION RTL+ Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-robbie-mp3-192-7117283:RTL+ Robbie Williams
+#DESCRIPTION RTL+ Robbie Williams
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rockcharts-mp3-192-9078746:RTL+ Rock Charts
+#DESCRIPTION RTL+ Rock Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rockhits-mp3-192-9280020:RTL+ Rock Hits
+#DESCRIPTION RTL+ Rock Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-schlager-mp3-192-2687664:RTL+ Schlager Klassiker
+#DESCRIPTION RTL+ Schlager Klassiker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-schlagerclassics-mp3-192-8869306:RTL+ Schlager
+#DESCRIPTION RTL+ Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-softrock-mp3-128-3890777:RTL+ Soft Rock
+#DESCRIPTION RTL+ Soft Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-sommer-mp3-192-2093639:RTL+ Sommer Songs
+#DESCRIPTION RTL+ Sommer Songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-sing-mp3-192-7927281:RTL+ Songs mit Mitsingen
+#DESCRIPTION RTL+ Songs mit Mitsingen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-soundtrack-mp3-128-9970911:RTL+ Soundtrack
+#DESCRIPTION RTL+ Soundtrack
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-top40-mp3-192-1788115:RTL+ Top 40
+#DESCRIPTION RTL+ Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-viralhits-mp3-192-1534668:RTL+ Viral Hits
+#DESCRIPTION RTL+ Viral Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-weihnachtssongs-mp3-128-9763744:RTL+ Weihnachtssongs
+#DESCRIPTION RTL+ Weihnachtssongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-workout-mp3-192-2261934:RTL+ Workout
+#DESCRIPTION RTL+ Workout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtldtl.hoerradar.de/rtldtl-ukw-mp3-128?sABC=5n34n14n%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523xbafbyr&amsparams=playerid%3akonsole;skey%3a1513398602:RTL-933---970
 #DESCRIPTION RTL-933---970
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.104.6rtl.com/rtl-neue-hits/mp3-128/listenlive.eu:RTL-Best-New-Hits 104.6
@@ -3445,6 +3607,10 @@
 #DESCRIPTION Schalltwerk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2-ais-edge-3001-fra-eco-cdn.cast.addradio.de/radiob2/nrw/mp3/high:Schlager Radio NRW
 #DESCRIPTION Schlager Radio NRW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiob2/schlagermixx/mp3/high/stream.mp3:Schlager Radio Plus Hossa
+#DESCRIPTION Schlager Radio Plus Hossa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--04--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3:Schlager Radio
+#DESCRIPTION Schlager Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.schlagerhoelle.de%3a30842:Schlagerhlle
 #DESCRIPTION Schlagerhlle
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//84.19.184.27%3a30842:Schlagerparadies-Webstream
@@ -3567,8 +3733,8 @@
 #DESCRIPTION StarFM - Rock-Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.hitfm.de%3a9050/starmix:STARMIX---89-HIT-FM---REWIND
 #DESCRIPTION STARMIX---89-HIT-FM---REWIND
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3ad.radiob2starsat.c.nmdn.net/fs_radiob2starsat/livestream.mp3:STARSAT RADIO
-#DESCRIPTION STARSAT RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//starsat--di--nacs-ais-lgc--09--cdn.cast.addradio.de/starsat/live/mp3/high/stream.mp3:Starstad Radio
+#DESCRIPTION Starstad Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//136.243.156.30%3a1701/stream/2/:STR---Space-Travel-Radio
 #DESCRIPTION STR---Space-Travel-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server2.blitz-stream.de%3a7920/:Sunrise-Radio
@@ -3725,8 +3891,28 @@
 #DESCRIPTION TIDE-960-Hamburg---Immer-anders
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streaming.tidenet.de%3a8000/tide-128.mp3:Tide-Radio
 #DESCRIPTION Tide-Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-toggo-mp3-128-6356726:Toggo Radio – Kids (DE)
-#DESCRIPTION Toggo Radio – Kids (DE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-chillen-mp3-192-6476456:Toggo Radio Chillen
+#DESCRIPTION Toggo Radio Chillen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-deutsch-mp3-128-9294305:Toggo Radio Deutsch Pop
+#DESCRIPTION Toggo Radio Deutsch Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-familienmix-mp3-192-3838430:Toggo Radio Familien Mix
+#DESCRIPTION Toggo Radio Familien Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-toggo-mp3-128-6356726:Toggo Radio Kids
+#DESCRIPTION Toggo Radio Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-kinderzimmer-mp3-128-7566112:Toggo Radio Kinderzimmer
+#DESCRIPTION Toggo Radio Kinderzimmer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-party-mp3-128-5828577:Toggo Radio Party
+#DESCRIPTION Toggo Radio Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-spielen-mp3-192-8940187:Toggo Radio Spielen
+#DESCRIPTION Toggo Radio Spielen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-sporthits-mp3-192-1274420:Toggo Radio Sport Hits
+#DESCRIPTION Toggo Radio Sport Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-wachmachsongs-mp3-192-3744657:Toggo Radio Wachmach Songs
+#DESCRIPTION Toggo Radio Wachmach Songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-weihnachten-mp3-192-2156039:Toggo Radio Weihnachten
+#DESCRIPTION Toggo Radio Weihnachten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-woozlesmusik-mp3-128-9901876:Toggo Radio Woozles Music mit Wumms
+#DESCRIPTION Toggo Radio Woozles Music mit Wumms
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.topfm.c.nmdn.net/fs_topfm/livestream.mp3:Top FM (Duitsland)
 #DESCRIPTION Top FM (Duitsland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.130.133.39/top100station.mp3:Top100 Station

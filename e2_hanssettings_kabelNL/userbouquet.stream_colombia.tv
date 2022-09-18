@@ -1,16 +1,34 @@
 #NAME Stream Colombia (CO)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/canalacuario:Acuario Television
+#DESCRIPTION Acuario Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/atmtv/index.m3u8:ATM Televisión
 #DESCRIPTION ATM Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8:Avivamiento TV
 #DESCRIPTION Avivamiento TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamyes.alsolnet.com/buturama/live/playlist.m3u8:Buenísima Radio TV
+#DESCRIPTION Buenísima Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8:Cablenoticias Bogotà
+#DESCRIPTION Cablenoticias Bogotà
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8:Canal 1
+#DESCRIPTION Canal 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video13.virtualtronics.com/streamer/canal2_720/index.m3u8:Canal 2
 #DESCRIPTION Canal 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8:Canal 9 Bío Bío Televisión
 #DESCRIPTION Canal 9 Bío Bío Televisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.117.4.70%3a8075/channel11/playlist.m3u8:Canal 11 TV Red
+#DESCRIPTION Canal 11 TV Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8:Canal 12
+#DESCRIPTION Canal 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canaltrece-live.logicideas.media/canaltrece-live/smil%3alive.smil/playlist.m3u8:Canal 13
+#DESCRIPTION Canal 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canaltreceplus-live.logicideas.media/canaltreceplus-live/smil%3alive1plus.smil/playlist.m3u8:Canal 13 Plus
+#DESCRIPTION Canal 13 Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8:Canal Cali TV
 #DESCRIPTION Canal Cali TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/popular/popular/chunklist_.m3u8:Canal CNC HD
 #DESCRIPTION Canal CNC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8054/8054/playlist.m3u8:Canal CNC Cartagena
+#DESCRIPTION Canal CNC Cartagena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/canalcnc/canalcnc/chunklist.m3u8:Canal CNC Medellin
 #DESCRIPTION Canal CNC Medellin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/cncpasto/cncpasto/chunklist.m3u8:Canal CNC Pasto
@@ -31,18 +49,42 @@
 #DESCRIPTION Canal Latino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//g2.vxral-slo.transport.edge-access.net/a11/ngrp%3acanal_luz01-100009_all/Playlist.m3u8:Canal Luz
 #DESCRIPTION Canal Luz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8:Cosmovision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.servers10.com%3a8081/8092/playlist.m3u8:Canal NorteVision (Pasto, Nariño)
+#DESCRIPTION Canal NorteVision (Pasto, Nariño)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//byecableiptv.com/canapycvivo/canalpyc.stream/playlist.m3u8:Canal P&C
+#DESCRIPTION Canal P&C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canalzoom.itex.com.co%3a3027/live/canalzoombr1live.m3u8:Canal Zoom
+#DESCRIPTION Canal Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videohls2.cosmovision.tv/hls/sd.m3u8:Cosmovision
 #DESCRIPTION Cosmovision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8:CTV Barranquilla
+#DESCRIPTION CTV Barranquilla
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2.tustreaming.cl/culturaonline/index.m3u8:Cultura Online
 #DESCRIPTION Cultura Online
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tustreamingvideo.com%3a3376/multi_live/play.m3u8:EDVTV Bogotà
+#DESCRIPTION EDVTV Bogotà
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https%3a//teveo.com.co/player/AcAAAgAFAADLA1IAyADIQCAAAAAAAAAA.js:Enlace Televisión
+#DESCRIPTION Enlace Televisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcpar.myplaytv.com/esportsmax/live/playlist.m3u8:Esports Max
+#DESCRIPTION Esports Max
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc8/cnc8/chunklist_.m3u8:Galeras TV
 #DESCRIPTION Galeras TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eff35271151c.streamlock.net%3a1936/8076/ngrp%3a8076/playlist.m3u8:La Popular TV
 #DESCRIPTION La Popular TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/mastvonline:Más TV
+#DESCRIPTION Más TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8010/8010/playlist.m3u8:Multicanal Televisión (Cali, Valle del Cauca)
+#DESCRIPTION Multicanal Televisión (Cali, Valle del Cauca)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/mundomas/mundomas/playlist.m3u8:Mundo Mas
 #DESCRIPTION Mundo Mas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8:Net TV
+#DESCRIPTION Net TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8:Noticias Channel
 #DESCRIPTION Noticias Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8:Noticiero 90 Minutos
+#DESCRIPTION Noticiero 90 Minutos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server12.videostreaming.net%3a3230/stream/play.m3u8:Ondambiantal TV 
+#DESCRIPTION Ondambiantal TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8:Pauta
 #DESCRIPTION Pauta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8:Portalfoxmix
@@ -51,13 +93,21 @@
 #DESCRIPTION Radio Zeta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8:RCN Mas
 #DESCRIPTION RCN Mas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8:Suram TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8:Red+
+#DESCRIPTION Red+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetv.305streamhd.com%3a3111/multi_live/play.m3u8:Suram TV
 #DESCRIPTION Suram TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcs-live.apis.anvato.net/server/play/qRNQEfZ4Rd9snRxLQ/rendition.m3u8?track=video-4&anvsid=i176422952-n46e7e0cd-445a-46a5-a04a-1bcfb2574ea2&ts=&anvtrid=:Telecaribe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==:Telecaribe
 #DESCRIPTION Telecaribe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//vbox2.cehis.net/live-teleislas/teleislas app=live-teleislas pageUrl=https%3a//streaming.com.co/clientes/teleislas/index.html swfUrl=https%3a//cehis.net/player55/player.swf tcUrl=rtmp%3a//vbox2.cehis.net/live-teleislas playPath=teleislas live=1:Teleislas
 #DESCRIPTION Teleislas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.logicideas.media/telepacifico-live/smil%3alive.smil/chunklist_b4500000.m3u8:Telepacifico
 #DESCRIPTION Telepacifico
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8:UAO Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https%3a//teveo.com.co/player/AcAAAgAIAAE7A1IAyADIUCAAAAAAAAAA.js:Telepetróleo
+#DESCRIPTION Telepetróleo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8:UAO Play
 #DESCRIPTION UAO Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cur.watch/api/get_stream/vam/streann/playlist.m3u8:VAM Vid's & More
+#DESCRIPTION VAM Vid's & More
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/veotv.m3u8:Veo Television
+#DESCRIPTION Veo Television

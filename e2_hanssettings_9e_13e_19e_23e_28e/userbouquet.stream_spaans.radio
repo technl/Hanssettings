@@ -69,6 +69,10 @@
 #DESCRIPTION ISLA 106 Ibiza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kissfm.kissfmradio.cires21.com/kissfm.mp3:Kiss FM
 #DESCRIPTION Kiss FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.lacarihuela-radio.com/8044/stream:La Carihuela Radio (NL in Torremolinos - Spanje)
+#DESCRIPTION La Carihuela Radio (NL in Torremolinos - Spanje)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//likeradiostream.com/likeonespain:Like One Spain
+#DESCRIPTION Like One Spain
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audio-online.net%3a2300/live:Loca FM
 #DESCRIPTION Loca FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT.mp3:LOS 40 Catalunya – ELS 40
@@ -131,7 +135,7 @@
 #DESCRIPTION Radio Tele Taxi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s3a9cb38f3/listen:Radio – SOL FM – Fuerteventura
 #DESCRIPTION Radio – SOL FM – Fuerteventura
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/RADIOLE_ASO_COSTA_LUZ.mp3:Radiole Costa de la Luz, Huelva
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_ASO_COSTA_LUZ:Radiole Costa de la Luz, Huelva
 #DESCRIPTION Radiole Costa de la Luz, Huelva
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//19993.live.streamtheworld.com/RADIOLEAAC.aac:Radiolé
 #DESCRIPTION Radiolé

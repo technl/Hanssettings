@@ -1,4 +1,6 @@
 #NAME Stream NL nationaal politiek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.23%3a8080/play/z06m:NPO Politiek en Nieuws
+#DESCRIPTION NPO Politiek en Nieuws
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Actualiteitenkanaal
 #DESCRIPTION Actualiteitenkanaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Actualiteitenkanaal 2
@@ -33,7 +35,7 @@
 #DESCRIPTION Vondelingkamer
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.tweedekamer.nl/live/wttewaall_van_stoetwegenzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live:Wttewaall van Stoetwegenzaal
 #DESCRIPTION Wttewaall van Stoetwegenzaal
-#SERVICE 1:64:16d:0:0:0:0:0:0:0:
+#SERVICE 1:64:16b:0:0:0:0:0:0:0:
 #DESCRIPTION +++Eerste Kamer (bij vergadering)+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cv-eerstekamer1.azureedge.net/livehttporigin/ngrp%3aeerstekamer.stream_all/playlist.m3u8:Eerste Kamer
 #DESCRIPTION Eerste Kamer

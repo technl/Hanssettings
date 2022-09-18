@@ -1,24 +1,26 @@
 #NAME Stream webcams dieren
-#SERVICE 1:64:24e:0:0:0:0:0:0:0:
+#SERVICE 1:64:251:0:0:0:0:0:0:0:
 #DESCRIPTION --- Nederland ---
-#SERVICE 1:64:24f:0:0:0:0:0:0:0:
+#SERVICE 1:64:252:0:0:0:0:0:0:0:
 #DESCRIPTION ++nestkastjes vogels algemeen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//584b389d712f9.streamlock.net/live/pindacam.stream/playlist.m3u8:Harlingen - Vogelcam
 #DESCRIPTION Harlingen - Vogelcam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-67.stream-server.nl%3a1936/PoesjesTV/PoesjesTV/playlist.m3u8:Poesjes TV
 #DESCRIPTION Poesjes TV
-#SERVICE 1:64:250:0:0:0:0:0:0:0:
+#SERVICE 1:64:253:0:0:0:0:0:0:0:
 #DESCRIPTION ++Nestkast Live 2022++
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Boerenlandvogels1/chunklist.m3u8:NestkastLIVE - Boerenlandvogels (binnenkort)
-#DESCRIPTION NestkastLIVE - Boerenlandvogels (binnenkort)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Bosuil5Binnen.stream/chunklist_w1274488283.m3u8:NestkastLIVE - Bosuil
-#DESCRIPTION NestkastLIVE - Bosuil
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Dras.stream/chunklist.m3u8:NestkastLIVE - Dras (weiland)
-#DESCRIPTION NestkastLIVE - Dras (weiland)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Bliek/chunklist.m3u8:NestkastLIVE - Bliek
+#DESCRIPTION NestkastLIVE - Bliek
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Boerenlandvogels1/chunklist.m3u8:NestkastLIVE - Boerenlandvogels
+#DESCRIPTION NestkastLIVE - Boerenlandvogels
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Bosuil5Binnen.stream/chunklist_w1274488283.m3u8:NestkastLIVE - Bosuil (2022 gestopt)
+#DESCRIPTION NestkastLIVE - Bosuil (2022 gestopt)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Dras.stream/chunklist.m3u8:NestkastLIVE - Dras
+#DESCRIPTION NestkastLIVE - Dras
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Gierzwaluw1/chunklist.m3u8:NestkastLIVE - Gierzwaluw
 #DESCRIPTION NestkastLIVE - Gierzwaluw
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Havik.stream/chunklist.m3u8:NestkastLIVE - Havik
-#DESCRIPTION NestkastLIVE - Havik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Havik.stream/chunklist.m3u8:NestkastLIVE - Havik (2022 gestopt)
+#DESCRIPTION NestkastLIVE - Havik (2022 gestopt)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Kerkuil1Binnen.stream/chunklist.m3u8:NestkastLIVE - Kerkuil
 #DESCRIPTION NestkastLIVE - Kerkuil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/BlijdeWei1.stream/chunklist.m3u8:NestkastLIVE - Koolmees
@@ -29,8 +31,8 @@
 #DESCRIPTION NestkastLIVE - Lepelaar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Merel1/chunklist.m3u8:NestkastLIVE - Merel
 #DESCRIPTION NestkastLIVE - Merel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Ooievaar1/chunklist.m3u8:NestkastLIVE - Ooievaar
-#DESCRIPTION NestkastLIVE - Ooievaar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Ooievaar1/chunklist.m3u8:NestkastLIVE - Ooievaar (2022 gestopt, geen broedsel)
+#DESCRIPTION NestkastLIVE - Ooievaar (2022 gestopt, geen broedsel)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Pimpelmees2.stream/chunklist_w277766580.m3u8:NestkastLIVE - Pimpelmees
 #DESCRIPTION NestkastLIVE - Pimpelmees
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Plas.stream/chunklist.m3u8:NestkastLIVE - plas
@@ -45,20 +47,16 @@
 #DESCRIPTION NestkastLIVE - Spreeuw binnen 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Steenuil1/chunklist.m3u8:NestkastLIVE - Steenuil binnen
 #DESCRIPTION NestkastLIVE - Steenuil binnen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n1.cdn.jetstre.am/session/889dc207edd697cc94a2c4baa741bcfb/sz/bdl/wowza4/live/Steenuil2/chunklist.m3u8:NestkastLIVE - Steenuil binnen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Steenuil2/chunklist.m3u8:NestkastLIVE - Steenuil binnen
 #DESCRIPTION NestkastLIVE - Steenuil binnen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Steenuil3/chunklist.m3u8:NestkastLIVE - Steenuil buiten
 #DESCRIPTION NestkastLIVE - Steenuil buiten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Steenuil2Buiten.stream/chunklist.m3u8:NestkastLIVE - Steenuil buiten
-#DESCRIPTION NestkastLIVE - Steenuil buiten
-#SERVICE 4097:0:0:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Torenvalk3.stream/chunklist.m3u8:NestkastLIVE - Torenvalk - binnen
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Torenvalk3.stream/chunklist.m3u8:NestkastLIVE - Torenvalk - binnen
 #DESCRIPTION NestkastLIVE - Torenvalk - binnen
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Bosuil4Binnen.stream/chunklist.m3u8:NestkastLIVE - Torenvalk - binnen 2
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//n1.cdn.jetstre.am/session/0eefc7c94266b5df19bc53ea0d582668/sz/bdl/wowza4/live/Torenvalk1/chunklist.m3u8:NestkastLIVE - Torenvalk - binnen 2
 #DESCRIPTION NestkastLIVE - Torenvalk - binnen 2
 #SERVICE 4097:0:0:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Torenvalk2.stream/chunklist.m3u8:NestkastLIVE - Torenvalk - buiten
 #DESCRIPTION NestkastLIVE - Torenvalk - buiten
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/TurkseTortel.stream/chunklist_w321874392.m3u8:NestkastLIVE - Turkse tortel
-#DESCRIPTION NestkastLIVE - Turkse tortel
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//n2.cdn.jetstre.am/sz/bdl/wowza4/live/Visarend1/chunklist.m3u8:NestkastLIVE - Visarend
 #DESCRIPTION NestkastLIVE - Visarend
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Voercam2Tafel.stream/chunklist.m3u8:NestkastLIVE - Voercamera
@@ -67,7 +65,7 @@
 #DESCRIPTION NestkastLIVE - Vijver
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.burst.cdn.jetstre.am/sz/bdl/wowza4/live/Zeearend1/chunklist.m3u8:NestkastLIVE - Zeearend
 #DESCRIPTION NestkastLIVE - Zeearend
-#SERVICE 1:64:251:0:0:0:0:0:0:0:
+#SERVICE 1:64:254:0:0:0:0:0:0:0:
 #DESCRIPTION - diverse -
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56d7ccce550bc.streamlock.net/rtplive/neushoorn-2.sdp/playlist.m3u8:Diergaarde Blijdorp / Rotterdam Zoo - Indische neushoorn
 #DESCRIPTION Diergaarde Blijdorp / Rotterdam Zoo - Indische neushoorn
@@ -75,11 +73,11 @@
 #DESCRIPTION Diergaarde Blijdorp / Rotterdam Zoo - Olifanten
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f9796575af00.streamlock.net/live/ecomare.stream/chunklist_w17637197.m3u8:Texel - Ecomare
 #DESCRIPTION Texel - Ecomare
-#SERVICE 1:64:252:0:0:0:0:0:0:0:
+#SERVICE 1:64:255:0:0:0:0:0:0:0:
 #DESCRIPTION --- Engeland ---
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wildlifestreaming.io%3a1935/WildlifeKate/HDMammal.stream/playlist.m3u8:wildlivekate.co.uk - Mammal Box Cam
 #DESCRIPTION wildlivekate.co.uk - Mammal Box Cam
-#SERVICE 1:64:253:0:0:0:0:0:0:0:
+#SERVICE 1:64:256:0:0:0:0:0:0:0:
 #DESCRIPTION --- Estland ---
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo playpath=cam1286 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/oja.html:Tallinn - Zoo Amur-Leopard I - Estland
 #DESCRIPTION Tallinn - Zoo Amur-Leopard I - Estland
@@ -101,7 +99,7 @@
 #DESCRIPTION Tallinn - Zoo Schneeleopard II - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo2 playpath=cam1618 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/lume3.html:Tallinn - Zoo Schneeleopard III - Estland
 #DESCRIPTION Tallinn - Zoo Schneeleopard III - Estland
-#SERVICE 1:64:254:0:0:0:0:0:0:0:
+#SERVICE 1:64:257:0:0:0:0:0:0:0:
 #DESCRIPTION --- Polen ---
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/krakow_cam_66c146/krakow_cam_66c146.stream/playlist.m3u8:Polen - Kraków Pasieka - bijen
 #DESCRIPTION Polen - Kraków Pasieka - bijen
@@ -113,7 +111,7 @@
 #DESCRIPTION Polen - vogels 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls15.webcamera.pl/klekusiowo_cam_cd36d8/klekusiowo_cam_cd36d8.stream/playlist.m3u8:Polen - vogels 3
 #DESCRIPTION Polen - vogels 3
-#SERVICE 1:64:255:0:0:0:0:0:0:0:
+#SERVICE 1:64:258:0:0:0:0:0:0:0:
 #DESCRIPTION --- United States of America ---
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.zoosociety.org%3a1935/live/lion.stream/.m3u8:Milwaukee Zoo - leeuw (USA)
 #DESCRIPTION Milwaukee Zoo - leeuw (USA)

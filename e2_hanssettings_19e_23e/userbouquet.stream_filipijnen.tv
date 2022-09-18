@@ -5,6 +5,8 @@
 #DESCRIPTION Beam TV Shop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.cnnphilippines.com/live/myStream/chunklist_w286607220.m3u8:CNN Philippines
 #DESCRIPTION CNN Philippines
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/DZRHNewsTelevision/live:DZRH News TV
+#DESCRIPTION DZRH News TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.32.115.103/live/livestream/index.m3u8:GCTV
 #DESCRIPTION GCTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8:INC TV
@@ -13,12 +15,18 @@
 #DESCRIPTION INC Radio DZEM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8:Life TV Asia
 #DESCRIPTION Life TV Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/Net25Tv/live:NET 25
+#DESCRIPTION NET 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//youtube.com/user/NetInsights/live:Net. TV
+#DESCRIPTION Net. TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv--iptv.repl.co/streamlink?url=https%3a//www.twitch.tv/communitytv3/:P.E.P. TV3 Central Luzon
 #DESCRIPTION P.E.P. TV3 Central Luzon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-10.dc3.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwPYbSo3OrlIFJ32l_7E_63g)/dm/3/x5cr6b9/d/live-0.m3u8#cell=lcore:People's TV
 #DESCRIPTION People's TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8:Pilipinas HD
 #DESCRIPTION Pilipinas HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/PTVPhilippines/live:PTV 4
+#DESCRIPTION PTV 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8:SMNI
 #DESCRIPTION SMNI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.gmanews.tv/ioslive/livestream/playlist.m3u8:Super Radyo DZBB

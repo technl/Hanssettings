@@ -1,8 +1,12 @@
 #NAME Stream VAE (Verenigde Arabische Emiraten - AE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//dai.ly/x74wje5:Al Aan TV
+#DESCRIPTION Al Aan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:Al Arabiya
 #DESCRIPTION Al Arabiya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8:Al Arabiya Al Hadath
 #DESCRIPTION Al Arabiya Al Hadath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8:Al Hadath TV
+#DESCRIPTION Al Hadath TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8:Al Qamar TV (360p)
 #DESCRIPTION Al Qamar TV (360p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8:Al Sharqiya Min Kabla (1080p)
@@ -15,25 +19,21 @@
 #DESCRIPTION Alerth
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8:Hawas TV
 #DESCRIPTION Hawas TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1 HD
-#DESCRIPTION MBC 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1 North America HD
-#DESCRIPTION MBC 1 North America HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zinachannels.zinamedia.net/ar-s/mbc-2/index.m3u8:MBC 2 HD
-#DESCRIPTION MBC 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.94.31.190%3a7003/play/a0c2:MBC 2 -2-
-#DESCRIPTION MBC 2 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zinachannels.zinamedia.net/ar-s/mbc-3/index.m3u8:MBC 3 HD
-#DESCRIPTION MBC 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8:MBC 3 -2-
-#DESCRIPTION MBC 3 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zinachannels.zinamedia.net/ar-s/mbc-4/index.m3u8:MBC 4 HD
-#DESCRIPTION MBC 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1
+#DESCRIPTION MBC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1 North America
+#DESCRIPTION MBC 1 North America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//102.222.232.18%3a9981/stream/channelid/162366733?ticket=C53575587BBBC53B1AC81DDA1912FEB050F669F4&profile=matroska:MBC 2
+#DESCRIPTION MBC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8:MBC 3
+#DESCRIPTION MBC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.217.22%3a8032/play/a03k/index.m3u8:MBC 4
+#DESCRIPTION MBC 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8:MBC 5
 #DESCRIPTION MBC 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.198%3a8000/play/a02v/index.m3u8:MBC Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//102.222.232.18%3a9981/stream/channelid/418357860?ticket=651076C9CDBA75FFE5F4D1744CD6FF1905B61012&profile=matroska:MBC Action
 #DESCRIPTION MBC Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.198%3a8000/play/a02y/index.m3u8:MBC Bollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8:MBC Bollywood
 #DESCRIPTION MBC Bollywood
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8:MBC Drama
 #DESCRIPTION MBC Drama
@@ -41,7 +41,7 @@
 #DESCRIPTION MBC+ Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8:MBC Iraq
 #DESCRIPTION MBC Iraq
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.198%3a8000/play/a02x/index.m3u8:MBC Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//102.222.232.18%3a9981/stream/channelid/1735499708?ticket=97F7E3FCBD185DA48198DA9E5DAF7750B4743575&profile=matroska:MBC Max
 #DESCRIPTION MBC Max
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8:MBC Persia
 #DESCRIPTION MBC Persia
@@ -61,13 +61,15 @@
 #DESCRIPTION Weyyak Mix
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8:Weyyak Nawaem
 #DESCRIPTION Weyyak Nawaem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_smashi_tv/index.m3u8:Weyyak Smashi
+#DESCRIPTION Weyyak Smashi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/yastv/smil%3ayastv.stream.smil/playlist.m3u8:Yas
 #DESCRIPTION Yas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8:Zee Aflam
 #DESCRIPTION Zee Aflam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8:Zee Alwan
 #DESCRIPTION Zee Alwan
-#SERVICE 1:64:2f7:0:0:0:0:0:0:0:
+#SERVICE 1:64:318:0:0:0:0:0:0:0:
 #DESCRIPTION ++Abu Dhabi = hoofdstad VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/adtv/smil%3aadtv.stream.smil/playlist.m3u8:Abu Dhabi Aloula
 #DESCRIPTION Abu Dhabi Aloula
@@ -81,11 +83,15 @@
 #DESCRIPTION Abu Dhabi Sports 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn3.cdn.mangomolo.com/adsports3/smil%3aadsports3.stream.smil/playlist.m3u8:Abu Dhabi Sports 3
 #DESCRIPTION Abu Dhabi Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.183.198%3a8000/play/a08k/index.m3u8:Abu Dhabi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//admdn4.cdn.mangomolo.com/adsports4/smil%3aadsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8:Abu Dhabi Sports 4
+#DESCRIPTION Abu Dhabi Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/adtv/smil%3aadtv.stream.smil/playlist.m3u8:Abu Dhabi TV
 #DESCRIPTION Abu Dhabi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn5.cdn.mangomolo.com/majid/smil%3amajid.stream.smil/playlist.m3u8:Majid TV
+#DESCRIPTION Majid TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/playlist.m3u8:National Geographic Abu Dhabi
 #DESCRIPTION National Geographic Abu Dhabi
-#SERVICE 1:64:2f8:0:0:0:0:0:0:0:
+#SERVICE 1:64:319:0:0:0:0:0:0:0:
 #DESCRIPTION ++Dubai, stad in VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/playlist.m3u8:Dubai One
 #DESCRIPTION Dubai One

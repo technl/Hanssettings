@@ -1,42 +1,42 @@
 #NAME Stream Spanje (ES)
-#SERVICE 1:64:313:0:0:0:0:0:0:0:
+#SERVICE 1:64:330:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_576.m3u8:TVE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8:TVE 1
 #DESCRIPTION TVE 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8:TVE 1 -2-
-#DESCRIPTION TVE 1 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8:TVE 1 -3-
-#DESCRIPTION TVE 1 -3-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/3293681.m3u8:TVE 1 Catalunya
 #DESCRIPTION TVE 1 Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/1688885.m3u8:TVE 2 HD
-#DESCRIPTION TVE 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8:TVE 2 -2-
-#DESCRIPTION TVE 2 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a07m:TVE Internacional
-#DESCRIPTION TVE Internacional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.24.132.99%3a8000/play/a01p:TVE Internacional -2-
-#DESCRIPTION TVE Internacional -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/segments/la2/la2_main_1080.m3u8:TVE 2
+#DESCRIPTION TVE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.24.132.99%3a8000/play/a01p:TVE Internacional America
+#DESCRIPTION TVE Internacional America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/uq2663/h/h158/index2.m3u8:TVE Internacional Asia-Oceania
+#DESCRIPTION TVE Internacional Asia-Oceania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a07m:TVE Internacional Europa
+#DESCRIPTION TVE Internacional Europa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8:TVE 24 Horas
 #DESCRIPTION TVE 24 Horas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8:TVE 24 Horas -2-
 #DESCRIPTION TVE 24 Horas -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 1
-#DESCRIPTION TVE +24 Eventos 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586403/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 2
-#DESCRIPTION TVE +24 Eventos 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586404/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 3
-#DESCRIPTION TVE +24 Eventos 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586405/index_1500_av-p.m3u8?sd=10&rebase=on:TVE +24 Eventos 4
-#DESCRIPTION TVE +24 Eventos 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/bitrate_4.m3u8:TVE Play 1
+#DESCRIPTION TVE Play 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/bitrate_4.m3u8:TVE Play 2
+#DESCRIPTION TVE Play 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/bitrate_3.m3u8:TVE Play 3
+#DESCRIPTION TVE Play 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/bitrate_4.m3u8:TVE Play 4
+#DESCRIPTION TVE Play 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.9%3a6500/play/a02k:Clan TVE
 #DESCRIPTION Clan TVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.19.181.136%3a8100/play/a01m:TVE Teledeporte
+#DESCRIPTION TVE Teledeporte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.9%3a6500/play/a00r:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/int/ngrp%3a324_web/master.m3u8:3/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-content/canal324-hls/bitrate_3.m3u8:3/24
 #DESCRIPTION 3/24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/int/ngrp%3atv3_web/playlist.m3u8:TV3 Catalunya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-origin/tvi-hls/bitrate_1.m3u8:TV3 Catalunya
 #DESCRIPTION TV3 Catalunya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.196.140.234%3a8000/play/a09f:Cuatro
+#DESCRIPTION Cuatro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.9%3a6500/play/a00t:Telecinco
 #DESCRIPTION Telecinco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.9%3a6500/play/a00u:La Sexta
@@ -55,6 +55,8 @@
 #DESCRIPTION La 8 Burgos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8leonlive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Leon
 #DESCRIPTION La 8 Leon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8:La 8 Mediterráneo
+#DESCRIPTION La 8 Mediterráneo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8palencialive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Palencia
 #DESCRIPTION La 8 Palencia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8salamancalive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Salamanca
@@ -67,7 +69,7 @@
 #DESCRIPTION La 8 Valladolid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8zamoralive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Zamora
 #DESCRIPTION La 8 Zamora
-#SERVICE 1:64:314:0:0:0:0:0:0:0:
+#SERVICE 1:64:331:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/25televisiolive/smil%3achannel1.smil/master.m3u8:25 TV
 #DESCRIPTION 25 TV
@@ -79,6 +81,8 @@
 #DESCRIPTION A Punt TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.mediasector.es/hls/activatv/.m3u8:Activa TV
 #DESCRIPTION Activa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8126/index.m3u8:Activa TV Movies
+#DESCRIPTION Activa TV Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8:Alacanti TV
 #DESCRIPTION Alacanti TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8:Alcarria TV
@@ -149,12 +153,12 @@
 #DESCRIPTION Cuatro 4 TV Vall Uxa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn01.yowi.tv/KQRSDA7GDB/master.m3u8:Distrito TV Madrid
 #DESCRIPTION Distrito TV Madrid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8:EITB Basque
+#DESCRIPTION EITB Basque
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/int/ngrp%3ac33_web/playlist_DVR.m3u8:El 33
 #DESCRIPTION El 33
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//limited24.todostreaming.es/live/renjillo-livestream.m3u8:El Futuro en tu mano
 #DESCRIPTION El Futuro en tu mano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8:EITB Basque
-#DESCRIPTION EITB Basque
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8:ETB 1
 #DESCRIPTION ETB 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8:EiTB 2
@@ -179,10 +183,14 @@
 #DESCRIPTION Goiena Eus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud.streamingconnect.tv%3a455/guadatv/guadatv.m3u8:Guada TV
 #DESCRIPTION Guada TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3641/hybrid/play.m3u8:Hoynet
+#DESCRIPTION Hoynet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live:IB3 Global
 #DESCRIPTION IB3 Global
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8:Ibiza Global TV
 #DESCRIPTION Ibiza Global TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//secure3.todostreaming.es/live/imastv-livestream.m3u8:Imás TV
+#DESCRIPTION Imás TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//interalmeria.tv/directo/live.m3u8:Interalmeria TV
 #DESCRIPTION Interalmeria TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zone.controlstreams.com%3a5443/LiveApp/streams/islatel.m3u8:Islatel

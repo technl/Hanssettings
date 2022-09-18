@@ -59,7 +59,7 @@
 #DESCRIPTION Ashrafi Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvflix02.ddns.net/MALAYALAM__ASIANET_MIDDLE_EAST/mono.m3u8?token=test:Asianet Middle East
 #DESCRIPTION Asianet Middle East
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8:Asianet News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/asianetnews/index.m3u8?token=693400:Asianet News
 #DESCRIPTION Asianet News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8:Asianet News Bangla
 #DESCRIPTION Asianet News Bangla
@@ -69,6 +69,8 @@
 #DESCRIPTION Asianet News Tamil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8:Assam Talks
 #DESCRIPTION Assam Talks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.appv.jagobd.com%3a444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8:ATN News
+#DESCRIPTION ATN News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8:Ayush TV
 #DESCRIPTION Ayush TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8:BBC Toronto Gaunda Punjab
@@ -197,9 +199,11 @@
 #DESCRIPTION iPlus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8:ITN
 #DESCRIPTION ITN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/jaihindtv/index.m3u8?token=693400:Jaihind TV
+#DESCRIPTION Jaihind TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jantvstream.in%3a1935/edge1/sc1jantv.stream_aac/playlist.m3u8:Jan TV
 #DESCRIPTION Jan TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8:Janam TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0ja/index.m3u8:Janam TV
 #DESCRIPTION Janam TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/jantatv/live.stream/index.m3u8:Janta TV
 #DESCRIPTION Janta TV
@@ -221,6 +225,8 @@
 #DESCRIPTION Kalinga TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kanaknews.com%3a4443/live/stream/playlist.m3u8:Kanak News
 #DESCRIPTION Kanak News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ufworldind.in/live/kvision/playlist.m3u8:Kannur Vision
+#DESCRIPTION Kannur Vision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kanshitv.co.uk/mobile/kanshitvkey.m3u8:Kanshi TV
 #DESCRIPTION Kanshi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.wmncdn.net/kaumuditv1/live.stream/index.m3u8:Kaumudy TV
@@ -229,6 +235,8 @@
 #DESCRIPTION KCL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.144.149.82%3a8080/NOTV/KCVMOVIE/index.m3u8?token=GTR:KCV Movies
 #DESCRIPTION KCV Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.153.92.157%3a11037/hls/kbh.m3u8:Keralabhumi
+#DESCRIPTION Keralabhumi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8:Khabrain Abhi Tak
 #DESCRIPTION Khabrain Abhi Tak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8:KITE Victers
@@ -259,6 +267,8 @@
 #DESCRIPTION Malabar News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8:Malaimurasu
 #DESCRIPTION Malaimurasu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.99.2.28/mandra_hls/mandra.m3u8:Mandra TV
+#DESCRIPTION Mandra TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8:Mangalam TV
 #DESCRIPTION Mangalam TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8:Manoranjan Movies
@@ -269,8 +279,12 @@
 #DESCRIPTION Mastiii
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8:Mathrubhumi News
 #DESCRIPTION Mathrubhumi News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0pa/index.m3u8:Mazhavil Manorama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0kd/index.m3u8:Mazhavil Manorama
 #DESCRIPTION Mazhavil Manorama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/mediaone/index.m3u8?token=693400:Media One
+#DESCRIPTION Media One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//weone.livebox.co.in/Metro7hls/Metro7.m3u8:Metro 7
+#DESCRIPTION Metro 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.smartstream.video%3a1935/mhonemusic/mhonemusic/playlist.m3u8:MH1 Music
 #DESCRIPTION MH1 Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.smartstream.video%3a1935/mhonenews/mhonenews/playlist.m3u8:MH1 Prime
@@ -293,6 +307,8 @@
 #DESCRIPTION Namdhari
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8:Nandighosha TV
 #DESCRIPTION Nandighosha TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gvjyg2n9doem-hls-live.5centscdn.com/navmediastream/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8:Nav Media
+#DESCRIPTION Nav Media
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8:Naxtra News
 #DESCRIPTION Naxtra News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.hungama.com/linear/nazrana/playlist.m3u8:Nazrana
@@ -305,7 +321,7 @@
 #DESCRIPTION NDTV India
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8:NDTV Profit
 #DESCRIPTION NDTV Profit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8:Nee Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/neecinema/index.m3u8?token=693400:Nee Cinema
 #DESCRIPTION Nee Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shashwatha.com/hls/show/newhopetv_low.m3u8:New Hope TV
 #DESCRIPTION New Hope TV
@@ -387,6 +403,8 @@
 #DESCRIPTION PTV Pardesi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0ld/index.m3u8:Public TV
 #DESCRIPTION Public TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//royalstarindia.co.in/cinematv_hls/cinematv.m3u8:Pulari Cinema
+#DESCRIPTION Pulari Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//royalstarindia.co.in/pularitv_hls/pularitv.m3u8:Pulari TV
 #DESCRIPTION Pulari TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8:Punjab TV
@@ -491,6 +509,8 @@
 #DESCRIPTION Tamil Vision International
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8:TBO Classic Telugu
 #DESCRIPTION TBO Classic Telugu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.appv.jagobd.com%3a444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8:Tehelka TV
+#DESCRIPTION Tehelka TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8:Thanthi TV
 #DESCRIPTION Thanthi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudflare-cdn301.ottpro.in/live/timetv/playlist.m3u8:Time TV
@@ -519,7 +539,7 @@
 #DESCRIPTION TV Punjab
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.logicwebs.in/hls/ublhdkey.m3u8:UBL HD
 #DESCRIPTION UBL HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.105.4.245%3a1935/livesp/uthradam/playlist.m3u8:Uthradam Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-live.in%3a11037/hls/uthradam.m3u8:Uthradam Movies
 #DESCRIPTION Uthradam Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w1715279266.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f:Vasanth TV
 #DESCRIPTION Vasanth TV
@@ -529,10 +549,12 @@
 #DESCRIPTION VTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist_w746239934.m3u8:VTV News
 #DESCRIPTION VTV News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/fdbb44f3-30b9-4015-93bb-e4c62bc2a673/1.m3u8:WION TV
-#DESCRIPTION WION TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/uq2663/h/h91/index.m3u8:Wion TV
+#DESCRIPTION Wion TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//119.81.82.28/encoded/yuppthirai_800/playlist.m3u8:Yupp Thirai
 #DESCRIPTION Yupp Thirai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8:Zainabia Channel
+#DESCRIPTION Zainabia Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8:Zee 24
 #DESCRIPTION Zee 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//z5ams.akamaized.net/24ghanta/tracks-v1a1/hdntl=exp=1630260819~acl=%252f*~data=hdntl~hmac=eee48bb73252bd1a39a141f88f91e082d5090b8fdc8bd2699d526b61ac9a6a91/mono.m3u8:Zee 24 Ghanta
@@ -543,12 +565,16 @@
 #DESCRIPTION Zee 24 Taas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8:Zee Action
 #DESCRIPTION Zee Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8:Zee Alwan
+#DESCRIPTION Zee Alwan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8:Zee Anmol Cinema
 #DESCRIPTION Zee Anmol Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8:Zee Bangla Cinema
 #DESCRIPTION Zee Bangla Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8:Zee Bihar Jharkhand
 #DESCRIPTION Zee Bihar Jharkhand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s32/index.m3u8:Zee Bioskop
+#DESCRIPTION Zee Bioskop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8:Zee Bollywood
 #DESCRIPTION Zee Bollywood
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8:Zee Business

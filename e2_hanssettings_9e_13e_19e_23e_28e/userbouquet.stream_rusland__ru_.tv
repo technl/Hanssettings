@@ -39,11 +39,11 @@
 #DESCRIPTION A1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8:A2
 #DESCRIPTION A2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xstream.afontovo.ru/afontovo_ya.m3u8:Afontovo (Krasnoyarsk)
+#DESCRIPTION Afontovo (Krasnoyarsk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8:Aist TV
 #DESCRIPTION Aist TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s64/index.m3u8:Amedia HBO
-#DESCRIPTION Amedia HBO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8:Amedia Hit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/amedia_hit_hd.m3u8:Amedia Hit
 #DESCRIPTION Amedia Hit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv25.vintera.tv%3a8081/test/aris/playlist.m3u8:ARIS 24
 #DESCRIPTION ARIS 24
@@ -87,6 +87,8 @@
 #DESCRIPTION BTK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s61/index.m3u8:Carousel
 #DESCRIPTION Carousel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveru.cgtn.com/1000r/prog_index.m3u8:CGTN Russkiy
+#DESCRIPTION CGTN Russkiy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s14/index.m3u8:Channel 1 Pervyy Kanal
 #DESCRIPTION Channel 1 Pervyy Kanal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8:Che
@@ -107,6 +109,8 @@
 #DESCRIPTION Ekho
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.novouralsk-news.ru/echotv24/live.m3u8:Ekho 24
 #DESCRIPTION Ekho 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eurodance90.catcast.tv/content/36987/index.m3u8:Eurodance 90 HD
+#DESCRIPTION Eurodance 90 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8:Euronews Russia
 #DESCRIPTION Euronews Russia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s76/index.m3u8:Extreme Sports Russia
@@ -181,10 +185,14 @@
 #DESCRIPTION Krik TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mr2live.1tvcrimea.ru%3a8080/24tvcrimea.m3u8:Krym 24
 #DESCRIPTION Krym 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.218.30.37/ktklive/live.hq/playlist.m3u8:КТК
+#DESCRIPTION КТК
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uiptv.do.am/1ufc/000000005/playlist.m3u8:Kultura
 #DESCRIPTION Kultura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8:Kuray
 #DESCRIPTION Kuray
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kurir-tv.haste-cdn.net/providus/live2805.m3u8:Kurir TV
+#DESCRIPTION Kurir TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.10kanal.ru%3a1443/10kanal/k24/playlist.m3u8:Kuzbass 1
 #DESCRIPTION Kuzbass 1
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.atr.ua/lale//live/index.m3u8:Lale
@@ -233,6 +241,8 @@
 #DESCRIPTION Mir +7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8:Mir 24 HD
 #DESCRIPTION Mir 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mirbelogorya.ru%3a8080/mirbelogorya/index.m3u8:Mir Belogor'ya
+#DESCRIPTION Mir Belogor'ya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.40.68.167/russia/mir_seriala/playlist.m3u8:Mir Seriala
 #DESCRIPTION Mir Seriala
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8:Mordoviya 24
@@ -277,7 +287,7 @@
 #DESCRIPTION Nastoyashcheye Vremya -3-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8:National Geographic Russia
 #DESCRIPTION National Geographic Russia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8:National Geographic Wild Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/NatGeoWildHD_34_35.m3u8:National Geographic Wild Russia
 #DESCRIPTION National Geographic Wild Russia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s98/index.m3u8:Nauka 2.0
 #DESCRIPTION Nauka 2.0
@@ -341,6 +351,8 @@
 #DESCRIPTION Radio Govorit Moskva
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lova.me/hls/hit.m3u8:Radio Hit TV
 #DESCRIPTION Radio Hit TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lova.me/hls/hit.m3u8:Radio Khit (Orsk)
+#DESCRIPTION Radio Khit (Orsk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pilotfm.ru/cam/hls/pilothd.m3u8:Radio Pilot
 #DESCRIPTION Radio Pilot
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chgtrk.ru/pl/stream/hls/RR_720p/index.m3u8:Radio Rossii (Chuvashiya)
@@ -411,7 +423,7 @@
 #DESCRIPTION Sever (Nar'yan-Mar)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8:SGDF 24 Sverdlov
 #DESCRIPTION SGDF 24 Sverdlov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s43/index.m3u8:Shanson TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8:Shanson TV
 #DESCRIPTION Shanson TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream0.tv41.ru/live.m3u8:Shchelkovskoye TV
 #DESCRIPTION Shchelkovskoye TV
@@ -485,6 +497,8 @@
 #DESCRIPTION TKR (Ryazan')
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s19/index.m3u8:ТNТ
 #DESCRIPTION ТNТ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.222.205.65%3a8080/tntmusic/index.m3u8:ТNТ Music
+#DESCRIPTION ТNТ Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8:TNV-Planeta
 #DESCRIPTION TNV-Planeta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8:Tol'yatti 24
@@ -493,6 +507,8 @@
 #DESCRIPTION Tri Angela
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trk555.tv%3a8888/live:TRK 555
 #DESCRIPTION TRK 555
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/krugod/krugod/playlist.m3u8:TRK Krug
+#DESCRIPTION TRK Krug
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.trk-luch.ru/hls/live_hi.m3u8:TRK Luch
 #DESCRIPTION TRK Luch
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8:TRK Yevraziya
@@ -515,6 +531,8 @@
 #DESCRIPTION TV Kvarts
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/tserkov-online/russo2/playlist.m3u8:TV Mana Russia
 #DESCRIPTION TV Mana Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.pikanal.rs/pikanal/pgm.m3u8?v=1617785340:TV Pi Canal Pirot
+#DESCRIPTION TV Pi Canal Pirot
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.tvpro-online.ru/hls/ch1.m3u8:TV Pro
 #DESCRIPTION TV Pro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//air.tvk6.ru/tvk24/playlist.m3u8:TVK 24
@@ -579,8 +597,8 @@
 #DESCRIPTION Zagorodnyy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s90/index.m3u8:Zdorov'ye
 #DESCRIPTION Zdorov'ye
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.rtcommufa.ru%3a1935/ptica/ptica1/playlist.m3u8:Zhar Ptitsa (deels Geoblocking)
-#DESCRIPTION Zhar Ptitsa (deels Geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.rtcommufa.ru%3a1935/ptica/ptica1/playlist.m3u8:Zhar Ptitsa
+#DESCRIPTION Zhar Ptitsa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s92/index.m3u8:Zoo TV
 #DESCRIPTION Zoo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8:Zvezda

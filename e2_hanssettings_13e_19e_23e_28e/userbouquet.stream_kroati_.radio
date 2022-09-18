@@ -7,6 +7,8 @@
 #DESCRIPTION Hrvatski Radio Frankfurt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.zadar.net%3a8000/radio057:RADIO 057
 #DESCRIPTION RADIO 057
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radio101.hr%3a9531/stream.mp3:Radio 101
+#DESCRIPTION Radio 101
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.radio-banovina.hr%3a8005:RADIO BANOVINA
 #DESCRIPTION RADIO BANOVINA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rtvbn.com%3a8522/:RADIO BN
@@ -27,9 +29,13 @@
 #DESCRIPTION RADIO MAX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.25.135.86%3a23565/:RADIO MIR
 #DESCRIPTION RADIO MIR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nnc1-bpmmc501.radioca.st//stream:Radio Nacional
+#DESCRIPTION Radio Nacional
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.150.235.162%3a80:RADIO SAMOBOR
 #DESCRIPTION RADIO SAMOBOR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//malla.softnet.si%3a8000/:RADIO SARAJEVO
 #DESCRIPTION RADIO SARAJEVO
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.222.33.217%3a8016/:RADIO TUZLA
 #DESCRIPTION RADIO TUZLA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c8.hostingcentar.com/streams/radiotvornica:Radio Tvornica
+#DESCRIPTION Radio Tvornica

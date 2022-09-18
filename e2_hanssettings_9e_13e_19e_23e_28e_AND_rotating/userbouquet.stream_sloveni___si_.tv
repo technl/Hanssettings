@@ -1,6 +1,6 @@
 #NAME Stream Slovenië (SI)
-#SERVICE 1:64:121a:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:1bc0:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8:TV Slovenija 1
 #DESCRIPTION TV Slovenija 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//20-rtvslo-tv-slo2-slo.cdn.eurovisioncdn.net/chunklist.m3u8:TV Slovenija 2
@@ -11,8 +11,10 @@
 #DESCRIPTION RTV SLO - TV Koper
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8?DVR:RTV SLO - TV Maribor
 #DESCRIPTION RTV SLO - TV Maribor
-#SERVICE 1:64:121b:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/RTVSLON/live:TV Slon Extra
+#DESCRIPTION TV Slon Extra
+#SERVICE 1:64:1bc1:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//584943999.r.worldssl.net/584943999/_definst_/vzivo/chunklist_w1994149598.m3u8:Exodus TV
 #DESCRIPTION Exodus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.220.221.60/gtv_hls/gtv_03.m3u8:GTV

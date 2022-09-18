@@ -45,7 +45,7 @@
 #DESCRIPTION Dordrecht - Het Bolwerk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//6162417352ffd.streamlock.net/live/enkhuizen.stream/playlist.m3u8:Enkhuizen
 #DESCRIPTION Enkhuizen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtxstr001.matrixdata.nl/live/molendekoe.stream/chunklist_w427954024.m3u8:Ermelo - Blik vanaf molen De Koe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtxstr001.matrixdata.nl/live/molendekoe.stream/playlist.m3u8:Ermelo - Blik vanaf molen De Koe
 #DESCRIPTION Ermelo - Blik vanaf molen De Koe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.rtvnoord.nl/live/rtvnoord/webcam/index.m3u8:Groningen - centrum stad Groningen - RTV Noord
 #DESCRIPTION Groningen - centrum stad Groningen - RTV Noord
@@ -83,7 +83,7 @@
 #DESCRIPTION Kampen (Overijssel) met exteplayer3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58fe270971ed0.streamlock.net/live/mobielestream.stream/playlist.m3u8:Leeuwarden - Nieuwbouw Pathé
 #DESCRIPTION Leeuwarden - Nieuwbouw Pathé
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b8d2cbe62ad6.streamlock.net/live/leeuwarden1.stream/chunklist_w1342467997.m3u8 :Leeuwarden – Nieuwestad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b8d2cbe62ad6.streamlock.net/live/leeuwarden1.stream/playlist.m3u8:Leeuwarden – Nieuwestad
 #DESCRIPTION Leeuwarden – Nieuwestad
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//flash-11.streaming.in2ip.nl%3a1935/in2ip/_definst_/mp4%3astarbytes-cam2.stream/playlist.m3u8:Loosdrecht - Jachthaven Wetterwille - toegang
 #DESCRIPTION Loosdrecht - Jachthaven Wetterwille - toegang
@@ -93,20 +93,14 @@
 #DESCRIPTION Loosdrecht - Jachthaven Wetterwille - panorama
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//flash-11.streaming.in2ip.nl%3a1935/in2ip/_definst_/mp4%3astarbytes-cam3.stream/playlist.m3u8:Loosdrecht - Jachthaven Wetterwille - kantoor PTZ
 #DESCRIPTION Loosdrecht - Jachthaven Wetterwille - kantoor PTZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-delta.dropcam.com/nexus_aac/2c778f26fc8a4110bdbe8d82227cf807/chunklist_w395686424.m3u8?public=n3Eo5q3JjM:Schiermonnikoog - Berkenplas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-delta.dropcam.com/nexus_aac/2c778f26fc8a4110bdbe8d82227cf807/playlist.m3u8?public=n3Eo5q3JjM:Schiermonnikoog - Berkenplas
 #DESCRIPTION Schiermonnikoog - Berkenplas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-bravo.dropcam.com/nexus_aac/286d4c583f994a0480828374dfc8aa9c/chunklist_w1015651177.m3u8?public=8wBqa1Pf1R:Schiermonnikoog - Reeweg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-bravo.dropcam.com/nexus_aac/286d4c583f994a0480828374dfc8aa9c/playlist.m3u8?public=8wBqa1Pf1R:Schiermonnikoog - Reeweg
 #DESCRIPTION Schiermonnikoog - Reeweg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-bravo.dropcam.com%3a443/nexus_aac/286d4c583f994a0480828374dfc8aa9c/playlist.m3u8?public=8wBqa1Pf1R:Schiermonnikoog - Reeweg (alt.)
-#DESCRIPTION Schiermonnikoog - Reeweg (alt.)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-bravo.dropcam.com/nexus_aac/fa48e0e98bc1488f8b499491ddefb38d/chunklist_w1089278119.m3u8?public=q9ymcTz92s:Schiermonnikoog - Langestreek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-bravo.dropcam.com/nexus_aac/fa48e0e98bc1488f8b499491ddefb38d/playlist.m3u8?public=q9ymcTz92s:Schiermonnikoog - Langestreek
 #DESCRIPTION Schiermonnikoog - Langestreek
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-bravo.dropcam.com/nexus_aac/fa48e0e98bc1488f8b499491ddefb38d/playlist.m3u8?public=q9ymcTz92s:Schiermonnikoog - Langestreek (alt.)
-#DESCRIPTION Schiermonnikoog - Langestreek (alt.)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-delta.dropcam.com/nexus_aac/7d10192fa5654a54a9e320b7c5e2dcdc/chunklist_w128297388.m3u8?public=sR1UhGahlF:Schiermonnikoog - Langestreek/Badweg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-delta.dropcam.com/nexus_aac/7d10192fa5654a54a9e320b7c5e2dcdc/playlist.m3u8?public=sR1UhGahlF:Schiermonnikoog - Langestreek/Badweg
 #DESCRIPTION Schiermonnikoog - Langestreek/Badweg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-eu1-delta.dropcam.com/nexus_aac/7d10192fa5654a54a9e320b7c5e2dcdc/playlist.m3u8?public=sR1UhGahlF:Schiermonnikoog - Langestreek/Badweg (alt.)
-#DESCRIPTION Schiermonnikoog - Langestreek/Badweg (alt.)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//584b389d712f9.streamlock.net/live/sneek.stream/playlist.m3u8:Sneek - De Houkesloot
 #DESCRIPTION Sneek - De Houkesloot
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.weerenmeer.nl/WeatherCat1hrMovie.mp4:Son en Breugel weerstation
@@ -141,10 +135,16 @@
 #DESCRIPTION De Friese Meren - Eernewoude
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//584b389d712f9.streamlock.net/live/binnenhaven.stream/playlist.m3u8:Harlingen - Binnenhaven
 #DESCRIPTION Harlingen - Binnenhaven
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//mtxstr001.matrixdata.nl/live/gemeente.stream/playlist.m3u8:Harlingen - Havendam
+#DESCRIPTION Harlingen - Havendam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//584b389d712f9.streamlock.net/live/havenmond.stream/playlist.m3u8:Harlingen - Havenmond I
 #DESCRIPTION Harlingen - Havenmond I
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//584b389d712f9.streamlock.net/live/havenmond2.stream/playlist.m3u8:Harlingen - Havenmond II
 #DESCRIPTION Harlingen - Havenmond II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mtxstr001.matrixdata.nl/live/vuurtoren.stream/playlist.m3u8:Harlingen - Strandboulevard
+#DESCRIPTION Harlingen - Strandboulevard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mtxstr001.matrixdata.nl/live/gemeente_jachthaven2.stream/playlist.m3u8:Harlingen - Waterstadhaven
+#DESCRIPTION Harlingen - Waterstadhaven
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//596648eebd573.streamlock.net/MakkumBeach/makkum.stream/mp4%3aplaylist.m3u8:Makkum Beach webcam NL
 #DESCRIPTION Makkum Beach webcam NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.directbeeld.nl%3a1935/MarinaMakkum/marina-haven.stream/playlist.m3u8:Makkum - pier
@@ -195,7 +195,7 @@
 #DESCRIPTION Texel - De Koog - Strandpaviljoen Paal 17
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f27cc8163c2e.streamlock.net/613/613.stream/playlist.m3u8:Texel - De Koog - strandhotel Noordzee
 #DESCRIPTION Texel - De Koog - strandhotel Noordzee
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f9796575af00.streamlock.net/live/teso.stream/chunklist_w791213808.m3u8:Texel - Veerboot TESO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f9796575af00.streamlock.net/live/teso.stream/playlist.m3u8:Texel - Veerboot TESO
 #DESCRIPTION Texel - Veerboot TESO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f185ece6219.streamlock.net/aloha/_definst_/aloha.stream/playlist.m3u8:Velsen Noord - Aloha beach
 #DESCRIPTION Velsen Noord - Aloha beach
@@ -235,11 +235,11 @@
 #DESCRIPTION Scheveningen zeewebcam
 #SERVICE 1:64:223:0:0:0:0:0:0:0:
 #DESCRIPTION -- LiveWebcams kust/strand Gelderland-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtxstr001.matrixdata.nl/live/gemeente_jachthaven.stream/chunklist_w899773368.m3u8:Harderwijk - Haven de Knar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtxstr001.matrixdata.nl/live/gemeente_jachthaven.stream/playlist.m3u8:Harderwijk - Haven de Knar
 #DESCRIPTION Harderwijk - Haven de Knar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtxstr001.matrixdata.nl/live/gemeente.stream/chunklist_w1032543100.m3u8:Harderwijk - Havendam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtxstr001.matrixdata.nl/live/gemeente.stream/playlist.m3u8:Harderwijk - Havendam
 #DESCRIPTION Harderwijk - Havendam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtxstr001.matrixdata.nl/live/vuurtoren.stream/chunklist_w2084393416.m3u8:Harderwijk - Strandboulevard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtxstr001.matrixdata.nl/live/vuurtoren.stream/playlist.m3u8:Harderwijk - Strandboulevard
 #DESCRIPTION Harderwijk - Strandboulevard
 #SERVICE 1:64:224:0:0:0:0:0:0:0:
 #DESCRIPTION -- LiveWebcams kust/strand Zeeland-

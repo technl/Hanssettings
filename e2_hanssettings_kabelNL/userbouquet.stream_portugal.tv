@@ -1,47 +1,49 @@
 #NAME Stream Portugal (PT)
-#SERVICE 1:64:215:0:0:0:0:0:0:0:
+#SERVICE 1:64:23c:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a04j:RTP 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a05j:RTP 1
 #DESCRIPTION RTP 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a04k:RTP 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a05o:RTP 2
 #DESCRIPTION RTP 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a065:RTP 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a05q:RTP 3
 #DESCRIPTION RTP 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/RTP3/index.m3u8:RTP 3 -2-
 #DESCRIPTION RTP 3 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a03w:RTP Africa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a065:RTP Africa
 #DESCRIPTION RTP Africa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a06d:RTP Açores
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a04v:RTP Açores
 #DESCRIPTION RTP Açores
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.212.178.69%3a41042/bysid/608:RTP Internacional 
 #DESCRIPTION RTP Internacional 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a06c:RTP Madeira
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s38/index.m3u8:RTP Internacional Asia
+#DESCRIPTION RTP Internacional Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a04s:RTP Madeira
 #DESCRIPTION RTP Madeira
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a03p:RTP Mémoria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a03u:RTP Mémoria
 #DESCRIPTION RTP Mémoria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a02z:SIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a05k:SIC
 #DESCRIPTION SIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.230.155.157%3a8000/play/a01x:SIC Caras
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a05h:SIC Caras
 #DESCRIPTION SIC Caras
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.impresa.pt/live/sicint/sicint.m3u8:SIC Internacional
 #DESCRIPTION SIC Internacional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a06f:SIC K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a09g:SIC K
 #DESCRIPTION SIC K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a07f:SIC Mulher
 #DESCRIPTION SIC Mulher
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.230.155.157%3a8000/play/a027:SIC Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a05m:SIC Noticias
 #DESCRIPTION SIC Noticias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.230.155.157%3a8000/play/a01w:SIC Radical
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a04a:SIC Radical
 #DESCRIPTION SIC Radical
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a030:TVI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a05p:TVI
 #DESCRIPTION TVI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a06j:TVI 24
 #DESCRIPTION TVI 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.230.155.157%3a8000/play/a029:TVI Ficção
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a09k:TVI Ficção
 #DESCRIPTION TVI Ficção
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8:TVI Reality
 #DESCRIPTION TVI Reality
-#SERVICE 1:64:216:0:0:0:0:0:0:0:
+#SERVICE 1:64:23d:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a01c:24 Kitchen Portugal
 #DESCRIPTION 24 Kitchen Portugal

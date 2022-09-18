@@ -75,6 +75,10 @@
 #DESCRIPTION Faith World TV (religie)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wzahighwinds.katapy.com/GSNBROADCAST/smil%3agenesissciencenetworktv.smil/chunklist_b1328000_sleng.m3u8:Genesis Science Network TV (reli)
 #DESCRIPTION Genesis Science Network TV (reli)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glas.org.ua/hls/glassru.m3u8:Glass Russia
+#DESCRIPTION Glass Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glas.org.ua/hls/glassua.m3u8:Glass Ukraine
+#DESCRIPTION Glass Ukraine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//glorytv.ashttp9.visionip.tv/live/glorytv-glorytv-glorytv-hsslive-25f-4x3-SD/chunklist.m3u8:Glory TV (religie)
 #DESCRIPTION Glory TV (religie)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zypelive-lh.akamaihd.net/i/default_1@745544/master.m3u8:God TV Africa (religie)
@@ -207,10 +211,12 @@
 #DESCRIPTION Payeme Aramesh (religie - Iran)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1:Peace Tv Asia
 #DESCRIPTION Peace Tv Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//meupainel.top%3a1936/iaptd/iaptd/playlist.m3u8:Plenitude do Trono de Deus TV
+#DESCRIPTION Plenitude do Trono de Deus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer1.streamhost.org%3a1935/salive/GMIredadvenirm/livestream.m3u8:RED ADVENIR
 #DESCRIPTION RED ADVENIR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8:REDE GOSPEL SP (Portugal)
-#DESCRIPTION REDE GOSPEL SP (Portugal)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8:Rede Gospel
+#DESCRIPTION Rede Gospel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8:Resurrection TV (Ghana)
 #DESCRIPTION Resurrection TV (Ghana)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtv1:Resurrection TV (religie)
@@ -251,6 +257,8 @@
 #DESCRIPTION Trinity TV (reli - Roemenië)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8:TV Canção Nova Portugal (reli - Portugal)
 #DESCRIPTION TV Canção Nova Portugal (reli - Portugal)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8:TV Cristo Vive
+#DESCRIPTION TV Cristo Vive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-b02.videos.sapo.pt/live/santuario.stream/playlist.m3u8:TV Fátima (reli - Portugal)
 #DESCRIPTION TV Fátima (reli - Portugal)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/ric_tvimaculada/ric.stream/live.m3u8:TV Imaculada Conception (religie - Spanje)
@@ -259,6 +267,10 @@
 #DESCRIPTION TV Maná Maputo (reli - Mozambique)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vip2.liveanywhere.asia%3a1935/tvmuslim/tvmuslim/playlist.m3u8:TV Muslim Thailand (religie - Thailand)
 #DESCRIPTION TV Muslim Thailand (religie - Thailand)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.info/tvsantacruz/envivo/chunks.m3u8:TV Santa Cruz
+#DESCRIPTION TV Santa Cruz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-tvsantamaria.ciclano.io%3a1443/tvsantamaria/tvsantamaria/playlist.m3u8:TV Santa Maria
+#DESCRIPTION TV Santa Maria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8:TV TRWAM (Polen)
 #DESCRIPTION TV TRWAM (Polen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-kanal10.crossnet.net%3a1935/kanal10/mp4%3akanal10sverige/playlist.m3u8:TV10 (Zweden)
@@ -269,7 +281,3 @@
 #DESCRIPTION Visjon religie (Noorwegen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.noorlive.com%3a1935/wesal/wesal1/playlist.m3u8:Wesal TV (religie)
 #DESCRIPTION Wesal TV (religie)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glas.org.ua/hls/glassru.m3u8:Glass Russia
-#DESCRIPTION Glass Russia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glas.org.ua/hls/glassua.m3u8:Glass Ukraine
-#DESCRIPTION Glass Ukraine

@@ -1,17 +1,19 @@
 #NAME Stream Qatar (QA)
-#SERVICE 1:64:307:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:326:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8:Qatar TV 1
 #DESCRIPTION Qatar TV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8:Qatar TV 2
 #DESCRIPTION Qatar TV 2
-#SERVICE 1:64:308:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamalkass.azureedge.net/dd0d1532-ff93-445a-a873-70513971f7b4/99bb8ac5-c687-4b7a-aafd-e3232d120f90.ism/manifest(format=m3u8-aapl):Al Kass 1
+#SERVICE 1:64:327:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh1.smil/playlist.m3u8:Al Kass 1
 #DESCRIPTION Al Kass 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamalkass.azureedge.net/5f85def7-3ff2-483f-a69a-de251f04954f/f1cf4889-8270-427b-b953-f454bae7f69a.ism/manifest(format=m3u8-aapl):Al Kass 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh2.smil/playlist.m3u8:Al Kass 2
 #DESCRIPTION Al Kass 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamalkass.azureedge.net/2aaba6cc-50e6-4c05-a62a-7b202304b501/39a12d60-62f7-4799-af98-3d57fa35e0a6.ism/manifest(format=m3u8-aapl):Al Kass 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh3.smil/playlist.m3u8:Al Kass 3
+#DESCRIPTION Al Kass 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh4.smil/playlist.m3u8:Al Kass 4
 #DESCRIPTION Al Kass 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamalkass.azureedge.net/969a4da6-9b92-4ee0-969d-e6e8d5eb90f8/28710ce6-2312-4b92-9c07-e3adf1953581.ism/manifest(format=m3u8-aapl):Al Kass 5
 #DESCRIPTION Al Kass 5

@@ -1,7 +1,9 @@
 #NAME Stream Curaçao (CW)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8:Bonce TV
 #DESCRIPTION Bonce TV
-#SERVICE 4097:0:1:0:0:176f:0:0:0:0:http%3a//highvolume04.streampartner.nl%3a1935/nos_pais_24_7/smil%3alivestream.stream.smil/chunklist_w1798703532_b2000000.m3u8:Nos Pais TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannlivecariflix.cachefly.net/cariflix12/cariflix12/playlist.m3u8:Intermediate League Curacao
+#DESCRIPTION Intermediate League Curacao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8:Nos Pais TV
 #DESCRIPTION Nos Pais TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.streann.com/loadbalancer/services/public/channels-secure/56df0ccfe4b0eccdb885e9b3/playlist.m3u8:TCFM
 #DESCRIPTION TCFM

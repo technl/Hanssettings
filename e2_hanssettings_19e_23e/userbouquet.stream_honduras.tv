@@ -21,6 +21,10 @@
 #DESCRIPTION JBN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e85d90130e77.streamlock.net/6022/6022/chunklist_.m3u8:LTV
 #DESCRIPTION LTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8:Q'hubo TV
+#DESCRIPTION Q'hubo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lencatelevision.com%3a8080/hls/ltv2.m3u8:Radio Imagen 105.1 FM La Esperanza
+#DESCRIPTION Radio Imagen 105.1 FM La Esperanza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.grupoabchn.com%3a1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8:Sercano TV
 #DESCRIPTION Sercano TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_.m3u8:TeleProgreso
@@ -31,3 +35,5 @@
 #DESCRIPTION TSI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-utv.unah.edu.hn/web/salida.m3u8:UNAH UTV
 #DESCRIPTION UNAH UTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8:VTV
+#DESCRIPTION VTV

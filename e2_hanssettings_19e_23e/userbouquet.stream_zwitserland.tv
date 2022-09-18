@@ -1,5 +1,5 @@
 #NAME Stream Zwitserland (CH)
-#SERVICE 1:64:2ff:0:0:0:0:0:0:0:
+#SERVICE 1:64:323:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a002:3+ HD
 #DESCRIPTION 3+ HD
@@ -11,20 +11,14 @@
 #DESCRIPTION RTS 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a00b:RTS 2 HD
 #DESCRIPTION RTS 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8:RTS Couleur 3
-#DESCRIPTION RTS Couleur 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a012:SRF 1 HD
 #DESCRIPTION SRF 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a017:SRF 2 HD
 #DESCRIPTION SRF 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a016:SRF Info HD
 #DESCRIPTION SRF Info HD
-#SERVICE 1:64:300:0:0:0:0:0:0:0:
+#SERVICE 1:64:324:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.alsace20.fr/live/alsace20/ngrp%3aalsace20_all/playlist.m3u8:Alsace 20
-#DESCRIPTION Alsace 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8:Canal 9
-#DESCRIPTION Canal 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canalalpha.vedge.infomaniak.com/livecast/smil%3acanalalpha.smil/manifest.m3u8:Canal Alpha
 #DESCRIPTION Canal Alpha
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8:Canal Alpha Jura
@@ -35,8 +29,6 @@
 #DESCRIPTION Die Neue Zeit TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil%3adieutv.smil/playlist.m3u8:Dieu TV
 #DESCRIPTION Dieu TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5856e1a25f71a.streamlock.net/easycast9-live/mp4%3alivestreamhd5/playlist.m3u8:eo TV
-#DESCRIPTION eo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3alivehd/master.m3u8:Kanal 9 en Français
 #DESCRIPTION Kanal 9 en Français
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8:La Télé
@@ -57,8 +49,6 @@
 #DESCRIPTION Tele 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8:Tele Bärn HD
 #DESCRIPTION Tele Bärn HD
-#SERVICE 1:0:1:0:0:0:0:0:0:0:https%3a//cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8:Tele Basel
-#DESCRIPTION Tele Basel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3atelebielinguech/manifest.m3u8:Tele Bielingue
 #DESCRIPTION Tele Bielingue
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8:Tele M1

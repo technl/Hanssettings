@@ -1,8 +1,14 @@
 #NAME Stream Paraguay (PY)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8:ABC TV Paraguay
 #DESCRIPTION ABC TV Paraguay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d4xunn272arip.cloudfront.net/hls/c9n.m3u8:C9N
+#DESCRIPTION C9N
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rpc.com.py/live/trece_low.m3u8:Canal 13
 #DESCRIPTION Canal 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8:Dismar TV
+#DESCRIPTION Dismar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//159.203.148.226/live/farra.m3u8:Farra Play
 #DESCRIPTION Farra Play
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rds3gen.desdeparaguay.net/gentv/gentv_int_alta/chunklist_w126287707.m3u8:Gen
@@ -11,8 +17,14 @@
 #DESCRIPTION LIM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/mastvonline:Más TV
 #DESCRIPTION Más TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8:MiTV
+#DESCRIPTION MiTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8:Obedira TV
+#DESCRIPTION Obedira TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//seo.tv.bo/tv/seo.m3u8:SEO TV
 #DESCRIPTION SEO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d4xunn272arip.cloudfront.net/hls/snt.m3u8:SNT
+#DESCRIPTION SNT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w1787434679.m3u8:Telefuturo
 #DESCRIPTION Telefuturo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//174.138.118.252/live/trece.m3u8:Trece Paraguay

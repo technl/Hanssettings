@@ -1,5 +1,5 @@
 #NAME Stream Albanië (AL)
-#SERVICE 1:64:2f8:0:0:0:0:0:0:0:
+#SERVICE 1:64:324:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8:RTSH 1
 #DESCRIPTION RTSH 1
@@ -35,7 +35,7 @@
 #DESCRIPTION RTSH Shqip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/sport_ott_p3/playlist.m3u8:RTSH Sport
 #DESCRIPTION RTSH Sport
-#SERVICE 1:64:2f9:0:0:0:0:0:0:0:
+#SERVICE 1:64:325:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2.abcnews.al/live/abcnews/chunks.m3u8:ABC News Albania
 #DESCRIPTION ABC News Albania
@@ -95,7 +95,7 @@
 #DESCRIPTION Tring Fantasy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.157.62.180/JollyHD/index.m3u8:Tring Jolly HD
 #DESCRIPTION Tring Jolly HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.az-mediaserver.com%3a1935/7064/7064/chunklist_w464537904.m3u8:TV7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.az-mediaserver.com%3a1935/7064/7064/playlist.m3u8:TV7
 #DESCRIPTION TV7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.az-mediaserver.com%3a1935/7064/7064/playlist.m3u8:TV7 -2-
 #DESCRIPTION TV7 -2-

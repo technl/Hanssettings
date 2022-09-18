@@ -33,7 +33,7 @@
 #DESCRIPTION Lite FM 1011
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.litefm.se%3a8000/aac64:Lite FM
 #DESCRIPTION Lite FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fm03-icecast.mtg-r.net/fm03_mp3?platform=web:Lugna Favoriter
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fm03-ice.stream.khz.se/fm03_mp3:Lugna Favoriter
 #DESCRIPTION Lugna Favoriter
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_aacp:Lugna Klassiker
 #DESCRIPTION Lugna Klassiker
@@ -49,26 +49,26 @@
 #DESCRIPTION P4-Plus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.djazz.se/streams/hls/radio/high.m3u8:Parasprite-Radio
 #DESCRIPTION Parasprite-Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.209.164.60%3a8000/mp128.mp3:Radio 88 Partille
+#DESCRIPTION Radio 88 Partille
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live-bauerse-fm.sharp-stream.com/radioactive_aac:Radio Active
 #DESCRIPTION Radio Active
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//test.radioavesta.se%3a8000/;:Radio Avesta 1035 MHz
 #DESCRIPTION Radio Avesta 1035 MHz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.209.164.60%3a8000/mp128.mp3:Radio-88-Partille
-#DESCRIPTION Radio-88-Partille
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.itconnect.se%3a80/rb2:Radio-Bohusln-1062
-#DESCRIPTION Radio-Bohusln-1062
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.itconnect.se%3a80/rb2:Radio Bohusln
+#DESCRIPTION Radio Bohusln
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live-bauerse-fm.sharp-stream.com/radiodisney_instream_se_aacp:Radio Disney
 #DESCRIPTION Radio Disney
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//moon.wavestreamer.com%3a4687:Radio-Oskarshamn
-#DESCRIPTION Radio-Oskarshamn
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming2.nordblommedia.se%3a443/radiope20.mp3:Radio-pE20
-#DESCRIPTION Radio-pE20
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc3.radiosotenas.se%3a8500:Radio-Sotens
-#DESCRIPTION Radio-Sotens
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//50.7.77.114%3a8426/:Radio-Sydvst
-#DESCRIPTION Radio-Sydvst
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.bogalnet.se%3a443/vargarda.mp3:Radio-Treby
-#DESCRIPTION Radio-Treby
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s34.myradiostream.com%3a15420:Radio Oskarshamn
+#DESCRIPTION Radio Oskarshamn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming2.nordblommedia.se%3a443/radiope20.mp3:Radio pE20
+#DESCRIPTION Radio pE20
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc3.radiosotenas.se%3a8500:Radio Sotens
+#DESCRIPTION Radio Sotens
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//50.7.77.114%3a8426/:Radio Sydvst
+#DESCRIPTION Radio Sydvst
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.943.se/treby878:Radio Treby
+#DESCRIPTION Radio Treby
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live-bauerse-fm.sharp-stream.com/relaxfm_se_mp3:Relax FM
 #DESCRIPTION Relax FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live-bauerse-fm.sharp-stream.com/retrofm_aacp:Retro FM

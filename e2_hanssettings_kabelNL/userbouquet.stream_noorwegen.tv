@@ -13,15 +13,15 @@
 #DESCRIPTION LifeStyle TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//digicom.hls.iptvdc.com/canalmotor/index.m3u8:Motors TV
 #DESCRIPTION Motors TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8:Stortinget HS1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.132.85.39/19333-live0/_definst_/push-stortinget_1/playlist.m3u8:Stortinget HS1
 #DESCRIPTION Stortinget HS1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbe19a83414b545d91f32f94316aab71-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil%3apush-sal2_1/chunklist_b1264000_DVR_t64MTI2NCBrYnBz.m3u8:Stortinget HS 2
-#DESCRIPTION Stortinget HS 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//98d91ca32ff6fbca255f6ec9f29fc4d0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil%3apush-sal3_1/chunklist_b1264000_DVR_t64MTI2NCBrYnBz.m3u8:Stortinget N-202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbe19a83414b545d91f32f94316aab71-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil%3apush-sal2_1/playlist.m3u8:Stortinget HS2
+#DESCRIPTION Stortinget HS2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//98d91ca32ff6fbca255f6ec9f29fc4d0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil%3apush-sal3_1/playlist.m3u8:Stortinget N-202
 #DESCRIPTION Stortinget N-202
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash0.19333-live0.dna.qbrick.com%3a1935/19333-live0/push-stortinget_1/playlist.m3u8:Stortinget Nett-TV
 #DESCRIPTION Stortinget Nett-TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bf75c7afaa4f8698042ab38336a843a0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil%3apush-stortinget_1/chunklist_b1264000_DVR_t64MTI2NCBrYnBz.m3u8:Stortinget Stortingssalen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bf75c7afaa4f8698042ab38336a843a0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil%3apush-stortinget_1/playlist.m3u8:Stortinget Stortingssalen
 #DESCRIPTION Stortinget Stortingssalen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ws15-hls-live.akamaized.net/out/u/1153546.m3u8:TV 2 Nyhetsstrømmen
 #DESCRIPTION TV 2 Nyhetsstrømmen

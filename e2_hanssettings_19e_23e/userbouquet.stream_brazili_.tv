@@ -39,6 +39,8 @@
 #DESCRIPTION Cultura PR Catve
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_.m3u8:CWB TV
 #DESCRIPTION CWB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8:Dreiko TV
+#DESCRIPTION Dreiko TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.189.113.201/hls/tve.m3u8:E-Parana
 #DESCRIPTION E-Parana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash.softhost.com.br%3a1935/fonte/fontetv/live.m3u8:Fonte TV
@@ -73,23 +75,25 @@
 #DESCRIPTION NE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.novotempo.com%3a1935/tv/tvnovotempo.smil/live.m3u8:Novo Tempo
 #DESCRIPTION Novo Tempo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live.novotempo.com/tv/smil%3atvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8:Nuevo Tiempo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live.novotempo.com/tv/smil%3atvnuevotiempo.smil/playlist.m3u8:Nuevo Tiempo TV
 #DESCRIPTION Nuevo Tiempo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wz3.dnip.com.br%3a1935/novaeratv/novaeratv.sdp/live.m3u8:Nova Era TV
 #DESCRIPTION Nova Era TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8:Pauta
 #DESCRIPTION Pauta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//meupainel.top%3a1936/iaptd/iaptd/chunklist_.m3u8:Plenitude do Trono de Deus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//meupainel.top%3a1936/iaptd/iaptd/playlist.m3u8:Plenitude do Trono de Deus TV
 #DESCRIPTION Plenitude do Trono de Deus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/portocanal/playlist.m3u8:Porto Canal
 #DESCRIPTION Porto Canal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxtvhd.com.br/psctv/psctv/playlist.m3u8:PSC Television
+#DESCRIPTION PSC Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash.softhost.com.br%3a1935/pucgoias/aovivo/live.m3u8:PUC TV Goiás
 #DESCRIPTION PUC TV Goiás
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza4.catve.com.br%3a1935/radiocamera/livestream/playlist.m3u8:Radio Catve FM - Visual Radio
 #DESCRIPTION Radio Catve FM - Visual Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8:Rádio Jornal
 #DESCRIPTION Rádio Jornal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_.m3u8:RBATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8:RBATV
 #DESCRIPTION RBATV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8:Record News
 #DESCRIPTION Record News
@@ -99,7 +103,9 @@
 #DESCRIPTION Record TV Manaus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbc.directradios.com%3a1935/rbc/rbc/live.m3u8:Rede Brasil de Comunicação
 #DESCRIPTION Rede Brasil de Comunicação
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_.m3u8:Rede Cultura do Pará
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8:Rede CNT São Paulo
+#DESCRIPTION Rede CNT São Paulo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8:Rede Cultura do Pará
 #DESCRIPTION Rede Cultura do Pará
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8:Rede Gospel
 #DESCRIPTION Rede Gospel
@@ -109,7 +115,7 @@
 #DESCRIPTION Rede Metropole
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4-slbps-sambavideos.akamaized.net/live/3282%252C8114%252Cec4b5a296d97fa99bf990662f5b4f8e1%253Bbase64np%253BMc8VDxqNjXKCAf8%2521/amlst%253AMc_tFgfGiHOdQXPB/chunklist_.m3u8:Rede Minas
 #DESCRIPTION Rede Minas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvpampa/_definst_/tvpampa/chunklist_.m3u8:Rede Pampa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvpampa/_definst_/tvpampa/playlist.m3u8:Rede Pampa
 #DESCRIPTION Rede Pampa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv02.logicahost.com.br%3a1935/rederc/rederc/live.m3u8:Rede RC
 #DESCRIPTION Rede RC
@@ -119,6 +125,8 @@
 #DESCRIPTION Rede TVT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.brasilstream.com.br/live/redetves/redetves/playlist.m3u8:Rede TV
 #DESCRIPTION Rede TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/redetvro/_definst_/redetvro/playlist.m3u8:RedeTV! Tocantins
+#DESCRIPTION RedeTV! Tocantins
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.srvif.com/admin/admin/chunklist_.m3u8:Rede União
 #DESCRIPTION Rede União
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cvd1.cds.ebtcvd.net/live-redevida/smil%3aredevida.smil/playlist.m3u8:Rede Vida
@@ -139,6 +147,8 @@
 #DESCRIPTION Summer TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8:Tele Cine Action
 #DESCRIPTION Tele Cine Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxtvhd.com.br/teleboyaca/teleboyaca/playlist.m3u8:Telebocaya
+#DESCRIPTION Telebocaya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evpp.mm.uol.com.br%3a1935/band_live/terraviva/playlist.m3u8:Terra Viva
 #DESCRIPTION Terra Viva
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8:TNT Sports 2 Brasil
@@ -165,7 +175,7 @@
 #DESCRIPTION TV Assembleia Legislativa do Estado de Mato Grosso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.al.pb.leg.br/hls/tvalpb.m3u8:TV Assembleia Paraíba
 #DESCRIPTION TV Assembleia Paraíba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/chunklist_.m3u8:TV Beltrão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8:TV Beltrão
 #DESCRIPTION TV Beltrão
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f2354c05961.streamlock.net%3a1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8:TV Birigui
 #DESCRIPTION TV Birigui
@@ -179,9 +189,9 @@
 #DESCRIPTION TV Câmara 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8711/ngrp%3aLVW8711_tG0F3TEBDL_all/playlist.m3u8:TV Camara de Sao Paulo
 #DESCRIPTION TV Camara de Sao Paulo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8067/ngrp%3aLVW8067_ZffQjxn7UC_all/chunklist_.m3u8:TV Candidés
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8067/ngrp%3aLVW8067_ZffQjxn7UC_all/playlist.m3u8:TV Candidés
 #DESCRIPTION TV Candidés
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_.m3u8:TV Carioca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8:TV Carioca
 #DESCRIPTION TV Carioca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f2354c05961.streamlock.net%3a1443/tvcapital/_definst_/tvcapital/chunklist.m3u8:TV Capital 777
 #DESCRIPTION TV Capital 777
@@ -199,11 +209,11 @@
 #DESCRIPTION TV Cidade de Sao Paulo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//209.222.17.241%3a5080/LiveApp/streams/872258137935361699746456.m3u8:TV Cidade Oeste
 #DESCRIPTION TV Cidade Oeste
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/chunklist_.m3u8:TV Cidade Verde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/playlist.m3u8:TV Cidade Verde
 #DESCRIPTION TV Cidade Verde
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv01.logicahost.com.br%3a1935/tvcinec/tvcinec/live.m3u8:TV Cinec
 #DESCRIPTION TV Cinec
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_.m3u8:TV Cristo Vive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8:TV Cristo Vive
 #DESCRIPTION TV Cristo Vive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-11.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2URhtE2MCnOQ0vIgw1ux2w)/dm/3/x7wur7g/s/live-3.m3u8#cell=lcore:TV Cultura
 #DESCRIPTION TV Cultura
@@ -223,15 +233,15 @@
 #DESCRIPTION TV Gazeta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming01.zas.media/gideoes/programacao/playlist.m3u8:TV Gideoes
 #DESCRIPTION TV Gideoes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//596639ebdd89b.streamlock.net/tvguarulhos/tvguarulhos/chunklist_.m3u8:TV Guarulhos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//596639ebdd89b.streamlock.net/tvguarulhos/tvguarulhos/playlist.m3u8:TV Guarulhos
 #DESCRIPTION TV Guarulhos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58a4464faef53.streamlock.net/impd/ngrp%3aimpd_all/chunklist_w1193963816_b596000.m3u8:TV Igreja Mundial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58a4464faef53.streamlock.net/impd/ngrp%3aimpd_all/playlist.m3u8:TV Igreja Mundial
 #DESCRIPTION TV Igreja Mundial
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvinforbahia/_definst_/tvinforbahia/chunklist_.m3u8:TV InforBahia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8:TV InforBahia
 #DESCRIPTION TV InforBahia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.tvalphanet.com.br%3a1935/tvinterlagos/tvinterlagos/playlist.m3u8:TV Interlagos
 #DESCRIPTION TV Interlagos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv2.zcast.com.br/tvjapi/tvjapi/chunklist_.m3u8:TV Japi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8:TV Japi
 #DESCRIPTION TV Japi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evpp.mm.uol.com.br%3a1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8:TV Jornal
 #DESCRIPTION TV Jornal
@@ -259,7 +269,7 @@
 #DESCRIPTION TV Manchete
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//virtues.es%3a1936/tvmar/tvmar/chunklist_.m3u8:TV Mar
 #DESCRIPTION TV Mar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//virtues.es%3a1936/tvmaster/tvmaster/chunklist_.m3u8:TV Master
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//virtues.es%3a1936/tvmaster/tvmaster/playlist.m3u8:TV Master
 #DESCRIPTION TV Master
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvmax/tvmax/playlist.m3u8:TV MAX
 #DESCRIPTION TV MAX
@@ -267,9 +277,9 @@
 #DESCRIPTION TV Metropolitana Rio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.novotempo.com%3a1935/tv/smil%3atvnovotempo.smil/manifest.m3u8:TV Novo Tempo
 #DESCRIPTION TV Novo Tempo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_.m3u8:TV O Povo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8:TV O Povo
 #DESCRIPTION TV O Povo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//596639ebdd89b.streamlock.net/8074/8074/chunklist_.m3u8:TV Osasco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//596639ebdd89b.streamlock.net/8074/8074/playlist.m3u8:TV Osasco
 #DESCRIPTION TV Osasco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvpadrecicero/_definst_/tvpadrecicero/chunklist_.m3u8:TV Padre Cicero
 #DESCRIPTION TV Padre Cicero
@@ -281,13 +291,13 @@
 #DESCRIPTION TV Pantanal MS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.189.113.201/hls/tve.m3u8:TV Paraná Educativa
 #DESCRIPTION TV Paraná Educativa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.cdn.upx.net.br/723b/myStream.sdp/chunklist_w442862836.m3u8?3516a2ec73cfc0ec7ca8329839edb8cd:TV Plan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8:TV Plan
 #DESCRIPTION TV Plan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8:TV Pocos
 #DESCRIPTION TV Pocos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.info/tvsantacruz/envivo/chunks.m3u8:TV Santa Cruz
 #DESCRIPTION TV Santa Cruz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-tvsantamaria.ciclano.io%3a1443/tvsantamaria/tvsantamaria/chunklist_.m3u8:TV Santa Maria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-tvsantamaria.ciclano.io%3a1443/tvsantamaria/tvsantamaria/playlist.m3u8:TV Santa Maria
 #DESCRIPTION TV Santa Maria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8:TV Series
 #DESCRIPTION TV Series
@@ -297,7 +307,7 @@
 #DESCRIPTION TV Terceiro Anjo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-grupo-10049.ciclano.io%3a1443/grupo-10049/grupo-10049/playlist.m3u8:TV Thathi
 #DESCRIPTION TV Thathi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza.softhost.com.br%3a1935/ufg/smil%3atvufgweb/chunklist_w606185061_b1544100_sleng.m3u8:TV UFG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza.softhost.com.br%3a1935/ufg/smil%3atvufgweb/playlist.m3u8:TV UFG
 #DESCRIPTION TV UFG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(6pbmcjLXNoerDLdAhoXBxw)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuXyAosvuqvlMJtsMkooySBOlQbVM33PgsYPQdea2CdwV3jCwh3bEWxgkPO8qmBPQtt_5bUEV1Mi_2t1AjM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kcUr5z4MZQ)))/index.m3u8:TV UFOP
 #DESCRIPTION TV UFOP
@@ -309,7 +319,7 @@
 #DESCRIPTION TV UNISC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8:TV Verdes Campos
 #DESCRIPTION TV Verdes Campos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//novo.bitstreaming.info%3a1936/tvvitoriape/tvvitoriape/chunklist_.m3u8:TV Vitória
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//novo.bitstreaming.info%3a1936/tvvitoriape/tvvitoriape/playlist.m3u8:TV Vitória
 #DESCRIPTION TV Vitória
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.crossdigital.com.br%3a1935/2306/2306/live.m3u8:TVCI
 #DESCRIPTION TVCI
@@ -343,5 +353,7 @@
 #DESCRIPTION TVN BRASIL DF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(Zpw89V7JSRj33uzTBmvflA)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyvnyAaUn8qvlMJtsMkooySBOlQbVM33PgsYPQdea2BUvej3szg6oEmxOu__mykl-Ud831Jp-clI-5BB-JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kAUqZ79MZQ)))/live_768_index.m3u8:UPFTV
 #DESCRIPTION UPFTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv3.zcast.com.br/yeeaah/yeeaah/chunklist_.m3u8:Yeeaah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8:Yeeaah
 #DESCRIPTION Yeeaah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8:Zona Joven T
+#DESCRIPTION Zona Joven T

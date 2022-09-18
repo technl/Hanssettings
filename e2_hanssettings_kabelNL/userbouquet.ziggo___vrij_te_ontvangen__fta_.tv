@@ -1,4 +1,4 @@
-#NAME Ziggo - vrij te ontvangen (fta)
+#NAME Ziggo - vrij te ontvangen (ongecodeerd)
 #SERVICE 1:0:19:4bc9:832:600:ffff0000:0:0:0:
 #SERVICE 1:0:19:4bca:832:600:ffff0000:0:0:0:
 #SERVICE 1:0:19:4bcd:832:600:ffff0000:0:0:0:
@@ -105,15 +105,15 @@
 #SERVICE 1:0:1:2fb5:ca:600:ffff0000:0:0:0:
 #SERVICE 1:64:29:0:0:0:0:0:0:0:
 #DESCRIPTION ++Apeldoorn en regio++
-#SERVICE 1:0:1:30e8:cd:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:30ed:cd:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:30e9:cd:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:30ea:cd:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:30d9:cd:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:30d5:cd:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:30dc:cd:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:177e:c70:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:177a:c70:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1f53:caa:600:ffff0000:0:0:0:
+#SERVICE 1:0:1:1f51:caa:600:ffff0000:0:0:0:
+#SERVICE 1:0:1:1f52:caa:600:ffff0000:0:0:0:
+#SERVICE 1:0:1:1f4d:caa:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1f4b:caa:600:ffff0000:0:0:0:
+#SERVICE 1:0:1:1f50:caa:600:ffff0000:0:0:0:
+#SERVICE 1:0:1:1f4a:caa:600:ffff0000:0:0:0:
+#SERVICE 1:0:1:1f4f:caa:600:ffff0000:0:0:0:
+#SERVICE 1:0:1:1f4c:caa:600:ffff0000:0:0:0:
 #SERVICE 1:64:2a:0:0:0:0:0:0:0:
 #DESCRIPTION ++Arnhem en regio++
 #SERVICE 1:0:1:30e1:cd:600:ffff0000:0:0:0:
@@ -126,7 +126,6 @@
 #SERVICE 1:0:1:3079:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:307c:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:307d:cc:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:307e:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:3075:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:3078:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:307f:cc:600:ffff0000:0:0:0:
@@ -168,11 +167,17 @@
 #SERVICE 1:0:1:2079:cb0:600:ffff0000:0:0:0:
 #SERVICE 1:64:31:0:0:0:0:0:0:0:
 #DESCRIPTION ++Eindhoven en regio++
-#SERVICE 1:0:1:3071:cc:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:307a:cc:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:3073:cc:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:307b:cc:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:3074:cc:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:3072:cc:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1fb0:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1fac:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1fb1:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1fb4:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1fad:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1fae:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1fb3:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1faf:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1fab:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:19:1faa:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:19:1fb5:cac:600:ffff0000:0:0:0:
+#SERVICE 1:0:16:1fb2:cac:600:ffff0000:0:0:0:
 #SERVICE 1:64:32:0:0:0:0:0:0:0:
-#DESCRIPTION +++basis Ziggo Ehv 29 mei 2022++
+#DESCRIPTION ++laatst gemuteerd 5 augustus 2022++

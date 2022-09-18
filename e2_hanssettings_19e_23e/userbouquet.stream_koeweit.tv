@@ -1,26 +1,26 @@
 #NAME Stream Koeweit (KW)
-#SERVICE 1:64:2b6:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8:KTV 1
+#SERVICE 1:64:2db:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTV1:KTV 1
 #DESCRIPTION KTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8:KTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTV2:KTV 2
 #DESCRIPTION KTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8:KTV Al Majlis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSportExtra:KTV Al Majlis
 #DESCRIPTION KTV Al Majlis
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8:KTV Al Qurain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTVPlus:KTV Al Qurain
 #DESCRIPTION KTV Al Qurain
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8:KTV Arabe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTVArabe:KTV Arabe
 #DESCRIPTION KTV Arabe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8:KTV Ethraa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTVEthraa:KTV Ethraa
 #DESCRIPTION KTV Ethraa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8:KTV Khallik Bilbait
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KhallikBilbait:KTV Khallik Bilbait
 #DESCRIPTION KTV Khallik Bilbait
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8:KTV Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSports:KTV Sport
 #DESCRIPTION KTV Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8:KTV Sport Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSportPlus:KTV Sport Plus
 #DESCRIPTION KTV Sport Plus
-#SERVICE 1:64:2b7:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:2dc:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8:Al Bawadi
 #DESCRIPTION Al Bawadi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8484_1/8484_1/playlist.m3u8:Al Maali TV
@@ -41,3 +41,5 @@
 #DESCRIPTION Channel 14
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8:Funoon
 #DESCRIPTION Funoon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/marinai/live:Marina TV
+#DESCRIPTION Marina TV

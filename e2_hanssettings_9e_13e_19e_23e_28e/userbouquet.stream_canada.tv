@@ -1,5 +1,5 @@
 #NAME Stream Canada (CA)
-#SERVICE 1:64:331:0:0:0:0:0:0:0:
+#SERVICE 1:64:357:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8:CBC News
 #DESCRIPTION CBC News
@@ -43,7 +43,7 @@
 #DESCRIPTION ICI Télé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8:ICI Montreal
 #DESCRIPTION ICI Montreal
-#SERVICE 1:64:332:0:0:0:0:0:0:0:
+#SERVICE 1:64:358:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//158.69.124.9%3a1935/5aabtv/5aabtv/chunklist.m3u8:5AAB TV
 #DESCRIPTION 5AAB TV
@@ -163,12 +163,16 @@
 #DESCRIPTION Stingray Soul Storm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8:Tastemade
 #DESCRIPTION Tastemade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/user/ctmq/live:Télé-Mag Québec
+#DESCRIPTION Télé-Mag Québec
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8:Tele-Quebec
 #DESCRIPTION Tele-Quebec
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8:The Design Network
 #DESCRIPTION The Design Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8:The Shopping Channel HD
 #DESCRIPTION The Shopping Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live:TVC 9
+#DESCRIPTION TVC 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8:TVO
 #DESCRIPTION TVO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//toronto3.live247stream.com/toronto360/tv/playlist.m3u8:Toronto 360 TV

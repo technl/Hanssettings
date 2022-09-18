@@ -1,5 +1,5 @@
 #NAME Stream Oekraïne (UA)
-#SERVICE 1:64:450:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fd:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders UA++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/tysafm-mp3:Tisa FM
 #DESCRIPTION Tisa FM
@@ -55,8 +55,10 @@
 #DESCRIPTION UR Zjytomyr-golf
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/zwave-mp3:Zjytomyr Wave Radio
 #DESCRIPTION Zjytomyr Wave Radio
-#SERVICE 1:64:451:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fe:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.138.92.174%3a8001/live:1TV radio (Odessa)
+#DESCRIPTION 1TV radio (Odessa)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.26.132.129%3a8000/ArmyFM:Army FM
 #DESCRIPTION Army FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.avers.pp.ua/hls_radio/efir.m3u8:Avers FM
@@ -175,6 +177,8 @@
 #DESCRIPTION Radio NV
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio-stream-2.obozrevatel.com/radio.oboz128.mp3:Radio Obozrevatelʹ - Radyo Oboz
 #DESCRIPTION Radio Obozrevatelʹ - Radyo Oboz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream01.the-broadcasters.online/radiolenta_mp3:Radio Pravda
+#DESCRIPTION Radio Pravda
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua/radiopyatnica:Radio Pyatnica
 #DESCRIPTION Radio Pyatnica
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//194.44.230.64%3a8000/liveradio.mp3:Radio Radekhiv
@@ -245,7 +249,7 @@
 #DESCRIPTION Zakarpattya FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/zwave-mp3-m:Zhytomyrsʹka Khvylya
 #DESCRIPTION Zhytomyrsʹka Khvylya
-#SERVICE 1:64:452:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ff:0:0:0:0:0:0:0:
 #DESCRIPTION ++via Polen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rs201-krk.rmfstream.pl/RMFUKRAINA:RMF Ukraina
 #DESCRIPTION RMF Ukraina

@@ -1,6 +1,6 @@
 #NAME Stream Thailand (TH)
-#SERVICE 1:64:1220:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:1bc4:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//news1.live14.com/stream/news1_hi.m3u8:News 1
 #DESCRIPTION News 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//news1.live14.com/stream/news1.m3u8:News 1 -2-
@@ -39,12 +39,14 @@
 #DESCRIPTION ONE 31
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.thairath.co.th/trtv2/playlist.m3u8:Thairath TV 32
 #DESCRIPTION Thairath TV 32
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w969902066.m3u8:Thaiban 83
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/Thaiban.stream_720p/playlist.m3u8:Thaiban 83
 #DESCRIPTION Thaiban 83
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//110.170.117.27%3a1935/apptv5hd1live/tgn/chunklist_w2031444181.m3u8:Thai TV Global Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/playlist.m3u8:Thai Parliament TV
+#DESCRIPTION Thai Parliament TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//110.170.117.27%3a1935/apptv5hd1live/tgn/playlist.m3u8:Thai TV Global Network
 #DESCRIPTION Thai TV Global Network
-#SERVICE 1:64:1221:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:1bc5:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//51.79.246.246%3a1936/freelive-edge/amarinhd/chunks.m3u8:Amarin TV
 #DESCRIPTION Amarin TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//51.79.246.246%3a1936/freelive-edge/boomerang/chunks.m3u8:Boomerang
@@ -81,27 +83,27 @@
 #DESCRIPTION DLTV 14
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv15.m3u8:DLTV 15
 #DESCRIPTION DLTV 15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/chunklist_w873195186.m3u8:Drama Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H15.stream_720p/playlist.m3u8:Drama Channel
 #DESCRIPTION Drama Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.ai-net.net%3a1935/gtv1/_definst_/smil%3agtv.smil/playlist.m3u8:Good Idea TV
 #DESCRIPTION Good Idea TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w682948849.m3u8:Happy TV 65
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/Happy.stream_720p/playlist.m3u8:Happy TV 65
 #DESCRIPTION Happy TV 65
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/chunklist_w706868800.m3u8:Lido Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H13.stream_720p/playlist.m3u8:Lido Channel
 #DESCRIPTION Lido Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w20644742.m3u8:Major Channel Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8:Major Channel Mix
 #DESCRIPTION Major Channel Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1100182875.m3u8:MV Lao TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8:MV Lao TV
 #DESCRIPTION MV Lao TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w312223812.m3u8:MVM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8:MVM
 #DESCRIPTION MVM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w651286944.m3u8:MVTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/playlist.m3u8:MVTV
 #DESCRIPTION MVTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/chunklist_w961631329.m3u8:MVTV Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/playlist.m3u8:MVTV Series
 #DESCRIPTION MVTV Series
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//51.79.246.246%3a1936/freelive-edge/nation/chunks.m3u8:Nation TV
 #DESCRIPTION Nation TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1460513736.m3u8:Online Media TV 69
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/MediaOnline.stream_720p/playlist.m3u8:Online Media TV 69
 #DESCRIPTION Online Media TV 69
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8:People's Television
 #DESCRIPTION People's Television
@@ -109,25 +111,23 @@
 #DESCRIPTION PPTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/chunklist_w1590388014.m3u8:PSI Saradee 99
 #DESCRIPTION PSI Saradee 99
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/chunklist_w2093759378.m3u8:Sakala Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H14.stream_720p/playlist.m3u8:Sakala Channel
 #DESCRIPTION Sakala Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/Sanook.stream_360p/chunklist_w491780218.m3u8:Sanook TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/Sanook.stream_720p/playlist.m3u8:Sanook TV
 #DESCRIPTION Sanook TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//202.142.203.28%3a1935/live/sbt_tv_aac_300/playlist.m3u8:SBT TV
 #DESCRIPTION SBT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/chunklist_w1248562919.m3u8:Siam Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H12.stream_720p/playlist.m3u8:Siam Channel
 #DESCRIPTION Siam Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.bangkokstream.com%3a19360/suwannabhumi/suwannabhumi.m3u8:Suwannabhumi Channel
 #DESCRIPTION Suwannabhumi Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/chunklist_w163267432.m3u8:Thai Parliament TV
-#DESCRIPTION Thai Parliament TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/playlist.m3u8:TPTV
 #DESCRIPTION TPTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//51.79.246.246%3a1936/freelive-edge/true4u/chunks.m3u8:True4U
 #DESCRIPTION True4U
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist_w1673026477.m3u8:TV Direct 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/DoChannel.stream_720p/playlist.m3u8:TV Direct 1
 #DESCRIPTION TV Direct 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/TVD3.stream_360p/chunklist_w1981556047.m3u8:TV Direct 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/TVD3.stream_720p/playlist.m3u8:TV Direct 2
 #DESCRIPTION TV Direct 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vip2.liveanywhere.asia%3a1935/tvmuslim/tvmuslim/playlist.m3u8:TV Muslim Thailand
 #DESCRIPTION TV Muslim Thailand
@@ -135,13 +135,13 @@
 #DESCRIPTION Umm TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w759857324.m3u8:TVB Thai
 #DESCRIPTION TVB Thai
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w1976490936.m3u8:V2H2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8:V2H2
 #DESCRIPTION V2H2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w1860761689.m3u8:V2H9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H9.stream_720p/playlist.m3u8:V2H9
 #DESCRIPTION V2H9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//symc-cdn.violin.co.th%3a1935/tndedge/whitechannel/playlist.m3u8:White Channel
 #DESCRIPTION White Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//51.79.246.246%3a1936/freelive-edge/workpointtv/chunks.m3u8:Workpoint
 #DESCRIPTION Workpoint
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdo.plathong.net/muslimonair1/live/chunklist_w2127704220.m3u8:Yateem TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdo.plathong.net/muslimonair1/live/playlist.m3u8:Yateem TV
 #DESCRIPTION Yateem TV

@@ -1,5 +1,5 @@
 #NAME Stream Afghanistan (AF)
-#SERVICE 1:64:296:0:0:0:0:0:0:0:
+#SERVICE 1:64:2bc:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8:Al Sharq
 #DESCRIPTION Al Sharq
@@ -9,7 +9,7 @@
 #DESCRIPTION ATN International
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch.iptvmate.net/ac6f701b8d7621d9f99db1aa44b757c8.m3u8:ATN National
 #DESCRIPTION ATN National
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8:ATN News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8:ATN News
 #DESCRIPTION ATN News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch.iptvmate.net/e49dc251eae72bb3850adcc34f886cb3.m3u8:ATN USA
 #DESCRIPTION ATN USA
@@ -21,7 +21,7 @@
 #DESCRIPTION Parnian TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.tapesh.tv/tapesh/playlist1/index.m3u8:PBC Tapesh 
 #DESCRIPTION PBC Tapesh 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist_.m3u8:Shamshad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8:Shamshad
 #DESCRIPTION Shamshad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fflivetolomusic.b-cdn.net/media_1.m3u8:Tolo Music
 #DESCRIPTION Tolo Music
@@ -29,7 +29,7 @@
 #DESCRIPTION Tolo News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fflivetolotv.b-cdn.net/media_1.m3u8:Tolo TV
 #DESCRIPTION Tolo TV
-#SERVICE 1:64:297:0:0:0:0:0:0:0:
+#SERVICE 1:64:2bd:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8:Bahar TV
 #DESCRIPTION Bahar TV
@@ -71,5 +71,5 @@
 #DESCRIPTION VOA Persian
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5caf24a595d94.streamlock.net%3a1937/8132/8132/playlist.m3u8:Watan-E-Maa
 #DESCRIPTION Watan-E-Maa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.urdustreamz.net%3a1935/live_transcoder/ngrp%3azindagitv.stream_all/chunklist_.m3u8:Zendagi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.urdustreamz.net%3a1935/live_transcoder/ngrp%3azindagitv.stream_all/playlist.m3u8:Zendagi TV
 #DESCRIPTION Zendagi TV

@@ -1,5 +1,5 @@
 #NAME Stream UK - Noord-Ierland (UK)
-#SERVICE 1:64:43d:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ef:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Noord-Ierland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q?:BBC Radio 1 Northern Ireland
 #DESCRIPTION BBC Radio 1 Northern Ireland
@@ -53,6 +53,8 @@
 #DESCRIPTION FUSE FM (Ballymoney, Noord-Ierland, UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.28.20.20%3a8032/stream:Ital FM (Londonderry, Noord-Ierland, UK)
 #DESCRIPTION Ital FM (Londonderry, Noord-Ierland, UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securestreams5.autopo.st%3a1870/juice:Juice FM Belfast
+#DESCRIPTION Juice FM Belfast
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jumpradioonline.out.airtime.pro%3a8000/jumpradioonline_b:Jump Radio (Belfast, Noord-Ierland, UK)
 #DESCRIPTION Jump Radio (Belfast, Noord-Ierland, UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//laserfm.hopto.org%3a5042/stream:Laser FM Internet Radio (Lurgan, Noord-Ierland, UK)

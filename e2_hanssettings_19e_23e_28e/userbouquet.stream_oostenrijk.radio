@@ -35,6 +35,8 @@
 #DESCRIPTION ANTENNE VORARLBERG Plus Neue Hits
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//webradio.antennevorarlberg.at/live:Antenne Vorarlberg
 #DESCRIPTION Antenne Vorarlberg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge10.streamonkey.net/antwien-live:Antenne Wien
+#DESCRIPTION Antenne Wien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server35317.streamplus.de/stream.mp3:Antenne Österreich
 #DESCRIPTION Antenne Österreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//austropop.radioarabella.de/arabella-austropop.mp3:Arabella - Austropop
@@ -139,20 +141,22 @@
 #DESCRIPTION Jugoton-Hit-Radio-Wien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//clubradio.joelive.at/clubradio.mp3:jö live (Oostenrijk)
 #DESCRIPTION jö live (Oostenrijk)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-90sdance.mp3:KroneHit-90s-Dance
-#DESCRIPTION KroneHit-90s-Dance
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-clubland.mp3:KroneHit-Clubland-XXL
-#DESCRIPTION KroneHit-Clubland-XXL
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-dance.mp3:KroneHit-Dance
-#DESCRIPTION KroneHit-Dance
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit1058.mp3:KroneHit-Digital
-#DESCRIPTION KroneHit-Digital
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-electric.mp3:KroneHit-Electric
-#DESCRIPTION KroneHit-Electric
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-fresh.mp3:KroneHit-Fresh
-#DESCRIPTION KroneHit-Fresh
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-event2.mp3:KroneHit-Workout
-#DESCRIPTION KroneHit-Workout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-90sdance.mp3:KroneHit 90s-Dance
+#DESCRIPTION KroneHit 90s-Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-clubland.mp3:KroneHit Clubland-XXL
+#DESCRIPTION KroneHit Clubland-XXL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-dance.mp3:KroneHit Dance
+#DESCRIPTION KroneHit Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit1058.mp3:KroneHit Digital
+#DESCRIPTION KroneHit Digital
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-electric.mp3:KroneHit Electric
+#DESCRIPTION KroneHit Electric
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-fresh.mp3:KroneHit Fresh
+#DESCRIPTION KroneHit Fresh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/kronehit05.mp3:Kronehit Latino
+#DESCRIPTION Kronehit Latino
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair-ha1.krone.at/kronehit-event2.mp3:KroneHit Workout
+#DESCRIPTION KroneHit Workout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//liferadio.stream.kapper.net%3a8002/80er:Life-Radio - 80er (Oostenrijk)
 #DESCRIPTION Life-Radio - 80er (Oostenrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//liferadio.stream.kapper.net%3a8006/90er:Life-Radio - 90er (Oostenrijk)

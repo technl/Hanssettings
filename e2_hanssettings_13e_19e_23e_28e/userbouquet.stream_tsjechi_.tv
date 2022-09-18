@@ -1,5 +1,5 @@
 #NAME Stream Tsjechië (CZ)
-#SERVICE 1:64:377:0:0:0:0:0:0:0:
+#SERVICE 1:64:39a:0:0:0:0:0:0:0:
 #DESCRIPTION ++Hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-5100-tv-pc/hls/4002v105.m3u8:CT 1
 #DESCRIPTION CT 1
@@ -75,7 +75,7 @@
 #DESCRIPTION Prima Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.123.169.234%3a8000/play/a0cm:TA 3
 #DESCRIPTION TA 3
-#SERVICE 1:64:378:0:0:0:0:0:0:0:
+#SERVICE 1:64:39b:0:0:0:0:0:0:0:
 #DESCRIPTION ++Overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.123.169.234%3a8000/play/a0cf:Arena Sport 1 HD
 #DESCRIPTION Arena Sport 1 HD
@@ -159,7 +159,7 @@
 #DESCRIPTION Sport 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.123.169.234%3a8000/play/a07l:TV Barrandov
 #DESCRIPTION TV Barrandov
-#SERVICE 4097:0:1:7e4:af2:bb:e080000:0:0:0:http%3a//live.tvlux.sk%3a1935/lux/lux.stream_360p/chunklist_w115255629.m3u8:TV Lux
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tvlux.sk%3a1935/lux/lux.stream_360p/playlist.m3u8:TV Lux
 #DESCRIPTION TV Lux
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media1.tvnatura.cz/live_out/2/live.m3u8:TV Natura
 #DESCRIPTION TV Natura
