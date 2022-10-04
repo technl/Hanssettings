@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:4bc:0:0:0:0:0:0:0:
+#SERVICE 1:64:4bf:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -53,7 +53,7 @@
 #DESCRIPTION VRT Studio Brussel UNTZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs-high.mp3:VRT Studio Brussel Vuurland
 #DESCRIPTION VRT Studio Brussel Vuurland
-#SERVICE 1:64:4bd:0:0:0:0:0:0:0:
+#SERVICE 1:64:4c0:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -239,12 +239,6 @@
 #DESCRIPTION Puur Vlaams
 #SERVICE 4097:0:2:1b72:c88:3:eb0000:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMUSIC.mp3:Qmusic
 #DESCRIPTION Qmusic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22333.live.streamtheworld.com/Q00S.mp3:Q-00s
-#DESCRIPTION Q-00s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/Q10S.mp3:Q-10s
-#DESCRIPTION Q-10s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20723.live.streamtheworld.com/Q80S.mp3:Q-80s
-#DESCRIPTION Q-80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/Q90S.mp3:Q-90s
 #DESCRIPTION Q-90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/QDOWNTOWN.mp3:Q-DOWNTOWN
@@ -255,10 +249,6 @@
 #DESCRIPTION Q-Foute Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMAXIMUMHITS.mp3:Q-Maximum Hits
 #DESCRIPTION Q-Maximum Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QSPECIAL.mp3:Qmusic Moose Bar 
-#DESCRIPTION Qmusic Moose Bar 
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QNEDERLANDSTALIG.mp3:Q-Nederlandstalig
-#DESCRIPTION Q-Nederlandstalig
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMAXIMUMHITS.mp3:Q-Non Stop
 #DESCRIPTION Q-Non Stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QSHUTUP_DANCE.mp3:Q-Shut Up And Dance
@@ -303,6 +293,8 @@
 #DESCRIPTION Radio Kadee (plezante kinderradio - België)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.radiomaria.be%3a8000/RadioMaria-96:Radio Maria België
 #DESCRIPTION Radio Maria België
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiomaria.be%3a8443/bijbellezing:Radio Maria België - Bijbellezing
+#DESCRIPTION Radio Maria België - Bijbellezing
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.34.205%3a8368/stream:Radio Mi Amigo, de échte
 #DESCRIPTION Radio Mi Amigo, de échte
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stan319.radioca.st/;:Radio Mi Amigo, de échte - 2
@@ -405,7 +397,7 @@
 #DESCRIPTION ZZOldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK
 #DESCRIPTION ZZROCK
-#SERVICE 1:64:4be:0:0:0:0:0:0:0:
+#SERVICE 1:64:4c1:0:0:0:0:0:0:0:
 #DESCRIPTION ++Bruxelles et Wallonie++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -703,7 +695,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:4bf:0:0:0:0:0:0:0:
+#SERVICE 1:64:4c2:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -719,7 +711,7 @@
 #DESCRIPTION Radio Contact Ostbelgien NOW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:4c0:0:0:0:0:0:0:0:
+#SERVICE 1:64:4c3:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

@@ -1,5 +1,5 @@
 #NAME Stream Argentinië (AR)
-#SERVICE 1:64:328:0:0:0:0:0:0:0:
+#SERVICE 1:64:320:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/679322/events/3782013/live.m3u8:Canal 2 Jujuy
 #DESCRIPTION Canal 2 Jujuy
@@ -99,7 +99,7 @@
 #DESCRIPTION Canal 79 San Juan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamconex.com%3a1936/santaclara/santaclara/playlist.m3u8:Canal 79 Santa Clara del Mar
 #DESCRIPTION Canal 79 Santa Clara del Mar
-#SERVICE 1:64:329:0:0:0:0:0:0:0:
+#SERVICE 1:64:321:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59c5c86e10038.streamlock.net%3a1935/6605140/6605140/playlist.m3u8:24/7 Canal de Noticias
 #DESCRIPTION 24/7 Canal de Noticias
@@ -107,6 +107,8 @@
 #DESCRIPTION A24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCrYFBjFOP_zlFzsif9XDhgw/live:Acequia TV
 #DESCRIPTION Acequia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/AmericaTucuman/live:América Tucumán
+#DESCRIPTION América Tucumán
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc1.stweb.tv/airedigital/live/playlist.m3u8:Aire de Santa Fe
 #DESCRIPTION Aire de Santa Fe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuvideoonline.com.ar%3a3393/live/antena91live.m3u8:Antena 91
@@ -115,6 +117,12 @@
 #DESCRIPTION Bayres TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8:Beats Radio
 #DESCRIPTION Beats Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vivo.solumedia.com%3a19360/bvconline/bvconline.m3u8:BVC
+#DESCRIPTION BVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d52c5a5ce5e.streamlock.net%3a4443/cadena103/cadena103/playlist.m3u8:Cadena 103
+#DESCRIPTION Cadena 103
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videostream.shockmedia.com.ar%3a19360/tvnoficial/tvnoficial.m3u8:Cadena VIVO
+#DESCRIPTION Cadena VIVO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.dattalive.com/canal907/canal907/playlist.m3u8:Canal 907 FM
 #DESCRIPTION Canal 907 FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.dattalive.com/8138/8138/playlist.m3u8:Canal Coop
@@ -143,6 +151,8 @@
 #DESCRIPTION CPE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live:Depor TV
 #DESCRIPTION Depor TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.210.221.119/Processor3_9_chunklist_b1300000.m3u8:DirecTV Sports
+#DESCRIPTION DirecTV Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8:Educanal
 #DESCRIPTION Educanal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.streamtvradio.com%3a8081/uv038/uv038/playlist.m3u8:El Palomar

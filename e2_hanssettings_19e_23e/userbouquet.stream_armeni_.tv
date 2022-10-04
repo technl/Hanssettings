@@ -1,5 +1,5 @@
 #NAME Stream Armenië (AM)
-#SERVICE 1:64:297:0:0:0:0:0:0:0:
+#SERVICE 1:64:291:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8:H1
 #DESCRIPTION H1
@@ -37,14 +37,14 @@
 #DESCRIPTION ATV Kinoman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s53/index.m3u8:ATV Tava
 #DESCRIPTION ATV Tava
-#SERVICE 1:64:298:0:0:0:0:0:0:0:
+#SERVICE 1:64:292:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8:Amga
 #DESCRIPTION Amga
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s6/index.m3u8:Ararat TV
 #DESCRIPTION Ararat TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s11/index.m3u8:ArmNews TV
-#DESCRIPTION ArmNews TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amtv1-2.livestreamingcdn.com/am3abr/tracks-v1a1/mono.m3u8:Armediia News TV
+#DESCRIPTION Armediia News TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.usatv.com/hls/master-ARTN-NET.m3u8:ARTN
 #DESCRIPTION ARTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s3/index.m3u8:Azatutyun TV
@@ -55,6 +55,8 @@
 #DESCRIPTION Kentron TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.usatv.com/hls/master-iNEWARM.m3u8:Nor Hayastan
 #DESCRIPTION Nor Hayastan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//us1.ottstream.live%3a17071/C279/index.m3u8?token=123TREWQ456:Pan Armenian TV
+#DESCRIPTION Pan Armenian TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radiovan.fm/stream/index.m3u8:Radio Van 103.0 FM Yerevan
 #DESCRIPTION Radio Van 103.0 FM Yerevan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s13/index.m3u8:Shoxakat TV

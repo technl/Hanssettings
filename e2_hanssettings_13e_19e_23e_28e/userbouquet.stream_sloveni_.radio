@@ -23,6 +23,8 @@
 #DESCRIPTION RADIO STUDENT
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.95.158.131%3a9060/:RADIO VESELJAK
 #DESCRIPTION RADIO VESELJAK
+#SERVICE 4097:0:2:15:0:0:0:0:0:0:https%3a//raievent9-live.akamaized.net/hls/live/619188/raievent9/raievent9/playlist.m3u8:Rai Radio TRST A 
+#DESCRIPTION Rai Radio TRST A 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//35-rtvslo-ra-ars.cdn.eurovisioncdn.net/chunklist.m3u8:RTV SLO - Ars (klassiek - Slovenië)
 #DESCRIPTION RTV SLO - Ars (klassiek - Slovenië)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//36-rtvslo-ra-capo.cdn.eurovisioncdn.net/chunklist.m3u8:RTV SLO - Capo4distria (Slovenië)

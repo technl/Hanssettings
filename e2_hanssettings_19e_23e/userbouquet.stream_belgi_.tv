@@ -1,5 +1,5 @@
 #NAME Stream België (BE)
-#SERVICE 1:64:179:0:0:0:0:0:0:0:
+#SERVICE 1:64:174:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - landelijk+++
 #SERVICE 4097:0:1:5221:c99:3:0:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.111.0.6%3a1234:VRT één
 #DESCRIPTION VRT één
@@ -21,7 +21,7 @@
 #DESCRIPTION VTM NWS - tijdens journaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.parolis.be%3a1935/live/PLN_NL/chunklist_w27225067.m3u8:Federaal parlement BE (tijdens vergaderingen)
 #DESCRIPTION Federaal parlement BE (tijdens vergaderingen)
-#SERVICE 1:64:17a:0:0:0:0:0:0:0:
+#SERVICE 1:64:175:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - regionaal+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_107244/1080n/index.m3u8:ATV (Antwerpen)
 #DESCRIPTION ATV (Antwerpen)
@@ -33,7 +33,7 @@
 #DESCRIPTION TVL - TV Limburg (België) -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player-api.new.livestream.com/accounts/27755193/events/8511193/live.secure.m3u8:TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
 #DESCRIPTION TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
-#SERVICE 1:64:17b:0:0:0:0:0:0:0:
+#SERVICE 1:64:176:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen radio webcams++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8:VRT - Radio 1 studiocam
 #DESCRIPTION VRT - Radio 1 studiocam
@@ -49,26 +49,26 @@
 #DESCRIPTION CityMusic (Denderstreek - België) webcam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8:Radio PROS (webcam) Heldergem-België
 #DESCRIPTION Radio PROS (webcam) Heldergem-België
-#SERVICE 1:64:17c:0:0:0:0:0:0:0:
+#SERVICE 1:64:177:0:0:0:0:0:0:0:
 #DESCRIPTION +++Bruxelles/Wallonie+++
-#SERVICE 1:64:17d:0:0:0:0:0:0:0:
+#SERVICE 1:64:178:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:420e:2f44:13e:820000:0:0:0:http%3a//rtbf.l3.freecaster.net/live/rtbf/geo/open/bc1e985c9592276a91bf1db4a6dd366efc9fc11e/laune.m3u8?token=0db0ad0d41931810f148c:RTBF La 1 HD
-#DESCRIPTION RTBF La 1 HD
-#SERVICE 4097:0:1:420e:2f44:13e:820000:0:0:0:http%3a//31.220.41.86%3a8081/live/be-la-une.stream/playlist.m3u8:RTBF La 1 -2-
-#DESCRIPTION RTBF La 1 -2-
-#SERVICE 4097:0:1:420f:2f44:13e:820000:0:0:0:http%3a//31.220.41.86%3a8081/live/be-la-deux.stream/playlist.m3u8:RTBF 2 Tipik HD
-#DESCRIPTION RTBF 2 Tipik HD
-#SERVICE 4097:0:1:4210:2f44:13e:820000:0:0:0:http%3a//31.220.41.86%3a8081/live/be-la-trois.stream/playlist.m3u8:RTBF La 3 HD
-#DESCRIPTION RTBF La 3 HD
-#SERVICE 1:64:17e:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:420e:2f44:13e:820000:0:0:0:http%3a//154.54.220.67%3a34780/play/a02e:RTBF La 1
+#DESCRIPTION RTBF La 1
+#SERVICE 4097:0:1:420f:2f44:13e:820000:0:0:0:http%3a//154.54.220.67%3a34780/play/a02f:RTBF 2 Tipik
+#DESCRIPTION RTBF 2 Tipik
+#SERVICE 4097:0:1:4210:2f44:13e:820000:0:0:0:http%3a//154.54.220.67%3a34780/play/a02g:RTBF La 3
+#DESCRIPTION RTBF La 3
+#SERVICE 4097:0:0:1:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a02h:RTL TVI
+#DESCRIPTION RTL TVI
+#SERVICE 1:64:179:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1800.m3u8:BEL RTL
 #DESCRIPTION BEL RTL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59959724487e3.streamlock.net/stream/live/playlist.m3u8:BX1
 #DESCRIPTION BX1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//59959724487e3.streamlock.net/radio/live/chunklist.m3u8:BX1+ (België/Wallonië) met beeld
-#DESCRIPTION BX1+ (België/Wallonië) met beeld
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//59959724487e3.streamlock.net/radio/live/chunklist.m3u8:BX1+ (met beeld)
+#DESCRIPTION BX1+ (met beeld)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8:Fun Radio
 #DESCRIPTION Fun Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//funradiovisionhd.vedge.infomaniak.com/livecast/smil%3afunradiovisionhd.smil/playlist.m3u8:Fun Radio -2-

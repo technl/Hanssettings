@@ -1,52 +1,52 @@
 #NAME Stream Spanje (ES)
-#SERVICE 1:64:303:0:0:0:0:0:0:0:
+#SERVICE 1:64:302:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8:TVE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7KvRE5QngxIiP2uwX9YW0f.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=355&t=live&f=ts:TVE 1
 #DESCRIPTION TVE 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/3293681.m3u8:TVE 1 Catalunya
 #DESCRIPTION TVE 1 Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/segments/la2/la2_main_1080.m3u8:TVE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//j0blQ4LXOSGd9VxyNFiUqo.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=26151&t=live&f=ts:TVE 2
 #DESCRIPTION TVE 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.24.132.99%3a8000/play/a01p:TVE Internacional America
 #DESCRIPTION TVE Internacional America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/uq2663/h/h158/index2.m3u8:TVE Internacional Asia-Oceania
 #DESCRIPTION TVE Internacional Asia-Oceania
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a07m:TVE Internacional Europa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/5943:TVE Internacional Europa
 #DESCRIPTION TVE Internacional Europa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8:TVE 24 Horas
-#DESCRIPTION TVE 24 Horas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8:TVE 24 Horas -2-
-#DESCRIPTION TVE 24 Horas -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/bitrate_4.m3u8:TVE Play 1
-#DESCRIPTION TVE Play 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/bitrate_4.m3u8:TVE Play 2
-#DESCRIPTION TVE Play 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/bitrate_3.m3u8:TVE Play 3
-#DESCRIPTION TVE Play 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/bitrate_4.m3u8:TVE Play 4
-#DESCRIPTION TVE Play 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.9%3a6500/play/a02k:Clan TVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/segments/24h/24h_main_720.m3u8:TVE Canal 24 Horas
+#DESCRIPTION TVE Canal 24 Horas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/bitrate_2.m3u8:RTVE Play 1
+#DESCRIPTION RTVE Play 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/bitrate_2.m3u8:RTVE Play 2
+#DESCRIPTION RTVE Play 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/bitrate_2.m3u8:RTVE Play 3
+#DESCRIPTION RTVE Play 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/bitrate_2.m3u8:RTVE Play 4
+#DESCRIPTION RTVE Play 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//IKbO6DCl8Nsuk3ZT192XML.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=3832&t=live&f=ts:Clan TVE
 #DESCRIPTION Clan TVE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.19.181.136%3a8100/play/a01m:TVE Teledeporte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//EsvBl9TOnPVMGH8hde1g0x.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=3857&t=live&f=ts:TVE Teledeporte
 #DESCRIPTION TVE Teledeporte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.9%3a6500/play/a00r:Antena 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//oWwxls1niIgJTmLG57Ae4N.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=3790&t=live&f=ts:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-content/canal324-hls/bitrate_3.m3u8:3/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8:3/24
 #DESCRIPTION 3/24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-origin/tvi-hls/bitrate_1.m3u8:TV3 Catalunya
 #DESCRIPTION TV3 Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.196.140.234%3a8000/play/a09f:Cuatro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jD8Ax1iz2OpSB5qTGsYELZ.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=351&t=live&f=ts:Cuatro
 #DESCRIPTION Cuatro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.9%3a6500/play/a00t:Telecinco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//WN1L2vh7OMp5rRjT30KuCD.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=374&t=live&f=ts:Telecinco
 #DESCRIPTION Telecinco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.9%3a6500/play/a00u:La Sexta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pO1BMxzr4jw2HNK9od6YkE.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=356&t=live&f=ts:La Sexta
 #DESCRIPTION La Sexta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8:7 Noticias
 #DESCRIPTION 7 Noticias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pc-la7delarioja-hls.flumotion.com/playlist.m3u8:La 7 de La Rioja
-#DESCRIPTION La 7 de La Rioja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la7live/smil%3achannel1.smil/chunklist_b2200000.m3u8:La 7
+#DESCRIPTION La 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la7live/smil%3achannel1.smil/master.m3u8:La 7 Web
 #DESCRIPTION La 7 Web
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/285770:La 8
+#DESCRIPTION La 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8avilalive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Avila
 #DESCRIPTION La 8 Avila
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8bierzolive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Bierzo
@@ -69,7 +69,7 @@
 #DESCRIPTION La 8 Valladolid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8zamoralive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Zamora
 #DESCRIPTION La 8 Zamora
-#SERVICE 1:64:304:0:0:0:0:0:0:0:
+#SERVICE 1:64:303:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/25televisiolive/smil%3achannel1.smil/master.m3u8:25 TV
 #DESCRIPTION 25 TV
@@ -101,7 +101,7 @@
 #DESCRIPTION Cadena Elite
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8:Canal 4 Mancha Centro
 #DESCRIPTION Canal 4 Mancha Centro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8:Canal 4 Tenerife
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8:Canal 4 Tenerife
 #DESCRIPTION Canal 4 Tenerife
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ventdelnord.tv%3a8080/escala/directe.m3u8:Canal 10 Empordà
 #DESCRIPTION Canal 10 Empordà
@@ -159,16 +159,12 @@
 #DESCRIPTION El 33
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//limited24.todostreaming.es/live/renjillo-livestream.m3u8:El Futuro en tu mano
 #DESCRIPTION El Futuro en tu mano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8:ETB 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8:ETB 1
 #DESCRIPTION ETB 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8:EiTB 2
-#DESCRIPTION EiTB 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etbvnogeo-lh.akamaihd.net/i/OCA1HD_1@748519/master.m3u8:ETB Eventos 1
-#DESCRIPTION ETB Eventos 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8:EITB Espana
-#DESCRIPTION EITB Espana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/int/ngrp%3aes3_web/playlist.m3u8:EiTB Sport 3
-#DESCRIPTION EiTB Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8:ETB 2
+#DESCRIPTION ETB 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8:ETB Basque
+#DESCRIPTION ETB Basque
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/estaciontv/estaciontv.smil/playlist.m3u8:Estación TV
 #DESCRIPTION Estación TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8:Euronews en Español
@@ -317,6 +313,8 @@
 #DESCRIPTION TVG Musigal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//events1-crtvg.flumotion.com/playlist.m3u8:TVG Radio
 #DESCRIPTION TVG Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.yowi.tv/f79437b2aa253f8e59f1/master.m3u8:TVL Teleganés
+#DESCRIPTION TVL Teleganés
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//teledifusion.tv/cordoba/cordobalive/playlist.m3u8:TVM Córdoba
 #DESCRIPTION TVM Córdoba
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8:TVO San Vicente

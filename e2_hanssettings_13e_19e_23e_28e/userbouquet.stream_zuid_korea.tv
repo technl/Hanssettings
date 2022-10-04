@@ -1,25 +1,35 @@
 #NAME Stream Zuid-Korea (KR)
-#SERVICE 1:64:3b1:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b0:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders KBS++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs1_540/playlist.m3u8:KBS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=1:KBS 1
 #DESCRIPTION KBS 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs2_540/playlist.m3u8:KBS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs1_540/playlist.m3u8:KBS 1 -2-
+#DESCRIPTION KBS 1 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=2:KBS 2
 #DESCRIPTION KBS 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs_joy_540/playlist.m3u8:KBS Joy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs2_540/playlist.m3u8:KBS 2 -2-
+#DESCRIPTION KBS 2 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=5:KBS Drama
+#DESCRIPTION KBS Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=6:KBS Joy
 #DESCRIPTION KBS Joy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs_kids_540/playlist.m3u8:KBS Kids
 #DESCRIPTION KBS Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=7:KBS Life
+#DESCRIPTION KBS Life
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8:KBS LiveCam DokDo
 #DESCRIPTION KBS LiveCam DokDo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/newskbs/live:KBS News
 #DESCRIPTION KBS News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs_n_sports_540/playlist.m3u8:KBS N Sports
-#DESCRIPTION KBS N Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs_n_sports_540/playlist.m3u8:KBS Sports
+#DESCRIPTION KBS Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=8:KBS Story
+#DESCRIPTION KBS Story
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wms4-kortv.akamaized.net/a_live/63719963/smil%3a20ch011.smil/playlist.m3u8:KBS World 
 #DESCRIPTION KBS World 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8:KBS World -2-
 #DESCRIPTION KBS World -2-
-#SERVICE 1:64:3b2:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b1:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/channela_540/playlist.m3u8:Channel A
 #DESCRIPTION Channel A
@@ -37,6 +47,8 @@
 #DESCRIPTION MBC -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8:MBC Busan
 #DESCRIPTION MBC Busan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//211.33.246.4%3a32954/cj_live/myStream.sdp/playlist.m3u8:MBC Chungbuk
+#DESCRIPTION MBC Chungbuk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c74939c891dc.streamlock.net/live/TV/playlist.m3u8:MBC Chunseon
 #DESCRIPTION MBC Chunseon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8:MBC Daejeon
@@ -49,7 +61,7 @@
 #DESCRIPTION MBC Jeju
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.mpmbc.co.kr%3a1935/live/encoder-tv/playlist.m3u8:MBC Mokpo
 #DESCRIPTION MBC Mokpo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ddfd163bd00d.streamlock.net%3a443/nHDTV/nHDTV/playlist.m3u8:MBC Ulsan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8:MBC Ulsan
 #DESCRIPTION MBC Ulsan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8:MBC Yeosu
 #DESCRIPTION MBC Yeosu
@@ -113,7 +125,7 @@
 #DESCRIPTION YTN Science
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_yomiuri_720/playlist.m3u8:YTV
 #DESCRIPTION YTV
-#SERVICE 1:64:3b3:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b2:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil%3aarirang_3ch.smil/playlist.m3u8:Arirang Radio
 #DESCRIPTION Arirang Radio

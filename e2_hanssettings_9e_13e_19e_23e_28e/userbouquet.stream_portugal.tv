@@ -1,5 +1,5 @@
 #NAME Stream Portugal (PT)
-#SERVICE 1:64:3a5:0:0:0:0:0:0:0:
+#SERVICE 1:64:3a2:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8001/play/a05j:RTP 1
 #DESCRIPTION RTP 1
@@ -43,7 +43,7 @@
 #DESCRIPTION TVI Ficção
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8:TVI Reality
 #DESCRIPTION TVI Reality
-#SERVICE 1:64:3a6:0:0:0:0:0:0:0:
+#SERVICE 1:64:3a3:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a01c:24 Kitchen Portugal
 #DESCRIPTION 24 Kitchen Portugal

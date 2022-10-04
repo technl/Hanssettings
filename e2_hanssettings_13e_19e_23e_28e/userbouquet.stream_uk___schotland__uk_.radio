@@ -1,5 +1,5 @@
 #NAME Stream UK - Schotland (UK)
-#SERVICE 1:64:4d3:0:0:0:0:0:0:0:
+#SERVICE 1:64:4d6:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Schotland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw:BBC Radio Scotland MW
 #DESCRIPTION BBC Radio Scotland MW
@@ -109,6 +109,8 @@
 #DESCRIPTION HikeNcity (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//everestcast.shoutcastservices.com%3a1285/stream:Hit 40 Radio (Schotland, UK)
 #DESCRIPTION Hit 40 Radio (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listenhls.housepartyradio.net/hls/hpr_live_aac_hifi.m3u8:House Party Radio (Glasgow)
+#DESCRIPTION House Party Radio (Glasgow)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//everestcast-us.myautodj.com%3a1085/stream:Housemasters Radio (Glasgow, Schotland, UK)
 #DESCRIPTION Housemasters Radio (Glasgow, Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//iconic.radioca.st/stream;:Iconic Radio UK (Glasgow, Schotland, UK)

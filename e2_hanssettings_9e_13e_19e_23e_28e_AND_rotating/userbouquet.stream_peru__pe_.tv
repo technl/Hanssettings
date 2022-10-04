@@ -1,5 +1,5 @@
 #NAME Stream Peru (PE)
-#SERVICE 1:64:1bb2:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b7a:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh4.iblups.com/hls/irtp.m3u8:TV Peru Internacional
 #DESCRIPTION TV Peru Internacional
@@ -9,7 +9,7 @@
 #DESCRIPTION TV Peru Nacional 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8:TV Perú Noticias
 #DESCRIPTION TV Perú Noticias
-#SERVICE 1:64:1bb3:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b7b:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8:América TV
 #DESCRIPTION América TV
@@ -21,9 +21,9 @@
 #DESCRIPTION Asiri TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/atmtv/index.m3u8:ATM Televisión
 #DESCRIPTION ATM Televisión
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2tr4gdfol9ja.cloudfront.net/atv/smil%3aatv.smil/playlist.m3u8:ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dysmuyxh5vstv.cloudfront.net/hls/live.m3u8:ATV
 #DESCRIPTION ATV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2tr4gdfol9ja.cloudfront.net/atv/smil%3aatv-mas.smil/playlist.m3u8:ATV+ Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8:ATV+ Noticias
 #DESCRIPTION ATV+ Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/autenticatvmux/index.m3u8:Auténtica Televisión
 #DESCRIPTION Auténtica Televisión
@@ -69,6 +69,8 @@
 #DESCRIPTION CNC Digital Iquitos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servilive.com%3a3114/live/liveulive.m3u8:Conecta 2 TV
 #DESCRIPTION Conecta 2 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/CongresodelaRepúblicadelPerúTVenvivo/live:Congreso TV
+#DESCRIPTION Congreso TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/cdeportivo/index.m3u8:Contacto Deportivo
 #DESCRIPTION Contacto Deportivo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/controversiatv/index.m3u8:Controversia TV Moyobamba
@@ -87,6 +89,8 @@
 #DESCRIPTION Delta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.streamingtv-mediacp.online%3a1936/8108/8108/playlist.m3u8:Diario Hechicera
 #DESCRIPTION Diario Hechicera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.tvdatta.com%3a3804/live/diasporatvlive.m3u8:Diáspora TV
+#DESCRIPTION Diáspora TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/s1tv/playlist.m3u8:DMJ
 #DESCRIPTION DMJ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1667517699.rsc.cdn77.org/hls/radioilo.m3u8:Expresión Tacna
@@ -265,11 +269,11 @@
 #DESCRIPTION Telesur Moquegua
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1667517699.rsc.cdn77.org/hls/tacna.m3u8:Telesur Tacna
 #DESCRIPTION Telesur Tacna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videoserver.tmcreativos.com%3a19360/televisiontpp/televisiontpp.m3u8:Televisión Tarapoto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8:Televisión Tarapoto
 #DESCRIPTION Televisión Tarapoto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvdatta.com%3a3084/live/toptvaguaytialive.m3u8:Top FM TV Atalaya
 #DESCRIPTION Top FM TV Atalaya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8:Top Latino TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cefcbf58ba2e.streamlock.net%3a543/tltvweb/tvweb.stream/playlist.m3u8:Top Latino TV
 #DESCRIPTION Top Latino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8:TPTO TV
 #DESCRIPTION TPTO TV

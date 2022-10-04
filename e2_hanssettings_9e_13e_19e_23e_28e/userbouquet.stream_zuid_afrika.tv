@@ -1,4 +1,22 @@
 #NAME Stream Zuid-Afrika (ZA)
+#SERVICE 1:64:3c9:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/38564:SABC 1
+#DESCRIPTION SABC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/38556:SABC 2
+#DESCRIPTION SABC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/281528:SABC 3
+#DESCRIPTION SABC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/38566:SABC News
+#DESCRIPTION SABC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/278762:KykNet
+#DESCRIPTION KykNet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/278763:KykNet & Kie
+#DESCRIPTION KykNet & Kie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/90214:KykNet Nou
+#DESCRIPTION KykNet Nou
+#SERVICE 1:64:3ca:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boktv.interworks.in%3a1935/live/boktv/playlist.m3u8:BOK TV
 #DESCRIPTION BOK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.227.202.76/hls-live/CTV/_definst_/liveevent/livestream.m3u8:Celebration TV
@@ -7,7 +25,5 @@
 #DESCRIPTION Kruiskyk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_18rwoe8djxxc.m3u8:Life Destiny TV (Zuid-Afrika)
 #DESCRIPTION Life Destiny TV (Zuid-Afrika)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.72.21.249/hdmi:SABC3 (Zuid-Afrika)
-#DESCRIPTION SABC3 (Zuid-Afrika)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8:Trace Africa
 #DESCRIPTION Trace Africa

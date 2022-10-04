@@ -1,5 +1,5 @@
 #NAME Stream China (CN)
-#SERVICE 1:64:1f9:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f2:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225618/index.m3u8:CCTV 1 HD
 #DESCRIPTION CCTV 1 HD
@@ -43,7 +43,7 @@
 #DESCRIPTION CETV 2
 #SERVICE 4097:0:1:1b02:3fe:1:c00000:0:0:0:http%3a//news.cgtn.com/resource/live/english/cgtn-news.m3u8:CGTN
 #DESCRIPTION CGTN
-#SERVICE 1:64:1fa:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f3:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dstpush1.retalltech.com/app/stream2.m3u8:Ānhuī Ⅰ Tónglíng Gōnggòng
 #DESCRIPTION Ānhuī Ⅰ Tónglíng Gōnggòng
@@ -81,6 +81,12 @@
 #DESCRIPTION Chóngqìng Zhōng Xiàn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.deepcore.online/hlsme/ctv_hk.m3u8:Chuàngshì Diànshì (Creation TV)
 #DESCRIPTION Chuàngshì Diànshì (Creation TV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cztv.cc%3a85/live/ggpd.m3u8:Chúzhōu Shì Guǎngbò Diànshìtái Gōnggòng Píndào
+#DESCRIPTION Chúzhōu Shì Guǎngbò Diànshìtái Gōnggòng Píndào
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cztv.cc%3a85/live/sjpd.m3u8:Chúzhōu Shì Guǎngbò Diànshìtái Kējiào Píndào
+#DESCRIPTION Chúzhōu Shì Guǎngbò Diànshìtái Kējiào Píndào
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cztv.cc%3a85/live/xwpd.m3u8:Chúzhōu Shì Guǎngbò Diànshìtái Xīnwén Zònghé Píndào
+#DESCRIPTION Chúzhōu Shì Guǎngbò Diànshìtái Xīnwén Zònghé Píndào
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8:Daqing News Comprehensive
 #DESCRIPTION Daqing News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.255.190/live/program/live/dycj/1300000/mnf.m3u8:Dì yī Cáijīng (First Financial)
@@ -151,6 +157,8 @@
 #DESCRIPTION Huoshan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.163.88.61%3a1935/hwazanlivetv/live.stream/playlist.m3u8:HZTV
 #DESCRIPTION HZTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8:Ii-Cable 24-hour News Channel
+#DESCRIPTION Ii-Cable 24-hour News Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live4.m2oplus.nmtv.cn/6/playlist.m3u8:Inner Mongolia Agriculture and Animal Husbandry
 #DESCRIPTION Inner Mongolia Agriculture and Animal Husbandry
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live5.m2oplus.nmtv.cn/4/playlist.m3u8:Inner Mongolia children

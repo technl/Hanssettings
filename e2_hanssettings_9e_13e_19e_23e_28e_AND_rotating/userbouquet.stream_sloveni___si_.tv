@@ -1,11 +1,11 @@
 #NAME Stream Slovenië (SI)
-#SERVICE 1:64:1bc0:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b88:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8:TV Slovenija 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/5567:TV Slovenija 1
 #DESCRIPTION TV Slovenija 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//20-rtvslo-tv-slo2-slo.cdn.eurovisioncdn.net/chunklist.m3u8:TV Slovenija 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/5568:TV Slovenija 2
 #DESCRIPTION TV Slovenija 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8:TV Slovenija 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/5569:TV Slovenija 3
 #DESCRIPTION TV Slovenija 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//26-rtvslo-tv-kp-slo.cdn.eurovisioncdn.net/chunklist.m3u8:RTV SLO - TV Koper
 #DESCRIPTION RTV SLO - TV Koper
@@ -13,7 +13,7 @@
 #DESCRIPTION RTV SLO - TV Maribor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/RTVSLON/live:TV Slon Extra
 #DESCRIPTION TV Slon Extra
-#SERVICE 1:64:1bc1:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b89:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//584943999.r.worldssl.net/584943999/_definst_/vzivo/chunklist_w1994149598.m3u8:Exodus TV
 #DESCRIPTION Exodus TV

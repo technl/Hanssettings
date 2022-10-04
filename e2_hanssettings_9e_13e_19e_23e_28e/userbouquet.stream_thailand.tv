@@ -1,5 +1,5 @@
 #NAME Stream Thailand (TH)
-#SERVICE 1:64:3b3:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b0:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//news1.live14.com/stream/news1_hi.m3u8:News 1
 #DESCRIPTION News 1
@@ -45,7 +45,7 @@
 #DESCRIPTION Thai Parliament TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//110.170.117.27%3a1935/apptv5hd1live/tgn/playlist.m3u8:Thai TV Global Network
 #DESCRIPTION Thai TV Global Network
-#SERVICE 1:64:3b4:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b1:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//51.79.246.246%3a1936/freelive-edge/amarinhd/chunks.m3u8:Amarin TV
 #DESCRIPTION Amarin TV

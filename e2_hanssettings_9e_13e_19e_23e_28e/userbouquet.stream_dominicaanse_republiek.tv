@@ -1,8 +1,12 @@
 #NAME Stream Dominicaanse Republiek (DO)
-#SERVICE 1:64:369:0:0:0:0:0:0:0:
+#SERVICE 1:64:363:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//protvradiostream.com%3a1936/canal4rd-1/ngrp%3acanal4rd-1_all/playlist.m3u8:RTVD 4
+#DESCRIPTION RTVD 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/ReadyTV/ReadyHD/playlist.m3u8:Ready TV Canal 6 HD
 #DESCRIPTION Ready TV Canal 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss9.domint.net%3a3026/ctv8_str/contanzatv/playlist.m3u8:Constanza TV 8
+#DESCRIPTION Constanza TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/live/MicroHD/chunklist_w1468779956.m3u8:Microvision 10
 #DESCRIPTION Microvision 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newyorkstream.ddns.net%3a1935/telenord10/telenord10/playlist.m3u8:Telenord Canal 10
@@ -35,7 +39,7 @@
 #DESCRIPTION Luna TV Canal 53
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss3.domint.net%3a3120/dv6_str/digitalvision/playlist.m3u8:Digital Vision 63
 #DESCRIPTION Digital Vision 63
-#SERVICE 1:64:36a:0:0:0:0:0:0:0:
+#SERVICE 1:64:364:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cm.hostlagarto.com%3a4445/Akitv/Akitv.myStream/playlist.m3u8:Akí TV
 #DESCRIPTION Akí TV
@@ -45,8 +49,18 @@
 #DESCRIPTION Bellavisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss5.domint.net%3a3026/btv_str/bonao/playlist.m3u8:Bonao TV
 #DESCRIPTION Bonao TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss3.domint.net%3a3144/ctv_str/cascaratv/playlist.m3u8:Cáscara TV
+#DESCRIPTION Cáscara TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//62ac3ff10e9f0.streamlock.net%3a1936/cielotv/cielotv/playlist.m3u8:Cielo TV
+#DESCRIPTION Cielo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.30.37.36%3a1935/live/stream/chunklist_w1329394356.m3u8:Comunion TV
 #DESCRIPTION Comunion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn4.hostlagarto.com%3a8081/static/cotubanamatv/playlist.m3u8:Cotubanama TV
+#DESCRIPTION Cotubanama TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn4.hostlagarto.com%3a8081/static/cromtv/playlist.m3u8:Crom TV
+#DESCRIPTION Crom TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.misistemareseller.com/entelevision/entelevision/playlist.m3u8:EnTelevisión
+#DESCRIPTION EnTelevisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//184.173.181.2%3a1935/8060/8060/playlist.m3u8:Faro Vision
 #DESCRIPTION Faro Vision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8:Fuego TV
@@ -77,14 +91,20 @@
 #DESCRIPTION Nexxo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.teledomdr.com%3a3131/live/nitidatvlive.m3u8:Nítida TV
 #DESCRIPTION Nítida TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss5.domint.net%3a3048/pvv_str/peravia/playlist.m3u8:Peravía Visión
+#DESCRIPTION Peravía Visión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/Punaltv/punaltvHD.myStream/chunks.m3u8:Puñal TV
 #DESCRIPTION Puñal TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/ReadyTV/ReadyHD/chunklist.m3u8:Ready TV
 #DESCRIPTION Ready TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss5.domint.net%3a3002/stv_str/sensaciontv/playlist.m3u8:Sensación TV
 #DESCRIPTION Sensación TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.teledom.info%3a4000/live/senalestvlive.m3u8:Señales TV
+#DESCRIPTION Señales TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.122.104.221/Player/sitv.m3u8:SiTV
 #DESCRIPTION SiTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8:Su Mundo TV
+#DESCRIPTION Su Mundo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/Telecibao/Telecibao/playlist.m3u8:TeleCibao
 #DESCRIPTION TeleCibao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss9.domint.net%3a3054/tf_str/telefuturo/playlist.m3u8:Telefuturo

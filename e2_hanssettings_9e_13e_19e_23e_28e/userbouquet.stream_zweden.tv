@@ -1,36 +1,58 @@
 #NAME Stream Zweden (SE)
-#SERVICE 1:64:3cf:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ce:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8:TV 4 
-#DESCRIPTION TV 4 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/1/index.m3u8:SVT 1
+#DESCRIPTION SVT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/2/index.m3u8:SVT 2
+#DESCRIPTION SVT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/a00u/index.m3u8:SVT 24
+#DESCRIPTION SVT 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/4/index.m3u8:TV 4
+#DESCRIPTION TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/8/index.m3u8:TV 4 Film
+#DESCRIPTION TV 4 Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/6/index.m3u8:TV 4 Guld
+#DESCRIPTION TV 4 Guld
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8:TV 4 Nyheterna
 #DESCRIPTION TV 4 Nyheterna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8:TV 4 Svensk Politik
-#DESCRIPTION TV 4 Svensk Politik
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-se/_definst_/mp4%3atv7-se.stream_360p/playlist.m3u8:Himlen TV7
-#DESCRIPTION Himlen TV7
-#SERVICE 1:64:3d0:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/5/index.m3u8:Kanal 5
+#DESCRIPTION Kanal 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-se/_definst_/mp4%3atv7-se.stream_360p/playlist.m3u8:TV 7 Himmlen
+#DESCRIPTION TV 7 Himmlen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/9/index.m3u8:Kanal 9
+#DESCRIPTION Kanal 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/12/index.m3u8:TV 12
+#DESCRIPTION TV 12
+#SERVICE 1:64:3cf:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8:Aftonbladet TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/284734:Aftonbladet TV
 #DESCRIPTION Aftonbladet TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8:ATG
 #DESCRIPTION ATG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil%3a03837_tx4_720p/playlist.m3u8:Di TV
 #DESCRIPTION Di TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil%3a03837_tx2_720p/playlist.m3u8:Expressen TV
-#DESCRIPTION Expressen TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil%3a03837_tx1_720p/playlist.m3u8:Expressen TV 1
 #DESCRIPTION Expressen TV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil%3a03837_tx2_720p/playlist.m3u8:Expressen TV 2
 #DESCRIPTION Expressen TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil%3a03837_tx2_720p/playlist.m3u8:Expressen TV Nieuws 
-#DESCRIPTION Expressen TV Nieuws 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8:Filmstream
+#DESCRIPTION Filmstream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/290456:Godare
+#DESCRIPTION Godare
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kkr.dk/live/kkr/.m3u8:KKR TV
 #DESCRIPTION KKR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/16571:Kunskapskanalen
+#DESCRIPTION Kunskapskanalen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8:Oppna Kanalen
 #DESCRIPTION Oppna Kanalen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.132.85.39/19333-live0/_definst_/push-stortinget_1/.m3u8:Stortinget
-#DESCRIPTION Stortinget
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/16576:SF kanalen
+#DESCRIPTION SF kanalen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/4612:Sjuan
+#DESCRIPTION Sjuan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/14904:Suroyo TV
+#DESCRIPTION Suroyo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/23258:TCM Movies
+#DESCRIPTION TCM Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edg02-prd-se-dcs.solidtango.com/edge/_8ynhbua3_/8ynhbua3/playlist.m3u8:TV Malmö 
 #DESCRIPTION TV Malmö 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8:Vastmanlands TV

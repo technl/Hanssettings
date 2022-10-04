@@ -1,5 +1,5 @@
 #NAME Stream Koeweit (KW)
-#SERVICE 1:64:389:0:0:0:0:0:0:0:
+#SERVICE 1:64:384:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTV1:KTV 1
 #DESCRIPTION KTV 1
@@ -19,7 +19,7 @@
 #DESCRIPTION KTV Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSportPlus:KTV Sport Plus
 #DESCRIPTION KTV Sport Plus
-#SERVICE 1:64:38a:0:0:0:0:0:0:0:
+#SERVICE 1:64:385:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8:Al Bawadi
 #DESCRIPTION Al Bawadi

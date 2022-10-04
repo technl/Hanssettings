@@ -1,5 +1,5 @@
 #NAME Stream Kerstmuziek
-#SERVICE 1:64:4f8:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fb:0:0:0:0:0:0:0:
 #DESCRIPTION ++NL++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web05_mp3:100%25 NL Kerst
 #DESCRIPTION 100% NL Kerst
@@ -9,11 +9,11 @@
 #DESCRIPTION Kerstradio.nl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_64.aac:Qmusic Christmas
 #DESCRIPTION Qmusic Christmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08_SC:Sky Radio - Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22343.live.streamtheworld.com/SRGSTR08.mp3:Sky Radio - Christmas
 #DESCRIPTION Sky Radio - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22193.live.streamtheworld.com/SUBLIMEPLAYGROUND.mp3:Sublime Christmas
 #DESCRIPTION Sublime Christmas
-#SERVICE 1:64:4f9:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fc:0:0:0:0:0:0:0:
 #DESCRIPTION ++BE++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beonexmas:Be One Xmas (Oostende - België)
 #DESCRIPTION Be One Xmas (Oostende - België)
@@ -29,7 +29,7 @@
 #DESCRIPTION NRJ-Belgique En mode Noel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/krn:Radio Noordzee - Kerstmuziek Oostende (België)
 #DESCRIPTION Radio Noordzee - Kerstmuziek Oostende (België)
-#SERVICE 1:64:4fa:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fd:0:0:0:0:0:0:0:
 #DESCRIPTION ++Duitsland++
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.laut.fm/alpenweihnacht:1000-Alpenweihnacht (Duitsland)
 #DESCRIPTION 1000-Alpenweihnacht (Duitsland)
@@ -85,7 +85,7 @@
 #DESCRIPTION Tannenbaumradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-weihnachten-mp3-192-2156039:Toggo Radio Weihnachten
 #DESCRIPTION Toggo Radio Weihnachten
-#SERVICE 1:64:4fb:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fe:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige landen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-event01-mp3-hq:80s80s Xmas
 #DESCRIPTION 80s80s Xmas
@@ -187,7 +187,7 @@
 #DESCRIPTION United Music Holiday Radio Christmas Party (Italië)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um113.mp3:United Music Holiday Radio Cool Christmas (Italië)
 #DESCRIPTION United Music Holiday Radio Cool Christmas (Italië)
-#SERVICE 1:64:4fc:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ff:0:0:0:0:0:0:0:
 #DESCRIPTION +++Sinterklaas+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sintfm.nl%3a8000/sinterklaasradiohigh.mp3:Sint FM
 #DESCRIPTION Sint FM

@@ -1,71 +1,51 @@
 #NAME Stream Griekenland (GR)
-#SERVICE 1:64:1b82:0:0:0:0:0:0:0:
-#DESCRIPTION ++hoofdzenders publiek++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a018:ERT 1 HD
-#DESCRIPTION ERT 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a019:ERT 2 HD
-#DESCRIPTION ERT 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a01a:ERT 3 HD
-#DESCRIPTION ERT 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a01b:ERT News
+#SERVICE 1:64:1b49:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8BwLvDZ12qncWDml1bp00a:ERT 1
+#DESCRIPTION ERT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8kzbdsJJ47MeWOetS65JtQ:ERT 2
+#DESCRIPTION ERT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-6E5FixNFMGRZVhkyfeEie:ERT 3
+#DESCRIPTION ERT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_newsmedium.m3u8:ERT News
 #DESCRIPTION ERT News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9jtraVRz6iHM_8NQhlSHTY:ERT Sports
+#DESCRIPTION ERT Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8:ERT Sports 2
+#DESCRIPTION ERT Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports3_ww.m3u8:ERT Sports 3
+#DESCRIPTION ERT Sports 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8:ERT World
 #DESCRIPTION ERT World
-#SERVICE 1:64:1b83:0:0:0:0:0:0:0:
-#DESCRIPTION ++hoofdzenders commerciëel++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eu2.tv4e.gr%3a554/live/smil%3amyStream.sdp.smil/playlist.m3u8:4E
 #DESCRIPTION 4E
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a002:ALPHA HD
-#DESCRIPTION ALPHA HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s116:Alpha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-sTLwpWg-7rd9aKH_gxHTQ:Alpha
 #DESCRIPTION Alpha
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a004:ANT 1 HD
-#DESCRIPTION ANT 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s120:ANT 1 -2-
-#DESCRIPTION ANT 1 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kontralive.siliconweb.com/live/kontratv/playlist.m3u8:Kontra 8
-#DESCRIPTION Kontra 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8001/play/s145:Kontra 8 -2-
-#DESCRIPTION Kontra 8 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8002/play/s140:Channel 9
-#DESCRIPTION Channel 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/channel9/channel9/playlist.m3u8:Channel 9 -2-
-#DESCRIPTION Channel 9 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8cnjw6VQTrGxyT4e9guUyC:ANT 1
+#DESCRIPTION ANT 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.streams.ovh/netmedia/netmedia/playlist.m3u8:BCI 24 News
 #DESCRIPTION BCI 24 News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/channel9/channel9/playlist.m3u8:Channel 9
+#DESCRIPTION Channel 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bit.ly/2p6JqSo:Groovy
 #DESCRIPTION Groovy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s121:m.TV
-#DESCRIPTION m.TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a008:Mega HD
-#DESCRIPTION Mega HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s119:Mega -2-
-#DESCRIPTION Mega -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kontralive.siliconweb.com/live/kontratv/playlist.m3u8:Kontra 8
+#DESCRIPTION Kontra 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8cC7q2nXSgOdGk_9cobJAI:Mega TV
+#DESCRIPTION Mega TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netmaxtv.com%3a8080/live/live/playlist.m3u8:Netmax TV
 #DESCRIPTION Netmax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a005:Open Beyond HD
-#DESCRIPTION Open Beyond HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s122:Open Beyond -2-
-#DESCRIPTION Open Beyond -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8W5gbBAd4MuE4BG8AmDTj3:Open Beyond TV
+#DESCRIPTION Open Beyond TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl2.sigmatv.com/hls/live.m3u8:Sigma TV
 #DESCRIPTION Sigma TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a003:Skai HD
-#DESCRIPTION Skai HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skai-live.siliconweb.com/media/cambria4/index.m3u8:Skai HD -2-
-#DESCRIPTION Skai HD -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.233%3a8000/play/a007:Star HD
-#DESCRIPTION Star HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s117:Star -2-
-#DESCRIPTION Star -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star -3- (deels Geoblocking)
-#DESCRIPTION Star -3- (deels Geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.174%3a8003/play/s118:Skat
-#DESCRIPTION Skat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//til.pp.ua%3a3424/live/superblive.m3u8:Super B
-#DESCRIPTION Super B
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.fm100.gr/hls/tv100/index.m3u8:TV 100
-#DESCRIPTION TV 100
-#SERVICE 1:64:1b84:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_iwwYlcGDHMW0dZB0aUi1W:Skai
+#DESCRIPTION Skai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-mxwqBYAHldn5gSWqBLVPZ:Star
+#DESCRIPTION Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star -2- (deels Geoblocking)
+#DESCRIPTION Star -2- (deels Geoblocking)
+#SERVICE 1:64:1b4a:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/34100/playlist.m3u8:34100 TV
 #DESCRIPTION 34100 TV
@@ -165,8 +145,6 @@
 #DESCRIPTION Ionian Channel 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8:Irida TV
 #DESCRIPTION Irida TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kontralive.siliconweb.com/live/kontratv/playlist.m3u8:Kontra Channel
-#DESCRIPTION Kontra Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/playlist.m3u8:KPHTH TV
 #DESCRIPTION KPHTH TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/chunklist_.m3u8:Kriti TV
@@ -255,5 +233,5 @@
 #DESCRIPTION Xplore TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5db313b643fd8.streamlock.net%3a1935/ZerounoTV/ZerounoTV/playlist.m3u8:Zerouno TV
 #DESCRIPTION Zerouno TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8:Zougla TV
 #DESCRIPTION Zougla TV

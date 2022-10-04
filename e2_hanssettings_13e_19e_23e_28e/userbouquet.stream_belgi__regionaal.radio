@@ -1,5 +1,5 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:4c1:0:0:0:0:0:0:0:
+#SERVICE 1:64:4c4:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
@@ -191,6 +191,8 @@
 #DESCRIPTION Radio Accent (Gent en Wetteren)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.streemlion.com%3a2555/stream:Radio Albatros (Asse - België)
 #DESCRIPTION Radio Albatros (Asse - België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast2.wirelessbelgie.be%3a8310/;stream.mp3:Radio Alma (Brussel)
+#DESCRIPTION Radio Alma (Brussel)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamserv3.digipal.nl%3a8006/;stream.mp3:Radio Amigo's
 #DESCRIPTION Radio Amigo's
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.59.195.28%3a8198/stream:Radio Apollo (Wiekevorst/Heist op den Berg)
@@ -215,6 +217,8 @@
 #DESCRIPTION Radio Bocholt
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream03.level27.be/;stream.mp3:Radio BOO (Bilzen)
 #DESCRIPTION Radio BOO (Bilzen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.radiostudio.be/brooikens:Radio Brooikens (Antwerpen) tijdelijke zender 12-19 sep 2022
+#DESCRIPTION Radio Brooikens (Antwerpen) tijdelijke zender 12-19 sep 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiohuis.com/RBO:Radio Brugs Ommeland 
 #DESCRIPTION Radio Brugs Ommeland 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8530:Radio Centraal (Antwerpen)
@@ -493,6 +497,8 @@
 #DESCRIPTION VLAR! = Vlaamse Ardennen 1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.waregem1.be/waregem1.mp3:Waregem1 (Waregem en Deerlijk, BE)
 #DESCRIPTION Waregem1 (Waregem en Deerlijk, BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.wearevarious.com/live.mp3:WAV - We Are Various (Antwerpen)
+#DESCRIPTION WAV - We Are Various (Antwerpen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.viastreaming.net%3a8505/:WebRadio Atlantis (Mol, Zandvliet, Oostende en Kortrijk- BE)
 #DESCRIPTION WebRadio Atlantis (Mol, Zandvliet, Oostende en Kortrijk- BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hazel.torontocast.com%3a2310/;:Webradio Aan Zee (Bredene)
@@ -521,8 +527,8 @@
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:4c2:0:0:0:0:0:0:0:
-#DESCRIPTION ++Wallonië++
+#SERVICE 1:64:4c5:0:0:0:0:0:0:0:
+#DESCRIPTION ++Brussel en Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//arlradio.ice.infomaniak.ch/poste01.mp3:ARL Radio (Arlon)
@@ -545,6 +551,8 @@
 #DESCRIPTION Emotion (Brussel - BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.equinoxenamur.be%3a8000/Equinoxe.mp3:Equinoxe (Namen)
 #DESCRIPTION Equinoxe (Namen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80.82.229.202%3a8000/euradio.mp3:Euradio (Brussel)
+#DESCRIPTION Euradio (Brussel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.fr-eghezee.be%3a8054/FE:Fréquence Egheze 1049 (Eghezée)
 #DESCRIPTION Fréquence Egheze 1049 (Eghezée)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//liveflashfm.ice.infomaniak.ch/liveflashfm-128.mp3:Génération Radio (Cul des Sarts, Couvin)
@@ -597,8 +605,10 @@
 #DESCRIPTION Radio Bonheur (BE Wallonië)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.radiocampus.be%3a8000/stream.mp3:Radio Campus Bruxelles
 #DESCRIPTION Radio Campus Bruxelles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/contactfr:Radio Contact (Bruxelles)
-#DESCRIPTION Radio Contact (Bruxelles)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.radiocampus.be%3a8000/stream.mp3:Radio Campus Bruxelles
+#DESCRIPTION Radio Campus Bruxelles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capsaohdf.ice.infomaniak.ch/capsaohdf-128.aac:Radio Capsao (Brussel)
+#DESCRIPTION Radio Capsao (Brussel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//wma02.fluidstream.net%3a8130/;stream.nsv:Radio Hitalia (Luik)
 #DESCRIPTION Radio Hitalia (Luik)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiohorizon2.ice.infomaniak.ch/radiohorizon93fm128.mp3:Radio Horizon Belgique

@@ -1,5 +1,5 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:1cdd:0:0:0:0:0:0:0:
+#SERVICE 1:64:1cab:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders++
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
@@ -41,7 +41,7 @@
 #DESCRIPTION FunX Utrecht
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
 #DESCRIPTION Spreekbuis Radio
-#SERVICE 1:64:1cde:0:0:0:0:0:0:0:
+#SERVICE 1:64:1cac:0:0:0:0:0:0:0:
 #DESCRIPTION ++(commerciële) HOOFDzenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//40rockstream.live-streams.nl/live:40ROCK Radio
 #DESCRIPTION 40ROCK Radio
@@ -327,12 +327,14 @@
 #DESCRIPTION Radio 10 - Non-Stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3:Radio 10 - Top 4000
 #DESCRIPTION Radio 10 - Top 4000
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//totaal-streaming.de/radio/8020/web:Radio121
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio121.nl/radio121.mp3 :Radio121
 #DESCRIPTION Radio121
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21283.live.streamtheworld.com/RADIO509AAC.aac:Radio 509 (voor blinden/slechtzienden) aac
 #DESCRIPTION Radio 509 (voor blinden/slechtzienden) aac
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20133.live.streamtheworld.com%3a80/RADIO509_SC:Radio 509 (voor blinden/slechtzienden)
 #DESCRIPTION Radio 509 (voor blinden/slechtzienden)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/4/;:Radio 972
+#DESCRIPTION Radio 972
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiocontinu.nl/radio-continu:Radio Continu
 #DESCRIPTION Radio Continu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radiocontinu.nl/radiocontinu:Radio Continu Editie 1 (Groningen, Drenthe + kop Overijssel)
@@ -385,7 +387,7 @@
 #DESCRIPTION Sky Radio - 80s Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05_SC:Sky Radio - 90s Hits
 #DESCRIPTION Sky Radio - 90s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08_SC:Sky Radio - Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22343.live.streamtheworld.com/SRGSTR08.mp3:Sky Radio - Christmas
 #DESCRIPTION Sky Radio - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3:Sky Radio - Hits
 #DESCRIPTION Sky Radio - Hits
@@ -485,7 +487,7 @@
 #DESCRIPTION Willem II Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
 #DESCRIPTION ZTACK
-#SERVICE 1:64:1cdf:0:0:0:0:0:0:0:
+#SERVICE 1:64:1cad:0:0:0:0:0:0:0:
 #DESCRIPTION ++religieus++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
 #DESCRIPTION Bright FM
@@ -519,7 +521,7 @@
 #DESCRIPTION Trans World Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
 #DESCRIPTION Urk FM Geestelijk
-#SERVICE 1:64:1ce0:0:0:0:0:0:0:0:
+#SERVICE 1:64:1cae:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
 #DESCRIPTION 18Hits (NL Nationaal)

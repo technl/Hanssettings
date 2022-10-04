@@ -1,5 +1,5 @@
 #NAME Stream Denemarken (DK)
-#SERVICE 1:64:1fd:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f8:0:0:0:0:0:0:0:
 #DESCRIPTION Publieke Omroep
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.dansk.live%3a8443/enba/enba/16:DR 1
 #DESCRIPTION DR 1
@@ -7,7 +7,7 @@
 #DESCRIPTION DR 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.dansk.live%3a8443/enba/enba/18:DR Ramasjang
 #DESCRIPTION DR Ramasjang
-#SERVICE 1:64:1fe:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f9:0:0:0:0:0:0:0:
 #DESCRIPTION Commerciële Omroepen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.dansk.live%3a8443/enba/enba/19:TV 2
 #DESCRIPTION TV 2
@@ -49,7 +49,7 @@
 #DESCRIPTION Kanal 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.dansk.live%3a8443/enba/enba/31:Canal 9
 #DESCRIPTION Canal 9
-#SERVICE 1:64:1ff:0:0:0:0:0:0:0:
+#SERVICE 1:64:1fa:0:0:0:0:0:0:0:
 #DESCRIPTION Overige zenders
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/2158211/sp/215821100/playManifest/entryId/1_24gfa7qq/format/applehttp/protocol/https/uiConfId/41529681/a.m3u8:Folketinget
 #DESCRIPTION Folketinget

@@ -1,5 +1,5 @@
 #NAME Stream Mexico (MX)
-#SERVICE 1:64:2e9:0:0:0:0:0:0:0:
+#SERVICE 1:64:2e6:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8:Azteca 1
 #DESCRIPTION Azteca 1
@@ -75,7 +75,7 @@
 #DESCRIPTION UDG TV 44 Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8:Canal 45
 #DESCRIPTION Canal 45
-#SERVICE 1:64:2ea:0:0:0:0:0:0:0:
+#SERVICE 1:64:2e7:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8:A Son de Salsa
 #DESCRIPTION A Son de Salsa
@@ -87,7 +87,11 @@
 #DESCRIPTION Anime Zone TVLA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.131.11.9%3a1080/play/a032:Canal de Las Estrellas
 #DESCRIPTION Canal de Las Estrellas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live10.cdnmedia.tv/cngmexicolive/smil%3adiputados1.smil/chunklist_b500000.m3u8:Canal del Congreso 45.3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.canaldelcongreso.gob.mx/live_sd1/smil%3acanal-sd1.smil/playlist.m3u8:Canal del Congreso 45.1
+#DESCRIPTION Canal del Congreso 45.1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.canaldelcongreso.gob.mx/live_sd2/smil%3acanal-sd2.smil/playlist.m3u8:Canal del Congreso 45.2
+#DESCRIPTION Canal del Congreso 45.2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.canaldelcongreso.gob.mx/live_hd1/smil%3acanal-hd1.smil/playlist.m3u8:Canal del Congreso 45.3
 #DESCRIPTION Canal del Congreso 45.3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4%3a7NBH6B8L/playlist.m3u8:Canal Iberoamericano
 #DESCRIPTION Canal Iberoamericano

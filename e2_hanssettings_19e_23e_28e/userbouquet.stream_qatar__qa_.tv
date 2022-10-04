@@ -1,11 +1,11 @@
 #NAME Stream Qatar (QA)
-#SERVICE 1:64:326:0:0:0:0:0:0:0:
+#SERVICE 1:64:325:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8:Qatar TV 1
 #DESCRIPTION Qatar TV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8:Qatar TV 2
 #DESCRIPTION Qatar TV 2
-#SERVICE 1:64:327:0:0:0:0:0:0:0:
+#SERVICE 1:64:326:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh1.smil/playlist.m3u8:Al Kass 1
 #DESCRIPTION Al Kass 1

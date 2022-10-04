@@ -1,5 +1,5 @@
 #NAME Stream Chili (CL)
-#SERVICE 1:64:1f7:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f0:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8:Canal 2
 #DESCRIPTION Canal 2
@@ -9,6 +9,8 @@
 #DESCRIPTION TV5 Linares
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8:Canal 9 Bio-Bio Television
 #DESCRIPTION Canal 9 Bio-Bio Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v1.tustreaming.cl%3a19360/canal11aysen/canal11aysen.m3u8:Canal 11 Aysén
+#DESCRIPTION Canal 11 Aysén
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.101.216.211%3a8000/play/ca13:Canal 13
 #DESCRIPTION Canal 13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live:T13
@@ -19,7 +21,7 @@
 #DESCRIPTION Canal 29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eae379fb77bb.streamlock.net/eduardo555/eduardo555/playlist.m3u8:Canal 33 HD
 #DESCRIPTION Canal 33 HD
-#SERVICE 1:64:1f8:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f1:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8:ADN Radio TV
 #DESCRIPTION ADN Radio TV
@@ -39,6 +41,8 @@
 #DESCRIPTION Camara de Diputados
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8:Canal Diputados
 #DESCRIPTION Canal Diputados
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v1.tustreaming.cl%3a19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8:Canal Sur Patagonia
+#DESCRIPTION Canal Sur Patagonia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8:Carolina TV
 #DESCRIPTION Carolina TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camara.grupoz.cl/camara19/live/chunklist.m3u8:CDtv
@@ -49,6 +53,8 @@
 #DESCRIPTION CHV Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediacpstreamchile.com%3a1936/clubtv/clubtv/playlist.m3u8:Club TV Santa Juana
 #DESCRIPTION Club TV Santa Juana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tls-cl.cdnz.cl/onradio-5/live/playlist.m3u8:Control.VG
+#DESCRIPTION Control.VG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//github.com/MachineSystems/archived_m3u8/raw/main/elpinguino_cl.m3u8:El Pinguino TV
 #DESCRIPTION El Pinguino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wifispeed.trapemn.tv%3a1936/infantil/energeek-1/playlist.m3u8:EnerGeek
@@ -81,14 +87,22 @@
 #DESCRIPTION Maxima
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tvcontrolcp.com%3a1936/guzman/guzman/playlist.m3u8:Ñuble RTV (Chillán)
 #DESCRIPTION Ñuble RTV (Chillán)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.streaming-chile.com%3a19360/ondaradio/ondaradio.m3u8:Onda Radio
+#DESCRIPTION Onda Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediacpstreamchile.com%3a1936/opinionsur/opinionsur/playlist.m3u8:Opinionsur
+#DESCRIPTION Opinionsur
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8:Pauta
 #DESCRIPTION Pauta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.elpinguino.com%3a1935/live/pinguinotv/chunklist_.m3u8:Pingüino TV
 #DESCRIPTION Pingüino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.portalfoxmix.club%3a1935/portalfoxmix/portalfoxmix/playlist.m3u8:Portalfoxmix
 #DESCRIPTION Portalfoxmix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pnt.janusmedia.tv/hls/pnt.m3u8:Puranoticia TV
+#DESCRIPTION Puranoticia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eff35271151c.streamlock.net%3a1936/8090/8090/playlist.m3u8:Radio Popular de Coihueco
 #DESCRIPTION Radio Popular de Coihueco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8:Recuerdos Retro
+#DESCRIPTION Recuerdos Retro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/retroplustv/retroplustv/playlist.m3u8:Retro Plus HD
 #DESCRIPTION Retro Plus HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/retroplussenal2/retroplussenal2/playlist.m3u8:Retro Plus 2 HD
@@ -101,6 +115,10 @@
 #DESCRIPTION Soberanía
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8:SoloBáilalo
 #DESCRIPTION SoloBáilalo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediacpstreamchile.com%3a1936/sonoonda/sonoonda/playlist.m3u8:Sono Onda TV
+#DESCRIPTION Sono Onda TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.miplay.cl%3a8081/spectrumchannel/index.m3u8:Spectrum Channel
+#DESCRIPTION Spectrum Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stv.janus.cl/playlist/stream.m3u8:Stgo.TV
 #DESCRIPTION Stgo.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8:Teletrak
@@ -127,6 +145,8 @@
 #DESCRIPTION UMAGTV Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8:Universidad Autónoma Temuco
 #DESCRIPTION Universidad Autónoma Temuco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eaccbab48461.streamlock.net%3a1936/8112/8112/playlist.m3u8:V Classic TV
+#DESCRIPTION V Classic TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8:VC Online HD
 #DESCRIPTION VC Online HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8:VTV Aconcaga
@@ -137,5 +157,7 @@
 #DESCRIPTION VTV Vina - Valparaiso HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.elsalvadordigital.com%3a1935/wowtv/wowtv/playlist.m3u8?:Wow
 #DESCRIPTION Wow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediacpstreamchile.com%3a1936/8028/8028/playlist.m3u8:Yungay Online
+#DESCRIPTION Yungay Online
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8:Zona Play TV (ZPTV)
 #DESCRIPTION Zona Play TV (ZPTV)

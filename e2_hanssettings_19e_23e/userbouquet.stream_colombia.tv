@@ -9,6 +9,8 @@
 #DESCRIPTION Buenísima Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8:Cablenoticias Bogotà
 #DESCRIPTION Cablenoticias Bogotà
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video17.virtualtronics.com/streamer/canalcampotv.m3u8:Campo Televisión Santa Marta
+#DESCRIPTION Campo Televisión Santa Marta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8:Canal 1
 #DESCRIPTION Canal 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video13.virtualtronics.com/streamer/canal2_720/index.m3u8:Canal 2
@@ -53,6 +55,8 @@
 #DESCRIPTION Canal NorteVision (Pasto, Nariño)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//byecableiptv.com/canapycvivo/canalpyc.stream/playlist.m3u8:Canal P&C
 #DESCRIPTION Canal P&C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F0211/02267/playlist.m3u8:Canal VIP
+#DESCRIPTION Canal VIP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canalzoom.itex.com.co%3a3027/live/canalzoombr1live.m3u8:Canal Zoom
 #DESCRIPTION Canal Zoom
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videohls2.cosmovision.tv/hls/sd.m3u8:Cosmovision
@@ -69,10 +73,18 @@
 #DESCRIPTION Esports Max
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc8/cnc8/chunklist_.m3u8:Galeras TV
 #DESCRIPTION Galeras TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv.panelcast.net/halcontv/halcontv/playlist.m3u8:HRTV
+#DESCRIPTION HRTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//plataformavideo.com%3a19360/8020/8020.m3u8:Huila TV
+#DESCRIPTION Huila TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv.panelcast.net/la5ta/la5ta/playlist.m3u8:La 5ta
+#DESCRIPTION La 5ta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eff35271151c.streamlock.net%3a1936/8076/ngrp%3a8076/playlist.m3u8:La Popular TV
 #DESCRIPTION La Popular TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/mastvonline:Más TV
 #DESCRIPTION Más TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud10.vsgtech.co%3a3262/live/memoriastv2live.m3u8:Memorias TV
+#DESCRIPTION Memorias TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8010/8010/playlist.m3u8:Multicanal Televisión (Cali, Valle del Cauca)
 #DESCRIPTION Multicanal Televisión (Cali, Valle del Cauca)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/mundomas/mundomas/playlist.m3u8:Mundo Mas
@@ -111,3 +123,5 @@
 #DESCRIPTION VAM Vid's & More
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/veotv.m3u8:Veo Television
 #DESCRIPTION Veo Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.ejeserver.com/live/zuldemayda.m3u8:Zuldemayda Comunicaciones
+#DESCRIPTION Zuldemayda Comunicaciones

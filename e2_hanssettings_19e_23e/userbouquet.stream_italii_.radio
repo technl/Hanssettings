@@ -1,37 +1,43 @@
-#NAME Stream Italiië (IT)
-#SERVICE 1:64:4c8:0:0:0:0:0:0:0:
-#DESCRIPTION ++RAI++
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:RAI Radio 1
-#DESCRIPTION RAI Radio 1
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/2.mp3:RAI Radio 2
-#DESCRIPTION RAI Radio 2
-#SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//icestreaming.rai.it/3.mp3:RAI Radio 3
-#DESCRIPTION RAI Radio 3
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/8.mp3:RAI Radio 1 Estero
-#DESCRIPTION RAI Radio 1 Estero
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/13.mp3:RAI Radio 1 Sport
-#DESCRIPTION RAI Radio 1 Sport
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/14.mp3:RAI Radio 1 Sport Estero
-#DESCRIPTION RAI Radio 1 Sport Estero
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/15.mp3:RAI Radio 2 Indie
-#DESCRIPTION RAI Radio 2 Indie
-#SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//icestreaming.rai.it/5.mp3:RAI Radio 3 Classica
-#DESCRIPTION RAI Radio 3 Classica
-#SERVICE 4097:0:2:21:0:0:0:0:0:0:http%3a//icestreaming.rai.it/7.mp3:RAI GR Parlamento
-#DESCRIPTION RAI GR Parlamento
-#SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//icestreaming.rai.it/6.mp3:RAI IsoRadio
-#DESCRIPTION RAI IsoRadio
-#SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//icestreaming.rai.it/12.mp3:RAI IsoRadio Estero
-#DESCRIPTION RAI IsoRadio Estero
+#NAME Stream Italië (IT)
+#SERVICE 1:64:4ce:0:0:0:0:0:0:0:
+#DESCRIPTION ++Rai++
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:Rai Radio 1
+#DESCRIPTION Rai Radio 1
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/2.mp3:Rai Radio 2
+#DESCRIPTION Rai Radio 2
+#SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//icestreaming.rai.it/3.mp3:Rai Radio 3
+#DESCRIPTION Rai Radio 3
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//radiobzlive.rai.it/RAI_AltoAdige:Rai Radio 1 Alto Adige
+#DESCRIPTION Rai Radio 1 Alto Adige
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/8.mp3:Rai Radio 1 Estero
+#DESCRIPTION Rai Radio 1 Estero
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/13.mp3:Rai Radio 1 Sport
+#DESCRIPTION Rai Radio 1 Sport
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/14.mp3:Rai Radio 1 Sport Estero
+#DESCRIPTION Rai Radio 1 Sport Estero
+#SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//icestreaming.rai.it/5.mp3:Rai Radio 3 Classica
+#DESCRIPTION Rai Radio 3 Classica
+#SERVICE 4097:0:2:21:0:0:0:0:0:0:http%3a//icestreaming.rai.it/7.mp3:Rai GR Parlamento
+#DESCRIPTION Rai GR Parlamento
+#SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//icestreaming.rai.it/6.mp3:Rai IsoRadio
+#DESCRIPTION Rai IsoRadio
+#SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//icestreaming.rai.it/12.mp3:Rai IsoRadio Estero
+#DESCRIPTION Rai IsoRadio Estero
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/15.mp3:Rai Radio Indie
+#DESCRIPTION Rai Radio Indie
 #SERVICE 4097:0:2:13:0:0:0:0:0:0:http%3a//icestreaming.rai.it/11.mp3:Rai Radio Kids
 #DESCRIPTION Rai Radio Kids
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it%3a80/10.mp3:Rai Radio Live
 #DESCRIPTION Rai Radio Live
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it/9.mp3:Rai Radio Techetè
 #DESCRIPTION Rai Radio Techetè
+#SERVICE 4097:0:2:15:0:0:0:0:0:0:https%3a//raievent9-live.akamaized.net/hls/live/619188/raievent9/raievent9/playlist.m3u8:Rai Radio TRST A 
+#DESCRIPTION Rai Radio TRST A 
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it/4.mp3:Rai Radio Tutta Italiana
 #DESCRIPTION Rai Radio Tutta Italiana
-#SERVICE 1:64:4c9:0:0:0:0:0:0:0:
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiobzlive.rai.it/RAIBZ_Livestream:Rai Südtirol
+#DESCRIPTION Rai Südtirol
+#SERVICE 1:64:4cf:0:0:0:0:0:0:0:
 #DESCRIPTION ++festival San Remo, themazenders++
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um049.mp3:Music Radio Festival Le Canzoni Vincitrici
 #DESCRIPTION Music Radio Festival Le Canzoni Vincitrici
@@ -41,7 +47,7 @@
 #DESCRIPTION United Music Radio Festival 1951-1999
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um112.mp3:United Music Radio Festival 2000-2021
 #DESCRIPTION United Music Radio Festival 2000-2021
-#SERVICE 1:64:4ca:0:0:0:0:0:0:0:
+#SERVICE 1:64:4d0:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
 #DESCRIPTION 105 Indie
@@ -81,10 +87,6 @@
 #DESCRIPTION Giornale Radio All News
 #SERVICE 4097:0:2:285:0:0:0:0:0:0:https%3a//gr.fluidstream.eu/gr7.mp3:Giornale Radio Dolce la Vita
 #DESCRIPTION Giornale Radio Dolce la Vita
-#SERVICE 4097:0:2:285:0:0:0:0:0:0:https%3a//gr.fluidstream.eu/gr6.mp3:Giornale Radio Green Tech & Economy
-#DESCRIPTION Giornale Radio Green Tech & Economy
-#SERVICE 4097:0:2:285:0:0:0:0:0:0:https%3a//gr.fluidstream.eu/gr4.mp3:Giornale Radio Radio Edicola 24
-#DESCRIPTION Giornale Radio Radio Edicola 24
 #SERVICE 4097:0:2:285:0:0:0:0:0:0:https%3a//gr.fluidstream.eu/gr2.mp3:Giornale Radio Ultimo Ora
 #DESCRIPTION Giornale Radio Ultimo Ora
 #SERVICE 4097:0:2:373:0:0:0:0:0:0:http%3a//kos.broadstreamer.com%3a8500:ITALIAN GRAFFIATI

@@ -1,5 +1,5 @@
 #NAME Stream Duitsland (DE)
-#SERVICE 1:64:1a3e:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a02:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders-publieke omroepen++
 #SERVICE 4097:0:1:6dca:44d:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.19.1%3a1234:ARD
 #DESCRIPTION ARD
@@ -85,7 +85,7 @@
 #DESCRIPTION 3sat
 #SERVICE 4097:0:1:6d68:437:1:c00000:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.110.16.1%3a1234:KiKA
 #DESCRIPTION KiKA
-#SERVICE 1:64:1a3f:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a03:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders commerciële omroepen++
 #SERVICE 4097:0:1:ef76:3f9:1:c00000:0:0:0:http%3a//212.18.115.194%3a3549/play/a00j:Kabel 1
 #DESCRIPTION Kabel 1
@@ -141,7 +141,7 @@
 #DESCRIPTION Welt
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a049:Welt Der Wunder
 #DESCRIPTION Welt Der Wunder
-#SERVICE 1:64:1a40:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a04:0:0:0:0:0:0:0:
 #DESCRIPTION ++lokale zenders++
 #SERVICE 4097:0:1:16a8:3ff:1:c00000:0:0:0:http%3a//178.248.241.103/iptv/atv.ts:a.tv HD
 #DESCRIPTION a.tv HD
@@ -345,7 +345,7 @@
 #DESCRIPTION Weser TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250%3a1935/medienasa-live/ok-wettin_high/playlist.m3u8?fluxustv.m3u8:WTV Wettin
 #DESCRIPTION WTV Wettin
-#SERVICE 1:64:1a41:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a05:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3 TV 
 #DESCRIPTION 1-2-3 TV 
