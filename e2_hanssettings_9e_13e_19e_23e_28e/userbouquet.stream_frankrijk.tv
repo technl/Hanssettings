@@ -1,5 +1,5 @@
 #NAME Stream Frankrijk (FR)
-#SERVICE 1:64:36b:0:0:0:0:0:0:0:
+#SERVICE 1:64:369:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:2460:440:1:c00000:0:0:0:http%3a//62.2.85.68%3a39981/play/a02a:TF1
 #DESCRIPTION TF1
@@ -55,32 +55,14 @@
 #DESCRIPTION W9 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.65.113.245%3a9981/stream/channelid/852323874?profile=pass:W9 -3-
 #DESCRIPTION W9 -3-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END:BFM Alpes du Sud
-#DESCRIPTION BFM Alpes du Sud
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END:BFM Business
-#DESCRIPTION BFM Business
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s13.tntendirect.com/bmftv/live/playlist.m3u8:BFM TV
+#DESCRIPTION BFM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.233.110.21%3a9981/stream/channelid/565567333?profile=pass:BFM TV -2-
+#DESCRIPTION BFM TV -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.65.113.245%3a9981/stream/channelid/524807234?profile=pass:BFM TV -3-
+#DESCRIPTION BFM TV -3-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/1919:BFM Business
 #DESCRIPTION BFM Business
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END:BFM Côte d'Azure
-#DESCRIPTION BFM Côte d'Azure
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlilletv/smil%3agrandlilletv.smil/playlist.m3u8:BFM Lille 
-#DESCRIPTION BFM Lille 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlittoral/smil%3agrandlittoral.smil/playlist.m3u8:BFM Littoral
-#DESCRIPTION BFM Littoral
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/286500:BFM Lyon
-#DESCRIPTION BFM Lyon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END:BFM Marseille
-#DESCRIPTION BFM Marseille
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END:BFM Normandie
-#DESCRIPTION BFM Normandie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END:BFM Paris
-#DESCRIPTION BFM Paris
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/167:BFM Paris
-#DESCRIPTION BFM Paris
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END:BFM Provence
-#DESCRIPTION BFM Provence
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END:BFM Var
-#DESCRIPTION BFM Var
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s13.tntendirect.com/cherie25/live/playlist.m3u8:Cherie 25
 #DESCRIPTION Cherie 25
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.233.110.21%3a9981/stream/channelid/815625313?profile=pass:Chérie 25 -2-
@@ -163,7 +145,7 @@
 #DESCRIPTION TMC -4-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/dr9445/s/s24/index.m3u8:TV5 Monde Asie
 #DESCRIPTION TV5 Monde Asie
-#SERVICE 1:64:36c:0:0:0:0:0:0:0:
+#SERVICE 1:64:36a:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//3abn-live.akamaized.net/hls/live/2010546-b/French/master.m3u8:3ABN French
 #DESCRIPTION 3ABN French
@@ -181,6 +163,14 @@
 #DESCRIPTION ARTE Francais -3-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.235.38.139%3a4000/play/a03o:BET
 #DESCRIPTION BET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlilletv/smil%3agrandlilletv.smil/playlist.m3u8:BFM Lille 
+#DESCRIPTION BFM Lille 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlittoral/smil%3agrandlittoral.smil/playlist.m3u8:BFM Littoral
+#DESCRIPTION BFM Littoral
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/286500:BFM Lyon
+#DESCRIPTION BFM Lyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/167:BFM Paris
+#DESCRIPTION BFM Paris
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//biptv.tv/live/biptvstream_orig/index.m3u8:BIP TV 
 #DESCRIPTION BIP TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCHKib3PFscrSEFOINC2ZJCQ/live:BSmart TV

@@ -27,6 +27,8 @@
 #DESCRIPTION TRT Haber
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtkurdi.medya.trt.com.tr/master.m3u8:TRT Kurdî
 #DESCRIPTION TRT Kurdî
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtmuzik.medya.trt.com.tr/master.m3u8:TRT Müzik
+#DESCRIPTION TRT Müzik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtturk.medya.trt.com.tr/master.m3u8:TRT Türk
 #DESCRIPTION TRT Türk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtworld.live.trt.com.tr/master.m3u8:TRT World HD
@@ -47,22 +49,24 @@
 #DESCRIPTION A Spor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a03g:Beyaz TV
 #DESCRIPTION Beyaz TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a00i:CNN Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8:CNN Türk HD
 #DESCRIPTION CNN Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//foxtv.blutv.com/blutv_foxtv_live/live.m3u8:Fox Türkiye
+#DESCRIPTION Fox Türkiye
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8:Haber Global
 #DESCRIPTION Haber Global
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ensonhaber.com/tv/tr/haberturk/index.m3u8:Haber Türk
 #DESCRIPTION Haber Türk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a01v:Kanal 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kanal7.com/live/kanal7LiveDesktop/index.m3u8:Kanal 7
 #DESCRIPTION Kanal 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kanal7.com/live/kanal7LiveDesktop/index.m3u8:Kanal 7 -2-
-#DESCRIPTION Kanal 7 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kanal7.com/live/kanal7AvrupaLive/index.m3u8:Kanal 7 Avrupa HD
 #DESCRIPTION Kanal 7 Avrupa HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a00h:Kanal D
 #DESCRIPTION Kanal D
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a00b:NTV HD
 #DESCRIPTION NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8:Olay Türk TV
+#DESCRIPTION Olay Türk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a005:Show Max HD
 #DESCRIPTION Show Max HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.29.169.27%3a8000/play/a002:Show TV
@@ -81,7 +85,7 @@
 #DESCRIPTION TV Em
 #SERVICE 1:64:3b5:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.brtk.net%3a1935/live/BRTHD/playlist.m3u8:BRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuzeykibris.tv/m3u8/tv_brt1.m3u8:BRT 1 HD
 #DESCRIPTION BRT 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.brtk.net%3a1935/live/brt1/playlist.m3u8:BRT 2 HD
 #DESCRIPTION BRT 2 HD
@@ -209,6 +213,8 @@
 #DESCRIPTION Fenerbahçe TV (FBTV)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//waw2.artiyerelmedya.net/olaytv/bant1/playlist.m3u8:Gaziantep Olay TV
 #DESCRIPTION Gaziantep Olay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//waw1.artiyerelmedya.net/guneytv/bant1/playlist.m3u8:Guney TV Tarsus
+#DESCRIPTION Guney TV Tarsus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8:Hunat TV
 #DESCRIPTION Hunat TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8:IBB TV

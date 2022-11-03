@@ -1,27 +1,45 @@
 #NAME Stream Finland (FI)
-#SERVICE 1:64:201:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f8:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/a00k/index.m3u8:YLE TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//superiptv1.com%3a2082/mahmoud-turk-iptv2021/Redmonkeytv.om/41750:YLE TV 1
 #DESCRIPTION YLE TV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8:YLE TV 1 (deels Geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622540/yletv1w/yletv_video1080p50.m3u8:YLE TV 1 (deels Geoblocking)
 #DESCRIPTION YLE TV 1 (deels Geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/a00o/index.m3u8:YLE TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//superiptv1.com%3a2082/mahmoud-turk-iptv2021/Redmonkeytv.om/41752:YLE TV 2
 #DESCRIPTION YLE TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8:YLE TV 2 (deels Geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622541/yletv2w/yletv_video1080p50.m3u8:YLE TV 2 (deels Geoblocking)
 #DESCRIPTION YLE TV 2 (deels Geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8:YLE Teema & Fem (deeks Geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//superiptv1.com%3a2082/mahmoud-turk-iptv2021/Redmonkeytv.om/41757:YLE Teema & Fem
+#DESCRIPTION YLE Teema & Fem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/yletv_video1080p50.m3u8:YLE Teema & Fem (deeks Geoblocking)
 #DESCRIPTION YLE Teema & Fem (deeks Geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//superiptv1.com%3a2082/mahmoud-turk-iptv2021/Redmonkeytv.om/41754:MTV 3
+#DESCRIPTION MTV 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-fi/_definst_/smil%3atv7-fi.smil/playlist.m3u8:TV 7 Taivas
 #DESCRIPTION TV 7 Taivas
-#SERVICE 1:64:202:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f9:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alfatv.digitacdn.net/live/_definst_/alfatv/amlst%3aalfatv.amlst/chunklist_b1128000.m3u8:Alfa TV
 #DESCRIPTION Alfa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8:FilmRise Sci-Fi Finland
+#DESCRIPTION FilmRise Sci-Fi Finland
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-se/_definst_/smil%3atv7-se.smil/playlist.m3u8:Himlen TV7
 #DESCRIPTION Himlen TV7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kotitv.digitacdn.net/amlst%3akotitv.amlst/playlist.m3u8:Koti TV
+#DESCRIPTION Koti TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/54205:Liv
 #DESCRIPTION Liv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mtvdashliveusp2-a.akamaized.net/live/E39USP/E39USP.isml/E39USP.m3u8:MTV Uutiset
+#DESCRIPTION MTV Uutiset
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.nartv.fi/live/ngrp%3aNAR_TV.stream_all/playlist.m3u8:När TV
+#DESCRIPTION När TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.tv7.fi/tv7-ru/_definst_/smil%3atv7-ru.smil/chunklist.m3u8:Nebesa TV7
 #DESCRIPTION Nebesa TV7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//virta2.nopolanews.fi%3a8443/live/smil%3aStream1.smil/playlist.m3u8:Nopola News
+#DESCRIPTION Nopola News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/24234:Sub
 #DESCRIPTION Sub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCyDiTtktwmrc20Bvs_G4pow/live:Sundom TV
+#DESCRIPTION Sundom TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCQ36NJ8-XNhBDvSSsh8gS2Q/live:Wör TV
+#DESCRIPTION Wör TV

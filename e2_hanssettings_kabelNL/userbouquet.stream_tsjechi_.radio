@@ -285,6 +285,8 @@
 #DESCRIPTION Route 66
 #SERVICE 4097:0:2:254:0:0:0:0:0:0:http%3a//icecast8.play.cz/radiorubi128.mp3:Rubi
 #DESCRIPTION Rubi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast8.play.cz/sazava128.mp3:Rádio Sázava
+#DESCRIPTION Rádio Sázava
 #SERVICE 4097:0:2:208:0:0:0:0:0:0:http%3a//icecast8.play.cz/samsonfm128.mp3:Samson
 #DESCRIPTION Samson
 #SERVICE 4097:0:2:372:0:0:0:0:0:0:http%3a//live.seejay.cz/seejay128.mp3:Seejay

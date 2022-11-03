@@ -1,94 +1,126 @@
 #NAME Stream Japan (JP)
-#SERVICE 1:64:21a:0:0:0:0:0:0:0:
+#SERVICE 1:64:211:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_abc_asahi_540/playlist.m3u8:ABC Asahi Japan
 #DESCRIPTION ABC Asahi Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/bsfuji_720/playlist.m3u8:BS Fuji TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8:BS 12
+#DESCRIPTION BS 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8:BS Asahi
+#DESCRIPTION BS Asahi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8:BS Fuji TV
 #DESCRIPTION BS Fuji TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/bsnihontv_720/playlist.m3u8:BS Nippon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8:BS Nippon TV
 #DESCRIPTION BS Nippon TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/bsasahi_720/playlist.m3u8:BS TV Asahi
-#DESCRIPTION BS TV Asahi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/bsjapan_720/playlist.m3u8:BS TV Tokyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv148.cloudrsst.com%3a1935/jptv/bstbs_720/playlist.m3u8:BS TBS
+#DESCRIPTION BS TBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8:BS TV Tokyo
 #DESCRIPTION BS TV Tokyo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/bstbs_720/playlist.m3u8:BS-TBS
-#DESCRIPTION BS-TBS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fujitv2.mov3.co/hls/fujitv.m3u8:Fuji Television Network
-#DESCRIPTION Fuji Television Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fujitv2.mov3.co/hls/fujitv.m3u8:Fuji TV
+#DESCRIPTION Fuji TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8:Fuji TV -2-
+#DESCRIPTION Fuji TV -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/uq2663/h/h19/index.m3u8:GEM
 #DESCRIPTION GEM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A/live:HTB News 24
 #DESCRIPTION HTB News 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_mbs_720/playlist.m3u8:MBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnv148.cloudrsst.com/jptv/kansi_mbs_540/playlist.m3u8:MBS
 #DESCRIPTION MBS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UClErHbdZKUnD1NyIUeQWvuQ/live:MTN
 #DESCRIPTION MTN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/nhkbs1_720/playlist.m3u8:NHK BS1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8:NHK BS1
 #DESCRIPTION NHK BS1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/bspremium_720/playlist.m3u8:NHK BSP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8:NHK BSP
 #DESCRIPTION NHK BSP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8:NHK Chinese Vision
 #DESCRIPTION NHK Chinese Vision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8:NHK E
 #DESCRIPTION NHK E
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhk2.mov3.co/hls/nhk.m3u8:NHK General TV
-#DESCRIPTION NHK General TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_nhk_g_720/playlist.m3u8:NHK General Kansai
-#DESCRIPTION NHK General Kansai
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kanto_nhk_g_720/playlist.m3u8:NHK General Kanto
-#DESCRIPTION NHK General Kanto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_nhk_g_540/playlist.m3u8:NHK General Osaka
-#DESCRIPTION NHK General Osaka
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00033/index.m3u8?type=jp:NHK General Tokyo
-#DESCRIPTION NHK General Tokyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8:NHK E -2-
+#DESCRIPTION NHK E -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnv148.cloudrsst.com/jptv/kanto_nhk_edu_540/playlist.m3u8:NHK E -3-
+#DESCRIPTION NHK E -3-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhk2.mov3.co/hls/nhk.m3u8:NHK G
+#DESCRIPTION NHK G
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.us195.jpnettv.live/jptv/kanto_nhk_g_720/playlist.m3u8:NHK G -2-
+#DESCRIPTION NHK G -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_nhk_g_720/playlist.m3u8:NHK G Kansai
+#DESCRIPTION NHK G Kansai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kanto_nhk_g_720/playlist.m3u8:NHK G Kanto
+#DESCRIPTION NHK G Kanto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_nhk_g_540/playlist.m3u8:NHK G Osaka
+#DESCRIPTION NHK G Osaka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00033/index.m3u8?type=jp:NHK G Tokyo
+#DESCRIPTION NHK G Tokyo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8:NHK World Japan
 #DESCRIPTION NHK World Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ntv2.mov3.co/hls/ntv.m3u8:Nippon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ntv3.mov3.co/hls/ntv.m3u8:Nippon TV
 #DESCRIPTION Nippon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.us195.jpnettv.live/jptv/kanto_nippon_720/playlist.m3u8:Nippon TV -2-
+#DESCRIPTION Nippon TV -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n24-cdn-live.ntv.co.jp/ch01/index.m3u8:NTV News 24
 #DESCRIPTION NTV News 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tbs1.mov3.co/hls/tbs.m3u8:TBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tbs2.mov3.co/hls/tbs.m3u8:TBS
 #DESCRIPTION TBS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/watch?v=H3D90-436C4:TBS News
 #DESCRIPTION TBS News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00014/index.m3u8?type=jp:TV Asahi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8:TV Asahi
 #DESCRIPTION TV Asahi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_tv_osaka_540/playlist.m3u8:TV Osaka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnv148.cloudrsst.com/jptv/kansi_tv_osaka_540/playlist.m3u8:TV Osaka
 #DESCRIPTION TV Osaka
-#SERVICE 1:64:21b:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8:TV Tokyo
+#DESCRIPTION TV Tokyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/smil%3awn1.smil/master.m3u8:Weather News
+#DESCRIPTION Weather News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8:YTV Yomiuri TV
+#DESCRIPTION YTV Yomiuri TV
+#SERVICE 1:64:212:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live:All Nippon News Network
 #DESCRIPTION All Nippon News Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/janimax_720/playlist.m3u8:Animax Japan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8:Animax Japan
 #DESCRIPTION Animax Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sub2.neetball.net/live/neet.m3u8:AT-X
-#DESCRIPTION AT-X
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=426:Anione (1080p)
+#DESCRIPTION Anione (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCPglj7zGwmOlH8_31Tpgh8Q/live:Arte TV
+#DESCRIPTION Arte TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCu6mog947IWOXL23AzKlImw/live:Bravo Kids
+#DESCRIPTION Bravo Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/disney_channel/playlist.m3u8:Disney Channel Japan
 #DESCRIPTION Disney Channel Japan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/disney_junior/playlist.m3u8:Disney Junior Japan
 #DESCRIPTION Disney Junior Japan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/gekijjyou/playlist.m3u8:Family Gekijo
 #DESCRIPTION Family Gekijo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/Fishing_broadcasting/playlist.m3u8:Fishing Channel
-#DESCRIPTION Fishing Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/jfox/playlist.m3u8:FOX Japan
 #DESCRIPTION FOX Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hamada.gaki-no-tsukai.eu%3a2087/hls/test.m3u8:GTN Typhome
-#DESCRIPTION GTN Typhome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8:Eisei Gekijo
+#DESCRIPTION Eisei Gekijo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8:Fashion TV Tokyo
+#DESCRIPTION Fashion TV Tokyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etv.publichs.com/live5.stream/playlist.m3u8:Gongyoung Shopping
+#DESCRIPTION Gongyoung Shopping
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/switcher/smil%3amcas8.smil/master.m3u8:Gunma TV
 #DESCRIPTION Gunma TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00042/index.m3u8?type=jp:Japan Sports 1
-#DESCRIPTION Japan Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00041/index.m3u8?type=jp:Japan Sports 2
-#DESCRIPTION Japan Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00040/index.m3u8?type=jp:Japan Sports 3
-#DESCRIPTION Japan Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hls/j00039/index.m3u8?type=jp:Japan Sports 4
-#DESCRIPTION Japan Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_tv_720/playlist.m3u8:Kansai TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8:Home & Shopping (720p)
+#DESCRIPTION Home & Shopping (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8:J Sports 1
+#DESCRIPTION J Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8:J Sports 2
+#DESCRIPTION J Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8:J Sports 3
+#DESCRIPTION J Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv148.cloudrsst.com%3a1935/jptv/jsports1_720/playlist.m3u8:J Sports 4
+#DESCRIPTION J Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8:Jidaigeki Senmon Channel
+#DESCRIPTION Jidaigeki Senmon Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnv148.cloudrsst.com/jptv/kansi_tv_720/playlist.m3u8:Kansai TV
 #DESCRIPTION Kansai TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/jkids_540/playlist.m3u8:Kids Station
 #DESCRIPTION Kids Station
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8:Lotte Home Shopping
+#DESCRIPTION Lotte Home Shopping
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCnfwIKyFYRuqZzzKBDt6JOA/live:Maeil Business Newspaper TV
+#DESCRIPTION Maeil Business Newspaper TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/movieplus_540/playlist.m3u8:Movie +
 #DESCRIPTION Movie +
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/mtv/playlist.m3u8:MTV Japan
@@ -97,28 +129,32 @@
 #DESCRIPTION MX Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/National_geographic/playlist.m3u8:National Geographic Japan
 #DESCRIPTION National Geographic Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/Neco/playlist.m3u8:NECO
-#DESCRIPTION NECO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.us195.jpnettv.live/jptv/Neco/playlist.m3u8:Neco
+#DESCRIPTION Neco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.us195.jpnettv.live/jptv/igasennmonn_720/playlist.m3u8:Nihon Eiga Senmon
+#DESCRIPTION Nihon Eiga Senmon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.us195.jpnettv.live/jptv/japan_tv_G_540/playlist.m3u8:Nittele G+ Sports & News
+#DESCRIPTION Nittele G+ Sports & News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8:NJPW World
 #DESCRIPTION NJPW World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live1.qvc.jp/iPhone/1501/1501.m3u8:QVC Japan
 #DESCRIPTION QVC Japan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream3.shopch.jp/HLS/master.m3u8:Shop Channel
 #DESCRIPTION Shop Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/starch1_720/playlist.m3u8:Star Channel 1
-#DESCRIPTION Star Channel 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/starch2_720/playlist.m3u8:Star Channel 2
-#DESCRIPTION Star Channel 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/starch3_720/playlist.m3u8:Star Channel 3
-#DESCRIPTION Star Channel 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8:Star 1
+#DESCRIPTION Star 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8:Star 2
+#DESCRIPTION Star 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnv148.cloudrsst.com/jptv/starch3_720/playlist.m3u8:Star 3
+#DESCRIPTION Star 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_sun_tv_540/playlist.m3u8:Sun TV
 #DESCRIPTION Sun TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.79.193.108%3a8080/hlsok/j00030/index.m3u8?type=jp:Tokyo MX1
-#DESCRIPTION Tokyo MX1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/mcas/smil%3amx2_prod.smil/master.m3u8:Tokyo MX2
-#DESCRIPTION Tokyo MX2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/smil%3awn1.smil/master.m3u8:Weather News
-#DESCRIPTION Weather News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8:Toei Channel
+#DESCRIPTION Toei Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8:Tokyo MX 1
+#DESCRIPTION Tokyo MX 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/mcas/smil%3amx2_prod.smil/master.m3u8:Tokyo MX 2
+#DESCRIPTION Tokyo MX 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/wowcinema_720/playlist.m3u8:Wowow Cinema
 #DESCRIPTION Wowow Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/wowprime_720/playlist.m3u8:Wowow Prime

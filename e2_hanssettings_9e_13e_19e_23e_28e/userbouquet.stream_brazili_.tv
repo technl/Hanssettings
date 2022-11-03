@@ -1,7 +1,7 @@
 #NAME Stream Brazilië (BR)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8155/ngrp%3aLVW8155_41E1ciuCvO_all/chunklist.m3u8:1001 Noites
 #DESCRIPTION 1001 Noites
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.162.230.234%3a1935/agrobrasiltv/agrobrasiltv/playlist.m3u8:Agro Brasil TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8:Agro Brasil TV
 #DESCRIPTION Agro Brasil TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8:All Sports
 #DESCRIPTION All Sports
@@ -9,6 +9,10 @@
 #DESCRIPTION Animestation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvantares/liveantarestv/playlist.m3u8:Antares Televisión
 #DESCRIPTION Antares Televisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.al.mt.gov.br/test/index.m3u8:Assembleia Legislativa do Estado de Mato Grosso
+#DESCRIPTION Assembleia Legislativa do Estado de Mato Grosso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8:Boas Novas
+#DESCRIPTION Boas Novas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8:C-Ghost
 #DESCRIPTION C-Ghost
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b33b873179a2.streamlock.net%3a1443/mastertv/livestream/playlist.m3u8:Catve Master TV
@@ -19,8 +23,14 @@
 #DESCRIPTION Canal 25 Jundiaí
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.novotempo.com/tv/smil%3aexecutivo.smil/chunklist_w1786386513_b628000_slpor.m3u8:Canal Executivo
 #DESCRIPTION Canal Executivo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8:Canal Metropolitano de Noticia
+#DESCRIPTION Canal Metropolitano de Noticia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8:Canal Saúde
 #DESCRIPTION Canal Saúde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8:Canal TV Rio
+#DESCRIPTION Canal TV Rio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw/live:Canção Nova TV
+#DESCRIPTION Canção Nova TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza4.catve.com.br%3a1935/live/livestream/playlist.m3u8:Castve HD
 #DESCRIPTION Castve HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn039.fractalmedia.es/hls/caz_pt_high.m3u8:Ca�avision
@@ -29,7 +39,7 @@
 #DESCRIPTION CBN Rio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8:CBN São Paulo
 #DESCRIPTION CBN São Paulo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8:Central TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-centraltv-11366.ciclano.io%3a1443/centraltv-11366/centraltv-11366/playlist.m3u8:Central TV
 #DESCRIPTION Central TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live:CNN Brasil
 #DESCRIPTION CNN Brasil
@@ -39,10 +49,14 @@
 #DESCRIPTION Cultura PR Catve
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_.m3u8:CWB TV
 #DESCRIPTION CWB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8:DJ Loncho TV
+#DESCRIPTION DJ Loncho TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8:Dreiko TV
 #DESCRIPTION Dreiko TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.189.113.201/hls/tve.m3u8:E-Parana
 #DESCRIPTION E-Parana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxtvhd.com.br/elhistonauta/elhistonauta/playlist.m3u8:El Histonauta TV
+#DESCRIPTION El Histonauta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash.softhost.com.br%3a1935/fonte/fontetv/live.m3u8:Fonte TV
 #DESCRIPTION Fonte TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.furg.br/hls/furgtv.m3u8:FURG TV
@@ -51,12 +65,16 @@
 #DESCRIPTION Futura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.unisc.br/hls/test.m3u8:Futura -2-
 #DESCRIPTION Futura -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/tvgazeta:Gazeta
+#DESCRIPTION Gazeta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8:Gospel Cartoon
 #DESCRIPTION Gospel Cartoon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.srvif.com/gospelf/gospelf/playlist.m3u8:Gospel Movie TV
 #DESCRIPTION Gospel Movie TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58a4464faef53.streamlock.net/impd/ngrp%3aimpd_all/playlist.m3u8:IMPD TV
 #DESCRIPTION IMPD TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8:Información Periodística
+#DESCRIPTION Información Periodística
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv02.logicahost.com.br%3a1935/itutv/itutv/live.m3u8:Itu TV
 #DESCRIPTION Itu TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv02.logicahost.com.br%3a1935/itutv/itutv/live.m3u8:ITV
@@ -83,6 +101,8 @@
 #DESCRIPTION Pauta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//meupainel.top%3a1936/iaptd/iaptd/playlist.m3u8:Plenitude do Trono de Deus TV
 #DESCRIPTION Plenitude do Trono de Deus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8:Portal Cultura
+#DESCRIPTION Portal Cultura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/portocanal/playlist.m3u8:Porto Canal
 #DESCRIPTION Porto Canal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxtvhd.com.br/psctv/psctv/playlist.m3u8:PSC Television
@@ -101,16 +121,38 @@
 #DESCRIPTION Record News -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8:Record TV Manaus
 #DESCRIPTION Record TV Manaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8:Rede América
+#DESCRIPTION Rede América
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8:Rede Brasil
+#DESCRIPTION Rede Brasil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbc.directradios.com%3a1935/rbc/rbc/live.m3u8:Rede Brasil de Comunicação
 #DESCRIPTION Rede Brasil de Comunicação
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba_360p614k/index.m3u8:Rede CNT Cuiaba
+#DESCRIPTION Rede CNT Cuiaba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1s664t39qub1o.cloudfront.net/live/cnt-londrina_360p614k/index.m3u8:Rede CNT Londrina
+#DESCRIPTION Rede CNT Londrina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1s664t39qub1o.cloudfront.net/live/cnt-manaus_360p614k/index.m3u8:Rede CNT Manaus
+#DESCRIPTION Rede CNT Manaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8:Rede CNT Porto Alegre
+#DESCRIPTION Rede CNT Porto Alegre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd8umsy8yf96u.cloudfront.net/live/cnt-riobranco_360p614k/index.m3u8:Rede CNT Rio Branco
+#DESCRIPTION Rede CNT Rio Branco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8:Rede CNT Rio de Janiero
+#DESCRIPTION Rede CNT Rio de Janiero
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8:Rede CNT São Paulo
 #DESCRIPTION Rede CNT São Paulo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_360p614k/index.m3u8:Rede CNT Salvador
+#DESCRIPTION Rede CNT Salvador
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8:Rede Cultura do Pará
 #DESCRIPTION Rede Cultura do Pará
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8:Rede Gospel
 #DESCRIPTION Rede Gospel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live:Rede Internacional de TV (RIT TV)
+#DESCRIPTION Rede Internacional de TV (RIT TV)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming03.zas.media%3a1935/redemaoamiga/redemaoamiga/live.m3u8:Rede Mão Amiga
 #DESCRIPTION Rede Mão Amiga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//livestream.com/accounts/3332377/events/10612535:Rede Meio Norte
+#DESCRIPTION Rede Meio Norte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//in.uaimacks.net.br%3a1935/macks/macks.sdp/chunklist_w1760176873.m3u8?fluxustv.m3u8:Rede Metropole
 #DESCRIPTION Rede Metropole
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4-slbps-sambavideos.akamaized.net/live/3282%252C8114%252Cec4b5a296d97fa99bf990662f5b4f8e1%253Bbase64np%253BMc8VDxqNjXKCAf8%2521/amlst%253AMc_tFgfGiHOdQXPB/chunklist_.m3u8:Rede Minas
@@ -119,14 +161,14 @@
 #DESCRIPTION Rede Pampa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv02.logicahost.com.br%3a1935/rederc/rederc/live.m3u8:Rede RC
 #DESCRIPTION Rede RC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8:Rede Super
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//livestream.com/accounts/10205943:Rede Super
 #DESCRIPTION Rede Super
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-08.ix7.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G2bfiyZZx03V9uVljaA_VsA)/dm/3/x6ph7x7/d/live-0.m3u8#cell=lcore:Rede TVT
 #DESCRIPTION Rede TVT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.brasilstream.com.br/live/redetves/redetves/playlist.m3u8:Rede TV
 #DESCRIPTION Rede TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/redetvro/_definst_/redetvro/playlist.m3u8:RedeTV! Tocantins
-#DESCRIPTION RedeTV! Tocantins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/redetvro/_definst_/redetvro/playlist.m3u8:Rede TV Tocantins
+#DESCRIPTION Rede TV Tocantins
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.srvif.com/admin/admin/chunklist_.m3u8:Rede União
 #DESCRIPTION Rede União
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cvd1.cds.ebtcvd.net/live-redevida/smil%3aredevida.smil/playlist.m3u8:Rede Vida
@@ -137,18 +179,24 @@
 #DESCRIPTION RTV Canal 38
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash1.crossdigital.com.br/2063/2063/playlist.m3u8:Santa Cecilia TV
 #DESCRIPTION Santa Cecilia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8:SBT Aratu On
+#DESCRIPTION SBT Aratu On
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-cdn-iguacu.ciclano.io%3a1443/cdn-iguacu/cdn-iguacu/playlist.m3u8:SBT Rede Massa
 #DESCRIPTION SBT Rede Massa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evpp.mm.uol.com.br%3a1935/ne10/ne10.smil/playlist.m3u8:SBT TV
-#DESCRIPTION SBT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8:Sesc TV
-#DESCRIPTION Sesc TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8:SESC TV
+#DESCRIPTION SESC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8:Solive TV
+#DESCRIPTION Solive TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv01.logicahost.com.br%3a1935/summertv/summertv/live.m3u8?fluxustv.m3u8:Summer TV
 #DESCRIPTION Summer TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tbc.zoeweb.tv/tbc/tbc/playlist.m3u8:TBC TV Brasil Central
+#DESCRIPTION TBC TV Brasil Central
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8:Tele Cine Action
 #DESCRIPTION Tele Cine Action
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxtvhd.com.br/teleboyaca/teleboyaca/playlist.m3u8:Telebocaya
 #DESCRIPTION Telebocaya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videoserver.tmcreativos.com%3a19360/8046/8046.m3u8:Teve Globo
+#DESCRIPTION Teve Globo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evpp.mm.uol.com.br%3a1935/band_live/terraviva/playlist.m3u8:Terra Viva
 #DESCRIPTION Terra Viva
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8:TNT Sports 2 Brasil
@@ -165,6 +213,10 @@
 #DESCRIPTION TV AD-Belém
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.almg.gov.br/live/tvalmg.m3u8:TV ALMG
 #DESCRIPTION TV ALMG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8:TV Alternativa
+#DESCRIPTION TV Alternativa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video02.logicahost.com.br/a10mais/smil%3atranscoder.smil/playlist.m3u8:TV Antena 10
+#DESCRIPTION TV Antena 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8:TV Aparecida
 #DESCRIPTION TV Aparecida
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv6.zoeweb.tv%3a1935/z404-live/stream/chunklist.m3u8:TV Assembléia Ceará TV
@@ -223,10 +275,14 @@
 #DESCRIPTION TV Diario do Sertao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv02.logicahost.com.br%3a1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8:TV Digital Birigui
 #DESCRIPTION TV Digital Birigui
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8:TV Diversa
+#DESCRIPTION TV Diversa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(q-QQ9tbM1LVeQsn3AkKguw)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyun9A4sJuqq-ZZ5UGE5w4A5Lmy-yARb69ZFORunwlRZIfiLswT_MExl8qv6So0l5XeVL4-xmSFY_zRNOMnli)'t(aik)b(-Btgu9O9bZDM7fy6b7p0dDTzGRSrl_Avj_oC)))/live_540_index.m3u8:TV Escola
 #DESCRIPTION TV Escola
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8:TV Evangelizar
 #DESCRIPTION TV Evangelizar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming03.zas.media%3a1936/tvfuturo/tvfuturo/playlist.m3u8:TV Futuro
+#DESCRIPTION TV Futuro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8:TV Galega Blumenau
 #DESCRIPTION TV Galega Blumenau
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8:TV Gazeta
@@ -247,24 +303,30 @@
 #DESCRIPTION TV Jornal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8:TV Jornal do Nordeste
 #DESCRIPTION TV Jornal do Nordeste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC0qlZ5jxxueKNzUERcrllNw/live:TV Justiça
+#DESCRIPTION TV Justiça
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive2-lh.akamaihd.net/i/dclive_1@316664/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1626208326~acl=%252fi%252fdclive_1%2540316664*~data=hdntl~hmac=68c113b0b81d4d312af0c934a55375ef5dc90a7241cdb11da4e08e7159faf801:TV Libertas
 #DESCRIPTION TV Libertas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//player.internetaovivo.com%3a8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8:TV Mackenzie
 #DESCRIPTION TV Mackenzie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/church-online/ingles3/playlist.m3u8:TV MANA (Engels)
-#DESCRIPTION TV MANA (Engels)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/eglise-online/frances3/playlist.m3u8:TV MANA (Frans)
-#DESCRIPTION TV MANA (Frans)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csvl04.manasat.com%3a1935/tvmana/tvmana3/playlist.m3u8:TV MANA-1 (Portugees)
-#DESCRIPTION TV MANA-1 (Portugees)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/tserkov-online/russo3/playlist.m3u8:TV MANA (Russisch)
-#DESCRIPTION TV MANA (Russisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/iglesia-online/espanhol3/playlist.m3u8:TV MANA (Spaans)
-#DESCRIPTION TV MANA (Spaans)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.manasat.com/tvmana-1/smil%3atvmana-1.smil/playlist.m3u8:TV Maná 1
+#DESCRIPTION TV Maná 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.manasat.com/tvmana-2/smil%3atvmana-2.smil/playlist.m3u8:TV Maná 2
+#DESCRIPTION TV Maná 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.manasat.com/tvmana-brasil/smil%3atvmana-brasil.smil/playlist.m3u8:TV Maná Brazil
+#DESCRIPTION TV Maná Brazil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csvl03.manasat.com%3a1935/tvar/tvmanaar2/playlist.m3u8:TV Maná Córdoba
 #DESCRIPTION TV Maná Córdoba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csvl03.manasat.com%3a1935/tvmz/tvmz3/playlist.m3u8:TV MANA Maputo
-#DESCRIPTION TV MANA Maputo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.manasat.com/tvmana-english/smil%3atvmana-english.smil/playlist.m3u8:TV Maná English
+#DESCRIPTION TV Maná English
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.manasat.com/tvmana-espanol/smil%3atvmana-espanol.smil/playlist.m3u8:TV Maná Español
+#DESCRIPTION TV Maná Español
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w2.manasat.com/eglise-online/smil%3aeglise-online.smil/playlist.m3u8:TV Maná Français
+#DESCRIPTION TV Maná Français
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csvl03.manasat.com%3a1935/tvmz/tvmz3/playlist.m3u8:TV Maná Maputo
+#DESCRIPTION TV Maná Maputo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w2.manasat.com/tvmana-mz/smil%3atvmana-mz.smil/playlist.m3u8:TV Maná Mozambique
+#DESCRIPTION TV Maná Mozambique
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8:TV Manchete
 #DESCRIPTION TV Manchete
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//virtues.es%3a1936/tvmar/tvmar/chunklist_.m3u8:TV Mar
@@ -273,6 +335,8 @@
 #DESCRIPTION TV Master
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvmax/tvmax/playlist.m3u8:TV MAX
 #DESCRIPTION TV MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.dattalive.com/8106/8106/playlist.m3u8:TV MAX CBA
+#DESCRIPTION TV MAX CBA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8?fluxustv.m3u8:TV Metropolitana Rio
 #DESCRIPTION TV Metropolitana Rio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.novotempo.com%3a1935/tv/smil%3atvnovotempo.smil/manifest.m3u8:TV Novo Tempo

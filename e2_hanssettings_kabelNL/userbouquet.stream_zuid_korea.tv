@@ -1,10 +1,8 @@
 #NAME Stream Zuid-Korea (KR)
-#SERVICE 1:64:263:0:0:0:0:0:0:0:
+#SERVICE 1:64:25c:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders KBS++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=1:KBS 1
 #DESCRIPTION KBS 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs1_540/playlist.m3u8:KBS 1 -2-
-#DESCRIPTION KBS 1 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=2:KBS 2
 #DESCRIPTION KBS 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs2_540/playlist.m3u8:KBS 2 -2-
@@ -13,7 +11,7 @@
 #DESCRIPTION KBS Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=6:KBS Joy
 #DESCRIPTION KBS Joy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs_kids_540/playlist.m3u8:KBS Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=9:KBS Kids
 #DESCRIPTION KBS Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=7:KBS Life
 #DESCRIPTION KBS Life
@@ -21,35 +19,39 @@
 #DESCRIPTION KBS LiveCam DokDo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/newskbs/live:KBS News
 #DESCRIPTION KBS News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/kbs_n_sports_540/playlist.m3u8:KBS Sports
-#DESCRIPTION KBS Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=4:KBS News D
+#DESCRIPTION KBS News D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=8:KBS Story
 #DESCRIPTION KBS Story
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wms4-kortv.akamaized.net/a_live/63719963/smil%3a20ch011.smil/playlist.m3u8:KBS World 
 #DESCRIPTION KBS World 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8:KBS World -2-
 #DESCRIPTION KBS World -2-
-#SERVICE 1:64:264:0:0:0:0:0:0:0:
+#SERVICE 1:64:25d:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8:BTN TV
+#DESCRIPTION BTN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/channela_540/playlist.m3u8:Channel A
 #DESCRIPTION Channel A
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/inet_540/playlist.m3u8:Inet TV
 #DESCRIPTION Inet TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8:JCN TV
 #DESCRIPTION JCN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/jtbc_540/playlist.m3u8:JTBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=273:JTBC
 #DESCRIPTION JTBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/wowtv_540/playlist.m3u8:KETV
 #DESCRIPTION KETV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/mbc_540/playlist.m3u8:MBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123.254.72.24%3a1935/tvlive/livestream2/playlist.m3u8:MBC
 #DESCRIPTION MBC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123.254.72.24%3a1935/tvlive/livestream2/playlist.m3u8:MBC -2-
-#DESCRIPTION MBC -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8:MBC America
+#DESCRIPTION MBC America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//andong.webcasting.co.kr/live/mbc/playlist.m3u8:MBC Andong
+#DESCRIPTION MBC Andong
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8:MBC Busan
 #DESCRIPTION MBC Busan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//211.33.246.4%3a32954/cj_live/myStream.sdp/playlist.m3u8:MBC Chungbuk
 #DESCRIPTION MBC Chungbuk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c74939c891dc.streamlock.net/live/TV/playlist.m3u8:MBC Chunseon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.chmbc.co.kr/TV/myStream/playlist.m3u8:MBC Chunseon
 #DESCRIPTION MBC Chunseon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8:MBC Daejeon
 #DESCRIPTION MBC Daejeon
@@ -93,7 +95,7 @@
 #DESCRIPTION SBS JTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1.222.207.80%3a1935/live/cjbtv/playlist.m3u8:SBS Luzhou
 #DESCRIPTION SBS Luzhou
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/sbs_golf_540/playlist.m3u8:SBS Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=504:SBS Golf
 #DESCRIPTION SBS Golf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123.140.197.22/stream/1/play.m3u8:SBS Jibs
 #DESCRIPTION SBS Jibs
@@ -111,21 +113,27 @@
 #DESCRIPTION SPOTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/spotv_2_540/playlist.m3u8:SPOTV2
 #DESCRIPTION SPOTV2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tbs1.mov3.co/hls/tbs.m3u8:TBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8:TBS
 #DESCRIPTION TBS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8:TBS Seoul
 #DESCRIPTION TBS Seoul
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/tvchosun_540/playlist.m3u8:TV Chosun
 #DESCRIPTION TV Chosun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=280:TVN
+#DESCRIPTION TVN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=282:TVN Drama
+#DESCRIPTION TVN Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8:WBC TV
+#DESCRIPTION WBC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/newsy_540/playlist.m3u8:Yonhap News TV
 #DESCRIPTION Yonhap News TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live:YTN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=211:YTN
 #DESCRIPTION YTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//slive.sciencetv.kr%3a1935/science/yslive_20140419_1/playlist.m3u8:YTN Science
 #DESCRIPTION YTN Science
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_yomiuri_720/playlist.m3u8:YTV
 #DESCRIPTION YTV
-#SERVICE 1:64:265:0:0:0:0:0:0:0:
+#SERVICE 1:64:25e:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil%3aarirang_3ch.smil/playlist.m3u8:Arirang Radio
 #DESCRIPTION Arirang Radio
@@ -151,7 +159,7 @@
 #DESCRIPTION EBS i
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8:EBS +2
 #DESCRIPTION EBS +2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8:EBS e
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8:EBS e
 #DESCRIPTION EBS e
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8:EBS Kids
 #DESCRIPTION EBS Kids
@@ -159,6 +167,8 @@
 #DESCRIPTION Edaily TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8:GCN Korea
 #DESCRIPTION GCN Korea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=237:Golf & PBA
+#DESCRIPTION Golf & PBA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8:GS My Shop
 #DESCRIPTION GS My Shop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8:GS Shop
@@ -167,6 +177,10 @@
 #DESCRIPTION Gugbang TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8:Hangugseongeobangsong 
 #DESCRIPTION Hangugseongeobangsong 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8:Home & Shopping
+#DESCRIPTION Home & Shopping
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=818:Indie Film
+#DESCRIPTION Indie Film
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//177.53.152.186%3a8000/play/a00j/index.m3u8:K-Pop Channel
 #DESCRIPTION K-Pop Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8:Korea TV
@@ -181,9 +195,37 @@
 #DESCRIPTION Korea Vocational Broadcasting
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8:Korean Music Broadcasting
 #DESCRIPTION Korean Music Broadcasting
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=923:Lotte One TV
+#DESCRIPTION Lotte One TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8:NHTV
+#DESCRIPTION NHTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.nsmall.com/IPHONE/nsmallMobile.m3u8:NS Home Shopping
+#DESCRIPTION NS Home Shopping
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shoppstream.nsmall.com/IPHONE/mobile.m3u8:NS Shop Plus
+#DESCRIPTION NS Shop Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=407:OCN
+#DESCRIPTION OCN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=469:PLAYY Healing Movie
+#DESCRIPTION PLAYY Healing Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=452:PLAYY Well-Made Movie
+#DESCRIPTION PLAYY Well-Made Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=509:Poyo TV
+#DESCRIPTION Poyo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kr-streams.onrender.com/scraper?channel=921:Public Home Shopping
+#DESCRIPTION Public Home Shopping
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC3p-0EWA8OXko2EUDUXAy5w/live:SEN Seoul Economy TV
+#DESCRIPTION SEN Seoul Economy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8:Shinsegae Shopping TV
+#DESCRIPTION Shinsegae Shopping TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.shoppingntmall.com/live/10011.m3u8:Shopping NT
+#DESCRIPTION Shopping NT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.66.195%3a1935/krtv/tooniverse_540/playlist.m3u8:Tooniverse
 #DESCRIPTION Tooniverse
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/x6bnqe/s/s81/02.m3u8:Toonz Kids
 #DESCRIPTION Toonz Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8:W Shopping
+#DESCRIPTION W Shopping
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.241.153.173/live/livestream.m3u8:WBS
+#DESCRIPTION WBS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/x6bnqe/s/s94/index2.m3u8:Xing Kong International
 #DESCRIPTION Xing Kong International

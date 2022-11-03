@@ -1,5 +1,5 @@
 #NAME Stream Engeland (UK)
-#SERVICE 1:64:1a06:0:0:0:0:0:0:0:
+#SERVICE 1:64:19b0:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a05n:BBC 1 HD
 #DESCRIPTION BBC 1 HD
@@ -83,7 +83,7 @@
 #DESCRIPTION 5 Star
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_5_usa_sd/index.m3u8:5 USA
 #DESCRIPTION 5 USA
-#SERVICE 1:64:1a07:0:0:0:0:0:0:0:
+#SERVICE 1:64:19b1:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
 #DESCRIPTION 92 News UK
@@ -201,6 +201,8 @@
 #DESCRIPTION Magic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moonbug-rokuus.amagi.tv/playlist.m3u8:Moonbug Kids
 #DESCRIPTION Moonbug Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-fast2.evrideo.tv/51da5aca-56ff-4735-bde8-b75d2ae4d9b9_0_HLS/manifest.m3u8:Music & Memories
+#DESCRIPTION Music & Memories
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:My5 Documentaries
 #DESCRIPTION My5 Documentaries
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:My5 GP's

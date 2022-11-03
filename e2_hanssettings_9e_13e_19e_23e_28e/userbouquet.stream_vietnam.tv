@@ -3,64 +3,18 @@
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.163.216.23%3a1935/live/tv2.stream_480p/chunklist.m3u8:BRT HD 
 #DESCRIPTION BRT HD 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sda/skymart_hls.smil/playlist.m3u8:DNRTV 9
-#DESCRIPTION DNRTV 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8:HTV 1
-#DESCRIPTION HTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8:HTV 3
-#DESCRIPTION HTV 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8:HTV 4
-#DESCRIPTION HTV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.125.191.32%3a8000/htvtt:HTV Thể Thao HD
-#DESCRIPTION HTV Thể Thao HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8:ISTV
 #DESCRIPTION ISTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8:LA 34
-#DESCRIPTION LA 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.4.48%3a8080/phuyen/tv.m3u8:PTP Phu Yen TV 
-#DESCRIPTION PTP Phu Yen TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.6.157%3a8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8:QRT HD
 #DESCRIPTION QRT HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.163.189.104%3a8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8:STV 1
 #DESCRIPTION STV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.163.189.104%3a8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8:STV 2
 #DESCRIPTION STV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.160.162.131%3a8080/tv/bk.m3u8:TBK
-#DESCRIPTION TBK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.25.3%3a8134/hls/gialaitv/gialaitv.m3u8:THGL
 #DESCRIPTION THGL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vinhphuctv.vn%3a8090/vinhphuclive/web.stream_360p/chunklist_.m3u8:VP TV
 #DESCRIPTION VP TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.125.191.32%3a8000/vtc3:VTC 3
-#DESCRIPTION VTC 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8:VTC 4
-#DESCRIPTION VTC 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8:VTC 5
-#DESCRIPTION VTC 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8:VTC 6
-#DESCRIPTION VTC 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.125.191.32%3a8000/vtv1:VTV 1
-#DESCRIPTION VTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8:VTV 2 (deels geoblocking)
-#DESCRIPTION VTV 2 (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.125.191.32%3a8000/vtv3:VTV 3
-#DESCRIPTION VTV 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8:VTV 4 (deels geoblocking)
-#DESCRIPTION VTV 4 (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.125.191.32%3a8000/vtv5:VTV 5
-#DESCRIPTION VTV 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mutixx5hq1liv.akamaized.net%3a443/vtv5tnb/vtv5tnb@720p.m3u8:VTV 5 Tây Nam Bộ HD
-#DESCRIPTION VTV 5 Tây Nam Bộ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mutixx5hq1liv.akamaized.net%3a443/vtv5tn/vtv5tn@720p.m3u8:VTV 5 Tây Nguyên
-#DESCRIPTION VTV 5 Tây Nguyên
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8:VTV 6 (deels geoblocking)
-#DESCRIPTION VTV 6 (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8:VTV 7 (deels geoblocking)
-#DESCRIPTION VTV 7 (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8:VTV 8 (deels geoblocking)
-#DESCRIPTION VTV 8 (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8:VTV 9 (deels geoblocking)
-#DESCRIPTION VTV 9 (deels geoblocking)
 #SERVICE 1:64:3c6:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8:Air Lao TV
@@ -93,6 +47,8 @@
 #DESCRIPTION Hmong TV Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8:Houng Fa
 #DESCRIPTION Houng Fa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8:International Vietnamese Television
+#DESCRIPTION International Vietnamese Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8:Khmer TV
 #DESCRIPTION Khmer TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8:Khomsanh TV

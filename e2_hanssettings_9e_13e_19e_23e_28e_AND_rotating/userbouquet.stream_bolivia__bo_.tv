@@ -5,12 +5,16 @@
 #DESCRIPTION ATB La Paz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x84t82c:ATB Santa Cruz
 #DESCRIPTION ATB Santa Cruz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servilive.com%3a3342/live/boplustvlive.m3u8:Bo Plus TV
+#DESCRIPTION Bo Plus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boliviatv1.srfms.com%3a5735/live/livestream/playlist.m3u8:Bolivia TV 7.1
 #DESCRIPTION Bolivia TV 7.1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8224/8224/chunklist_w1684483949.m3u8:Bolivia TV 7.2
 #DESCRIPTION Bolivia TV 7.2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servilive.com%3a3342/live/boplustvlive.m3u8:Bo Plus TV
-#DESCRIPTION Bo Plus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8:Bolivia TV 7.2 Deportes
+#DESCRIPTION Bolivia TV 7.2 Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2byzrnrdb259r.cloudfront.net/hls/live.m3u8:Bolivisión
+#DESCRIPTION Bolivisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/playlist.m3u8:Contacto Bolivia
 #DESCRIPTION Contacto Bolivia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streamer1.streamhost.org/salive/GMIalfam:Logos TV
@@ -19,6 +23,8 @@
 #DESCRIPTION PAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer1.streamhost.org%3a1935/salive/GMIredadvenirm/playlist.m3u8:Red AD Venir Internacional
 #DESCRIPTION Red AD Venir Internacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x825whp:Red Uno HD
+#DESCRIPTION Red Uno HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.3.70%3a1935/RtpBolivia/RtpBolivia/playlist.m3u8:RTP Bolivia
 #DESCRIPTION RTP Bolivia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.seo.tv.bo%3a3645/live/franzleonel0live.m3u8:SEO TV
@@ -31,8 +37,10 @@
 #DESCRIPTION SEO TV Novelas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8:TV Latina Canal 42 HD
 #DESCRIPTION TV Latina Canal 42 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.3.70%3a1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8:TVU
-#DESCRIPTION TVU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videohd.sistemareal.com%3a3290/live/tvoffhdlive.m3u8:TV Off Travel
+#DESCRIPTION TV Off Travel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8:TV Universitaria
+#DESCRIPTION TV Universitaria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//solo.disfrutaenlared.com%3a1936/tuch/ngrp%3atuch_all/playlist.m3u8:TVU Sucre
 #DESCRIPTION TVU Sucre
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//dai.ly/x7y922d:Unitel Cochabamba

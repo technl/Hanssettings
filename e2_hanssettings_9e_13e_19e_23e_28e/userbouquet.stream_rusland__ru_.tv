@@ -25,6 +25,8 @@
 #DESCRIPTION 2x2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.209.197.187%3a8080/udp/239.0.100.144%3a1234:2x2 +2
 #DESCRIPTION 2x2 +2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.tv.3angels.ru/stream.m3u8:3 Angels
+#DESCRIPTION 3 Angels
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.65.18.213/perviy_molodeginyi_3100kb.m3u8:8 Kanal Krasnoyarskiy Kray
 #DESCRIPTION 8 Kanal Krasnoyarskiy Kray
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.99.110.252/stream8/playlist.m3u8:8 Kanal Krym
@@ -113,6 +115,8 @@
 #DESCRIPTION Eurodance 90 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8:Euronews Russia
 #DESCRIPTION Euronews Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8:Evraziya (Orsk)
+#DESCRIPTION Evraziya (Orsk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s76/index.m3u8:Extreme Sports Russia
 #DESCRIPTION Extreme Sports Russia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s79/index.m3u8:Fast & Fun Box Русский
@@ -239,7 +243,7 @@
 #DESCRIPTION Mir +4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8:Mir +7
 #DESCRIPTION Mir +7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8:Mir 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8:Mir 24 HD
 #DESCRIPTION Mir 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mirbelogorya.ru%3a8080/mirbelogorya/index.m3u8:Mir Belogor'ya
 #DESCRIPTION Mir Belogor'ya
@@ -383,7 +387,7 @@
 #DESCRIPTION Rostov-Papa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uiptv.do.am/1ufc/300663722/playlist.m3u8:RT Documentary Russian
 #DESCRIPTION RT Documentary Russian
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hr6yv36f.rmbl.ws/slot-30/ngrp%3asrak-wx8r_all/playlist.m3u8:RT News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp%3asrak-wx8r_all/playlist.m3u8:RT News
 #DESCRIPTION RT News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s63/index.m3u8:RTG HD
 #DESCRIPTION RTG HD
@@ -403,7 +407,7 @@
 #DESCRIPTION Russia K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3artrp.smil/playlist.m3u8:Russia RTR
 #DESCRIPTION Russia RTR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/907/index.m3u8:Russkiy Detektiv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.33.88.172/rus-detective/playlist.m3u8:Russkiy Detektiv
 #DESCRIPTION Russkiy Detektiv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.186.142.16/streams.rs.m3u8:Russkiy Sever (Vologda)
 #DESCRIPTION Russkiy Sever (Vologda)

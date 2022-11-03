@@ -1,5 +1,5 @@
 #NAME Stream Bulgarije (BG)
-#SERVICE 1:64:330:0:0:0:0:0:0:0:
+#SERVICE 1:64:32e:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.88.114%3a8000/play/a03m:BNT 1
 #DESCRIPTION BNT 1
@@ -59,7 +59,7 @@
 #DESCRIPTION RTV 2 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv1.cloudcdn.bg%3a8081/stream_hd720.m3u8:TV 1 HD
 #DESCRIPTION TV 1 HD
-#SERVICE 1:64:331:0:0:0:0:0:0:0:
+#SERVICE 1:64:32f:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a08u:24 Kitchen
 #DESCRIPTION 24 Kitchen

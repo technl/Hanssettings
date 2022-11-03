@@ -1,5 +1,5 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:4fc:0:0:0:0:0:0:0:
+#SERVICE 1:64:4f9:0:0:0:0:0:0:0:
 #DESCRIPTION ++Rai++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:Rai Radio 1
 #DESCRIPTION Rai Radio 1
@@ -37,7 +37,7 @@
 #DESCRIPTION Rai Radio Tutta Italiana
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiobzlive.rai.it/RAIBZ_Livestream:Rai Südtirol
 #DESCRIPTION Rai Südtirol
-#SERVICE 1:64:4fd:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fa:0:0:0:0:0:0:0:
 #DESCRIPTION ++festival San Remo, themazenders++
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um049.mp3:Music Radio Festival Le Canzoni Vincitrici
 #DESCRIPTION Music Radio Festival Le Canzoni Vincitrici
@@ -47,7 +47,7 @@
 #DESCRIPTION United Music Radio Festival 1951-1999
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um112.mp3:United Music Radio Festival 2000-2021
 #DESCRIPTION United Music Radio Festival 2000-2021
-#SERVICE 1:64:4fe:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fb:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
 #DESCRIPTION 105 Indie
@@ -303,7 +303,7 @@
 #DESCRIPTION RADIO IBIZA
 #SERVICE 4097:0:2:251:0:0:0:0:0:0:http%3a//nr7.newradio.it%3a9375/;stream.mp3:RADIO INCONTRO DONNA
 #DESCRIPTION RADIO INCONTRO DONNA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/index_1_a-p.m3u8?sd=10&rebase=on:Radio Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8 :Radio Italia
 #DESCRIPTION Radio Italia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.xdevel.com/audio2s976608-1381/stream/icecast.audio:Radio Italia San Remo
 #DESCRIPTION Radio Italia San Remo
@@ -369,7 +369,7 @@
 #DESCRIPTION Radio Millenium TV
 #SERVICE 4097:0:2:369:0:0:0:0:0:0:http%3a//95.110.226.198%3a8000:RADIO NON SOLO SUONI
 #DESCRIPTION RADIO NON SOLO SUONI
-#SERVICE 4097:0:2:97:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8218/:RADIO NORBA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8218/:RADIO NORBA
 #DESCRIPTION RADIO NORBA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice12.fluidstream.net/rn1.mp3:Radio Number ONE
 #DESCRIPTION Radio Number ONE

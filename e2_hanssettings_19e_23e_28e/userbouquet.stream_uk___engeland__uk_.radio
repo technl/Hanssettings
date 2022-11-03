@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:463:0:0:0:0:0:0:0:
+#SERVICE 1:64:460:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:464:0:0:0:0:0:0:0:
+#SERVICE 1:64:461:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -89,8 +89,6 @@
 #DESCRIPTION 100% Chill (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3streaming.planetwideradio.com%3a9165/uckfieldfmmp3:105 Uckfield FM (Uckfield, Engeland, UK)
 #DESCRIPTION 105 Uckfield FM (Uckfield, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//19993.live.streamtheworld.com/JACK_FM_SC:106 JACK FM Oxfordshire (Engeland, UK)
-#DESCRIPTION 106 JACK FM Oxfordshire (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.152.208.98%3a8004/;:107 Endeavour FM (Boston, Engeland, UK)
 #DESCRIPTION 107 Endeavour FM (Boston, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//199.189.111.28%3a8012/;stream/:1940s Radio Station Online (Gloucester, Engeland, UK)
@@ -739,13 +737,11 @@
 #DESCRIPTION Isle of Wight Radio (Newport, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s264858a04/listen:Itch FM (Engeland, UK)
 #DESCRIPTION Itch FM (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/JACK_RADIO.mp3:Jack Radio UK (Engeland, UK)
-#DESCRIPTION Jack Radio UK (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20853.live.streamtheworld.com/JACK_FM.mp3:JACKfm Oxfordshire
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-jackmedia.sharp-stream.com/390_jack_fm_320_mp3:JACKfm Oxfordshire
 #DESCRIPTION JACKfm Oxfordshire
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//22343.live.streamtheworld.com/JACK2.mp3:JACKfm 2 Hits Oxfordshire
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-jackmedia.sharp-stream.com/390_jack_2_320_mp3:JACKfm 2 Hits Oxfordshire
 #DESCRIPTION JACKfm 2 Hits Oxfordshire
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//22333.live.streamtheworld.com/JACK_3_OXFORDSHIRE.mp3:JACKfm 3 Chill Oxfordshire
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-jackmedia.sharp-stream.com/390_jack_3_320_mp3:JACKfm 3 Chill Oxfordshire
 #DESCRIPTION JACKfm 3 Chill Oxfordshire
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.canstream.co.uk%3a8075/live.aac:Jazz London Radio (Londen, Engeland, UK)
 #DESCRIPTION Jazz London Radio (Londen, Engeland, UK)
@@ -1489,6 +1485,8 @@
 #DESCRIPTION The World Won't Listen Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/tfm.aac:TFM (Newcastle upon Tyne, Engeland, UK)
 #DESCRIPTION TFM (Newcastle upon Tyne, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s42.myradiostream.com/%3a29400/listen.mp3:Thornbury Radio
+#DESCRIPTION Thornbury Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-ads-03-gos2.sharp-stream.com/1075.mp3:Time 107.5 Havering (Londen - Engeland)
 #DESCRIPTION Time 107.5 Havering (Londen - Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.radio.co/s44ebacc16/listen:Timeless Hits Radio (Engeland, UK)

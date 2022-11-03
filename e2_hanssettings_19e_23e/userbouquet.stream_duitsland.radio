@@ -25,6 +25,10 @@
 #DESCRIPTION 80s80s Neo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80s80s.hoerradar.de/80s80s-summerhits-mp3-hq:80s80s Summer
 #DESCRIPTION 80s80s Summer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fhhalle.streamabc.net/fhhal-rtldusch-mp3-128-7366263:89.0 RTL Dusch Hits
+#DESCRIPTION 89.0 RTL Dusch Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fhhalle.streamabc.net/fhhal-rtlputz-mp3-128-1945524:89.0 RTL House Putz
+#DESCRIPTION 89.0 RTL House Putz
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//rockantenne-hh-stream04.radiohost.de/917xfm_mp3-192:917xfm (Hamburg)
 #DESCRIPTION 917xfm (Hamburg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.live-sm.absolutradio.de/absolut-bella/stream/mp3:Absolut Radio -  Bella
@@ -193,6 +197,8 @@
 #DESCRIPTION Antenne Niedersachsen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.com/antenne-nds/mp3-128/radioplayer/:Antenne Niedersachsen
 #DESCRIPTION Antenne Niedersachsen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antenne-th.divicon-stream.net/antth_atlive_sfS8-aacplus-64:antenne OSTALGIE
+#DESCRIPTION antenne OSTALGIE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3ad.antennepfalz.c.nmdn.net/fs_antennepfalz/livestream.mp3:Antenne Pfalz (Duitsland)
 #DESCRIPTION Antenne Pfalz (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.stream.antenne-pirmasens.de/:Antenne Pirmasens
@@ -1023,12 +1029,32 @@
 #DESCRIPTION Hitradio Ohr
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_100maxis_192k_mp3:Hitradio RTL 100%25 Maxis
 #DESCRIPTION Hitradio RTL 100% Maxis
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_100maxis_192k_mp3:Hitradio RTL 100%25 Maxis
-#DESCRIPTION Hitradio RTL 100% Maxis
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_rock_192k_mp3:Hitradio RTL Rock
-#DESCRIPTION Hitradio RTL Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_rock_192k_mp3:Hitradio RTL Rock
-#DESCRIPTION Hitradio RTL Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_2000er_192k_mp3:Hitradio RTL 2000s
+#DESCRIPTION Hitradio RTL 2000s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge68.radio.hitradio-rtl.de/hrrtl-bis-heute:Hitradio RTL 80er bis Heute
+#DESCRIPTION Hitradio RTL 80er bis Heute
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_80er_192k_mp3:Hitradio RTL 80er
+#DESCRIPTION Hitradio RTL 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_90er_192k_mp3:Hitradio RTL 90er
+#DESCRIPTION Hitradio RTL 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_XMAS_192k_mp3:Hitradio RTL Christmas Radio
+#DESCRIPTION Hitradio RTL Christmas Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_feelings_192k_mp3:Hitradio RTL Love Songs
+#DESCRIPTION Hitradio RTL Love Songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_100maxis_192k_mp3:Hitradio RTL Maxis
+#DESCRIPTION Hitradio RTL Maxis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_simulcast__lausitz_192k_mp3:Hitradio RTL Region Lausitz
+#DESCRIPTION Hitradio RTL Region Lausitz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_simulcast__vogtland_192k_mp3:Hitradio RTL Region Vogtland
+#DESCRIPTION Hitradio RTL Region Vogtland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_simulcast__chemnitz_192k_mp3:Hitradio RTL Sachsen Region Chemnitz
+#DESCRIPTION Hitradio RTL Sachsen Region Chemnitz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_simulcast__leipzig_192k_mp3:Hitradio RTL Sachsen Region Leipzig
+#DESCRIPTION Hitradio RTL Sachsen Region Leipzig
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_schlager_192k_mp3:Hitradio RTL Schlager
+#DESCRIPTION Hitradio RTL Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_top40_192k_mp3:Hitradio RTL Top 40
+#DESCRIPTION Hitradio RTL Top 40
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.hitradio-rtl.de/hitradio-rtl_simulcast__leipzig_128k_mp3:Hitradio RTL
 #DESCRIPTION Hitradio RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.98.217.63%3a23434/:Hitradio-4-you
@@ -1259,8 +1285,8 @@
 #DESCRIPTION Klassik Radio - Lounge Beat 4
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klangzauber-mp3-128-3356469:Klassik Radio - Mit Klassik Kindern helfen
 #DESCRIPTION Klassik Radio - Mit Klassik Kindern helfen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-movie-mp3-192-8441094:Klassik Radio - Movie
-#DESCRIPTION Klassik Radio - Movie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge66.streams.klassikradio.de/klassikradio-movie:Klassik Radio - Movie Radio
+#DESCRIPTION Klassik Radio - Movie Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.klassikradio.de/mozart/mp3-128:Klassik Radio - Mozart
 #DESCRIPTION Klassik Radio - Mozart
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-musical-mp3-128-5675862:Klassik Radio - Musical
@@ -1487,6 +1513,8 @@
 #DESCRIPTION LautFM-Vinyl-XL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//youngradio.stream.laut.fm/youngradio?t302=2017-12-11_00-10-02&uuid=7fa38c0c-09d1-4d69-bfdb-5ebad8cba02d:LautFM-Youngradio
 #DESCRIPTION LautFM-Youngradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/336664/stream/407257:Leipzig Beatzz
+#DESCRIPTION Leipzig Beatzz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//193.197.85.26%3a8000/;:LernRadio
 #DESCRIPTION LernRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//worship.lobpreisradio.de%3a8000/anbetung-lobpreis-radio-37k-ogg-stereo:Lobpreisradio-56-kbpts-ogg
@@ -2277,15 +2305,27 @@
 #DESCRIPTION Radio Bollerwagen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ga-stream01.ga-bonn.de%3a80/live128:Radio Bonn
 #DESCRIPTION Radio Bonn
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-brocken80er-mp3-128-3856659?sABC=59q02803%25230%2523s58q219o90642456or95s6ns726669n1%2523yvfgrayvir&amsparams=playerid%3alistenlive;skey%3a1506813955:Radio Brocken - 80er
-#DESCRIPTION Radio Brocken - 80er
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-brocken90er-mp3-128-5705884?sABC=59q0281q%25230%2523s58q219o90642456or95s6ns726669n1%2523yvfgrayvir&amsparams=playerid%3alistenlive;skey%3a1506813981:Radio Brocken - 90er
-#DESCRIPTION Radio Brocken - 90er
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal_rbrockenl_1rdw-mp3-128-1751477?sABC=59q02824%25230%2523s58q219o90642456or95s6ns726669n1%2523yvfgrayvir&amsparams=playerid%3alistenlive;skey%3a1506813988:Radio Brocken - Lovesongs
-#DESCRIPTION Radio Brocken - Lovesongs
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-brocken80er-mp3-256-3155073?sABC=6335rrs1%25230%25236r174o4rn2s1q72pp4194qq0n591npps%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1664478961:Radio Brocken 80er
+#DESCRIPTION Radio Brocken 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-brocken90er-mp3-256-1012329?sABC=62q05348%25230%25236rso9320885pp0rq82o1r4379sor26os%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1657819976:Radio Brocken 90er
+#DESCRIPTION Radio Brocken 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-rbchart-mp3-256-5915267?sABC=62q05349%25230%25236rso9320885pp0rq82o1r4379sor26os%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1657819977:Radio Brocken Chart Hits
+#DESCRIPTION Radio Brocken Chart Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-brockenweihnachten-mp3-256-6179142?sABC=62q0535p%25230%25236rso9320885pp0rq82o1r4379sor26os%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1657819996:Radio Brocken Christmas Radio
+#DESCRIPTION Radio Brocken Christmas Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-rbfete-mp3-256-8968129?sABC=62q0534o%25230%25236rso9320885pp0rq82o1r4379sor26os%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1657819979:Radio Brocken Fetenhits
+#DESCRIPTION Radio Brocken Fetenhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-brockenkinderzeit-mp3-256-7589034?sABC=62q05347%25230%25236rso9320885pp0rq82o1r4379sor26os%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1657819975:Radio Brocken Kinderzeit
+#DESCRIPTION Radio Brocken Kinderzeit
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-brocken80er-mp3-256-3155073?sABC=5n315s07%25230%2523n773r87961726n9p9r0pq75s80n80205%2523qverxgyvaxUC&amsparams=playerid%3adirektlinkHP;skey%3a1513185031:Radio Brocken Kulthits
 #DESCRIPTION Radio Brocken Kulthits
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//dg-ais-eco-https-fra-eco-cdn.cast.addradio.de/radiobrocken/live/mp3/mid?ar-distributor=f0b7:Radio Brocken
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal_rbrockenl_1rdw-mp3-256-1628713?sABC=62q0535o%25230%25236rso9320885pp0rq82o1r4379sor26os%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1657819995:Radio Brocken Lovesongs
+#DESCRIPTION Radio Brocken Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-rbosthits-mp3-256-7909463?sABC=62q0535r%25230%25236rso9320885pp0rq82o1r4379sor26os%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1657819998:Radio Brocken Osthits
+#DESCRIPTION Radio Brocken Osthits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-rbchill-mp3-256-2656307?sABC=62q05344%25230%25236rso9320885pp0rq82o1r4379sor26os%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1657819972:Radio Brocken Relax
+#DESCRIPTION Radio Brocken Relax
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal-rblive-mp3-256-3654873?sABC=62q0538o%25230%25236rso9320885pp0rq82o1r4379sor26os%2523zrqvnH&aw_0_1st.playerid=mediaU&amsparams=playerid%3amediaU;skey%3a1657820043:Radio Brocken
 #DESCRIPTION Radio Brocken
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/saed08c46d/listen:Radio BUH
 #DESCRIPTION Radio BUH
@@ -2875,6 +2915,8 @@
 #DESCRIPTION Radio Unerhrt Marburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiovest.c.nmdn.net/radiovest/livestream.mp3:Radio Vest (Duitsland)
 #DESCRIPTION Radio Vest (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid48.streamupsolutions.com/proxy/vipugplg/stream:Radio Vidovdan Frankfurt
+#DESCRIPTION Radio Vidovdan Frankfurt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiowaf.c.nmdn.net/radiowaf/livestream.mp3:Radio WAF (Duitsland)
 #DESCRIPTION Radio WAF (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.wellenr.c.nmdn.net/wellenr/livestream.mp3:Radio Welle Niederrhein

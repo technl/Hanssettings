@@ -1,5 +1,5 @@
 #NAME Stream Marokko (MA)
-#SERVICE 1:64:311:0:0:0:0:0:0:0:
+#SERVICE 1:64:30c:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8:RTM 1 Laayoune
 #DESCRIPTION RTM 1 Laayoune
@@ -17,7 +17,7 @@
 #DESCRIPTION RTM 6 Assadissa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8:RTM 8 Tamazight
 #DESCRIPTION RTM 8 Tamazight
-#SERVICE 1:64:312:0:0:0:0:0:0:0:
+#SERVICE 1:64:30d:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.m24tv.ma/live/smil%3aOutStream1.smil/chunklist_.m3u8:M24 TV
 #DESCRIPTION M24 TV

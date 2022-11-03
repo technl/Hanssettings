@@ -1,5 +1,5 @@
 #NAME Stream Peru (PE)
-#SERVICE 1:64:31f:0:0:0:0:0:0:0:
+#SERVICE 1:64:31c:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh4.iblups.com/hls/irtp.m3u8:TV Peru Internacional
 #DESCRIPTION TV Peru Internacional
@@ -9,8 +9,10 @@
 #DESCRIPTION TV Peru Nacional 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8:TV Perú Noticias
 #DESCRIPTION TV Perú Noticias
-#SERVICE 1:64:320:0:0:0:0:0:0:0:
+#SERVICE 1:64:31d:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8:Agro TV
+#DESCRIPTION Agro TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8:América TV
 #DESCRIPTION América TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8:Andes Televisión
@@ -93,6 +95,8 @@
 #DESCRIPTION Diáspora TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/s1tv/playlist.m3u8:DMJ
 #DESCRIPTION DMJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7.innovatestream.pe%3a19360/cctvchupaca/cctvchupaca.m3u8:Doble C Televisión
+#DESCRIPTION Doble C Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1667517699.rsc.cdn77.org/hls/radioilo.m3u8:Expresión Tacna
 #DESCRIPTION Expresión Tacna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cu.onliv3.com/livevd1/user2.m3u8:Exitosa TV
@@ -149,6 +153,8 @@
 #DESCRIPTION Matices TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3399/hybrid/play.m3u8:Mega TV Jaen
 #DESCRIPTION Mega TV Jaen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7.innovatestream.pe%3a19360/mieltv/mieltv.m3u8:Miel TV
+#DESCRIPTION Miel TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videoserver.tmcreativos.com%3a19360/nqvnhujhrx/nqvnhujhrx.m3u8:Millenium TV Lamas
 #DESCRIPTION Millenium TV Lamas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8:Millenium TV Pucallpa
@@ -161,6 +167,10 @@
 #DESCRIPTION MTV Más Ancash
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8:Nacional TV
 #DESCRIPTION Nacional TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7.innovatestream.pe%3a19360/nativatv/nativatv.m3u8:Nativa TV
+#DESCRIPTION Nativa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/norselvatv/index.m3u8:NorSelva TV
+#DESCRIPTION NorSelva TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/nuestratvlima:Nuestra TV (Lima)
 #DESCRIPTION Nuestra TV (Lima)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7.innovatestream.pe%3a19360/oasisrtv/oasisrtv.m3u8:Oasis RTV
@@ -179,7 +189,7 @@
 #DESCRIPTION Pax TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8:Perú Channel
 #DESCRIPTION Perú Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/peruviantv/peruviantv/playlist.m3u8:Peruvian Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/peruvian/peruvian/playlist.m3u8:Peruvian Radio TV
 #DESCRIPTION Peruvian Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8:Planeta TV Bagua
 #DESCRIPTION Planeta TV Bagua
@@ -217,6 +227,8 @@
 #DESCRIPTION Radio Victoria 780 AM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3090/stream/play.m3u8:Radio Xtrema
 #DESCRIPTION Radio Xtrema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.tvdatta.com%3a3950/multi_web/play.m3u8:Radio TV Tendencias
+#DESCRIPTION Radio TV Tendencias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamlive7.hearthis.at/hls/9355343.m3u8:Radio y Tv Filadelfia
 #DESCRIPTION Radio y Tv Filadelfia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvrcrperu/livercrperutv/playlist.m3u8:Red de Comunicación Regional
@@ -277,6 +289,8 @@
 #DESCRIPTION Top Latino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8:TPTO TV
 #DESCRIPTION TPTO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servilive.com%3a3244/live/trivutvlive.m3u8:Trivu
+#DESCRIPTION Trivu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.oyotunstream.com%3a1936/tropicaltv/tropicaltv/playlist.m3u8:Tropical TV Puerto Maldonado
 #DESCRIPTION Tropical TV Puerto Maldonado
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servilive.com%3a3531/live/tumpistvlive.m3u8:Tumpis TV
@@ -297,6 +311,8 @@
 #DESCRIPTION TV Peruanísima
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8:TV Sistemas Cuzco
 #DESCRIPTION TV Sistemas Cuzco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.108.83.142%3a8000/play/a006/index.m3u8:Uchu TV (Cusco)
+#DESCRIPTION Uchu TV (Cusco)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servilive.com%3a3449/live/mlecaroslive.m3u8:UCI
 #DESCRIPTION UCI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8:Unitel
@@ -317,6 +333,8 @@
 #DESCRIPTION Vía Tarapoto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//multimedia.tmcreativos.com%3a1936/visionnoticias/visionnoticias/playlist.m3u8:Visión Noticias Perú
 #DESCRIPTION Visión Noticias Perú
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8:Vision Sur (Arequipa)
+#DESCRIPTION Vision Sur (Arequipa)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//multimedia.tmcreativos.com%3a1936/visionmusica/visionmusica/playlist.m3u8:Visión TV Musica
 #DESCRIPTION Visión TV Musica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8:VNP

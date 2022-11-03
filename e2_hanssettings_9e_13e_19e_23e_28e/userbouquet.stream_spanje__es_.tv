@@ -1,17 +1,21 @@
 #NAME Stream Spanje (ES)
 #SERVICE 1:64:3ae:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7KvRE5QngxIiP2uwX9YW0f.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=355&t=live&f=ts:TVE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.3.10.233%3a8069/udp/239.250.1.1%3a1234:TVE 1
 #DESCRIPTION TVE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8:TVE 1 -2- (deels geoblocking)
+#DESCRIPTION TVE 1 -2- (deels geoblocking)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/3293681.m3u8:TVE 1 Catalunya
 #DESCRIPTION TVE 1 Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//j0blQ4LXOSGd9VxyNFiUqo.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=26151&t=live&f=ts:TVE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.3.10.233%3a8069/udp/239.250.1.2%3a1234:TVE 2
 #DESCRIPTION TVE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8:TVE 2 -2- (deels geoblocking)
+#DESCRIPTION TVE 2 -2- (deels geoblocking)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.24.132.99%3a8000/play/a01p:TVE Internacional America
 #DESCRIPTION TVE Internacional America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/uq2663/h/h158/index2.m3u8:TVE Internacional Asia-Oceania
 #DESCRIPTION TVE Internacional Asia-Oceania
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/5943:TVE Internacional Europa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//171.22.215.81%3a2223/udp/233.166.176.104%3a1234:TVE Internacional Europa
 #DESCRIPTION TVE Internacional Europa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/segments/24h/24h_main_720.m3u8:TVE Canal 24 Horas
 #DESCRIPTION TVE Canal 24 Horas
@@ -23,30 +27,26 @@
 #DESCRIPTION RTVE Play 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/bitrate_2.m3u8:RTVE Play 4
 #DESCRIPTION RTVE Play 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//IKbO6DCl8Nsuk3ZT192XML.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=3832&t=live&f=ts:Clan TVE
-#DESCRIPTION Clan TVE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//EsvBl9TOnPVMGH8hde1g0x.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=3857&t=live&f=ts:TVE Teledeporte
-#DESCRIPTION TVE Teledeporte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//oWwxls1niIgJTmLG57Ae4N.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=3790&t=live&f=ts:Antena 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.3.10.233%3a8069/udp/239.250.4.1%3a1234:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8:3/24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-origin/canal324-hls/bitrate_7.m3u8:3/24
 #DESCRIPTION 3/24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-origin/tvi-hls/bitrate_1.m3u8:TV3 Catalunya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-origin/tvi-hls/bitrate_7.m3u8:TV3 Catalunya
 #DESCRIPTION TV3 Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jD8Ax1iz2OpSB5qTGsYELZ.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=351&t=live&f=ts:Cuatro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.3.10.233%3a8069/udp/239.250.5.2%3a1234:Cuatro
 #DESCRIPTION Cuatro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//WN1L2vh7OMp5rRjT30KuCD.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=374&t=live&f=ts:Telecinco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.3.10.233%3a8069/udp/239.250.5.1%3a1234:Telecinco
 #DESCRIPTION Telecinco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pO1BMxzr4jw2HNK9od6YkE.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=356&t=live&f=ts:La Sexta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.3.10.233%3a8069/udp/239.250.4.2%3a1234:La Sexta
 #DESCRIPTION La Sexta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8:7 Noticias
 #DESCRIPTION 7 Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtv-murcia-live.globalmest.com/stream/abr/first.m3u8:7 Televisión Región de Murcia
+#DESCRIPTION 7 Televisión Región de Murcia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la7live/smil%3achannel1.smil/chunklist_b2200000.m3u8:La 7
 #DESCRIPTION La 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la7live/smil%3achannel1.smil/master.m3u8:La 7 Web
 #DESCRIPTION La 7 Web
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/285770:La 8
-#DESCRIPTION La 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8avilalive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Avila
 #DESCRIPTION La 8 Avila
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8bierzolive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Bierzo
@@ -55,14 +55,10 @@
 #DESCRIPTION La 8 Burgos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8leonlive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Leon
 #DESCRIPTION La 8 Leon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8:La 8 Mediterráneo
-#DESCRIPTION La 8 Mediterráneo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8palencialive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Palencia
 #DESCRIPTION La 8 Palencia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8salamancalive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Salamanca
 #DESCRIPTION La 8 Salamanca
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8segovialive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Segovia
-#DESCRIPTION La 8 Segovia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8sorialive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Soria
 #DESCRIPTION La 8 Soria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/la8valladolidlive/smil%3astreamswitchingchannel.smil/playlist.m3u8:La 8 Valladolid

@@ -33,8 +33,8 @@
 #DESCRIPTION De Piratenclub
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-26.stream-server.nl%3a8624/:De Veluwse Piraten
 #DESCRIPTION De Veluwse Piraten
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.devrijeradio.nl:De Vrije Radio (Groningen + Drenthe)
-#DESCRIPTION De Vrije Radio (Groningen + Drenthe)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamunit.nl%3a2020/stream/vrijeradio:De Vrije Radio (De Krim)
+#DESCRIPTION De Vrije Radio (De Krim)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.154.168.210%3a8069:De Vrolijke Etherkrakers
 #DESCRIPTION De Vrolijke Etherkrakers
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.vrolijkepiraat.nl/:De Vrolijke Piraat
@@ -236,6 +236,8 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-66.stream-server.nl%3a8838/:Radio Esperando
 #DESCRIPTION Radio Esperando
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.72.149.48%3a8108/stream:Radio Expansie
+#DESCRIPTION Radio Expansie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//everestcast.live-streams.nl%3a8816/stream:Radio Expansie
 #DESCRIPTION Radio Expansie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8024/stream:Radio Fantasy Rotterdam
 #DESCRIPTION Radio Fantasy Rotterdam

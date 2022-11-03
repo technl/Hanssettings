@@ -1,5 +1,5 @@
 #NAME Stream Zweden (SE)
-#SERVICE 1:64:266:0:0:0:0:0:0:0:
+#SERVICE 1:64:25f:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/1/index.m3u8:SVT 1
 #DESCRIPTION SVT 1
@@ -23,7 +23,7 @@
 #DESCRIPTION Kanal 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/12/index.m3u8:TV 12
 #DESCRIPTION TV 12
-#SERVICE 1:64:267:0:0:0:0:0:0:0:
+#SERVICE 1:64:260:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/284734:Aftonbladet TV
 #DESCRIPTION Aftonbladet TV
