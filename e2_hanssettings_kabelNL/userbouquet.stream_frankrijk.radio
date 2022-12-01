@@ -973,6 +973,8 @@
 #DESCRIPTION TSF Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/upradio-96.mp3:UP radio
 #DESCRIPTION UP radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webvib-region.ice.infomaniak.ch/webvib-region-128.mp3:Vibration
+#DESCRIPTION Vibration
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/jazz-wr15-128.mp3:Victoria Hall JazzRadio
 #DESCRIPTION Victoria Hall JazzRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.virginradio.fr/vr-wr6.mp3:Virgin Radiko Tonic Radio

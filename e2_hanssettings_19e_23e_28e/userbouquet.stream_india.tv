@@ -33,12 +33,12 @@
 #DESCRIPTION ABP Ganga
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8:ABP Majha
 #DESCRIPTION ABP Majha
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8:ABP News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8:ABP News
 #DESCRIPTION ABP News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ammacable.com%3a1935/acn/acncinema/playlist.m3u8:ACN Cinema
 #DESCRIPTION ACN Cinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akaal.zecast.net/akaal-live/smil%3aakaaltv.smil/chunklist_w2085417759_b1096000_slEN.m3u8?nimblesessionid=717876588:Akaal Channel UK
-#DESCRIPTION Akaal Channel UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akaal.zecast.net/akaal-live/smil%3aakaaltv.smil/playlist.m3u8:Akaal TV
+#DESCRIPTION Akaal TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akaram.zecast.net/akaram-live/akaramkidz/index.m3u8:Akaram Kidz
 #DESCRIPTION Akaram Kidz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8:AKD Calcutta News
@@ -209,11 +209,13 @@
 #DESCRIPTION Janta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livematrix.in%3a1935/live/jay/index.m3u8:Jay
 #DESCRIPTION Jay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//128.199.90.131%3a1935/jektv/myStream/playlist.m3u8:Jek TV
+#DESCRIPTION Jek TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8:Jhanjar Music
 #DESCRIPTION Jhanjar Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8:Jonack TV
 #DESCRIPTION Jonack TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/people/Live/Channel(People)/index.m3u8:Kairali News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/kairalinews/index.m3u8?token=693400:Kairali News
 #DESCRIPTION Kairali News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.com/neestream_01/kairalitv/playlist.m3u8:Kairali TV
 #DESCRIPTION Kairali TV
@@ -229,6 +231,8 @@
 #DESCRIPTION Kannur Vision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kanshitv.co.uk/mobile/kanshitvkey.m3u8:Kanshi TV
 #DESCRIPTION Kanshi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//idvd.multitvsolution.com/idvo/kappatv.m3u8:Kappa TV
+#DESCRIPTION Kappa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.wmncdn.net/kaumuditv1/live.stream/index.m3u8:Kaumudy TV
 #DESCRIPTION Kaumudy TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kcltv.livebox.co.in/kclhls/live.m3u8:KCL TV
@@ -277,7 +281,7 @@
 #DESCRIPTION Marutam TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8:Mastiii
 #DESCRIPTION Mastiii
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8:Mathrubhumi News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/mathrubhuminews/index.m3u8?token=693400:Mathrubhumi News
 #DESCRIPTION Mathrubhumi News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0kd/index.m3u8:Mazhavil Manorama
 #DESCRIPTION Mazhavil Manorama
@@ -411,6 +415,8 @@
 #DESCRIPTION Punjab TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//query-streamlink.herokuapp.com/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg/live:Puthiya Thalaimurai
 #DESCRIPTION Puthiya Thalaimurai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCfPag4Qmnif6fw25HEIqF6w/live:Raj News Malayalam
+#DESCRIPTION Raj News Malayalam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8:RDX Goa TV
 #DESCRIPTION RDX Goa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8:Real News Kerala
@@ -465,6 +471,8 @@
 #DESCRIPTION SD Media
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8:Serveur TV
 #DESCRIPTION Serveur TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8:Shalom TV
+#DESCRIPTION Shalom TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0ok/index.m3u8:Shekinah TV
 #DESCRIPTION Shekinah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525:Shirdi Live
@@ -497,8 +505,6 @@
 #DESCRIPTION Suvarna News 24×7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/chunks.m3u8:SVBC
 #DESCRIPTION SVBC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/tamil/svbc21/chunks.m3u8:SVBC 2
-#DESCRIPTION SVBC 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//131.153.22.8%3a1935/SWANTHAM/live/playlist.m3u8:Swantham
 #DESCRIPTION Swantham
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.wmncdn.net/highnews/swaraj.stream/index.m3u8:Swaraj Express

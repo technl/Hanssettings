@@ -1,5 +1,5 @@
 #NAME Stream Koeweit (KW)
-#SERVICE 1:64:367:0:0:0:0:0:0:0:
+#SERVICE 1:64:3a3:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTV1:KTV 1
 #DESCRIPTION KTV 1
@@ -19,14 +19,16 @@
 #DESCRIPTION KTV Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSportPlus:KTV Sport Plus
 #DESCRIPTION KTV Sport Plus
-#SERVICE 1:64:368:0:0:0:0:0:0:0:
+#SERVICE 1:64:3a4:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8:Al Bawadi
 #DESCRIPTION Al Bawadi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8484_1/8484_1/playlist.m3u8:Al Maali TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kali.vdopanel.com%3a3986/live/mbashalive.m3u8:Al Maali TV
 #DESCRIPTION Al Maali TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.175.40%3a1935/liveTrans/ngrp%3achannel23_all/chunklist.m3u8:Al Maaref TV
 #DESCRIPTION Al Maaref TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.al-mahdi.tv/hls/1234.m3u8:Al-Mahdi TV
+#DESCRIPTION Al-Mahdi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8:Al Sabah
 #DESCRIPTION Al Sabah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8:Al Shahed HD
@@ -43,3 +45,5 @@
 #DESCRIPTION Funoon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/marinai/live:Marina TV
 #DESCRIPTION Marina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcdramaksa-ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8:MBC Drama KSA
+#DESCRIPTION MBC Drama KSA

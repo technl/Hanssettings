@@ -1,6 +1,6 @@
 #NAME Stream Marokko (MA)
-#SERVICE 1:64:21f:0:0:0:0:0:0:0:
-#DESCRIPTION ++hoofdzenders++
+#SERVICE 1:64:258:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8:RTM 1 Laayoune
 #DESCRIPTION RTM 1 Laayoune
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8:RTM 1 International
@@ -17,10 +17,12 @@
 #DESCRIPTION RTM 6 Assadissa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8:RTM 8 Tamazight
 #DESCRIPTION RTM 8 Tamazight
-#SERVICE 1:64:220:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.m24tv.ma/live/smil%3aOutStream1.smil/chunklist_.m3u8:M24 TV
-#DESCRIPTION M24 TV
+#SERVICE 1:64:259:0:0:0:0:0:0:0:
+#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alwifaklive.info%3a1935/live/myStream/playlist.m3u8:Al Wifak
+#DESCRIPTION Al Wifak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.m24tv.ma/live/smil%3aOutStream1.smil/chunklist_.m3u8:M24 Morocco
+#DESCRIPTION M24 Morocco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f72f3a9b06b7.streamlock.net/live/smil%3amedi1fr.smil/playlist.m3u8:Medi 1 TV Afrique
 #DESCRIPTION Medi 1 TV Afrique
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f72f3a9b06b7.streamlock.net/live/smil%3amedi1ar.smil/playlist.m3u8:Medi 1 TV Arabic

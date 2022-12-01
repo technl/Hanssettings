@@ -1,5 +1,5 @@
 #NAME Stream Duitsland (DE)
-#SERVICE 1:64:224:0:0:0:0:0:0:0:
+#SERVICE 1:64:234:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders-publieke omroepen++
 #SERVICE 4097:0:1:6dca:44d:1:c00000:0:0:0:http%3a//77.20.92.117%3a9981/stream/channelid/1693951286?profile=pass:ARD
 #DESCRIPTION ARD
@@ -69,7 +69,7 @@
 #DESCRIPTION 3sat
 #SERVICE 4097:0:1:6d68:437:1:c00000:0:0:0:http%3a//77.20.92.117%3a9981/stream/channelid/1355308171?profile=pass:KiKA
 #DESCRIPTION KiKA
-#SERVICE 1:64:225:0:0:0:0:0:0:0:
+#SERVICE 1:64:235:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders commerciële omroepen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SqeqWqBfwHZGztRNyfsjS-KEzn4sIraKo6RBYjKGCoog:Bild TV
 #DESCRIPTION Bild TV
@@ -125,7 +125,7 @@
 #DESCRIPTION VOX Up
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.20.92.117%3a9981/stream/channelid/256992791?profile=pass:WELT
 #DESCRIPTION WELT
-#SERVICE 1:64:226:0:0:0:0:0:0:0:
+#SERVICE 1:64:236:0:0:0:0:0:0:0:
 #DESCRIPTION ++lokale zenders++
 #SERVICE 4097:0:1:16a8:3ff:1:c00000:0:0:0:http%3a//178.248.241.103/iptv/atv.ts:a.tv HD
 #DESCRIPTION a.tv HD
@@ -329,7 +329,7 @@
 #DESCRIPTION Weser TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250%3a1935/medienasa-live/ok-wettin_high/playlist.m3u8?fluxustv.m3u8:WTV Wettin
 #DESCRIPTION WTV Wettin
-#SERVICE 1:64:227:0:0:0:0:0:0:0:
+#SERVICE 1:64:237:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3 TV 
 #DESCRIPTION 1-2-3 TV 
@@ -445,3 +445,5 @@
 #DESCRIPTION VISIT-X.tv 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/ik%3awir24tv_hms/manifest.m3u8:Wir 24 TV
 #DESCRIPTION Wir 24 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xite-samsung-de.amagi.tv/playlist.m3u8:Xite
+#DESCRIPTION Xite

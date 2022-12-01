@@ -1,5 +1,5 @@
 #NAME Stream UK - algemeen + diversen
-#SERVICE 1:64:4c6:0:0:0:0:0:0:0:
+#SERVICE 1:64:503:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio BBC algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_one:BBC Radio 1
 #DESCRIPTION BBC Radio 1
@@ -39,7 +39,7 @@
 #DESCRIPTION BBC Asian Network
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-urdua_backup:BBC Urdu
 #DESCRIPTION BBC Urdu
-#SERVICE 1:64:4c7:0:0:0:0:0:0:0:
+#SERVICE 1:64:504:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr5.1mix.co.uk%3a8020/;:1 Mix Radio (UK algemeen)
 #DESCRIPTION 1 Mix Radio (UK algemeen)
@@ -73,6 +73,8 @@
 #DESCRIPTION Absolute Radio 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.viastreaming.net%3a7030/;:Angel Radio
 #DESCRIPTION Angel Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-awaite.sharp-stream.com/aspenwaiteprem.mp3:Aspen Waite Radio
+#DESCRIPTION Aspen Waite Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bsj-audio-stream.roddy.xyz%3a8002/stream.ogg:Best Smooth Jazz (UK algemeen)
 #DESCRIPTION Best Smooth Jazz (UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s5c5da6a36/listen:Birdsong Radio (Londen, Engeland, UK)
@@ -117,6 +119,8 @@
 #DESCRIPTION Fix Radio London
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-ads-03-gos2.sharp-stream.com/funkids.mp3:Fun Kids Radio
 #DESCRIPTION Fun Kids Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen-gaydio.sharp-stream.com/gaydiouk.mp3:Gaydio UK
+#DESCRIPTION Gaydio UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s7.yesstreaming.net%3a8050/stream:GlitterBeam (LGBTQ+ radio)
 #DESCRIPTION GlitterBeam (LGBTQ+ radio)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//philae.shoutca.st%3a8161/stream:Golden Oldies (UK algemeen)
@@ -173,7 +177,7 @@
 #DESCRIPTION Nation 60s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen-nation.sharp-stream.com/nationradio70s.aac:Nation 70s
 #DESCRIPTION Nation 70s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-nation.sharp-stream.com/nationradio80s.aac:Nation 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen-nation.sharp-stream.com/nationradio80s.mp3:Nation 80s
 #DESCRIPTION Nation 80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-nation.sharp-stream.com/nationradio90s.mp3:Nation 90s
 #DESCRIPTION Nation 90s
@@ -271,15 +275,15 @@
 #DESCRIPTION Virgin Radio Pride
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.wrn.org%3a8026/:WRN English for Europe
 #DESCRIPTION WRN English for Europe
-#SERVICE 1:64:4c8:0:0:0:0:0:0:0:
+#SERVICE 1:64:505:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Gibraltar++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.123.118.13%3a8041/stream:GBC Radio = Radio Gibraltar (Gibraltar)
 #DESCRIPTION GBC Radio = Radio Gibraltar (Gibraltar)
-#SERVICE 1:64:4c9:0:0:0:0:0:0:0:
+#SERVICE 1:64:506:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio overzee++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.inselradio.com/high.sunshine.mp3:Mallorca Sunshine Radio (Engelstalig)
 #DESCRIPTION Mallorca Sunshine Radio (Engelstalig)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.28.53.118%3a7001/stream/:Talk Radio Europe Costa Blanca
 #DESCRIPTION Talk Radio Europe Costa Blanca
-#SERVICE 1:64:4ca:0:0:0:0:0:0:0:
+#SERVICE 1:64:507:0:0:0:0:0:0:0:
 #DESCRIPTION +++BFBS in apart boeket+++

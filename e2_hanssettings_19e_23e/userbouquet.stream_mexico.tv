@@ -1,5 +1,5 @@
 #NAME Stream Mexico (MX)
-#SERVICE 1:64:2de:0:0:0:0:0:0:0:
+#SERVICE 1:64:31d:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8:Azteca 1
 #DESCRIPTION Azteca 1
@@ -75,7 +75,7 @@
 #DESCRIPTION UDG TV 44 Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8:Canal 45
 #DESCRIPTION Canal 45
-#SERVICE 1:64:2df:0:0:0:0:0:0:0:
+#SERVICE 1:64:31e:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8:A Son de Salsa
 #DESCRIPTION A Son de Salsa
@@ -145,6 +145,8 @@
 #DESCRIPTION MVM Noticias Oaxaca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.live.novotempo.com/tv/smil%3atvnuevotiempo.smil/playlist.m3u8:Nuevo Tiempo
 #DESCRIPTION Nuevo Tiempo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vivo.canaloncelive.tv/alivepkgr3/ngrp%3acepro_all/playlist.m3u8:Once Mexico
+#DESCRIPTION Once Mexico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca3e84a76d30.streamlock.net/gpacifico3/smil%3aobregon.smil/playlist.m3u8:POP TV
 #DESCRIPTION POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eff35271151c.streamlock.net%3a1936/8032/8032/playlist.m3u8:Radio Ritmo FM

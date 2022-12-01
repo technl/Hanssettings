@@ -1,5 +1,5 @@
 #NAME Stream Oekraïne (UA)
-#SERVICE 1:64:40b:0:0:0:0:0:0:0:
+#SERVICE 1:64:445:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders UA++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/tysafm-mp3:Tisa FM
 #DESCRIPTION Tisa FM
@@ -55,7 +55,7 @@
 #DESCRIPTION UR Zjytomyr-golf
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/zwave-mp3:Zjytomyr Wave Radio
 #DESCRIPTION Zjytomyr Wave Radio
-#SERVICE 1:64:40c:0:0:0:0:0:0:0:
+#SERVICE 1:64:446:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.138.92.174%3a8001/live:1TV radio (Odessa)
 #DESCRIPTION 1TV radio (Odessa)
@@ -223,6 +223,8 @@
 #DESCRIPTION Stryi FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunfmua.com%3a8000/liveplus:Sun FM
 #DESCRIPTION Sun FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.nrcu.gov.ua/ur2-mp3:Suspilne Radio
+#DESCRIPTION Suspilne Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//134.249.255.98%3a8000/terra:Terra FM
 #DESCRIPTION Terra FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.topradio.in.ua/topradio.mp3:Top Radio
@@ -249,7 +251,7 @@
 #DESCRIPTION Zakarpattya FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.ukr.radio%3a8000/zwave-mp3-m:Zhytomyrsʹka Khvylya
 #DESCRIPTION Zhytomyrsʹka Khvylya
-#SERVICE 1:64:40d:0:0:0:0:0:0:0:
+#SERVICE 1:64:447:0:0:0:0:0:0:0:
 #DESCRIPTION ++via Polen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rs201-krk.rmfstream.pl/RMFUKRAINA:RMF Ukraina
 #DESCRIPTION RMF Ukraina

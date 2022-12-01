@@ -1,5 +1,5 @@
 #NAME Stream Pluto TV Engeland
-#SERVICE 1:64:402:0:0:0:0:0:0:0:
+#SERVICE 1:64:43c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto comedy++
 #SERVICE 4097:0:1:604:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db81695a95186000941ee8b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Beverly Hillbillies
 #DESCRIPTION Beverly Hillbillies
@@ -17,7 +17,7 @@
 #DESCRIPTION Pluto TV Stand Up
 #SERVICE 4097:0:1:607:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d819e738977e2c31096a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:The Pet Collective
 #DESCRIPTION The Pet Collective
-#SERVICE 1:64:403:0:0:0:0:0:0:0:
+#SERVICE 1:64:43d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto crime++
 #SERVICE 4097:0:1:207:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:5 Cops
 #DESCRIPTION 5 Cops
@@ -39,6 +39,10 @@
 #DESCRIPTION Homicide Hunter
 #SERVICE 4097:0:1:208:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c49f1495f417000731cef0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Inside Crime UK
 #DESCRIPTION Inside Crime UK
+#SERVICE 4097:0:1:25:106:0:0:0:0:0:https%3a//service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/622f498d119b4c000719c0b7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=8a90967e0a8b11edaf65001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=de76508d867d44588685496cb97d61d5&userId=:Judge Judy
+#DESCRIPTION Judge Judy
+#SERVICE 4097:0:1:405:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600acdc434a37000070004cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Judge Nosey
+#DESCRIPTION Judge Nosey
 #SERVICE 4097:0:1:204:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/615af74dfe3d8e0007524511/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:On The Case
 #DESCRIPTION On The Case
 #SERVICE 4097:0:1:200:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Crime
@@ -51,12 +55,14 @@
 #DESCRIPTION Unsolved Mysteries
 #SERVICE 4097:0:1:206:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e393d5c696b3b0009775c8b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:The New Detectives
 #DESCRIPTION The New Detectives
-#SERVICE 1:64:404:0:0:0:0:0:0:0:
+#SERVICE 1:64:43e:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto ducumentaires++
+#SERVICE 4097:0:1:854:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e8cb585ef320007806caf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:5 Britain at War
+#DESCRIPTION 5 Britain at War
 #SERVICE 4097:0:1:559:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:5 Building Britain
 #DESCRIPTION 5 Building Britain
-#SERVICE 4097:0:1:697d:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d2c560e8d97ff74848c697d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:5 Exploring Britain+
-#DESCRIPTION 5 Exploring Britain+
+#SERVICE 4097:0:1:904:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:5 Exploring Britain
+#DESCRIPTION 5 Exploring Britain
 #SERVICE 4097:0:1:574:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc2a69bc928a600093a7976/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Get.factual
 #DESCRIPTION Get.factual
 #SERVICE 4097:0:1:550:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Animals
@@ -75,9 +81,11 @@
 #DESCRIPTION Pluto TV Space
 #SERVICE 4097:0:1:564:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d1e9e738977e2c310925/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Voyager Documentaries
 #DESCRIPTION Voyager Documentaries
+#SERVICE 4097:0:1:853:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6319ee0cf78bb10007ee5e6b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:World War TV
+#DESCRIPTION World War TV
 #SERVICE 4097:0:1:903:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625567abd664ea0007605f34/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:World's Greatest
 #DESCRIPTION World's Greatest
-#SERVICE 1:64:405:0:0:0:0:0:0:0:
+#SERVICE 1:64:43f:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto entertainment++
 #SERVICE 4097:0:1:309:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c362ded581a86051df509b4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Fear Factor
 #DESCRIPTION Fear Factor
@@ -91,16 +99,16 @@
 #DESCRIPTION Pimp my Ride
 #SERVICE 4097:0:1:310:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Secret Dealers
 #DESCRIPTION Secret Dealers
-#SERVICE 4097:0:1:30:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac3f4cfd95d4000781a2d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:The Ed Sullivan Show
-#DESCRIPTION The Ed Sullivan Show
 #SERVICE 4097:0:1:308:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea190ae85a26900075a80e9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Wipeout
 #DESCRIPTION Wipeout
-#SERVICE 1:64:406:0:0:0:0:0:0:0:
+#SERVICE 1:64:440:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto extra++
 #SERVICE 4097:0:1:697d:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c560e8d97ff74848c697d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:5 Building Britain+
 #DESCRIPTION 5 Building Britain+
 #SERVICE 4097:0:1:9db:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d9f6e738977e2c3109db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:5 Cops+
 #DESCRIPTION 5 Cops+
+#SERVICE 4097:0:1:697d:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d2c560e8d97ff74848c697d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:5 Exploring Britain+
+#DESCRIPTION 5 Exploring Britain+
 #SERVICE 4097:0:1:4872:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc2c5299c91420009db4872/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:5 GP's+
 #DESCRIPTION 5 GP's+
 #SERVICE 4097:0:1:b390:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/604120c68e5204000747b390/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Mythbusters+
@@ -133,7 +141,7 @@
 #DESCRIPTION Pluto TV Romance+
 #SERVICE 4097:0:1:afc6:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d5aefd87eb3a2717afc6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Sports+
 #DESCRIPTION Pluto TV Sports+
-#SERVICE 1:64:407:0:0:0:0:0:0:0:
+#SERVICE 1:64:441:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto films++
 #SERVICE 4097:0:1:51:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Action
 #DESCRIPTION Pluto TV Action
@@ -141,8 +149,8 @@
 #DESCRIPTION Pluto TV Christmas in Summer
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Classic TV
 #DESCRIPTION Pluto TV Classic TV
-#SERVICE 4097:0:1:61:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Comedy
-#DESCRIPTION Pluto TV Comedy
+#SERVICE 4097:0:1:61:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Comedy Movies
+#DESCRIPTION Pluto TV Comedy Movies
 #SERVICE 4097:0:1:53:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Cult Films
 #DESCRIPTION Pluto TV Cult Films
 #SERVICE 4097:0:1:59:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Drama
@@ -167,7 +175,7 @@
 #DESCRIPTION RiffTrax
 #SERVICE 4097:0:1:56:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c45f0427b2c0c065e91aab5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:The Asylum Channel
 #DESCRIPTION The Asylum Channel
-#SERVICE 1:64:408:0:0:0:0:0:0:0:
+#SERVICE 1:64:442:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto jeugd++
 #SERVICE 4097:0:1:904:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Anime All Day
 #DESCRIPTION Anime All Day
@@ -175,6 +183,8 @@
 #DESCRIPTION Arthur
 #SERVICE 4097:0:1:29:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac405b3874370007419b7f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Barney & Friends
 #DESCRIPTION Barney & Friends
+#SERVICE 4097:0:1:307:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62a069bfd88ef000073f6775/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Garfield & Friends
+#DESCRIPTION Garfield & Friends
 #SERVICE 4097:0:1:901:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Inspector Gadget
 #DESCRIPTION Inspector Gadget
 #SERVICE 4097:0:1:905:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/60cc68f4b2591a0007f0ac65/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Little Baby Bum
@@ -193,7 +203,17 @@
 #DESCRIPTION Pluto TV Retro Toons
 #SERVICE 4097:0:1:902:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Sabrina Teenage Witch
 #DESCRIPTION Sabrina Teenage Witch
-#SERVICE 1:64:409:0:0:0:0:0:0:0:
+#SERVICE 1:64:443:0:0:0:0:0:0:0:
+#DESCRIPTION ++Pluto Kerst++
+#SERVICE 4097:0:1:34:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd8282253ed2c6334ea10fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Fireplace
+#DESCRIPTION Fireplace
+#SERVICE 4097:0:1:33:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd832fd1843b56328bac0c7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Holiday Lights
+#DESCRIPTION Holiday Lights
+#SERVICE 4097:0:1:31:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd8273953ed2c6334ea10f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Christmas
+#DESCRIPTION Pluto TV Christmas
+#SERVICE 4097:0:1:32:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc039c65b56d0000945af0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Mistletoe
+#DESCRIPTION Pluto TV Mistletoe
+#SERVICE 1:64:444:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto lifestyle++
 #SERVICE 4097:0:1:535:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/6152da8b32a1450008391e85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:5 Cruising with Jane McDonald
 #DESCRIPTION 5 Cruising with Jane McDonald
@@ -239,7 +259,7 @@
 #DESCRIPTION Sarah's House
 #SERVICE 4097:0:1:504:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d4fb828c94000771339e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Tastemade
 #DESCRIPTION Tastemade
-#SERVICE 1:64:40a:0:0:0:0:0:0:0:
+#SERVICE 1:64:445:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto motor++
 #SERVICE 4097:0:1:578:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca1de9208ee5378be82db3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Fifth Gear
 #DESCRIPTION Fifth Gear
@@ -249,7 +269,7 @@
 #DESCRIPTION Motorvision TV
 #SERVICE 4097:0:1:576:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Motor
 #DESCRIPTION Pluto TV Motor
-#SERVICE 1:64:40b:0:0:0:0:0:0:0:
+#SERVICE 1:64:446:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto muziek++
 #SERVICE 4097:0:1:307:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad1a372e57c0007dbee5a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Clubbing TV
 #DESCRIPTION Clubbing TV
@@ -257,9 +277,13 @@
 #DESCRIPTION MTV Movie Hits
 #SERVICE 4097:0:1:40:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625eb3e245f5bc0007810046/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Reality
 #DESCRIPTION MTV Reality
+#SERVICE 4097:0:1:30:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61560abb6ae4b60007300555/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV K-Pop
+#DESCRIPTION Pluto TV K-Pop
 #SERVICE 4097:0:1:650:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Music
 #DESCRIPTION Pluto TV Music
-#SERVICE 1:64:40c:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:30:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac3f4cfd95d4000781a2d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:The Ed Sullivan Show
+#DESCRIPTION The Ed Sullivan Show
+#SERVICE 1:64:447:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto nieuws++
 #SERVICE 4097:0:1:801:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/61559552dd585f0007321eca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Bloomberg TV
 #DESCRIPTION Bloomberg TV
@@ -269,7 +293,7 @@
 #DESCRIPTION Cheddar
 #SERVICE 4097:0:1:800:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca1da6c593a5d78f0e7edce/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Euronews
 #DESCRIPTION Euronews
-#SERVICE 1:64:40d:0:0:0:0:0:0:0:
+#SERVICE 1:64:448:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto paranormaal++
 #SERVICE 4097:0:1:217:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/611f85396abc84000738417b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Beyond Belief%3a Fact or Fiction
 #DESCRIPTION Beyond Belief: Fact or Fiction
@@ -277,6 +301,8 @@
 #DESCRIPTION Ghost Dimension
 #SERVICE 4097:0:1:220:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Ghost Hunters
 #DESCRIPTION Ghost Hunters
+#SERVICE 4097:0:1:203:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6319f06067a3ee000708af95/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Haunt TV
+#DESCRIPTION Haunt TV
 #SERVICE 4097:0:1:222:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f042bf0241c6f0007721021/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Insight TV
 #DESCRIPTION Insight TV
 #SERVICE 4097:0:1:218:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c4a09d6c959f0007189c93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Mystery TV
@@ -287,7 +313,7 @@
 #DESCRIPTION Pluto TV Conspiracy
 #SERVICE 4097:0:1:215:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Paranormal
 #DESCRIPTION Pluto TV Paranormal
-#SERVICE 1:64:40e:0:0:0:0:0:0:0:
+#SERVICE 1:64:449:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto reality++
 #SERVICE 4097:0:1:29:106:0:0:0:0:0:https%3a//service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62ac50e92c48f900071444c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=8a90967e0a8b11edaf65001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=de76508d867d44588685496cb97d61d5&userId=:Auction Hunters
 #DESCRIPTION Auction Hunters
@@ -301,10 +327,6 @@
 #DESCRIPTION Duck Dynasty
 #SERVICE 4097:0:1:358:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3639dd01112605397333a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Ice Pilots
 #DESCRIPTION Ice Pilots
-#SERVICE 4097:0:1:25:106:0:0:0:0:0:https%3a//service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/622f498d119b4c000719c0b7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=8a90967e0a8b11edaf65001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=de76508d867d44588685496cb97d61d5&userId=:Judge Judy
-#DESCRIPTION Judge Judy
-#SERVICE 4097:0:1:353:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/600acdc434a37000070004cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Judge Nosey
-#DESCRIPTION Judge Nosey
 #SERVICE 4097:0:1:35:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/623464d7185bef0007e337c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Adventure
 #DESCRIPTION Pluto TV Adventure
 #SERVICE 4097:0:1:351:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e4bf0db50560a000948ce52/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV HER
@@ -325,7 +347,7 @@
 #DESCRIPTION Truly
 #SERVICE 4097:0:1:361:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0dc00b15eef10007726ef7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Undercover Boss Global
 #DESCRIPTION Undercover Boss Global
-#SERVICE 1:64:40f:0:0:0:0:0:0:0:
+#SERVICE 1:64:44a:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto series++
 #SERVICE 4097:0:1:28:106:0:0:0:0:0:https%3a//service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62d556fe2888ce000764b3fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=8a90967e0a8b11edaf65001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=de76508d867d44588685496cb97d61d5&userId=:16 & Pregnant
 #DESCRIPTION 16 & Pregnant
@@ -335,10 +357,14 @@
 #DESCRIPTION Baywatch
 #SERVICE 4097:0:1:411:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8f8622166000071a929f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:BET Pluto TV
 #DESCRIPTION BET Pluto TV
+#SERVICE 4097:0:1:26:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6332ec9dec5a890007f8a285/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Charlie's Angels
+#DESCRIPTION Charlie's Angels
 #SERVICE 4097:0:1:26:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62da7819be7a97000878eb92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CSI%3a Miami
 #DESCRIPTION CSI: Miami
 #SERVICE 4097:0:1:27:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62da778fad95670007f610c0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CSI%3a New York
 #DESCRIPTION CSI: New York
+#SERVICE 4097:0:1:27:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6332ef57ff2cae0007072473/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Hart to Hart
+#DESCRIPTION Hart to Hart
 #SERVICE 4097:0:1:408:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081738748d3200007afb24b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Highway to Heaven
 #DESCRIPTION Highway to Heaven
 #SERVICE 4097:0:1:416:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Hunter
@@ -355,6 +381,10 @@
 #DESCRIPTION Pacific Blue
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS:Pluto TV Doctor Who Classic
 #DESCRIPTION Pluto TV Doctor Who Classic
+#SERVICE 4097:0:1:28:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac41e32241f500073e9e78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Great British Drama
+#DESCRIPTION Pluto TV Great British Drama
+#SERVICE 4097:0:1:29:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac54bda1c8650007e9d1c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV K-Drama
+#DESCRIPTION Pluto TV K-Drama
 #SERVICE 4097:0:1:410:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91f19c2c3300098ce961/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Retro Drama
 #DESCRIPTION Pluto TV Retro Drama
 #SERVICE 4097:0:1:402:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/619247c34a270700077c8415/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Sci-fi Series
@@ -363,6 +393,10 @@
 #DESCRIPTION Pluto TV Series
 #SERVICE 4097:0:1:414:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Pluto TV Sherlock
 #DESCRIPTION Pluto TV Sherlock
+#SERVICE 4097:0:1:77:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f53dc6ee9a0400071dc22b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Sitcoms
+#DESCRIPTION Pluto TV Sitcoms
+#SERVICE 4097:0:1:25:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625eb654ee6c0c0007de799d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Starsky & Hutch/The Shield
+#DESCRIPTION Starsky & Hutch/The Shield
 #SERVICE 4097:0:1:406:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/612cd8bfd140e900077fd705/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:The Bold & the Beautiful
 #DESCRIPTION The Bold & the Beautiful
 #SERVICE 4097:0:1:29:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/620f70df51b0d300072cbf65/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:The Dick Van Dyke Show
@@ -371,7 +405,7 @@
 #DESCRIPTION The Nanny
 #SERVICE 4097:0:1:405:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817936fd2d70000763d2b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Wild at Heart
 #DESCRIPTION Wild at Heart
-#SERVICE 1:64:410:0:0:0:0:0:0:0:
+#SERVICE 1:64:44b:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto sport & gaming++
 #SERVICE 4097:0:1:708:106:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/60bf32701f19550007dd2ee9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.5420&deviceLon=-0.2409&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=GB&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:FUEL TV
 #DESCRIPTION FUEL TV

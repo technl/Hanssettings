@@ -83,8 +83,8 @@
 #DESCRIPTION Alles-Oberkrain
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/Alpenradio-Volksmusik:Alpenradio-Volksmusik
 #DESCRIPTION Alpenradio-Volksmusik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.105.125.110%3a14754/;:Alpin FM (AT en DE)
-#DESCRIPTION Alpin FM (AT en DE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.105.125.110%3a14754/;:Alpin FM (AT en DE, uit Berchtesgaden)
+#DESCRIPTION Alpin FM (AT en DE, uit Berchtesgaden)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.80.220.12%3a8154/stream:Ambient-Art-Foundation
 #DESCRIPTION Ambient-Art-Foundation
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//annafm.ip-streaming.net/annafm:Anna FM
@@ -1187,10 +1187,16 @@
 #DESCRIPTION ISN-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icepool.silvacast.com/JACKFM.mp3:Jack-FM---Berlin
 #DESCRIPTION Jack-FM---Berlin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//jamfm.hoerradar.de/jamfm-mp3-128?sABC=5n2p9783%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523enqvb-oebjfre.vasb&amsparams=playerid%3aradio-browser.info;skey%3a1512871811:Jam-FM
-#DESCRIPTION Jam-FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//jamfm.hoerradar.de/jamfm-blacklabel-mp3-128?sABC=5n2q6pq9%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523enqvb-oebjfre.vasb&amsparams=playerid%3aradio-browser.info;skey%3a1512926425:Jam-FM---Black-Label
-#DESCRIPTION Jam-FM---Black-Label
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-jamfmlive-mp3-192-2163760:Jam FM Berlin
+#DESCRIPTION Jam FM Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-jamfmblack-mp3-192-7475360:Jam FM Black Label
+#DESCRIPTION Jam FM Black Label
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-jamfmkpop-mp3-192-9474790:Jam FM KPop
+#DESCRIPTION Jam FM KPop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-turk-mp3-192-5719410:Jam FM Turk
+#DESCRIPTION Jam FM Turk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-jamfmnmr-mp3-192-9624370:Jam FM
+#DESCRIPTION Jam FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//jazzloft.stream.laut.fm/jazzloft?pl=m3u&t302=2017-12-09_17-20-34&uuid=3067d2fa-c465-42ec-80a4-48df941168ec:Jazz-Loft-Radio
 #DESCRIPTION Jazz-Loft-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//groovefm.stream.laut.fm/groovefm?t302=2017-12-09_01-20-07&uuid=2920eab9-5205-4ef9-8a88-f207a395a18f:Jazzradio-GrooveFM
@@ -1935,8 +1941,8 @@
 #DESCRIPTION Peppermint FM
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//webradio.pirategong.de%3a8000/:Pirate Gong
 #DESCRIPTION Pirate Gong
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//webradio.pirate-radio.de/live:Pirate Radio Bayern
-#DESCRIPTION Pirate Radio Bayern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.streamonkey.net/fhn-pirateradio/stream/mp3:Pirate Radio Nürnberg
+#DESCRIPTION Pirate Radio Nürnberg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/plrchannels/hqblackbeats.mp3:Planet Radio - black-beats
 #DESCRIPTION Planet Radio - black-beats
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.planetradio.de/plrchannels/hqitunes.mp3:Planet Radio - Livecharts
@@ -3633,6 +3639,8 @@
 #DESCRIPTION RTL890 - Workout
 #SERVICE 5002:0:2:0:0:0:0:0:0:0:http%3a//s8.pop-stream.de%3a8650/listen.pls:Rundfunk Meissner
 #DESCRIPTION Rundfunk Meissner
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioblau.hoerradar.de/radioblau:Rundfunk-Kombinat Sachsen
+#DESCRIPTION Rundfunk-Kombinat Sachsen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.russianfm.de%3a8000/:Russian-FM
 #DESCRIPTION Russian-FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.russianradio.eu/:Russian-Radio
@@ -3701,8 +3709,8 @@
 #DESCRIPTION Schwarze-Welle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.schwarzwaldradio.com/schwarzwaldradio:Schwarzwald Radio
 #DESCRIPTION Schwarzwald Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secondstream.de%3a10001/:Second Stream
-#DESCRIPTION Second Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secondstream.de%3a10001/:Second Radio Sachsen
+#DESCRIPTION Second Radio Sachsen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutfm.stream.laut.fm/shout_fm?pl=m3u&t302=2017-12-15_18-20-18&uuid=665f670d-e9c9-4e19-a8f0-7614aa4dab5f:Shout-FM-Mainstream
 #DESCRIPTION Shout-FM-Mainstream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nightclub.stream.laut.fm/nightclub?t302=2017-12-15_18-30-33&uuid=5c692673-713e-432a-b305-fa18af4ca8c8:Shout-FM-Nightclub

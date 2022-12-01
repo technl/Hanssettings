@@ -5,6 +5,10 @@
 #DESCRIPTION ABN Sat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8:Afarin TV
 #DESCRIPTION Afarin TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sd343444.vodu.store%3a3356/live/Alghadeer/index.m3u8:Al Ghadeer
+#DESCRIPTION Al Ghadeer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8:Al Hurra
+#DESCRIPTION Al Hurra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general2/chunks.m3u8:Al Iraqiya TV
 #DESCRIPTION Al Iraqiya TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8:Al Iraqiya News
@@ -25,10 +29,6 @@
 #DESCRIPTION Al Sharqiya News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/alzahra/alzahra_sd.smil/chunklist_w1155487372_b2096000.m3u8:Al-Zahra TV
 #DESCRIPTION Al-Zahra TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8:Alhurra TV
-#DESCRIPTION Alhurra TV
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8:Alhurra TV Iraq
-#DESCRIPTION Alhurra TV Iraq
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//148.66.130.171%3a1935/Alahadlive/AlahadTV/chunklist_w663493765.m3u8:Alahad TV
 #DESCRIPTION Alahad TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alaraby.cdn.octivid.com/alaraby/smil%3aalaraby.stream.smil/playlist.m3u8:Alaraby TV
@@ -103,6 +103,8 @@
 #DESCRIPTION Kurdsat TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8:MBC Iraq
 #DESCRIPTION MBC Iraq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/musicalrmastv1/live:Music Al-Remas
+#DESCRIPTION Music Al-Remas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nettvstreampaid.flashmediacast.com%3a1935/nettvstreampaid/livestream/playlist.m3u8:Net TV
 #DESCRIPTION Net TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.streambrothers.com%3a1936/8226/8226/chunklist_w714146865.m3u8:NRT News

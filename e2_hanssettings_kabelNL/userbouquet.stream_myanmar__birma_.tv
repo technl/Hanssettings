@@ -1,7 +1,7 @@
 #NAME Stream Myanmar (Birma. MM)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_.m3u8:MVM
-#DESCRIPTION MVM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.81.84.130/hls/mwd/index.m3u8:MWD
 #DESCRIPTION MWD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.81.84.130/hls/mwd_variety/index.m3u8:MWD Variety
 #DESCRIPTION MWD Variety
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8:Myanmar International TV (MITV)
+#DESCRIPTION Myanmar International TV (MITV)

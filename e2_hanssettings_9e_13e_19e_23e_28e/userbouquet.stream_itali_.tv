@@ -1,5 +1,5 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:37e:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b9:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a02g:Rai 1
 #DESCRIPTION Rai 1
@@ -69,7 +69,7 @@
 #DESCRIPTION TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/283205:Sky TG 24
 #DESCRIPTION Sky TG 24
-#SERVICE 1:64:37f:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ba:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
@@ -119,6 +119,8 @@
 #DESCRIPTION Azzurra TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.68.40.210%3a8888/hls/basilicata1.m3u8:Basilicata 1 TV
 #DESCRIPTION Basilicata 1 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8:BBC Drama
+#DESCRIPTION BBC Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//backup.superstreaming.inaria.me/BFC/index.m3u8:BFC
 #DESCRIPTION BFC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//backup.superstreaming.inaria.me/BikeSmartMobilityDTT/tracks-v2a1/playlist.m3u8:Bike
@@ -375,7 +377,7 @@
 #DESCRIPTION Radio Ibiza TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/visualradio/mp4%3avisualradio/chunklist.m3u8:Radio Iglesias Sardegna
 #DESCRIPTION Radio Iglesias Sardegna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream01/streamPlaylist.m3u8:Radio Italia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8:Radio Italia TV
 #DESCRIPTION Radio Italia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9054/9054/playlist.m3u8:Radio Italia Cina TV
 #DESCRIPTION Radio Italia Cina TV

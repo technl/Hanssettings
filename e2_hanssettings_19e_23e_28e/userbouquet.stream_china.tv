@@ -1,5 +1,5 @@
 #NAME Stream China (CN)
-#SERVICE 1:64:2d6:0:0:0:0:0:0:0:
+#SERVICE 1:64:311:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225618/index.m3u8:CCTV 1 HD
 #DESCRIPTION CCTV 1 HD
@@ -43,7 +43,7 @@
 #DESCRIPTION CETV 2
 #SERVICE 4097:0:1:1b02:3fe:1:c00000:0:0:0:http%3a//news.cgtn.com/resource/live/english/cgtn-news.m3u8:CGTN
 #DESCRIPTION CGTN
-#SERVICE 1:64:2d7:0:0:0:0:0:0:0:
+#SERVICE 1:64:312:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dstpush1.retalltech.com/app/stream2.m3u8:Ānhuī Ⅰ Tónglíng Gōnggòng
 #DESCRIPTION Ānhuī Ⅰ Tónglíng Gōnggòng
@@ -331,8 +331,12 @@
 #DESCRIPTION NTD TV San Francisco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.pybtv.cn/channel1/sd/live.m3u8:Panyu, Guangzhou
 #DESCRIPTION Panyu, Guangzhou
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s21/index.m3u8:Phoenix InfoNews Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8:Phoenix Chinese Channel
+#DESCRIPTION Phoenix Chinese Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8:Phoenix InfoNews Channel
 #DESCRIPTION Phoenix InfoNews Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s21/index.m3u8:Phoenix InfoNews Channel -2-
+#DESCRIPTION Phoenix InfoNews Channel -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.pxitv.com%3a8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8:Pingxiang Education
 #DESCRIPTION Pingxiang Education
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.pxitv.com%3a8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8:Pingxiang Public

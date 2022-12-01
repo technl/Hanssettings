@@ -91,10 +91,10 @@
 #DESCRIPTION Radio Maria (Ivoorkust)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live.radiomaria.at%3a8000/rma:Radio Maria Austria (Oostenrijk)
 #DESCRIPTION Radio Maria Austria (Oostenrijk)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.radiomaria.be%3a8000/RadioMaria-96:Radio Maria België
-#DESCRIPTION Radio Maria België
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiomaria.be%3a8443/bijbellezing:Radio Maria België - Bijbellezing
 #DESCRIPTION Radio Maria België - Bijbellezing
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.radiomaria.be%3a8000/RadioMaria-96:Radio Maria België
+#DESCRIPTION Radio Maria België
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8076/:Radio Maria Bosnië
 #DESCRIPTION Radio Maria Bosnië
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//rmceng.radiomaria.ca%3a8162:Radio Maria Canada
@@ -153,6 +153,10 @@
 #DESCRIPTION Radio Reino Di Dios (Curaçao)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa1.streamon.fm/7357_24k.aac:Radio Victoria (religie - Oranjestad, Aruba)
 #DESCRIPTION Radio Victoria (religie - Oranjestad, Aruba)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nr11.newradio.it%3a9030/;stream/1:Radio Voce nel Deserto Pordenone
+#DESCRIPTION Radio Voce nel Deserto Pordenone
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair15.xdevel.com/proxy/radiovoceneldeserto:Radio Voce nel Deserto
+#DESCRIPTION Radio Voce nel Deserto
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server33307.streamplus.de/stream.mp3:Radiofrieden (reli)
 #DESCRIPTION Radiofrieden (reli)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp.com%3a8102/:Radju Marija Malta

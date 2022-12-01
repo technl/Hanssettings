@@ -1,6 +1,4 @@
 #NAME Stream VAE (Verenigde Arabische Emiraten - AE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//dai.ly/x74wje5:Al Aan TV
-#DESCRIPTION Al Aan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:Al Arabiya
 #DESCRIPTION Al Arabiya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8:Al Arabiya Al Hadath
@@ -17,12 +15,14 @@
 #DESCRIPTION Al Yaum TV (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7207:Alerth
 #DESCRIPTION Alerth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//citrusdemo.live.tactint.com/citrus/6befa38a9c2d2b9e1889a03cca7ac836.sdp/citrus/uae1/playlist.m3u8:Citruss TV
+#DESCRIPTION Citruss TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8:Hawas TV
 #DESCRIPTION Hawas TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1
 #DESCRIPTION MBC 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1 North America
-#DESCRIPTION MBC 1 North America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1 USA
+#DESCRIPTION MBC 1 USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//102.222.232.18%3a9981/stream/channelid/162366733?ticket=C53575587BBBC53B1AC81DDA1912FEB050F669F4&profile=matroska:MBC 2
 #DESCRIPTION MBC 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8:MBC 3
@@ -69,7 +69,7 @@
 #DESCRIPTION Zee Aflam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8:Zee Alwan
 #DESCRIPTION Zee Alwan
-#SERVICE 1:64:3a8:0:0:0:0:0:0:0:
+#SERVICE 1:64:3e3:0:0:0:0:0:0:0:
 #DESCRIPTION ++Abu Dhabi = hoofdstad VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/adtv/smil%3aadtv.stream.smil/playlist.m3u8:Abu Dhabi Aloula
 #DESCRIPTION Abu Dhabi Aloula
@@ -91,8 +91,12 @@
 #DESCRIPTION Majid TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/playlist.m3u8:National Geographic Abu Dhabi
 #DESCRIPTION National Geographic Abu Dhabi
-#SERVICE 1:64:3a9:0:0:0:0:0:0:0:
+#SERVICE 1:64:3e4:0:0:0:0:0:0:0:
 #DESCRIPTION ++Dubai, stad in VAE++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x8924av:3eesh Al Aan TV
+#DESCRIPTION 3eesh Al Aan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//dai.ly/x74wje5:Al Aan TV
+#DESCRIPTION Al Aan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/playlist.m3u8:Dubai One
 #DESCRIPTION Dubai One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/playlist.m3u8:Dubai Racing 1

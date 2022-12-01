@@ -1,5 +1,5 @@
 #NAME Stream Argentinië (AR)
-#SERVICE 1:64:287:0:0:0:0:0:0:0:
+#SERVICE 1:64:2c4:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/679322/events/3782013/live.m3u8:Canal 2 Jujuy
 #DESCRIPTION Canal 2 Jujuy
@@ -9,6 +9,8 @@
 #DESCRIPTION Canal 2 Sanagasta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089:Canal 3 BA Buenos Aires
 #DESCRIPTION Canal 3 BA Buenos Aires
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8:Canal 3 Formosa
+#DESCRIPTION Canal 3 Formosa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arcast.com.ar/canal3/canal3/playlist.m3u8:Canal 3 Las Heras
 #DESCRIPTION Canal 3 Las Heras
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.intelintec.com.ar%3a9090/hls/canal3pinamar.m3u8:Canal 3 Pinamar
@@ -145,7 +147,7 @@
 #DESCRIPTION Canal 79 San Juan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamconex.com%3a1936/santaclara/santaclara/playlist.m3u8:Canal 79 Santa Clara del Mar
 #DESCRIPTION Canal 79 Santa Clara del Mar
-#SERVICE 1:64:288:0:0:0:0:0:0:0:
+#SERVICE 1:64:2c5:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59c5c86e10038.streamlock.net%3a1935/6605140/6605140/playlist.m3u8:24/7 Canal de Noticias
 #DESCRIPTION 24/7 Canal de Noticias

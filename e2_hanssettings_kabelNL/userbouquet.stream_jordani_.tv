@@ -1,5 +1,5 @@
 #NAME Stream Jordanië (JO)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.212.74.99%3a8000/live/hls/8111.m3u8:A One TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//master.starmena-cloud.com/hls/a1jo.m3u8:A One TV
 #DESCRIPTION A One TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/alghadtv/live:Al Ghad
 #DESCRIPTION Al Ghad
@@ -11,9 +11,11 @@
 #DESCRIPTION Dijlah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.212.74.4%3a8000/live/2105.m3u8:Ismaoona TV
 #DESCRIPTION Ismaoona TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.212.74.100%3a8000/live/hls/8131.m3u8:Jasco
-#DESCRIPTION Jasco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8:Jordan TV
 #DESCRIPTION Jordan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8:Radio Yaqeen Jordan%3a Studio
+#DESCRIPTION Radio Yaqeen Jordan: Studio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//royatv-live.daioncdn.net/royatv/royatv.m3u8:Roya TV
+#DESCRIPTION Roya TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/user/toyorlive/live:Toyor Al-Jannah
 #DESCRIPTION Toyor Al-Jannah

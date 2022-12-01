@@ -1,5 +1,5 @@
 #NAME Stream Nieuws
-#SERVICE 1:64:3b5:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ef:0:0:0:0:0:0:0:
 #DESCRIPTION ++Nederland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast-bnr.cdp.triple-it.nl/bnr_mp3_128_03:BNR Nieuwsradio
 #DESCRIPTION BNR Nieuwsradio
@@ -9,13 +9,13 @@
 #DESCRIPTION New Business Radio
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
-#SERVICE 1:64:3b6:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f0:0:0:0:0:0:0:0:
 #DESCRIPTION ++België++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beonenws:Be One Nieuws
 #DESCRIPTION Be One Nieuws
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ftp.fmgoud.be/actueelplus.mp3:FM Goud Actueel, laatste nieuws noord-Limburg
 #DESCRIPTION FM Goud Actueel, laatste nieuws noord-Limburg
-#SERVICE 1:64:3b7:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f1:0:0:0:0:0:0:0:
 #DESCRIPTION ++Frankrijk++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//chai5she.cdn.dvmr.fr/bfmbusiness:BFM Business (nieuws - Parijs, FR)
 #DESCRIPTION BFM Business (nieuws - Parijs, FR)
@@ -23,7 +23,7 @@
 #DESCRIPTION BFM Radio (nieuws - Parijs, FR)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//e1-live-mp3-128.scdn.arkena.com/europe1.mp3:Europe 1 (Frankrijk)
 #DESCRIPTION Europe 1 (Frankrijk)
-#SERVICE 1:64:3b8:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f2:0:0:0:0:0:0:0:
 #DESCRIPTION ++Engeland (VK)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media-the.musicradio.com/LBCUK:LBC - Leading Britain's Conversation (UK)
 #DESCRIPTION LBC - Leading Britain's Conversation (UK)
@@ -33,7 +33,7 @@
 #DESCRIPTION Times Radio (UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//solid41.streamupsolutions.com%3a10008/stream:World Broadcasting Network (Engeland, UK)
 #DESCRIPTION World Broadcasting Network (Engeland, UK)
-#SERVICE 1:64:3b9:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f3:0:0:0:0:0:0:0:
 #DESCRIPTION ++Italië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio24-lh.akamaihd.net/i/radio24_1@99307/index_1_a-p.m3u8:Radio 24
 #DESCRIPTION Radio 24
@@ -43,7 +43,7 @@
 #DESCRIPTION Radio News 24 Nord
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNewsSud/stream:Radio News 24 Sud
 #DESCRIPTION Radio News 24 Sud
-#SERVICE 1:64:3ba:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f4:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/AXR.mp3:AXR Hong Kong (China) Engelstalig
 #DESCRIPTION AXR Hong Kong (China) Engelstalig

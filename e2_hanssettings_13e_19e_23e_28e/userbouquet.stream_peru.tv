@@ -1,5 +1,5 @@
 #NAME Stream Peru (PE)
-#SERVICE 1:64:383:0:0:0:0:0:0:0:
+#SERVICE 1:64:3bd:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh4.iblups.com/hls/irtp.m3u8:TV Peru Internacional
 #DESCRIPTION TV Peru Internacional
@@ -9,7 +9,7 @@
 #DESCRIPTION TV Peru Nacional 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8:TV Perú Noticias
 #DESCRIPTION TV Perú Noticias
-#SERVICE 1:64:384:0:0:0:0:0:0:0:
+#SERVICE 1:64:3be:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8:Agro TV
 #DESCRIPTION Agro TV
@@ -211,6 +211,8 @@
 #DESCRIPTION Radio Chalaca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3175/hybrid/play.m3u8:Radio Inka Abancay
 #DESCRIPTION Radio Inka Abancay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servilive.com%3a3960/live/radiotvondadigitallive.m3u8:Radio Onda Digital
+#DESCRIPTION Radio Onda Digital
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3731/stream/play.m3u8:Radio Rutas del Perú
 #DESCRIPTION Radio Rutas del Perú
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c3fb01839654.streamlock.net%3a1963/iptvsanborja/livesanborjatv/playlist.m3u8:Radio San Borja TV

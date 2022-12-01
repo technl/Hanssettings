@@ -1,80 +1,76 @@
 #NAME Stream Polen (PL)
-#SERVICE 1:64:3a0:0:0:0:0:0:0:0:
-#DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0be:TVP 1 HD
+#SERVICE 1:64:3d9:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders TVP++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.152.128.74%3a8086/play/a003:TVP HD
+#DESCRIPTION TVP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strims.top/tv/tvp1.m3u8:TVP 1 HD
 #DESCRIPTION TVP 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ek:TVP 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strims.top/tv/tvp2.m3u8:TVP 2 HD
 #DESCRIPTION TVP 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05l:TVP ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa:TVP 3
+#DESCRIPTION TVP 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a043:TVP ABC
 #DESCRIPTION TVP ABC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0b4:TVP Dokument
-#DESCRIPTION TVP Dokument
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a060:TVP Historia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a048:TVP Historia
 #DESCRIPTION TVP Historia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05g:TVP Kultura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.152.128.74%3a8086/play/a018:TVP Info
+#DESCRIPTION TVP Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a040:TVP Kultura
 #DESCRIPTION TVP Kultura
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a8501/tvpinfo:TVP Info HD
-#DESCRIPTION TVP Info HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/7418/tvp_polonia_425/1/1/tracks-v1a1/mono.m3u8:TVP Polonia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.0.32.106%3a8000/play/TVPPolonia:TVP Polonia
 #DESCRIPTION TVP Polonia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a045:TVP Rozrywka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a0a7:TVP Rozrywka
 #DESCRIPTION TVP Rozrywka
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05v:TVP Seriale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a042:TVP Seriale
 #DESCRIPTION TVP Seriale
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a06l:TVP Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a04q:TVP Sport HD
 #DESCRIPTION TVP Sport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a035:TV 4 Polska
-#DESCRIPTION TV 4 Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a036:TV 6 Polska HD
-#DESCRIPTION TV 6 Polska HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a05f:TVS Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.129.193.20/tsstreamer/TVP_SD.ts:TVP World
+#DESCRIPTION TVP World
+#SERVICE 1:64:3da:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a029:Polonia 1
+#DESCRIPTION Polonia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a07d:Polsat HD
+#DESCRIPTION Polsat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a07k:Polsat 2 HD
+#DESCRIPTION Polsat 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a07h:Polsat Cafe HD
+#DESCRIPTION Polsat Cafe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a0ac:Polsat Music HD
+#DESCRIPTION Polsat Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a07j:Polsat News HD
+#DESCRIPTION Polsat News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a07c:Polsat News 2
+#DESCRIPTION Polsat News 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a06y:Polsat Sport HD
+#DESCRIPTION Polsat Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a073:Polsat Sport Extra HD
+#DESCRIPTION Polsat Sport Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a0cg:Polsat Sport Premium 1
+#DESCRIPTION Polsat Sport Premium 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a0ch:Polsat Sport Premium 2
+#DESCRIPTION Polsat Sport Premium 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a07f:TV4 HD
+#DESCRIPTION TV4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a07g:TV6
+#DESCRIPTION TV6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a010:TVS Polska
 #DESCRIPTION TVS Polska
-#SERVICE 1:64:3a1:0:0:0:0:0:0:0:
+#SERVICE 1:64:3db:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04b:4 Fun Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a03k:4 Fun Dance
 #DESCRIPTION 4 Fun Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04a:4 Fun Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.206%3a7003/play/a03j:4 Fun Kids
 #DESCRIPTION 4 Fun Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4 Fun TV
 #DESCRIPTION 4 Fun TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0c5:13 Ulica HD
-#DESCRIPTION 13 Ulica HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09r:Ale Kino+ HD
-#DESCRIPTION Ale Kino+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ei:AXN
-#DESCRIPTION AXN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0di:AXN Black Polska
-#DESCRIPTION AXN Black Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a06o:AXN Spin
-#DESCRIPTION AXN Spin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0dh:AXN White Polska
-#DESCRIPTION AXN White Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04f:Boomerang Polska HD
-#DESCRIPTION Boomerang Polska HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0ba:Canal+ Dokument
-#DESCRIPTION Canal+ Dokument
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09i:Canal+ Family
-#DESCRIPTION Canal+ Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09h:Canal+ Film
-#DESCRIPTION Canal+ Film
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09u:Canal+ Kuchnia
-#DESCRIPTION Canal+ Kuchnia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a03g:Canal+ Now
-#DESCRIPTION Canal+ Now
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a03j:Canal+ Premium
-#DESCRIPTION Canal+ Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a09o:Canal+ Seriale
-#DESCRIPTION Canal+ Seriale
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a03k:Canal+ Sport HD
-#DESCRIPTION Canal+ Sport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a070:Canal+ Sport 3
-#DESCRIPTION Canal+ Sport 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a07j:Canal+ Sport 4
-#DESCRIPTION Canal+ Sport 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0d5:Comedy Central Polska HD
 #DESCRIPTION Comedy Central Polska HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a042:Da Vinci Polska
 #DESCRIPTION Da Vinci Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.246.128.53%3a1935/tv/dlaCiebieTv/playlist.m3u8:DlaCiebie.tv
+#DESCRIPTION DlaCiebie.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0e0:Disney Channel HD Polska
 #DESCRIPTION Disney Channel HD Polska
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0fb:Disney Junior Polska
@@ -151,7 +147,7 @@
 #DESCRIPTION NUTA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a04i:Polo TV
 #DESCRIPTION Polo TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream14.polskieradio.pl%3a1935/pr4_video/video_pr4.stream/playlist.m3u8:Radio Czworka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8:Radio Czworka
 #DESCRIPTION Radio Czworka
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.249.49.78%3a8000/play/a0c3:Sci Fi Polska
 #DESCRIPTION Sci Fi Polska

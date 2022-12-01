@@ -1,5 +1,5 @@
 #NAME Stream USA (US)
-#SERVICE 1:64:3b7:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f1:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders networks++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abc123.digital%3a8080/Legend/QmdhPq6Sb9/419594:ABC 7 Los Angeles
 #DESCRIPTION ABC 7 Los Angeles
@@ -79,7 +79,7 @@
 #DESCRIPTION TBS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/769:TNT
 #DESCRIPTION TNT
-#SERVICE 1:64:3b8:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f2:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abc123.digital%3a8080/Legend/QmdhPq6Sb9/417871:A&E
 #DESCRIPTION A&E
@@ -121,6 +121,8 @@
 #DESCRIPTION HollyWire
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8:ION
 #DESCRIPTION ION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8:ION Mystery
+#DESCRIPTION ION Mystery
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ion-plus.samsung.wurl.com/playlist.m3u8:ION Plus
 #DESCRIPTION ION Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8:Law & Crime Network
@@ -141,6 +143,8 @@
 #DESCRIPTION Quiz Show Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/13001:QVC
 #DESCRIPTION QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8:QVC 3
+#DESCRIPTION QVC 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/76356:Retro Plex
 #DESCRIPTION Retro Plex
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/765:Showtime
@@ -159,7 +163,7 @@
 #DESCRIPTION USA Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2do1g43aq7264.cloudfront.net/playlist.m3u8:Vice East
 #DESCRIPTION Vice East
-#SERVICE 1:64:3b9:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f3:0:0:0:0:0:0:0:
 #DESCRIPTION ++landelijke nieuwszenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8:ABC News
 #DESCRIPTION ABC News
@@ -261,7 +265,7 @@
 #DESCRIPTION Yahoo! Finance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8:Yahoo! News
 #DESCRIPTION Yahoo! News
-#SERVICE 1:64:3ba:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f4:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders sport++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/59945:AT&T SportsNet
 #DESCRIPTION AT&T SportsNet
@@ -285,6 +289,8 @@
 #DESCRIPTION FOX Sports 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//elevensports-samsunguk-ca.samsung.wurl.tv/playlist.m3u8:FTF Sports
 #DESCRIPTION FTF Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8:Impact Wrestling
+#DESCRIPTION Impact Wrestling
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/762:NBA TV
 #DESCRIPTION NBA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/3370:NBCSN
@@ -293,13 +299,15 @@
 #DESCRIPTION NFL Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2348:NHL Network
 #DESCRIPTION NHL Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-sportstribal.amagi.tv/playlist.m3u8:Pac 12 Insider
+#DESCRIPTION Pac 12 Insider
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8:Stadium
 #DESCRIPTION Stadium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8:Tennis Channel
 #DESCRIPTION Tennis Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2373:WWE
 #DESCRIPTION WWE
-#SERVICE 1:64:3bb:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f5:0:0:0:0:0:0:0:
 #DESCRIPTION ++nieuwsfeeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8:ABC News 1
 #DESCRIPTION ABC News 1
@@ -361,7 +369,7 @@
 #DESCRIPTION NBC News Now Event 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8:WSJ Live 
 #DESCRIPTION WSJ Live 
-#SERVICE 1:64:3bc:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f6:0:0:0:0:0:0:0:
 #DESCRIPTION ++regionale informatieve uitzendingen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil%3awbrz-live.smil/chunklist.m3u8:ABC 2 Baton Rouge (WBRZ)
 #DESCRIPTION ABC 2 Baton Rouge (WBRZ)
@@ -545,7 +553,7 @@
 #DESCRIPTION NBC 15 Madison
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8:NBC 26 Green Bay
 #DESCRIPTION NBC 26 Green Bay
-#SERVICE 1:64:3bd:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f7:0:0:0:0:0:0:0:
 #DESCRIPTION ++lokale uitzendingen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8:7 News Boston
 #DESCRIPTION 7 News Boston
@@ -603,6 +611,8 @@
 #DESCRIPTION CCX Media North Brooklyn Park
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8:Cerritos TV3
 #DESCRIPTION Cerritos TV3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8:CFM TV Channel 98 Fort Myers
+#DESCRIPTION CFM TV Channel 98 Fort Myers
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8:Channel 9 Orlando, Florida
 #DESCRIPTION Channel 9 Orlando, Florida
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8:Channel 11 Scottsdale AZ
@@ -733,6 +743,8 @@
 #DESCRIPTION KBRI Brighton Channel 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus3-a.akamaihd.net/richmond/G0034_002/playlist.m3u8:KCRT-TV 28 Richmond
 #DESCRIPTION KCRT-TV 28 Richmond
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//broadcast.mytvtogo.net/klmntv/klmntv/playlist.m3u8:KLNM
+#DESCRIPTION KLNM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8:KNET-CD 25.2 | Local Access
 #DESCRIPTION KNET-CD 25.2 | Local Access
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg:KNOE 8 News Monroe
@@ -765,6 +777,8 @@
 #DESCRIPTION Largo LTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67.53.122.248/live-4/live/live.m3u8:Lawndale City TV
 #DESCRIPTION Lawndale City TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hbsprim-1be2a.kxcdn.com/legbcca-prim-chamber-httpo/ChamberP.smil/playlist.m3u8:Legislative Assembly of British Columbia
+#DESCRIPTION Legislative Assembly of British Columbia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edu.leominster.tv/Edu/smil%3aEdu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8:Leominster TV Educational
 #DESCRIPTION Leominster TV Educational
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gov.leominster.tv/Gov/smil%3aGov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8:Leominster TV Government
@@ -1071,7 +1085,7 @@
 #DESCRIPTION WPAA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_120/amlst%3a203530-1426406/playlist.m3u8:WPS TV Dallas
 #DESCRIPTION WPS TV Dallas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d80890572342.streamlock.net%3a1936/live/wstoLive/playlist.m3u8:WSTO Stoughton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stoughton-wi.secure.footprint.net/egress/bhandler/stoughtonwi/streama/chunklist_b2192000.m3u8:WSTO Stoughton
 #DESCRIPTION WSTO Stoughton
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securestream3.champds.com/hlssstc/WestportCTLIVE/WestportCTLIVE.m3u8:WPTV Westport
 #DESCRIPTION WPTV Westport
@@ -1079,7 +1093,7 @@
 #DESCRIPTION WSVI-TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//fss29.streamhoster.com/lv_goodlife45f1 playpath=broadcast1 swfUrl=http%3a//public.streamhoster.com/Resources/Flash/JWFLVMediaPlayer/mediaplayer.swf pageUrl=http%3a//www.tv45.org/watch-now/:WTGL-TV Good Life 45
 #DESCRIPTION WTGL-TV Good Life 45
-#SERVICE 1:64:3be:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f8:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8:3ABN
 #DESCRIPTION 3ABN
@@ -1989,12 +2003,12 @@
 #DESCRIPTION Screen Dreams
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8:Sent TV Global Network
 #DESCRIPTION Sent TV Global Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8:Sightline
-#DESCRIPTION Sightline
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8:Shop HQ
 #DESCRIPTION Shop HQ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shoutfactory-xumo.amagi.tv/playlist.m3u8:Shout Factory TV HD
 #DESCRIPTION Shout Factory TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8:Sightline
+#DESCRIPTION Sightline
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71:SKWAD
 #DESCRIPTION SKWAD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8:Slightly Off by IFC

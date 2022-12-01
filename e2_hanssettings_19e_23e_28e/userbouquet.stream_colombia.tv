@@ -3,6 +3,8 @@
 #DESCRIPTION Acuario Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/atmtv/index.m3u8:ATM Televisión
 #DESCRIPTION ATM Televisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.ejeserver.com/live/verteve.m3u8:ATV Soacha
+#DESCRIPTION ATV Soacha
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8:Avivamiento TV
 #DESCRIPTION Avivamiento TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamyes.alsolnet.com/buturama/live/playlist.m3u8:Buenísima Radio TV
@@ -81,7 +83,7 @@
 #DESCRIPTION La 5ta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eff35271151c.streamlock.net%3a1936/8076/ngrp%3a8076/playlist.m3u8:La Popular TV
 #DESCRIPTION La Popular TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/mastvonline:Más TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/teledoradahd.m3u8:Más TV
 #DESCRIPTION Más TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud10.vsgtech.co%3a3262/live/memoriastv2live.m3u8:Memorias TV
 #DESCRIPTION Memorias TV
@@ -123,5 +125,7 @@
 #DESCRIPTION VAM Vid's & More
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/veotv.m3u8:Veo Television
 #DESCRIPTION Veo Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/zuldemayda.m3u8:Zuldemayda Canal 13
+#DESCRIPTION Zuldemayda Canal 13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.ejeserver.com/live/zuldemayda.m3u8:Zuldemayda Comunicaciones
 #DESCRIPTION Zuldemayda Comunicaciones

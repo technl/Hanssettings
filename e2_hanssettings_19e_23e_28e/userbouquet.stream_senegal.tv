@@ -1,17 +1,7 @@
 #NAME Stream Senegal (SN)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x7vidbb:2STV
-#DESCRIPTION 2STV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8:A2i Music
 #DESCRIPTION A2i Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8:A2i Naja
-#DESCRIPTION A2i Naja
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8:A2i Religion
 #DESCRIPTION A2i Religion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x7xq2dw:Africa 7
-#DESCRIPTION Africa 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.81.109.113%3a1935/Livemouridetv/mouridetv/chunklist_w132674560.m3u8:Mouride TV
-#DESCRIPTION Mouride TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x7wi5y1:RFM
-#DESCRIPTION RFM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x7wcr45:TFM
-#DESCRIPTION TFM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live3.acangroup.org%3a1929/acanabr/sentv.stream_all/playlist.m3u8:Sen TV
+#DESCRIPTION Sen TV

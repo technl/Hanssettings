@@ -1,5 +1,5 @@
 #NAME Stream Indonesië (ID)
-#SERVICE 1:64:371:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ac:0:0:0:0:0:0:0:
 #DESCRIPTION +++Indonesië TVRI-Nationaal+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net%3a80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8:TVRI
 #DESCRIPTION TVRI
@@ -7,19 +7,19 @@
 #DESCRIPTION TVRI Kanal 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.18.181.69%3a1935/golive/livestream/playlist.m3u8:TVRI Parlemen
 #DESCRIPTION TVRI Parlemen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.18.181.69%3a1935/golive/livestream1/playlist.m3u8:TVR Parlemen Komisi 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssv1.dpr.go.id/golive/livestream1/playlist.m3u8:TVR Parlemen Komisi 1
 #DESCRIPTION TVR Parlemen Komisi 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.18.181.69%3a1935/golive/livestream2/playlist.m3u8:TVR Parlemen Komisi 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssv1.dpr.go.id/golive/livestream2/playlist.m3u8:TVR Parlemen Komisi 2
 #DESCRIPTION TVR Parlemen Komisi 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.18.181.69%3a1935/golive/livestream3/playlist.m3u8:TVR Parlemen Komisi 3
 #DESCRIPTION TVR Parlemen Komisi 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.18.181.69%3a1935/golive/livestream4/playlist.m3u8:TVR Parlemen Komisi 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssv1.dpr.go.id/golive/livestream4/playlist.m3u8:TVR Parlemen Komisi 4
 #DESCRIPTION TVR Parlemen Komisi 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.18.181.69%3a1935/golive/livestream5/playlist.m3u8:TVR Parlemen Komisi 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssv1.dpr.go.id/golive/livestream5/playlist.m3u8:TVR Parlemen Komisi 5
 #DESCRIPTION TVR Parlemen Komisi 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.18.181.69%3a1935/golive/livestream6/playlist.m3u8:TVR Parlemen Komisi 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssv1.dpr.go.id/golive/livestream6/playlist.m3u8:TVR Parlemen Komisi 6
 #DESCRIPTION TVR Parlemen Komisi 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.18.181.69%3a1935/golive/livestream7/playlist.m3u8:TVR Parlemen Komisi 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssv1.dpr.go.id/golive/livestream7/playlist.m3u8:TVR Parlemen Komisi 7
 #DESCRIPTION TVR Parlemen Komisi 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.18.181.69%3a1935/golive/livestream8/playlist.m3u8:TVR Parlemen Komisi 8
 #DESCRIPTION TVR Parlemen Komisi 8
@@ -33,21 +33,21 @@
 #DESCRIPTION TVRI Sport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net%3a80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8:TVRI Sport
 #DESCRIPTION TVRI Sport
-#SERVICE 1:64:372:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ad:0:0:0:0:0:0:0:
 #DESCRIPTION +++Indonesië regionaal+++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8:TVRI Papua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8:TVRI Papua
 #DESCRIPTION TVRI Papua
-#SERVICE 1:64:373:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ae:0:0:0:0:0:0:0:
 #DESCRIPTION ++Bali - Nusa Tenggara++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8:TVRI Bali
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8:TVRI Bali
 #DESCRIPTION TVRI Bali
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8:TVRI Nusa Tenggara Barat
 #DESCRIPTION TVRI Nusa Tenggara Barat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alfa.kugo.id/tvrintt/rtmp.stream/playlist.m3u8:TVRI Nusa Tenggara Timur
 #DESCRIPTION TVRI Nusa Tenggara Timur
-#SERVICE 1:64:374:0:0:0:0:0:0:0:
+#SERVICE 1:64:3af:0:0:0:0:0:0:0:
 #DESCRIPTION ++Jawa++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8:TVRI DKI Jakarta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8:TVRI DKI Jakarta
 #DESCRIPTION TVRI DKI Jakarta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8:TVRI Jawa Barat
 #DESCRIPTION TVRI Jawa Barat
@@ -57,27 +57,29 @@
 #DESCRIPTION TVRI Jawa Timur
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8:TVRI Yogyakrta
 #DESCRIPTION TVRI Yogyakrta
-#SERVICE 1:64:375:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b0:0:0:0:0:0:0:0:
 #DESCRIPTION ++Kalimantan++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8:TVRI Kalimantan Barat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8:TVRI Kalimantan Barat
 #DESCRIPTION TVRI Kalimantan Barat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/Stream(03)/index.m3u8:TVRI Kalimantan Seletan
 #DESCRIPTION TVRI Kalimantan Seletan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8:TVRI Kalimantan Tengah
 #DESCRIPTION TVRI Kalimantan Tengah
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/Stream(03)/index.m3u8:TVRI Kalimantan Timur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8:TVRI Kalimantan Timur
 #DESCRIPTION TVRI Kalimantan Timur
-#SERVICE 1:64:376:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b1:0:0:0:0:0:0:0:
 #DESCRIPTION ++Maluku - Papua++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8:TVRI Maluku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8:TVRI Maluku
 #DESCRIPTION TVRI Maluku
-#SERVICE 1:64:377:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8:TVRI Nusa Tenggara Timur
+#DESCRIPTION TVRI Nusa Tenggara Timur
+#SERVICE 1:64:3b2:0:0:0:0:0:0:0:
 #DESCRIPTION ++Sulawesi++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8:TVRI Gorontalo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8:TVRI Gorontalo
 #DESCRIPTION TVRI Gorontalo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/Stream(03)/index.m3u8:TVRI Sulawesi Barat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8:TVRI Sulawesi Barat
 #DESCRIPTION TVRI Sulawesi Barat
-#SERVICE 1:64:378:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b3:0:0:0:0:0:0:0:
 #DESCRIPTION ++Sumartra++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/Stream(03)/index.m3u8:TVRI Aceh
 #DESCRIPTION TVRI Aceh
@@ -91,13 +93,13 @@
 #DESCRIPTION TVRI Jambi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIkalbar)/Stream(03)/index.m3u8:TVRI Kalbar
 #DESCRIPTION TVRI Kalbar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/Stream(03)/index.m3u8:TVRI Lampung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8:TVRI Lampung
 #DESCRIPTION TVRI Lampung
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.siar.us/tvririau/live/playlist.m3u8:TVRI Riau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/index.m3u8:TVRI Riau
 #DESCRIPTION TVRI Riau
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8:TVRI Sulawesi Selatan
 #DESCRIPTION TVRI Sulawesi Selatan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8:TVRI Sulawesi Tenggara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8:TVRI Sulawesi Tenggara
 #DESCRIPTION TVRI Sulawesi Tenggara
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8:TVRI Sulawesi Utara
 #DESCRIPTION TVRI Sulawesi Utara
@@ -107,7 +109,7 @@
 #DESCRIPTION TVRI Sumatera Selatan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(03)/index.m3u8:TVRI Sumatra Selatan
 #DESCRIPTION TVRI Sumatra Selatan
-#SERVICE 1:64:379:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b4:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2.siar.us/aditv/livestream/chunks.m3u8:ADiTV
 #DESCRIPTION ADiTV
@@ -147,12 +149,6 @@
 #DESCRIPTION Bayu TV Nganjuk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2.siar.us/bmstv/livestream/playlist.m3u8:Bayunmas TV
 #DESCRIPTION Bayunmas TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2.siar.us/banjartv/livestream/playlist.m3u8:Banjar TV
-#DESCRIPTION Banjar TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2.siar.us/barayatv/live/chunks.m3u8:Banten TV
-#DESCRIPTION Banten TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.248.43.138%3a1935/ch5/myStream/playlist.m3u8:Batam TV
-#DESCRIPTION Batam TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.119.54.246%3a8080/hls/bbstv.m3u8:BBS TV
 #DESCRIPTION BBS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8:BeritaSatu
@@ -181,8 +177,12 @@
 #DESCRIPTION Digdaya TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8:dTVi
 #DESCRIPTION dTVi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dutatv.siar.us/dutatv/live/playlist.m3u8:Duta TV
+#DESCRIPTION Duta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s10/index.m3u8:Elshinta TV
 #DESCRIPTION Elshinta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.248.43.138%3a1935/ch27/myStream/playlist.m3u8:Fajar TV
+#DESCRIPTION Fajar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v3.siar.us/ficomchannel/live/playlist.m3u8:Ficom Channel
 #DESCRIPTION Ficom Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bintangtv.siar.us/bintangtv/live/playlist.m3u8:Garda TV
@@ -201,7 +201,7 @@
 #DESCRIPTION Inspira TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.radiosalamjambi.com/izzahtv.m3u8:Izzah TV
 #DESCRIPTION Izzah TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.248.43.138%3a1935/ch23/myStream/playlist.m3u8:Jambi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza58.indostreamserver.com%3a1935/jambitv/live/playlist.m3u8:Jambi TV
 #DESCRIPTION Jambi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.248.43.138%3a1935/ch14/myStream/playlist.m3u8:Jek TV
 #DESCRIPTION Jek TV
@@ -209,6 +209,8 @@
 #DESCRIPTION Jogja Istimewa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.248.43.138%3a1935/ch6/myStream/playlist.m3u8:JPM
 #DESCRIPTION JPM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/dr9445/h/h07/index.m3u8:Kix (Indonesian Subtitle)
+#DESCRIPTION Kix (Indonesian Subtitle)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alfa.kugo.id/playout/kugo1.stream/playlist.m3u8:Kugo 1
 #DESCRIPTION Kugo 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8:Kugo Star
@@ -219,12 +221,12 @@
 #DESCRIPTION Magna Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alfa.kugo.id/playout/maleo.stream/chunklist.m3u8:Maleo
 #DESCRIPTION Maleo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//m.youtube.com/c/MetrotvnewsOfficial/live:Metro TV
-#DESCRIPTION Metro TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//m.youtube.com/channel/UCvew2SW7fPHK0m8c4Ez44Nw/live:Mata Milenial Indonesia TV
 #DESCRIPTION Mata Milenial Indonesia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//m.youtube.com/c/MediaSunnahAceh/live:Media Sunnah Aceh
 #DESCRIPTION Media Sunnah Aceh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.metrotvnews.com%3a1935/live-edge/smil%3ametro.smil/playlist.m3u8:Metro TV
+#DESCRIPTION Metro TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8:MGS TV
 #DESCRIPTION MGS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//m.youtube.com/c/OfficialMTATV/live:MTA TV
@@ -233,6 +235,8 @@
 #DESCRIPTION Muadz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncbtv.siar.us/ncbtv/live/playlist.m3u8:NCB TV Indonesia
 #DESCRIPTION NCB TV Indonesia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s08/index.m3u8:NET.
+#DESCRIPTION NET.
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nusantaratv.siar.us/nusantaratv/live/chunks.m3u8:Nusantara TV
 #DESCRIPTION Nusantara TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.248.43.138%3a1935/ch16/myStream/playlist.m3u8:Padang TV
@@ -261,7 +265,7 @@
 #DESCRIPTION Salam TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8:Sampit TV
 #DESCRIPTION Sampit TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv_high.m3u8:Sangaji TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8:Sangaji TV
 #DESCRIPTION Sangaji TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s03/index.m3u8:SCTV
 #DESCRIPTION SCTV
@@ -285,12 +289,12 @@
 #DESCRIPTION TV 9 Nusantara
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.98.229.118%3a1935/live/tve.stream/playlist.m3u8:TV Edukasi
 #DESCRIPTION TV Edukasi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s105/index.m3u8:TV One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvmu.siar.us/tvmu/live/playlist.m3u8:TV Mu
+#DESCRIPTION TV Mu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s105/01.m3u8:TV One
 #DESCRIPTION TV One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8:TV Tabalong
 #DESCRIPTION TV Tabalong
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvmu.siar.us/tvmu/live/playlist.m3u8:TV Mu
-#DESCRIPTION TV Mu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.30.1.14%3a8080/hls/live.m3u8:TVKU
 #DESCRIPTION TVKU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/dr9445/h/h20/index.m3u8:tvN
@@ -301,7 +305,7 @@
 #DESCRIPTION tvN Show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.30.246.47%3a1935/tvtpi/live/playlist.m3u8:TVTPI
 #DESCRIPTION TVTPI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ams.juraganstreaming.com%3a5443/LiveApp/streams/uchannel.m3u8:U Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5e396e0211d7a.streamlock.net%3a1935/uchannel/live/playlist.m3u8:U Channel
 #DESCRIPTION U Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ams.juraganstreaming.com%3a5443/LiveApp/streams/wesaltv.m3u8:Wesal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza58.indostreamserver.com%3a1935/wesaltv/live/playlist.m3u8:Wesal TV
 #DESCRIPTION Wesal TV

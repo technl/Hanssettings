@@ -1,18 +1,22 @@
 #NAME Stream Haïtie (HT)
-#SERVICE 1:64:2bb:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:2f8:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_122/amlst%3a202174-1345576/chunklist_.m3u8:RTH TV 1
 #DESCRIPTION RTH TV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_118/amlst%3a202174-1337254/chunklist_.m3u8:RTH TV 2
 #DESCRIPTION RTH TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//haititivi.com/website/haitinews/index.m3u8:Haiti News
+#DESCRIPTION Haiti News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watch.haitilive.net/freehb/rtvs/index.m3u8:Radio Télévision Shilo
+#DESCRIPTION Radio Télévision Shilo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.175.238.147%3a1935/live/myStream/playlist.m3u8:Tele Haïti
 #DESCRIPTION Tele Haïti
-#SERVICE 1:64:2bc:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:2f9:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.244.81.145%3a3333/live/telebostonrtb/chunklist_w352358317.m3u8:Radio Tele Boston
 #DESCRIPTION Radio Tele Boston
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watch.haitilive.net/app/eclairtv/tracks-v1a1/mono.m3u8:Tele Eclair Chaine 4
-#DESCRIPTION Tele Eclair Chaine 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCOvGbDh5biuOqjx6G3CdrQg/live:Radio Télé Eclair
+#DESCRIPTION Radio Télé Eclair
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8:Tele Louange
 #DESCRIPTION Tele Louange
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watch.haitilive.net/support-test/tracks-v1a1/mono.m3u8:TVA 30

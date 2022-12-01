@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:1c78:0:0:0:0:0:0:0:
+#SERVICE 1:64:1c9d:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:1c79:0:0:0:0:0:0:0:
+#SERVICE 1:64:1c9e:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -495,8 +495,12 @@
 #DESCRIPTION Future Radio (Leeds, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.gateway978.com%3a8000/;:Gateway 97.8 (Basildon, Engeland, UK)
 #DESCRIPTION Gateway 97.8 (Basildon, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.gaydio.co.uk/gaydiouk.mp3:Gaydio London (UK)
-#DESCRIPTION Gaydio London (UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-gaydio.sharp-stream.com/gaydiosc.mp3:Gaydio Brighton
+#DESCRIPTION Gaydio Brighton
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-gaydio.sharp-stream.com/472_gaydio_london_128_mp3:Gaydio London
+#DESCRIPTION Gaydio London
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-gaydio.sharp-stream.com/gaydionw.mp3:Gaydio Manchester
+#DESCRIPTION Gaydio Manchester
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-al.planetradio.co.uk/gem106.aac:Gem 106 (Engeland, UK)
 #DESCRIPTION Gem 106 (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//api.tmw.media/ggradio/stream:GGRadio - eSports gaming radio (Engeland, UK)
@@ -513,6 +517,8 @@
 #DESCRIPTION Global Hardhouse (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.commedia.org.uk%3a8000/gloucesterfm.mp3:Gloucester GFM (Gloucester, Engeland, UK)
 #DESCRIPTION Gloucester GFM (Gloucester, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-gorgeousfm.sharp-stream.com/45_gorgeous_fm_128_mp3:Gorgeous Radio
+#DESCRIPTION Gorgeous Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.radiomonitor.com/AhomkaRadio?token=Y4eGZGeEf2pkg4dymsG6nJOkrpWbwQ==:GN RADIO UK (Londen, Engeland, UK)
 #DESCRIPTION GN RADIO UK (Londen, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media-sov.musicradio.com%3a80/GoldMP3:Gold Radio (Engeland, UK)
@@ -819,6 +825,8 @@
 #DESCRIPTION Lionhaert Radio (Alnmwick, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net1lincoln.aac?direct=true:Lincs FM (Grantham, Engeland, UK)
 #DESCRIPTION Lincs FM (Grantham, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//likeradiostream.com/likeoneuk:Like One (Cheltenham)
+#DESCRIPTION Like One (Cheltenham)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/sbd3c05b2d/listen:Link FM (Sheffield, Engeland) - Pakistaans
 #DESCRIPTION Link FM (Sheffield, Engeland) - Pakistaans
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n08.radiojar.com/zhyg8qga29duv?rj-ttl=5&rj-tok=AAABctc3bugAO1jceMdfdNVysw:Linedancer Radio (Engeland, UK)
@@ -1079,6 +1087,8 @@
 #DESCRIPTION Radio Essex (Essex - Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/sf2a4d9132/listen:Radio EXE (Exeter, Engeland, UK)
 #DESCRIPTION Radio EXE (Exeter, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hydra.shoutca.st%3a8462/;:Radio General (Warrington)
+#DESCRIPTION Radio General (Warrington)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//arctic.thebmwz3.co.uk%3a8000/hartlepool-mp3:Radio Hartlepool (Hartlepool, Engeland, UK)
 #DESCRIPTION Radio Hartlepool (Hartlepool, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radioharrow.org/live.mp3:Radio Harrow (Harrow, Engeland, UK)
@@ -1129,6 +1139,8 @@
 #DESCRIPTION Radio Tyneside Hospital Broadcasts (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//gbradio.cdn.tibus.net/BPLWave:Radio Wave 96.5 (Blackpool, Engeland, UK)
 #DESCRIPTION Radio Wave 96.5 (Blackpool, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams6.autopo.st%3a2201/RWS:Radio West Norfolk
+#DESCRIPTION Radio West Norfolk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiowey.co.uk%3a8000/radiowey48:Radio Wey (Chertsey, Engeland, UK)
 #DESCRIPTION Radio Wey (Chertsey, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.canstream.co.uk%3a8057/live.mp3:Radio Wimborne (Engeland, UK)

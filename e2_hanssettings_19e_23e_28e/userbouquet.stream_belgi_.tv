@@ -1,5 +1,5 @@
 #NAME Stream België (BE)
-#SERVICE 1:64:19c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1ae:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - landelijk+++
 #SERVICE 4097:0:1:5221:c99:3:0:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.111.0.6%3a1234:VRT één
 #DESCRIPTION VRT één
@@ -17,11 +17,15 @@
 #DESCRIPTION VRT Events 2 (België)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8:VRT Events 3 / Radio 1 studiocam
 #DESCRIPTION VRT Events 3 / Radio 1 studiocam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.111.2.5%3a1234:VTM HD
+#DESCRIPTION VTM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8:VTM
+#DESCRIPTION VTM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws.m3u8:VTM NWS - tijdens journaal
 #DESCRIPTION VTM NWS - tijdens journaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.parolis.be%3a1935/live/PLN_NL/chunklist_w27225067.m3u8:Federaal parlement BE (tijdens vergaderingen)
 #DESCRIPTION Federaal parlement BE (tijdens vergaderingen)
-#SERVICE 1:64:19d:0:0:0:0:0:0:0:
+#SERVICE 1:64:1af:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - regionaal+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_107244/1080n/index.m3u8:ATV (Antwerpen)
 #DESCRIPTION ATV (Antwerpen)
@@ -31,7 +35,7 @@
 #DESCRIPTION TVL - TV Limburg (België)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_399410/1080n/index.m3u8:TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
 #DESCRIPTION TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
-#SERVICE 1:64:19e:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b0:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen radio webcams++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8:VRT - Radio 1 studiocam
 #DESCRIPTION VRT - Radio 1 studiocam
@@ -47,9 +51,9 @@
 #DESCRIPTION CityMusic (Denderstreek - België) webcam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8:Radio PROS (webcam) Heldergem-België
 #DESCRIPTION Radio PROS (webcam) Heldergem-België
-#SERVICE 1:64:19f:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b1:0:0:0:0:0:0:0:
 #DESCRIPTION +++Bruxelles/Wallonie+++
-#SERVICE 1:64:1a0:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b2:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:420e:2f44:13e:820000:0:0:0:http%3a//154.54.220.67%3a34780/play/a02e:RTBF La 1
 #DESCRIPTION RTBF La 1
@@ -59,7 +63,7 @@
 #DESCRIPTION RTBF La 3
 #SERVICE 4097:0:0:1:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a02h:RTL TVI
 #DESCRIPTION RTL TVI
-#SERVICE 1:64:1a1:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b3:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1800.m3u8:BEL RTL
 #DESCRIPTION BEL RTL

@@ -1,5 +1,5 @@
 #NAME Stream UK - Schotland (UK)
-#SERVICE 1:64:36e:0:0:0:0:0:0:0:
+#SERVICE 1:64:3a8:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Schotland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw:BBC Radio Scotland MW
 #DESCRIPTION BBC Radio Scotland MW
@@ -75,8 +75,8 @@
 #DESCRIPTION Dylan Radio (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.canstream.co.uk%3a9117/live.mp3:East Coast FM (Haddington, Schotland, UK)
 #DESCRIPTION East Coast FM (Haddington, Schotland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.adtonos.com%3a8103/edge:Edge Radio (Schotland, UK)
-#DESCRIPTION Edge Radio (Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s5.radio.co/s813789af2/listen:Edge Radio
+#DESCRIPTION Edge Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ehfm.out.airtime.pro/ehfm_a:EHFM
 #DESCRIPTION EHFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-al.planetradio.co.uk/forth1.aac:Forth 1 (Schotland, UK)
@@ -87,6 +87,8 @@
 #DESCRIPTION Forth 3 (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.broadcastradio.com%3a8610/heartland:FreshAir Radio (Edinburgh's student radio, Schotland, UK)
 #DESCRIPTION FreshAir Radio (Edinburgh's student radio, Schotland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-gaydio.sharp-stream.com/76_gaydio_scotland_128:Gaydio Scotland
+#DESCRIPTION Gaydio Scotland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.canstream.co.uk%3a8108/live.aac:Gorgeous FM (Schotland, UK)
 #DESCRIPTION Gorgeous FM (Schotland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.broadcastradio.com%3a8250/goradio:GO Radio (Schotland, UK)

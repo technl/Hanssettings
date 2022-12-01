@@ -1,5 +1,5 @@
 #NAME Stream Turkije (TR)
-#SERVICE 1:64:1b3c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b5f:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trt1.medya.trt.com.tr/master.m3u8:TRT 1
 #DESCRIPTION TRT 1
@@ -83,7 +83,7 @@
 #DESCRIPTION TV Den
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8:TV Em
 #DESCRIPTION TV Em
-#SERVICE 1:64:1b3d:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b60:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuzeykibris.tv/m3u8/tv_brt1.m3u8:BRT 1 HD
 #DESCRIPTION BRT 1 HD
@@ -137,7 +137,7 @@
 #DESCRIPTION Kanal Avrupa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8:Kanal B
 #DESCRIPTION Kanal B
-#SERVICE 1:64:1b3e:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b61:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8:AA Live
 #DESCRIPTION AA Live

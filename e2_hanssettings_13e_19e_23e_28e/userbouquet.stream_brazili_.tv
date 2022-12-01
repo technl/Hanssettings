@@ -87,6 +87,8 @@
 #DESCRIPTION Kuriakos TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza4.catve.com.br%3a1935/mastertv/livestream/playlist.m3u8:Master TV
 #DESCRIPTION Master TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv2.zcastbr.com/memoriastv/memoriastv/playlist.m3u8:Memorias TV
+#DESCRIPTION Memorias TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8:MKK Web TV
 #DESCRIPTION MKK Web TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wz4.dnip.com.br%3a1935/novaeratv/novaeratv.sdp/playlist.m3u8:NE TV
@@ -179,6 +181,8 @@
 #DESCRIPTION RTV Canal 38
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash1.crossdigital.com.br/2063/2063/playlist.m3u8:Santa Cecilia TV
 #DESCRIPTION Santa Cecilia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8:San Pedro TV
+#DESCRIPTION San Pedro TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8:SBT Aratu On
 #DESCRIPTION SBT Aratu On
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-cdn-iguacu.ciclano.io%3a1443/cdn-iguacu/cdn-iguacu/playlist.m3u8:SBT Rede Massa
@@ -347,7 +351,7 @@
 #DESCRIPTION TV Osasco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvpadrecicero/_definst_/tvpadrecicero/chunklist_.m3u8:TV Padre Cicero
 #DESCRIPTION TV Padre Cicero
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.crossdigital.com.br/2306/2306/playlist.m3u8:TV Pai Eterno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/teste01/teste01/playlist.m3u8:TV Pai Eterno
 #DESCRIPTION TV Pai Eterno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvpampa/tvpampa/playlist.m3u8:TV Pampa - RedeTV RS
 #DESCRIPTION TV Pampa - RedeTV RS

@@ -1,21 +1,23 @@
 #NAME Stream Qatar (QA)
-#SERVICE 1:64:1b2c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b4f:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8:Qatar TV 1
 #DESCRIPTION Qatar TV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8:Qatar TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.50%3a8003/play/a042:Qatar TV 2
 #DESCRIPTION Qatar TV 2
-#SERVICE 1:64:1b2d:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.135.194.238%3a8029/play/a0as:Qatar Today
+#DESCRIPTION Qatar Today
+#SERVICE 1:64:1b50:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh1.smil/playlist.m3u8:Al Kass 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.135.194.238%3a8029/play/a0an:Al Arabiya 1
+#DESCRIPTION Al Arabiya 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.135.194.238%3a8029/play/a0ap:Al Arabiya 2
+#DESCRIPTION Al Arabiya 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.201%3a8030/play/a0ix:Al Kass 1
 #DESCRIPTION Al Kass 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh2.smil/playlist.m3u8:Al Kass 2
-#DESCRIPTION Al Kass 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh3.smil/playlist.m3u8:Al Kass 3
-#DESCRIPTION Al Kass 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh4.smil/playlist.m3u8:Al Kass 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.19.16.201%3a8030/play/a0j0:Al Kass 4
 #DESCRIPTION Al Kass 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamalkass.azureedge.net/969a4da6-9b92-4ee0-969d-e6e8d5eb90f8/28710ce6-2312-4b92-9c07-e3adf1953581.ism/manifest(format=m3u8-aapl):Al Kass 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveak.alkassdigital.net/livehttporigin/smil%3aYWxrYXNh3.smil/playlist.m3u8:Al Kass 5
 #DESCRIPTION Al Kass 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8:Al Rayyan
 #DESCRIPTION Al Rayyan

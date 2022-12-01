@@ -1,6 +1,6 @@
 #NAME Stream Kerstmuziek
-#SERVICE 1:64:43a:0:0:0:0:0:0:0:
-#DESCRIPTION ++NL++
+#SERVICE 1:64:47a:0:0:0:0:0:0:0:
+#DESCRIPTION ++Nederland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web05_mp3:100%25 NL Kerst
 #DESCRIPTION 100% NL Kerst
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/141RadioHits:Kerst Hitradio (Amsterdam)
@@ -13,23 +13,23 @@
 #DESCRIPTION Sky Radio - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22193.live.streamtheworld.com/SUBLIMEPLAYGROUND.mp3:Sublime Christmas
 #DESCRIPTION Sublime Christmas
-#SERVICE 1:64:43b:0:0:0:0:0:0:0:
-#DESCRIPTION ++BE++
+#SERVICE 1:64:47b:0:0:0:0:0:0:0:
+#DESCRIPTION ++België++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beonexmas:Be One Xmas (Oostende - België)
 #DESCRIPTION Be One Xmas (Oostende - België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deci-belrtl.ice.infomaniak.ch/deci-belrtl-192.mp3:Bel RTL - Noël
 #DESCRIPTION Bel RTL - Noël
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/57033/aac_64.mp3?origine=playercherie:Chérie Noel
 #DESCRIPTION Chérie Noel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/JOE_CHRISTMAS.mp3:Joe Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dpgmedia.streamtheuniverse.com/joe-christmas.mp3:Joe Christmas
 #DESCRIPTION Joe Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/NostalgieChristmas-aac:Nostalgie Noel
 #DESCRIPTION Nostalgie Noel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/57036/aac_64.mp3:NRJ-Belgique En mode Noel
 #DESCRIPTION NRJ-Belgique En mode Noel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/krn:Radio Noordzee - Kerstmuziek Oostende (België)
-#DESCRIPTION Radio Noordzee - Kerstmuziek Oostende (België)
-#SERVICE 1:64:43c:0:0:0:0:0:0:0:
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/zomer:Radio Noordzee - Kerstradio
+#DESCRIPTION Radio Noordzee - Kerstradio
+#SERVICE 1:64:47c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Duitsland++
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.laut.fm/alpenweihnacht:1000-Alpenweihnacht (Duitsland)
 #DESCRIPTION 1000-Alpenweihnacht (Duitsland)
@@ -87,7 +87,7 @@
 #DESCRIPTION Tannenbaumradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-weihnachten-mp3-192-2156039:Toggo Radio Weihnachten
 #DESCRIPTION Toggo Radio Weihnachten
-#SERVICE 1:64:43d:0:0:0:0:0:0:0:
+#SERVICE 1:64:47d:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige landen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-event01-mp3-hq:80s80s Xmas
 #DESCRIPTION 80s80s Xmas
@@ -189,7 +189,7 @@
 #DESCRIPTION United Music Holiday Radio Christmas Party (Italië)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um113.mp3:United Music Holiday Radio Cool Christmas (Italië)
 #DESCRIPTION United Music Holiday Radio Cool Christmas (Italië)
-#SERVICE 1:64:43e:0:0:0:0:0:0:0:
+#SERVICE 1:64:47e:0:0:0:0:0:0:0:
 #DESCRIPTION +++Sinterklaas+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sintfm.nl%3a8000/sinterklaasradiohigh.mp3:Sint FM
 #DESCRIPTION Sint FM

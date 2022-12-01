@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:4bf:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fc:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -53,7 +53,7 @@
 #DESCRIPTION VRT Studio Brussel UNTZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs-high.mp3:VRT Studio Brussel Vuurland
 #DESCRIPTION VRT Studio Brussel Vuurland
-#SERVICE 1:64:4c0:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fd:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -173,7 +173,7 @@
 #DESCRIPTION Joe 60's & 70's
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JOE_80S.mp3:Joe 80's & 90s
 #DESCRIPTION Joe 80's & 90s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/JOE_CHRISTMAS.mp3:Joe Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dpgmedia.streamtheuniverse.com/joe-christmas.mp3:Joe Christmas
 #DESCRIPTION Joe Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JOE_EASY.mp3:Joe Easy
 #DESCRIPTION Joe Easy
@@ -249,6 +249,8 @@
 #DESCRIPTION Q-Foute Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMAXIMUMHITS.mp3:Q-Maximum Hits
 #DESCRIPTION Q-Maximum Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/q-moosebar.aac:Q-Moose Bar
+#DESCRIPTION Q-Moose Bar
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QMAXIMUMHITS.mp3:Q-Non Stop
 #DESCRIPTION Q-Non Stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/QSHUTUP_DANCE.mp3:Q-Shut Up And Dance
@@ -381,8 +383,8 @@
 #DESCRIPTION Vlaamse Wonderjaren (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/Vlaanderen-Nationaal:Vlaanderen Nationaal
 #DESCRIPTION Vlaanderen Nationaal
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//19643.live.streamtheworld.com/WILLY.mp3:WILLY (BE)
-#DESCRIPTION WILLY (BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25583.live.streamtheworld.com/WILLYAAC.aac:WILLY
+#DESCRIPTION WILLY
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.xlmusic.fm/listen.mp3:XL Music FM (BE)
 #DESCRIPTION XL Music FM (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server.yesterdayland.stream/radio/8000/listen:Yesterdayland
@@ -397,7 +399,7 @@
 #DESCRIPTION ZZOldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK
 #DESCRIPTION ZZROCK
-#SERVICE 1:64:4c1:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fe:0:0:0:0:0:0:0:
 #DESCRIPTION ++Bruxelles et Wallonie++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -695,7 +697,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:4c2:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ff:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -711,7 +713,7 @@
 #DESCRIPTION Radio Contact Ostbelgien NOW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:4c3:0:0:0:0:0:0:0:
+#SERVICE 1:64:500:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

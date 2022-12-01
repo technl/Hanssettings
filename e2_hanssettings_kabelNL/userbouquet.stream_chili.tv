@@ -1,5 +1,5 @@
 #NAME Stream Chili (CL)
-#SERVICE 1:64:1e7:0:0:0:0:0:0:0:
+#SERVICE 1:64:21e:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8:Canal 2
 #DESCRIPTION Canal 2
@@ -21,7 +21,7 @@
 #DESCRIPTION Canal 29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eae379fb77bb.streamlock.net/eduardo555/eduardo555/playlist.m3u8:Canal 33 HD
 #DESCRIPTION Canal 33 HD
-#SERVICE 1:64:1e8:0:0:0:0:0:0:0:
+#SERVICE 1:64:21f:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8:ADN Radio TV
 #DESCRIPTION ADN Radio TV
@@ -59,12 +59,16 @@
 #DESCRIPTION El Pinguino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wifispeed.trapemn.tv%3a1936/infantil/energeek-1/playlist.m3u8:EnerGeek
 #DESCRIPTION EnerGeek
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8:EnerGeek Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.wifispeed.cl%3a3247/live/energeek2live.m3u8:EnerGeek Fanpop
+#DESCRIPTION EnerGeek Fanpop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.wifiexpert.cl/energeek/radio/playlist.m3u8:EnerGeek Radio
 #DESCRIPTION EnerGeek Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.wifispeed.cl%3a3103/live/energeek1live.m3u8:EnerGeek Señal 1
 #DESCRIPTION EnerGeek Señal 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wifispeed.trapemn.tv%3a1936/infantil/energeek-2/playlist.m3u8:EnerGeek Señal 2
 #DESCRIPTION EnerGeek Señal 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wifispeed.trapemn.tv%3a1936/infantil/energeek-tres/playlist.m3u8:EnerGeek Señal 3
+#DESCRIPTION EnerGeek Señal 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8:EnerGeek Señal 4
 #DESCRIPTION EnerGeek Señal 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediacpstreamchile.com%3a1936/hugomendez/hugomendez/playlist.m3u8:Estudio TV

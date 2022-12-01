@@ -1,5 +1,5 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:342:0:0:0:0:0:0:0:
+#SERVICE 1:64:37b:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders++
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
@@ -41,7 +41,7 @@
 #DESCRIPTION FunX Utrecht
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
 #DESCRIPTION Spreekbuis Radio
-#SERVICE 1:64:343:0:0:0:0:0:0:0:
+#SERVICE 1:64:37c:0:0:0:0:0:0:0:
 #DESCRIPTION ++(commerciële) HOOFDzenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//40rockstream.live-streams.nl/live:40ROCK Radio
 #DESCRIPTION 40ROCK Radio
@@ -489,7 +489,7 @@
 #DESCRIPTION Willem II Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
 #DESCRIPTION ZTACK
-#SERVICE 1:64:344:0:0:0:0:0:0:0:
+#SERVICE 1:64:37d:0:0:0:0:0:0:0:
 #DESCRIPTION ++religieus++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
 #DESCRIPTION Bright FM
@@ -523,7 +523,13 @@
 #DESCRIPTION Trans World Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
 #DESCRIPTION Urk FM Geestelijk
-#SERVICE 1:64:345:0:0:0:0:0:0:0:
+#SERVICE 1:64:37e:0:0:0:0:0:0:0:
+#DESCRIPTION ++Sinterklaas++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tbmp.nl%3a8000/sinterklaasradiohigh.aac:Sint FM
+#DESCRIPTION Sint FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream06.dotpoint.nl%3a8004/stream:SinterklaasRadio
+#DESCRIPTION SinterklaasRadio
+#SERVICE 1:64:37f:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
 #DESCRIPTION 18Hits (NL Nationaal)
@@ -639,8 +645,8 @@
 #DESCRIPTION Completeteam (NL + NL piraten)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.228.133.3%3a8360/stream/1/;:Cool Dance Radio
 #DESCRIPTION Cool Dance Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.costahitradio.com%3a8134/stream:Costa Hit Radio (Nederlandstalig)
-#DESCRIPTION Costa Hit Radio (Nederlandstalig)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.costahitradio.com%3a8134/stream:Costa Hit Radio NL (vanuit Spanje)
+#DESCRIPTION Costa Hit Radio NL (vanuit Spanje)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-11.stream-server.nl%3a8518/;:Crossroads Country Radio (NL-nationaal)
 #DESCRIPTION Crossroads Country Radio (NL-nationaal)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//24.132.246.121%3a8004/;:DaCosta Radio
@@ -833,8 +839,6 @@
 #DESCRIPTION KX Classics The Edge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-66.stream-server.nl%3a8848/stream:KZ Radio (Kleine Zwerver) NL-piraten
 #DESCRIPTION KZ Radio (Kleine Zwerver) NL-piraten
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.lacarihuela-radio.com/8044/stream:La Carihuela Radio (NL in Torremolinos - Spanje)
-#DESCRIPTION La Carihuela Radio (NL in Torremolinos - Spanje)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.sonixcast.com/CSNX-8060:Like FM Brabant - NLstalig
 #DESCRIPTION Like FM Brabant - NLstalig
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server6.inetcast.nl%3a1155/stream:Majapca Radio
