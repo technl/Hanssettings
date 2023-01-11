@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:1c89:0:0:0:0:0:0:0:
+#SERVICE 1:64:1c68:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -53,7 +53,7 @@
 #DESCRIPTION VRT Studio Brussel UNTZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs-high.mp3:VRT Studio Brussel Vuurland
 #DESCRIPTION VRT Studio Brussel Vuurland
-#SERVICE 1:64:1c8a:0:0:0:0:0:0:0:
+#SERVICE 1:64:1c69:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -77,6 +77,10 @@
 #DESCRIPTION Bruce
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice.cr2.streamzilla.xlcdn.com%3a8000/sz=fmbrussel=fmb988.mp3:BRUZZ
 #DESCRIPTION BRUZZ
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.medianation.be/bamaac:Business AM
+#DESCRIPTION Business AM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.medianation.be/bam:Business AM via Radioplayer BE
+#DESCRIPTION Business AM via Radioplayer BE
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8000/c-dance:C-Dance (BE)
 #DESCRIPTION C-Dance (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.crooze.eu/proxy/cecret/stream:Cecret
@@ -351,6 +355,8 @@
 #DESCRIPTION Studio 100 - 100 %Zen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.textchat.be%3a8009/TEXTRADIO:Text Radio
 #DESCRIPTION Text Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast3.asurahosting.com/proxy/breakou1/stream:The Funky Channel
+#DESCRIPTION The Funky Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOP_RADIO.mp3 :TOP Radio
 #DESCRIPTION TOP Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3:TOP Bam
@@ -383,8 +389,10 @@
 #DESCRIPTION Vlaamse Wonderjaren (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/Vlaanderen-Nationaal:Vlaanderen Nationaal
 #DESCRIPTION Vlaanderen Nationaal
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25583.live.streamtheworld.com/WILLYAAC.aac:WILLY
-#DESCRIPTION WILLY
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25583.live.streamtheworld.com/WILLYAAC.aac:Willy
+#DESCRIPTION Willy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.mp3:Willy Class X
+#DESCRIPTION Willy Class X
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.xlmusic.fm/listen.mp3:XL Music FM (BE)
 #DESCRIPTION XL Music FM (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server.yesterdayland.stream/radio/8000/listen:Yesterdayland
@@ -399,7 +407,7 @@
 #DESCRIPTION ZZOldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK
 #DESCRIPTION ZZROCK
-#SERVICE 1:64:1c8b:0:0:0:0:0:0:0:
+#SERVICE 1:64:1c6a:0:0:0:0:0:0:0:
 #DESCRIPTION ++Bruxelles et Wallonie++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -697,7 +705,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:1c8c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1c6b:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -713,7 +721,7 @@
 #DESCRIPTION Radio Contact Ostbelgien NOW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:1c8d:0:0:0:0:0:0:0:
+#SERVICE 1:64:1c6c:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

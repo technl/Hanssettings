@@ -1,49 +1,45 @@
 #NAME Stream Portugal (PT)
-#SERVICE 1:64:35c:0:0:0:0:0:0:0:
+#SERVICE 1:64:369:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0g7:RTP 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1404:RTP 1
 #DESCRIPTION RTP 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0g8:RTP 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1406:RTP 2
 #DESCRIPTION RTP 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gd:RTP 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1418:RTP 3
 #DESCRIPTION RTP 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/RTP3/index.m3u8:RTP 3 -2-
 #DESCRIPTION RTP 3 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0hn:RTP África
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1424:RTP África
 #DESCRIPTION RTP África
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0ir:RTP Açores
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2055:RTP Açores
 #DESCRIPTION RTP Açores
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.212.178.69%3a41042/bysid/608:RTP Internacional 
 #DESCRIPTION RTP Internacional 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s38/index.m3u8:RTP Internacional Asia
 #DESCRIPTION RTP Internacional Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0is:RTP Madeira
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/278558:RTP Madeira
 #DESCRIPTION RTP Madeira
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gk:RTP Memória
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1425:RTP Memória
 #DESCRIPTION RTP Memória
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8:SIC
 #DESCRIPTION SIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0jd:SIC Caras
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/5910:SIC Caras
 #DESCRIPTION SIC Caras
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gs:SIC K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4021:SIC K
 #DESCRIPTION SIC K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gt:SIC Mulher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1427:SIC Mulher
 #DESCRIPTION SIC Mulher
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8001/play/a005:SIC N HD
-#DESCRIPTION SIC N HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0ga:SIC Notícias
-#DESCRIPTION SIC Notícias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0it:SIC Radical
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1416:SIC Noticias
+#DESCRIPTION SIC Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1429:SIC Radical
 #DESCRIPTION SIC Radical
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gb:TVI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1410:TVI
 #DESCRIPTION TVI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gl:TVI 24
-#DESCRIPTION TVI 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0iu:TVI Ficção
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8:TVI Ficção
 #DESCRIPTION TVI Ficção
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8:TVI Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1423:TVI Reality
 #DESCRIPTION TVI Reality
-#SERVICE 1:64:35d:0:0:0:0:0:0:0:
+#SERVICE 1:64:36a:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0ge:11
 #DESCRIPTION 11
@@ -93,7 +89,7 @@
 #DESCRIPTION Clubbing TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gf:CMTV
 #DESCRIPTION CMTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0il:CNN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiAzOjI4OjMxIEFNJmhhc2hfdmFsdWU9WnJRdHpqMWs2Zy9Ya1VZQ05kc2k5dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgzMGJjMzdkLTFkOGYtNDBiOC04ZTA5LWY2NzJkZTA0MGNjMA==/:CNN
 #DESCRIPTION CNN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0j3:Crime+Investigation
 #DESCRIPTION Crime+Investigation
@@ -181,7 +177,7 @@
 #DESCRIPTION Sport TV Mais HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gg:Sporting TV HD
 #DESCRIPTION Sporting TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gp:SyFy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.44.48.82%3a8002/play/a07s:SyFy HD
 #DESCRIPTION SyFy HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h8:TLC
 #DESCRIPTION TLC

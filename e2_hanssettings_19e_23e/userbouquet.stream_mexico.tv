@@ -1,5 +1,5 @@
 #NAME Stream Mexico (MX)
-#SERVICE 1:64:31d:0:0:0:0:0:0:0:
+#SERVICE 1:64:325:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8:Azteca 1
 #DESCRIPTION Azteca 1
@@ -45,8 +45,12 @@
 #DESCRIPTION Canal 11 Niñas Y Niños
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xewt-tdt.m3u8:Canal 12
 #DESCRIPTION Canal 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8:Canal 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//60ed5b6d0df78.streamlock.net%3a1936/segundo/segundo/playlist.m3u8:Canal 14
 #DESCRIPTION Canal 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8:15 TV Sabinas
+#DESCRIPTION 15 TV Sabinas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/mp4%3a12G27TMY/playlist.m3u8:Canal 15 ILCE Summa Sabres
+#DESCRIPTION Canal 15 ILCE Summa Sabres
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.cdmx.gob.mx/livestream/stream.m3u8:Capital 21
 #DESCRIPTION Capital 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.240.210.28%3a1935/envivo/puecom/playlist.m3u8:SET Televisión Canal 26.1
@@ -75,7 +79,7 @@
 #DESCRIPTION UDG TV 44 Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8:Canal 45
 #DESCRIPTION Canal 45
-#SERVICE 1:64:31e:0:0:0:0:0:0:0:
+#SERVICE 1:64:326:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8:A Son de Salsa
 #DESCRIPTION A Son de Salsa
@@ -135,8 +139,8 @@
 #DESCRIPTION México Travel Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/miamitv/smil%3amiamitvROKU/chunklist_w1385319380_b2592000.m3u8:Miami TV Mexico
 #DESCRIPTION Miami TV Mexico
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8:Milenio TV
-#DESCRIPTION Milenio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8:Milenio Televisión Noroeste
+#DESCRIPTION Milenio Televisión Noroeste
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8:Moovimex
 #DESCRIPTION Moovimex
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//177.53.152.186%3a8000/play/a00g/index.m3u8:MX Old
@@ -193,6 +197,8 @@
 #DESCRIPTION Tlaxcala Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingcws20.com%3a1935/tmtv/videotmtv/chunklist_w1798696550.m3u8:Transmedia TV Morelia
 #DESCRIPTION Transmedia TV Morelia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.info7.mx/info7/stream.m3u8:TV Azteca Noroeste
+#DESCRIPTION TV Azteca Noroeste
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.oursnetworktv.com/latin/encoder55/playlist.m3u8:TV Guanajuato
 #DESCRIPTION TV Guanajuato
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.oursnetworktv.com/latin/encoder96/chunklist_.m3u8:TV Independencia Orgullo Nuestro
@@ -205,7 +211,7 @@
 #DESCRIPTION TV Méxiquence
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv.panelcast.net/qrotv/qrotv/chunklist_.m3u8:TV Querétaro
 #DESCRIPTION TV Querétaro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=:TV Unam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8:TV Unam
 #DESCRIPTION TV Unam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca3e84a76d30.streamlock.net/gpacifico4/smil%3amazatlan.smil/chunklist_w747018279_b1428000_sleng.m3u8:TVP
 #DESCRIPTION TVP

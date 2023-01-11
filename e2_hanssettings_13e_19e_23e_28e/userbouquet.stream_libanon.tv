@@ -5,8 +5,10 @@
 #DESCRIPTION Ajyal TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/alhiwar_live/smil%3aalhiwar.smil/chunklist_b.m3u8:Al Hiwar
 #DESCRIPTION Al Hiwar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alittihad.tv/ittihad/index.m3u8:Al Ittihad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.105.4.151%3a8080/_defapp_/ittihad/index.m3u8:Al Ittihad
 #DESCRIPTION Al Ittihad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/aljadeedtv:Al Jadeed
+#DESCRIPTION Al Jadeed
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist.m3u8:Al Magd
 #DESCRIPTION Al Magd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//manar.live/iptv/playlist.m3u8:Al Manar
@@ -29,6 +31,8 @@
 #DESCRIPTION LBC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8:LBC International
 #DESCRIPTION LBC International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.3cd.io/v1/broadcast/mtv/playlist.m3u8:MTV Lebanon
+#DESCRIPTION MTV Lebanon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8:Nabaa TV
 #DESCRIPTION Nabaa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.14.40.237%3a1935/live/Nabaa/chunklist.m3u8:Nabaa TV -2-
@@ -45,6 +49,8 @@
 #DESCRIPTION Nour Mariam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8:Noursat
 #DESCRIPTION Noursat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.3cd.io/v1/broadcast/one/playlist.m3u8:One MTV Lebanon
+#DESCRIPTION One MTV Lebanon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.182.82.104/OTV/index.m3u8?token=test:OTV
 #DESCRIPTION OTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media2.livaat.com/TAHA-TV/index.m3u8:Taha TV

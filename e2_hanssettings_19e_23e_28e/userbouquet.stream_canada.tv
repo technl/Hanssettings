@@ -1,25 +1,25 @@
 #NAME Stream Canada (CA)
-#SERVICE 1:64:306:0:0:0:0:0:0:0:
+#SERVICE 1:64:30d:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/13236:ABC Spark
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/13236:ABC Spark
 #DESCRIPTION ABC Spark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/427:CBC
-#DESCRIPTION CBC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/11611:CBC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/11619:CBC Calgary
+#DESCRIPTION CBC Calgary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/11611:CBC News
 #DESCRIPTION CBC News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8:CBC News Highlights
 #DESCRIPTION CBC News Highlights
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/473:CTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/473:CTV
 #DESCRIPTION CTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/13228:CTV 2 Atlantic
-#DESCRIPTION CTV 2 Atlantic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/479:CTV Comedy Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//satline.xyz%3a8080/live/7381662208002780/5261662208002780/23776.ts:CTV 2 Ottawa
+#DESCRIPTION CTV 2 Ottawa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/479:CTV Comedy Channel
 #DESCRIPTION CTV Comedy Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9220:CTV Drama Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9220:CTV Drama Channel
 #DESCRIPTION CTV Drama Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/474:CTV News Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/474:CTV News Channel
 #DESCRIPTION CTV News Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/60157:CTV Sci-Fi Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/60157:CTV Sci-Fi Channel
 #DESCRIPTION CTV Sci-Fi Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8:Global News Canada
 #DESCRIPTION Global News Canada
@@ -27,7 +27,7 @@
 #DESCRIPTION Global News BC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/283850:Global News Calgary
 #DESCRIPTION Global News Calgary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/283851:Global News Edmonton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/283851:Global News Edmonton
 #DESCRIPTION Global News Edmonton
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8:Global News Halifax
 #DESCRIPTION Global News Halifax
@@ -41,113 +41,117 @@
 #DESCRIPTION Global News Regina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8:Global News Saskatoon
 #DESCRIPTION Global News Saskatoon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/465:Global News Toronto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/465:Global News Toronto
 #DESCRIPTION Global News Toronto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8:Global News Winnipeg
 #DESCRIPTION Global News Winnipeg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9257:Ici RDI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9257:Ici RDI
 #DESCRIPTION Ici RDI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8:ICI Montreal
 #DESCRIPTION ICI Montreal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/281013:ICI Vancouver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/281013:ICI Vancouver
 #DESCRIPTION ICI Vancouver
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/280913:RDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/280913:RDS
 #DESCRIPTION RDS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/495:RDS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/495:RDS 2
 #DESCRIPTION RDS 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/496:RDS Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/496:RDS Info
 #DESCRIPTION RDS Info
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9303:TV5 Quebec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/275882:TCM Canada
+#DESCRIPTION TCM Canada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9303:TV5 Quebec
 #DESCRIPTION TV5 Quebec
-#SERVICE 1:64:307:0:0:0:0:0:0:0:
+#SERVICE 1:64:30e:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//158.69.124.9%3a1935/5aabtv/5aabtv/chunklist.m3u8:5AAB TV
 #DESCRIPTION 5AAB TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/1729:A&E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1729:A&E
 #DESCRIPTION A&E
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8:A3 Bikini
-#DESCRIPTION A3 Bikini
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/503:AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/503:AMC
 #DESCRIPTION AMC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9259:Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9259:Animal Planet
 #DESCRIPTION Animal Planet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.livestreamtv.ca/azstar/ngrp%3aazstar/playlist.m3u8:Az Star TV
 #DESCRIPTION Az Star TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8:BBC Toronto
 #DESCRIPTION BBC Toronto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/504:BNN Bloomberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/504:BNN Bloomberg
 #DESCRIPTION BNN Bloomberg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn8.live247stream.com/canadaone/tv/playlist.m3u8:Canada One
 #DESCRIPTION Canada One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//main.clickstreamcdn.com/agm/star-canada/playlist.m3u8:Canada Star TV
 #DESCRIPTION Canada Star TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//142.112.39.133%3a8080/hls/catv/index.m3u8:Canadian Arab TV
-#DESCRIPTION Canadian Arab TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.savoir.media/live/stream.m3u8:Canal Savoir
 #DESCRIPTION Canal Savoir
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/505:Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/505:Cartoon Network
 #DESCRIPTION Cartoon Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/487:Casa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/487:Casa
 #DESCRIPTION Casa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9246:CHCH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9246:CHCH TV
 #DESCRIPTION CHCH TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/24842:Cinepop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/24842:Cinepop
 #DESCRIPTION Cinepop
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/483:City TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/483:City TV
 #DESCRIPTION City TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/296809:City TV Toronto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/296809:City TV Toronto
 #DESCRIPTION City TV Toronto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/482:CMT Canada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/482:CMT Canada
 #DESCRIPTION CMT Canada
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//admin.ottdemo.rrsat.com%3a1935/ctntv/ctntv2/playlist.m3u8:CTN
 #DESCRIPTION CTN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/472:DejaView
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/472:DejaView
 #DESCRIPTION DejaView
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/6146:Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/6146:Disney Channel
 #DESCRIPTION Disney Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.appv.jagobd.com%3a444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/playlist.m3u8:Doyel TV Canada
-#DESCRIPTION Doyel TV Canada
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/296817:EWTN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/296817:EWTN
 #DESCRIPTION EWTN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/29268:Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/29268:Family
 #DESCRIPTION Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9235:Fight Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9235:Fight Network
 #DESCRIPTION Fight Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8:Francophonie 24
 #DESCRIPTION Francophonie 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8:Fuel TV
 #DESCRIPTION Fuel TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/11616:FX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/11616:FX
 #DESCRIPTION FX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/6148:FXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/6148:FXX
 #DESCRIPTION FXX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/15472:Game TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/15472:Game TV
 #DESCRIPTION Game TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-samsung-canada.amagi.tv/playlist.m3u8:Insight TV
 #DESCRIPTION Insight TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inwonder-samsung-canada.amagi.tv/playlist.m3u8:Inwonder
 #DESCRIPTION Inwonder
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/460:Lifetime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/460:Lifetime
 #DESCRIPTION Lifetime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9204:MovieTime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9204:MovieTime
 #DESCRIPTION MovieTime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/281909:Much Canada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2584:MTV Canada
+#DESCRIPTION MTV Canada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/281909:Much Canada
 #DESCRIPTION Much Canada
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9202:Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9202:Nickelodeon
 #DESCRIPTION Nickelodeon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9326:One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9326:One
 #DESCRIPTION One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/295053:Oprah Winfrey Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/295053:Oprah Winfrey Network
 #DESCRIPTION Oprah Winfrey Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/61138:Out TV
+#DESCRIPTION Out TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8:Outside TV
 #DESCRIPTION Outside TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerstv-samsungca.amagi.tv/playlist.m3u8:Players TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/451:Paramount Network
+#DESCRIPTION Paramount Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8:Pardesi TV
+#DESCRIPTION Pardesi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/286218:Players TV
 #DESCRIPTION Players TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8:QVTV
 #DESCRIPTION QVTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8:Salt + Light TV
 #DESCRIPTION Salt + Light TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9328:Silver Screen Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9328:Silver Screen Classics
 #DESCRIPTION Silver Screen Classics
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8:Stingray Ambience
 #DESCRIPTION Stingray Ambience
@@ -173,21 +177,37 @@
 #DESCRIPTION Stingray Qello Concerts
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/user/ctmq/live:Télé-Mag Québec
 #DESCRIPTION Télé-Mag Québec
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8:Tele-Quebec
-#DESCRIPTION Tele-Quebec
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9327:The Shopping Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/296630:Tele Quebec
+#DESCRIPTION Tele Quebec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8:Tele-Quebec -2- (deels geoblocking)
+#DESCRIPTION Tele-Quebec -2- (deels geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9327:The Shopping Channel HD
 #DESCRIPTION The Shopping Channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/447:The Weather Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/447:The Weather Network
 #DESCRIPTION The Weather Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live:TVC 9
-#DESCRIPTION TVC 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/770:TSN 1
+#DESCRIPTION TSN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/771:TSN 2
+#DESCRIPTION TSN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/772:TSN 3
+#DESCRIPTION TSN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/773:TSN 4
+#DESCRIPTION TSN 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/774:TSN 5
+#DESCRIPTION TSN 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/500:TVA Sports
+#DESCRIPTION TVA Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/295157:TVA Sports 2
+#DESCRIPTION TVA Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live:TVC 9 (deels geoblocking)
+#DESCRIPTION TVC 9 (deels geoblocking)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//toronto3.live247stream.com/toronto360/tv/playlist.m3u8:Toronto 360 TV
 #DESCRIPTION Toronto 360 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8:Weatherspy
 #DESCRIPTION Weatherspy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/13225:WildBrain TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/13225:WildBrain TV
 #DESCRIPTION WildBrain TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/9199:YTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9199:YTV
 #DESCRIPTION YTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/502:Zeste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/502:Zeste
 #DESCRIPTION Zeste

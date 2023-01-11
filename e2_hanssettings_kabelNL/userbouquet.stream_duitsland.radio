@@ -29,6 +29,16 @@
 #DESCRIPTION 89.0 RTL Dusch Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fhhalle.streamabc.net/fhhal-rtlputz-mp3-128-1945524:89.0 RTL House Putz
 #DESCRIPTION 89.0 RTL House Putz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//90s90s.hoerradar.de/90s90s-pop-mp3-hq:90s90s Radio 
+#DESCRIPTION 90s90s Radio 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/boygroup/mp3-192/streams.90s90s.de/:90s90s Radio - Boygroups
+#DESCRIPTION 90s90s Radio - Boygroups
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/eurodance/mp3-192/streams.90s90s.de/:90s90s Radio - Eurodance
+#DESCRIPTION 90s90s Radio - Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/pop/mp3-192/streams.90s90s.de/:90s90s Radio - Hits
+#DESCRIPTION 90s90s Radio - Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/main/mp3-192/streams.90s90s.de/:90s90s Radio - The Beat
+#DESCRIPTION 90s90s Radio - The Beat
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//rockantenne-hh-stream04.radiohost.de/917xfm_mp3-192:917xfm (Hamburg)
 #DESCRIPTION 917xfm (Hamburg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.live-sm.absolutradio.de/absolut-bella/stream/mp3:Absolut Radio -  Bella
@@ -2449,7 +2459,7 @@
 #DESCRIPTION Radio Fips
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.antenne.at/rf:Radio Flamingo
 #DESCRIPTION Radio Flamingo
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//digital-webstream.de/intro/110521-2810.mp3:Radio Flensburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio-flensburg.stream.laut.fm/radio-flensburg:Radio Flensburg
 #DESCRIPTION Radio Flensburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioflora.de/stream/live192.mp3:Radio Flora
 #DESCRIPTION Radio Flora
@@ -2791,6 +2801,8 @@
 #DESCRIPTION Radio Rheinwelle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn-de-hz-fal-stream01-cluster01.radiohost.de%3a80/radioroland_192:Radio Roland
 #DESCRIPTION Radio Roland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.streamonkey.net/radiorosengarten-live:Radio Rosengarten
+#DESCRIPTION Radio Rosengarten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiorsg.c.nmdn.net/radiorsg/livestream.mp3:Radio RSG (Duitsland)
 #DESCRIPTION Radio RSG (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiorst.de%3a8000/rst128k:Radio RST
@@ -3725,10 +3737,6 @@
 #DESCRIPTION SOULPOWERfm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.shoutcast.com/Sound4U:Sound4U
 #DESCRIPTION Sound4U
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge03.streamonkey.net/sportradio-deutschland:Sportradio Deutschland
-#DESCRIPTION Sportradio Deutschland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge03.streamonkey.net/sportradio-deutschland/stream/mp3:Sportradio Deutschland
-#DESCRIPTION Sportradio Deutschland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.spreeradio.de/spree-live/mp3-128:Spreeradio
 #DESCRIPTION Spreeradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.25.217.22%3a8200:SQRR---StatusQuoRockRadio

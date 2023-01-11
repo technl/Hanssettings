@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:46f:0:0:0:0:0:0:0:
+#SERVICE 1:64:47a:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:470:0:0:0:0:0:0:0:
+#SERVICE 1:64:47b:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -123,6 +123,8 @@
 #DESCRIPTION A1 Radio (Peterborough, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu9.fastcast4u.com/proxy/vsdeiqhm?mp=%252F1:AATM Radio (Glasgow, Engeland, UK)
 #DESCRIPTION AATM Radio (Glasgow, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream3.hippynet.co.uk%3a8008/stream:Abacus Radio (Londen)
+#DESCRIPTION Abacus Radio (Londen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.3%3a8098/;:ABC Oldies (Engeland, UK)
 #DESCRIPTION ABC Oldies (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.187.93.104%3a8097/;:Academy FM (Ramsgate, Engeland, UK)
@@ -175,6 +177,8 @@
 #DESCRIPTION BAME Radio (Londen, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.agprohosting.com%3a8443/banburyfm:Banbury FM
 #DESCRIPTION Banbury FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//everestcast.shoutcastservices.com%3a1520/stream:Base Radio (Filwood)
+#DESCRIPTION Base Radio (Filwood)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hydra.shoutca.st%3a8064/stream:Bay Trust Radio (Kendal, Engeland, UK)
 #DESCRIPTION Bay Trust Radio (Kendal, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.98.130.255%3a8014/live.mp3:BCfm (Bristol)
@@ -371,6 +375,8 @@
 #DESCRIPTION Dearne FM (Barnsley, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.free-shoutcast.com%3a18592/;?nocache=6&type=http:Dead Good Radio (Wigan, Engeland, UK)
 #DESCRIPTION Dead Good Radio (Wigan, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dab.decadanceradio.net/radio/8000/radio.mp3:Decadance Radio (Bristol)
+#DESCRIPTION Decadance Radio (Bristol)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//node-34.zeno.fm/q297wbeus5quv?rj-ttl=5&rj-tok=AAABc-LoiWcAFiPYshG70yCtYw:Decision Time Radio (Engeland, UK)
 #DESCRIPTION Decision Time Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-audio-05-gos2.sharp-stream.com/tcdee.mp3:Dee 106.3 (Chester, Engeland, UK)
@@ -533,8 +539,6 @@
 #DESCRIPTION Great Driffield Radio  (Driffield, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//my.superstreaming.co.uk/8064/greatyorkshire:Great Yorkshire Radio
 #DESCRIPTION Great Yorkshire Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net2coventry.aac?direct=true&amsparams=playerid%253ABMUK_html5&aw_0_1st_bauer_listenerid=bff384f70c95acc596cb75d4f686eaf5&aw_0_1st_playerid=BMUK_html5&aw_0_1st_skey=15906&listenerid=bff384f70c95acc596cb75d4f686eaf5:Greatest Hits Coventry & Warwickshire (Engeland, UK)
-#DESCRIPTION Greatest Hits Coventry & Warwickshire (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-nation.sharp-stream.com/hull.mp3:Greatest Hits Hull & East Yorkshire
 #DESCRIPTION Greatest Hits Hull & East Yorkshire
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/net2suffolk.aac:Greatest Hits Ipswich & Suffolk
@@ -803,6 +807,8 @@
 #DESCRIPTION Kool Classic Hits (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//uk1-pn.webcast-server.net%3a8698/;:Kool London (Engeland, UK)
 #DESCRIPTION Kool London (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.canstream.co.uk%3a9132/live.mp3:KTCR (Keynsham)
+#DESCRIPTION KTCR (Keynsham)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.radio.co/sf97bc756a/listen:Lake District Radio (Ulverston, Engeland, UK)
 #DESCRIPTION Lake District Radio (Ulverston, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5402.cloudrad.io%3a8430/live:Lazer Radio (Aldershot, Engeland, UK)
@@ -1003,8 +1009,10 @@
 #DESCRIPTION Pasion HD Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//gbradio.cdn.tibus.net/CFPeak:Peak FM (Chesterfield, Engeland, UK)
 #DESCRIPTION Peak FM (Chesterfield, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.165.237.19%3a8555/stream:Phoenix FM (Brentwood, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hyades.shoutca.st%3a8555/stream:Phoenix FM (Brentwood, Engeland, UK)
 #DESCRIPTION Phoenix FM (Brentwood, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sentialive.com%3a8003/main:Phonic FM (Exeter)
+#DESCRIPTION Phonic FM (Exeter)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co%3a80/sbaa068f97/listen:Pie Radio (Stockport, Engeland, UK)
 #DESCRIPTION Pie Radio (Stockport, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//uk6.internet-radio.com%3a8213/stream:Pigpen Radio (Bristol, Engeland, UK)
@@ -1101,6 +1109,8 @@
 #DESCRIPTION Radio Kirdford (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//108.163.223.242%3a8097/stream:Radio Lonsdale (Engeland, UK)
 #DESCRIPTION Radio Lonsdale (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dreamsiteradiocp5.com/proxy/rmengland:Radio Maria England
+#DESCRIPTION Radio Maria England
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//node-14.zeno.fm/03hrn4xbewzuv?rj-ttl=5&rj-tok=AAABc75GMysA7T01ArVmbQZHTg:Radio Mercury Remembered (Engeland, UK)
 #DESCRIPTION Radio Mercury Remembered (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s46.myradiostream.com%3a8816/listen.mp3:Radio Newquay (Newquay, Engeland, UK)
@@ -1221,6 +1231,8 @@
 #DESCRIPTION Rising Edge Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.hippynet.co.uk%3a8010/stream:River Radio - North West  (Engeland, UK)
 #DESCRIPTION River Radio - North West  (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//usa7-vn.mixstream.net/8224/listen.mp3:Riviera FM (Torquay)
+#DESCRIPTION Riviera FM (Torquay)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.255.59.162%3a8216/;:Riverside Radio (Londen - Engeland, UK)
 #DESCRIPTION Riverside Radio (Londen - Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//usa7-vn.mixstream.net%3a8224/;:Riviera FM (Torquay, Engeland, UK)
@@ -1269,8 +1281,6 @@
 #DESCRIPTION Sami Swoi Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rss-streaming.co.uk%3a8038/;:Sandgrounder Radio (Southport, Engeland, UK)
 #DESCRIPTION Sandgrounder Radio (Southport, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/scalahigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1647092347&aw_0_1st.bauer_loggedin=false :Scala Radio
-#DESCRIPTION Scala Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scout.radio/play/podcast-download/4689/live.mp3:Scout Radio
 #DESCRIPTION Scout Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.voscast.com%3a8074/;:Scream London (Londen, Engeland, UK)
@@ -1359,8 +1369,8 @@
 #DESCRIPTION Solar Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4483.cloudrad.io%3a8130/;:Solid Gold Gem AM (Londen, Engeland, UK)
 #DESCRIPTION Solid Gold Gem AM (Londen, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.bargus.co.uk%3a8002/svalley.mp3:Somer Valley FM 97.5 (Engeland, UK)
-#DESCRIPTION Somer Valley FM 97.5 (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//somervalleyfm.streammachine.co.uk/stream/8014:Somer Valley Radio (Midsomer Norton)
+#DESCRIPTION Somer Valley Radio (Midsomer Norton)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonicstream.out.airtime.pro/sonicstream_b:Sonic Stream (Birmingham, Engeland, UK)
 #DESCRIPTION Sonic Stream (Birmingham, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.radio.co/sf960c9fab/listen:Soulbeat Radio (Sidcup, Engeland, UK)
@@ -1373,6 +1383,8 @@
 #DESCRIPTION South Coast Radio (Margate, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//southcoastradioxtra.servemp3.com%3a8000/;:South Coast Radio Xtra (Margate, Engeland, UK)
 #DESCRIPTION South Coast Radio Xtra (Margate, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-40.zeno.fm/1htpr0nkns8uv:South Devon Sound 
+#DESCRIPTION South Devon Sound 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playoutonestreaming.com/proxy/wymond:South Norfolk Radio
 #DESCRIPTION South Norfolk Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n05.radiojar.com/m47fp4p5n0quv?rj-ttl=5&rj-tok=AAABc3aT_LEADRHRKXyWPyC5YA:Southern Sound (Engeland, UK)
@@ -1649,8 +1661,8 @@
 #DESCRIPTION Your FM (Stockport, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.canstream.co.uk%3a8039/live.mp3:Youthcomm Radio (Worcester) Per okt. 2022%3a Radio Wyvern
 #DESCRIPTION Youthcomm Radio (Worcester) Per okt. 2022: Radio Wyvern
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//vps.zestliverpool.com%3a8161/centova/3:Zest Liverpool (Engeland, UK)
-#DESCRIPTION Zest Liverpool (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//vps.zestliverpool.com%3a8161/centova/3:Zest North West (Liverpool)
+#DESCRIPTION Zest North West (Liverpool)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4.voscast.com%3a8288/;:Zetland FM (Redcar, Engeland, UK)
 #DESCRIPTION Zetland FM (Redcar, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//15913.live.streamtheworld.com/SAM01AAC148_SC:Zone 1 Radio (Londen - Engeland, UK)

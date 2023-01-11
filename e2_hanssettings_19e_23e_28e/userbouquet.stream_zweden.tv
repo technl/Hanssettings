@@ -1,29 +1,41 @@
 #NAME Stream Zweden (SE)
-#SERVICE 1:64:388:0:0:0:0:0:0:0:
+#SERVICE 1:64:397:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/1/index.m3u8:SVT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4584:SVT 1
 #DESCRIPTION SVT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/2/index.m3u8:SVT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4585:SVT 2
 #DESCRIPTION SVT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/a00u/index.m3u8:SVT 24
-#DESCRIPTION SVT 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/4/index.m3u8:TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4586:SVT Barn
+#DESCRIPTION SVT Barn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4588:TV 3 Sverige
+#DESCRIPTION TV 3 Sverige
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4590:TV 4
 #DESCRIPTION TV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/8/index.m3u8:TV 4 Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4595:TV 4 Fakta
+#DESCRIPTION TV 4 Fakta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4591:TV 4 Film
 #DESCRIPTION TV 4 Film
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/6/index.m3u8:TV 4 Guld
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4594:TV 4 Guld
 #DESCRIPTION TV 4 Guld
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8:TV 4 Nyheterna
 #DESCRIPTION TV 4 Nyheterna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/5/index.m3u8:Kanal 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4601:Kanal 5
 #DESCRIPTION Kanal 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4602:TV 6 Sverige
+#DESCRIPTION TV 6 Sverige
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-se/_definst_/mp4%3atv7-se.stream_360p/playlist.m3u8:TV 7 Himmlen
 #DESCRIPTION TV 7 Himmlen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/9/index.m3u8:Kanal 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4604:Kanal 9
 #DESCRIPTION Kanal 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.65.96.229%3a8000/play/12/index.m3u8:TV 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4606:Kanal 10 Sverige
+#DESCRIPTION Kanal 10 Sverige
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4605:TV 10
+#DESCRIPTION TV 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4607:Kanal 11
+#DESCRIPTION Kanal 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4608:TV 12
 #DESCRIPTION TV 12
-#SERVICE 1:64:389:0:0:0:0:0:0:0:
+#SERVICE 1:64:398:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/284734:Aftonbladet TV
 #DESCRIPTION Aftonbladet TV

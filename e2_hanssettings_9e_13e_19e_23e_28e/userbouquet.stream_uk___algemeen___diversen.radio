@@ -1,5 +1,5 @@
 #NAME Stream UK - algemeen + diversen
-#SERVICE 1:64:51f:0:0:0:0:0:0:0:
+#SERVICE 1:64:529:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio BBC algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_one:BBC Radio 1
 #DESCRIPTION BBC Radio 1
@@ -39,12 +39,14 @@
 #DESCRIPTION BBC Asian Network
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-urdua_backup:BBC Urdu
 #DESCRIPTION BBC Urdu
-#SERVICE 1:64:520:0:0:0:0:0:0:0:
+#SERVICE 1:64:52a:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr5.1mix.co.uk%3a8020/;:1 Mix Radio (UK algemeen)
 #DESCRIPTION 1 Mix Radio (UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/100-CHILL:100%25 Chill (Engeland, UK)
 #DESCRIPTION 100% Chill (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.hippynet.co.uk%3a8075/stream:Abacus - Amadeus
+#DESCRIPTION Abacus - Amadeus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.33.232.106%3a8008/stream:Abacus FM - Beethoven (klassiek + UK algemeen)
 #DESCRIPTION Abacus FM - Beethoven (klassiek + UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.33.232.106%3a8500/stream:Abacus FM - classical (klassiek + UK algemeen)
@@ -55,6 +57,8 @@
 #DESCRIPTION Abacus FM - Goon Show (UK, algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.33.232.106%3a8034/stream:Abacus FM - smooth jazz (UK, algemeen)
 #DESCRIPTION Abacus FM - smooth jazz (UK, algemeen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream3.hippynet.co.uk%3a8008/stream:Abacus Radio (Londen)
+#DESCRIPTION Abacus Radio (Londen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.timlradio.co.uk%3a80/ar128.mp3:Absolute
 #DESCRIPTION Absolute
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.timlradio.co.uk%3a80/ac128.mp3:Absolute Classic Rock
@@ -201,6 +205,8 @@
 #DESCRIPTION Radio Caroline - Flashback - Pop Singles From the 60s & 70s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radiocaroline.co.uk/sounds/north_loop_64.mp3:Radio Caroline North
 #DESCRIPTION Radio Caroline North
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dreamsiteradiocp5.com/proxy/rmengland:Radio Maria England
+#DESCRIPTION Radio Maria England
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playoutonestreaming.com%3a8008/radiotodaylive:RadioToday
 #DESCRIPTION RadioToday
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//realhouseradio.out.airtime.pro%3a8000/realhouseradio_a:Real House Radio (UK algemeen)
@@ -227,8 +233,6 @@
 #DESCRIPTION Sky Radio UK (UK, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.245.60.88%3a8128/stream:Skylab Radio (UK algemeen)
 #DESCRIPTION Skylab Radio (UK algemeen)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/scalahigh.aac:Scala Radio (klassiek - Engeland)
-#DESCRIPTION Scala Radio (klassiek - Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scout.radio/play/podcast-download/4689/live.mp3:Scout Radio
 #DESCRIPTION Scout Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media-the.musicradio.com/Chill:Smooth Chill UK (UK algemeen)
@@ -275,15 +279,15 @@
 #DESCRIPTION Virgin Radio Pride
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.wrn.org%3a8026/:WRN English for Europe
 #DESCRIPTION WRN English for Europe
-#SERVICE 1:64:521:0:0:0:0:0:0:0:
+#SERVICE 1:64:52b:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Gibraltar++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.123.118.13%3a8041/stream:GBC Radio = Radio Gibraltar (Gibraltar)
 #DESCRIPTION GBC Radio = Radio Gibraltar (Gibraltar)
-#SERVICE 1:64:522:0:0:0:0:0:0:0:
+#SERVICE 1:64:52c:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio overzee++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.inselradio.com/high.sunshine.mp3:Mallorca Sunshine Radio (Engelstalig)
 #DESCRIPTION Mallorca Sunshine Radio (Engelstalig)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.28.53.118%3a7001/stream/:Talk Radio Europe Costa Blanca
 #DESCRIPTION Talk Radio Europe Costa Blanca
-#SERVICE 1:64:523:0:0:0:0:0:0:0:
+#SERVICE 1:64:52d:0:0:0:0:0:0:0:
 #DESCRIPTION +++BFBS in apart boeket+++

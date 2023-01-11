@@ -1,16 +1,24 @@
 #NAME Stream Dominicaanse Republiek (DO)
-#SERVICE 1:64:31a:0:0:0:0:0:0:0:
+#SERVICE 1:64:320:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//protvradiostream.com%3a1936/canal4rd-1/ngrp%3acanal4rd-1_all/playlist.m3u8:RTVD 4
 #DESCRIPTION RTVD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//livestream.com/accounts/27456795/events/10633780/player:Telemicro 5
+#DESCRIPTION Telemicro 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/ReadyTV/ReadyHD/playlist.m3u8:Ready TV Canal 6 HD
 #DESCRIPTION Ready TV Canal 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8:Antena 7
+#DESCRIPTION Antena 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss9.domint.net%3a3026/ctv8_str/contanzatv/playlist.m3u8:Constanza TV 8
 #DESCRIPTION Constanza TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.103.183.24%3a1935/live/MicroHD/chunklist_w1468779956.m3u8:Microvision 10
 #DESCRIPTION Microvision 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ghtelevision.com%3a3018/live/ghtelevisionlive.m3u8:Canal 10 GH Television
+#DESCRIPTION Canal 10 GH Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newyorkstream.ddns.net%3a1935/telenord10/telenord10/playlist.m3u8:Telenord Canal 10
 #DESCRIPTION Telenord Canal 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss5.domint.net%3a3064/tvm_str/montanatv/playlist.m3u8:TV Montaña Canal 10
+#DESCRIPTION TV Montaña Canal 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn4.hostlagarto.com%3a8081/static/telecanal12/chunks.m3u8:Tele Canal 12 HD
 #DESCRIPTION Tele Canal 12 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newyorkstream.ddns.net%3a1935/telenord12/telenord12/playlist.m3u8:Telenord 12
@@ -27,8 +35,14 @@
 #DESCRIPTION PHTV Canal 34
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8:Sport Visión 35
 #DESCRIPTION Sport Visión 35
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8:CDN 37
+#DESCRIPTION CDN 37
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videoserver.tmcreativos.com%3a19360/cvmhbyrcat/cvmhbyrcat.m3u8:Canal 42 Romana TV
+#DESCRIPTION Canal 42 Romana TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream3.prostudionetwork.com%3a1943/megavision/MV/playlist.m3u8:Megavision Canal 43
 #DESCRIPTION Megavision Canal 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss9.domint.net%3a3040/ame_str/amecanal47/playlist.m3u8:Amé 47
+#DESCRIPTION Amé 47
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cm.hostlagarto.com%3a4445/Dajatv/Dajatv.myStream/playlist.m3u8:Canal 48 Daja TV
 #DESCRIPTION Canal 48 Daja TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/Telemilenio/Telemilenio.myStream/playlist.m3u8:Telemilenio Canal 50
@@ -37,9 +51,11 @@
 #DESCRIPTION TNI Canal 51
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss2.domint.net%3a3228/luna_str/lunatv/playlist.m3u8:Luna TV Canal 53
 #DESCRIPTION Luna TV Canal 53
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn5.streamgato.us%3a3371/live/canal56live.m3u8:Canal 56
+#DESCRIPTION Canal 56
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss3.domint.net%3a3120/dv6_str/digitalvision/playlist.m3u8:Digital Vision 63
 #DESCRIPTION Digital Vision 63
-#SERVICE 1:64:31b:0:0:0:0:0:0:0:
+#SERVICE 1:64:321:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cm.hostlagarto.com%3a4445/Akitv/Akitv.myStream/playlist.m3u8:Akí TV
 #DESCRIPTION Akí TV
@@ -49,10 +65,18 @@
 #DESCRIPTION Bellavisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss5.domint.net%3a3026/btv_str/bonao/playlist.m3u8:Bonao TV
 #DESCRIPTION Bonao TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.borealtelevision.com%3a3712/live/borealtelevisionhdlive.m3u8:Boreal Television
+#DESCRIPTION Boreal Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8:Caribbean Traveling Network
+#DESCRIPTION Caribbean Traveling Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss5.domint.net%3a3174/car_str/carivision/playlist.m3u8:Carivision
+#DESCRIPTION Carivision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss3.domint.net%3a3144/ctv_str/cascaratv/playlist.m3u8:Cáscara TV
 #DESCRIPTION Cáscara TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//62ac3ff10e9f0.streamlock.net%3a1936/cielotv/cielotv/playlist.m3u8:Cielo TV
 #DESCRIPTION Cielo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn4.hostlagarto.com%3a8081/static/citricotv/playlist.m3u8:Cítrico TV
+#DESCRIPTION Cítrico TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.30.37.36%3a1935/live/stream/chunklist_w1329394356.m3u8:Comunion TV
 #DESCRIPTION Comunion TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn4.hostlagarto.com%3a8081/static/cotubanamatv/playlist.m3u8:Cotubanama TV
@@ -67,6 +91,8 @@
 #DESCRIPTION Fuego TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss2.domint.net%3a3200/gdm_str/gdmtv/playlist.m3u8:GDM Television
 #DESCRIPTION GDM Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pop-hls.iptv-global.net/loadbalancer/hilandofino.m3u8:Hilando Fino TV
+#DESCRIPTION Hilando Fino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/hits360tv/hits360HD.myStream/playlist.m3u8:Hits 360 TV
 #DESCRIPTION Hits 360 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imagenuniversaltv.net%3a3771/live/iutvlive.m3u8:Imagen Universal TV
@@ -75,6 +101,8 @@
 #DESCRIPTION La Caleta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8:LVM
 #DESCRIPTION LVM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8:Makao TV
+#DESCRIPTION Makao TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//server3.prostudionetwork.com%3a1943/megavision/MV/chunklist.m3u8:Megavisión
 #DESCRIPTION Megavisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5790d294af2dc.streamlock.net/8286/8286/playlist.m3u8:Mision ELTV
@@ -105,6 +133,8 @@
 #DESCRIPTION SiTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8:Su Mundo TV
 #DESCRIPTION Su Mundo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//livestream.com/accounts/27456795/events/10501048/live:Telecentro
+#DESCRIPTION Telecentro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/Telecibao/Telecibao/playlist.m3u8:TeleCibao
 #DESCRIPTION TeleCibao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ss9.domint.net%3a3054/tf_str/telefuturo/playlist.m3u8:Telefuturo
@@ -113,8 +143,12 @@
 #DESCRIPTION Teleimpacto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdo1.streamgato.us%3a3592/live/teleorientaldigitallive.m3u8:TeleOriental
 #DESCRIPTION TeleOriental
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn4.hostlagarto.com%3a8081/static/teleradionortetv/playlist.m3u8:TeleRadioNorte
+#DESCRIPTION TeleRadioNorte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn5.streamgato.us%3a3315/live/telesantodomingolive.m3u8:Telesantodomingo
 #DESCRIPTION Telesantodomingo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//teleuniversotv.streamgato.us%3a3110/live/teleuniversotvlive.m3u8:Teleuniverso
+#DESCRIPTION Teleuniverso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/ESTV/estv.myStream/playlist.m3u8:Television del Este
 #DESCRIPTION Television del Este
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.teledom.info%3a3625/live/tra45live.m3u8:TRA Noticias

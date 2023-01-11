@@ -1,5 +1,5 @@
 #NAME Stream Iran (IR)
-#SERVICE 1:64:3b5:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b9:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvstream.co.uk/LS-63503-4/index.m3u8:Iran International TV
 #DESCRIPTION Iran International TV
@@ -113,7 +113,7 @@
 #DESCRIPTION IRIB Varzesh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnw.telewebion.com/taban/live/playlist.m3u8:IRIB Yazd
 #DESCRIPTION IRIB Yazd
-#SERVICE 1:64:3b6:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ba:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-215-11778-1.b.cdn13.com/onetvpersia001.m3u8?bandwidth=3196&playlistlength=5&shift=0&v=2:1 TV Persian
 #DESCRIPTION 1 TV Persian
@@ -135,6 +135,8 @@
 #DESCRIPTION Al-Sirat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.al-zahratv.com/live/playlist2/index.m3u8:Al Zahra TV
 #DESCRIPTION Al Zahra TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.asil.tv/live/asil.m3u8:Asil TV
+#DESCRIPTION Asil TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8:Assirat TV
 #DESCRIPTION Assirat TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.5/hls/stream.m3u8:AVA Family
@@ -191,11 +193,11 @@
 #DESCRIPTION iFILM English
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.presstv.ir/live/ifilm2.m3u8:iFILM Persian 2
 #DESCRIPTION iFILM Persian 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fa.imamhusseintv.com/live/ih1.m3u8:Imam Hussein TV 1 (Farsi)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih1.m3u8:Imam Hussein TV 1 (Farsi)
 #DESCRIPTION Imam Hussein TV 1 (Farsi)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ar.imamhusseintv.com/live/ih2.m3u8:Imam Hussein TV 2 (Arabisch)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih2.m3u8:Imam Hussein TV 2 (Arabisch)
 #DESCRIPTION Imam Hussein TV 2 (Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//en.imamhusseintv.com/live/ih3.m3u8:Imam Hussein TV 3 (Engels)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih3.m3u8:Imam Hussein TV 3 (Engels)
 #DESCRIPTION Imam Hussein TV 3 (Engels)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih4.m3u8:Imam Hussein TV 4 Urdu
 #DESCRIPTION Imam Hussein TV 4 Urdu
@@ -227,7 +229,7 @@
 #DESCRIPTION Marjaeyat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8:MBC Persia
 #DESCRIPTION MBC Persia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.mihantv.com/live/playlist1/index.m3u8:Mihan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv.mihantv.com/mihantv/playlist1/index.m3u8:Mihan TV
 #DESCRIPTION Mihan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.11.235.251%3a1935/live_transcoder/ngrp%3amohabat.stream_all/chunklist.m3u8:Mohabat TV
 #DESCRIPTION Mohabat TV
@@ -261,8 +263,6 @@
 #DESCRIPTION PBC Tapesh TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.21/hls/stream.m3u8:Persiana + HD
 #DESCRIPTION Persiana + HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.persiantv1.com/ptv1/playlist1/index.m3u8:Persian Bazar
-#DESCRIPTION Persian Bazar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.135/hls/stream.m3u8:Persian Film
 #DESCRIPTION Persian Film
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.persiantv1.com/ptv1/playlist1/index.m3u8:Persian TV One

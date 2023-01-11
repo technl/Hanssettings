@@ -1,5 +1,5 @@
 #NAME Stream Israël (IL)
-#SERVICE 1:64:1b28:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b01:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.231.221%3a8081/185/index.m3u8?wmsAuthSign=okad:Channel 9
 #DESCRIPTION Channel 9
@@ -21,7 +21,7 @@
 #DESCRIPTION Channel 96 Kaballah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream71.shidur.net/htvlive2/_definst_/smil%3alive2.smil/chunklist_b1248000.m3u8:Channel 97 Hidraboot
 #DESCRIPTION Channel 97 Hidraboot
-#SERVICE 1:64:1b29:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b02:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.panet.co.il/edge_abr/halaTV/playlist.m3u8:Hala TV Israel
 #DESCRIPTION Hala TV Israel
@@ -45,6 +45,8 @@
 #DESCRIPTION Music 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.zaytonatube.com%3a8080/radioalbalad/radioalbalad/playlist.m3u8:Radio Albalad TV
 #DESCRIPTION Radio Albalad TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1247634592.rsc.cdn77.org/1247634592/playlist.m3u8:Shelanu TV
+#DESCRIPTION Shelanu TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8:Yeshua Chai TV
 #DESCRIPTION Yeshua Chai TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8:Ynet Live

@@ -1,13 +1,21 @@
 #NAME Stream Luxemburg (LU)
-#SERVICE 1:0:1:1469:c98:3:eb0000:0:0:0:http%3a//176.114.248.227%3a8001/1%3a0%3a1%3a1469%3ac98%3a3%3aeb0000%3a0%3a0%3a0:Chamber TV HD
-#DESCRIPTION Chamber TV HD
+#SERVICE 1:64:31d:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/channel1/smil%3achannel1/playlist.m3u8:RTL
+#DESCRIPTION RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/channel2/smil%3achannel2/playlist.m3u8:RTL Zwei
+#DESCRIPTION RTL Zwei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge.rtl.lu/channel2/smil%3achannel2/playlist.m3u8:RTL Zwei -2-
+#DESCRIPTION RTL Zwei -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtlradio-streaming.rtl.lu/rtlradiowebtv/smil%3artlradiowebtv/playlist.m3u8:RTL Webradio
+#DESCRIPTION RTL Webradio
+#SERVICE 1:64:31e:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media01.webtvlive.eu/chd-edge/_definst_/smil%3achamber_tv_hd.smil/chunklist_w1296769922_b1152000.m3u8:Chamber TV
+#DESCRIPTION Chamber TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eldo-streaming.eldo.lu/eldotv/smil%3aeldotv.smil/1080p.m3u8:Eldo TV
 #DESCRIPTION Eldo TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/channel1/smil%3achannel1/playlist.m3u8:RTL 1 - Télé Lëtzebuerg
-#DESCRIPTION RTL 1 - Télé Lëtzebuerg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/channel2/smil%3achannel2/playlist.m3u8:RTL 2 - Télé Lëtzebuerg
-#DESCRIPTION RTL 2 - Télé Lëtzebuerg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge.rtl.lu/channel2/smil%3achannel2/playlist.m3u8:RTL 2 - Tele Letzebuerg -2-
-#DESCRIPTION RTL 2 - Tele Letzebuerg -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtlradio-streaming.rtl.lu/rtlradiowebtv/smil%3artlradiowebtv/playlist.m3u8:RTL Letzeburg Webradio
-#DESCRIPTION RTL Letzeburg Webradio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.gms.lu%3a18080/hls/lordtv.m3u8:Lord TV
+#DESCRIPTION Lord TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/266859:Pétange Info TV
+#DESCRIPTION Pétange Info TV

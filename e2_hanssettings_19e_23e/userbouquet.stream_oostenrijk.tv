@@ -1,29 +1,27 @@
 #NAME Stream Oostenrijk (AT)
-#SERVICE 1:64:325:0:0:0:0:0:0:0:
+#SERVICE 1:64:32d:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//45.92.69.155%3a9091/play/a02f:ORF 1 HD
+#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1665:ORF 1 HD
 #DESCRIPTION ORF 1 HD
-#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//45.92.69.155%3a9091/play/a024:ORF 2 HD
+#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1664:ORF 2 HD
 #DESCRIPTION ORF 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a025:ORF 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/3492:ORF 3 HD
 #DESCRIPTION ORF 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a026:ORF Sport+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2098:ORF Sport+ HD
 #DESCRIPTION ORF Sport+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a020:ATV 1 HD
-#DESCRIPTION ATV 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a01x:ATV 2
-#DESCRIPTION ATV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:OE24.TV HD
 #DESCRIPTION OE24.TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a01h:Puls 4 Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/3489:ATV HD
+#DESCRIPTION ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/12643:ATV 2 HD
+#DESCRIPTION ATV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/12644:Puls 4 Austria
 #DESCRIPTION Puls 4 Austria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a01i:Puls 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/174351:Puls 24 HD
 #DESCRIPTION Puls 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a027:R9 Österreich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/193532:R9 Österreich
 #DESCRIPTION R9 Österreich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a04b:Servus TV
-#DESCRIPTION Servus TV
-#SERVICE 1:64:326:0:0:0:0:0:0:0:
+#SERVICE 1:64:32e:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:6:2:6:0:0:0:0:https%3a//5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4%3alivestream/playlist.m3u8:Antenne Voralberg - Visual Radio
 #DESCRIPTION Antenne Voralberg - Visual Radio
@@ -39,25 +37,25 @@
 #DESCRIPTION K-TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.154.82%3a1935/kit/kitstream/chunklist_.m3u8:KIT-TV
 #DESCRIPTION KIT-TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8:Krone TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/192661:Krone TV
 #DESCRIPTION Krone TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:Kronehit
 #DESCRIPTION Kronehit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8:Ländle TV
 #DESCRIPTION Ländle TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.221.7/gzSoftware-live/livestream_480p/master.m3u8:Planai TV
-#DESCRIPTION Planai TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.rtv-ooe.at/stream.m3u8:RTV HD
 #DESCRIPTION RTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8:Schau TV
 #DESCRIPTION Schau TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/12649:Servus TV
+#DESCRIPTION Servus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8:Tirol TV
 #DESCRIPTION Tirol TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.53.47/ooe/2018_44/fb_junge_wikinger_-_wallern.mp4:TV 1 Oberösterreich
 #DESCRIPTION TV 1 Oberösterreich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms01.w24.at/W24/smil%3aliveevent.smil/chunklist.m3u8:W24 TV
-#DESCRIPTION W24 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.markenfunk.com/t1/ngrp%3alive_all/chunklist_b2296608.m3u8:VM 1 Sehen
 #DESCRIPTION VM 1 Sehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms01.w24.at/W24/smil%3aliveevent.smil/chunklist.m3u8:W24 TV
+#DESCRIPTION W24 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8:Zell am See - Schmitten
 #DESCRIPTION Zell am See - Schmitten

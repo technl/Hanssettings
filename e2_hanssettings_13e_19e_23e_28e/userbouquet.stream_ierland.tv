@@ -1,17 +1,31 @@
 #NAME Stream Ierland (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls_1280x720.m3u8:Ireland Parliament (Committee Room 1) (720p)
-#DESCRIPTION Ireland Parliament (Committee Room 1) (720p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls_1280x720.m3u8:Ireland Parliament (Committee Room 2) (720p)
-#DESCRIPTION Ireland Parliament (Committee Room 2) (720p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls_1280x720.m3u8:Ireland Parliament (Committee Room 3) (720p)
-#DESCRIPTION Ireland Parliament (Committee Room 3) (720p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls_1280x720.m3u8:Ireland Parliament (Committee Room 4) (720p)
-#DESCRIPTION Ireland Parliament (Committee Room 4) (720p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8:Ireland Parliament (Dail Eireann) (720p)
-#DESCRIPTION Ireland Parliament (Dail Eireann) (720p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8:Ireland Parliament (Seanad Eireann) (720p)
-#DESCRIPTION Ireland Parliament (Seanad Eireann) (720p)
+#SERVICE 1:64:390:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/687:RTE One
+#DESCRIPTION RTE One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/279272:RTE 2
+#DESCRIPTION RTE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1545:RTE Junior
+#DESCRIPTION RTE Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4774:RTE News
+#DESCRIPTION RTE News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/122200:Virgin Media Two
+#DESCRIPTION Virgin Media Two
+#SERVICE 1:64:391:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1108:Gold Ireland
+#DESCRIPTION Gold Ireland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls_1280x720.m3u8:Ireland Parliament (Committee Room 1)
+#DESCRIPTION Ireland Parliament (Committee Room 1)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls_1280x720.m3u8:Ireland Parliament (Committee Room 2)
+#DESCRIPTION Ireland Parliament (Committee Room 2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls_1280x720.m3u8:Ireland Parliament (Committee Room 3)
+#DESCRIPTION Ireland Parliament (Committee Room 3)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls_1280x720.m3u8:Ireland Parliament (Committee Room 4)
+#DESCRIPTION Ireland Parliament (Committee Room 4)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8:Ireland Parliament (Dail Eireann)
+#DESCRIPTION Ireland Parliament (Dail Eireann)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8:Ireland Parliament (Seanad Eireann)
+#DESCRIPTION Ireland Parliament (Seanad Eireann)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8:Oireachtas TV
 #DESCRIPTION Oireachtas TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.cds1.yospace.com/csm/live/74246610.m3u8:TG4
-#DESCRIPTION TG4

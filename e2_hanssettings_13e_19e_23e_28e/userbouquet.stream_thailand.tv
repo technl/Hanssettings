@@ -1,5 +1,5 @@
 #NAME Stream Thailand (TH)
-#SERVICE 1:64:3d0:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d4:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//news1.live14.com/stream/news1_hi.m3u8:News 1
 #DESCRIPTION News 1
@@ -23,12 +23,14 @@
 #DESCRIPTION Channel 7 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//usa.login.in.th%3a1935/ch8/ch8/playlist.m3u8:Channel 8
 #DESCRIPTION Channel 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.prd.go.th%3a1935/live/ch9_L.sdp/chunklist.m3u8:NBT 11 Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thainews.prd.go.th/lv/live/ch9_L.sdp/playlist.m3u8:NBT 11 Central
 #DESCRIPTION NBT 11 Central
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.prd.go.th%3a1935/live/ch1_L_L.sdp/playlist.m3u8:NBT World
 #DESCRIPTION NBT World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.x2.co.th/live/13wDt2b6g4.m3u8:13 Siam TV
 #DESCRIPTION 13 Siam TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/WorkpointTV:Workpoint 23
+#DESCRIPTION Workpoint 23
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//51.79.246.246%3a1936/freelive-edge/tnn24/chunks.m3u8:TNN 24
 #DESCRIPTION TNN 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//51.79.246.246%3a1936/freelive-edge/mono29/chunks.m3u8:MONO 29
@@ -45,7 +47,9 @@
 #DESCRIPTION Thai Parliament TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//110.170.117.27%3a1935/apptv5hd1live/tgn/playlist.m3u8:Thai TV Global Network
 #DESCRIPTION Thai TV Global Network
-#SERVICE 1:64:3d1:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/TopnewsLiveThailand:Top News
+#DESCRIPTION Top News
+#SERVICE 1:64:3d5:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//51.79.246.246%3a1936/freelive-edge/amarinhd/chunks.m3u8:Amarin TV
 #DESCRIPTION Amarin TV
@@ -53,35 +57,35 @@
 #DESCRIPTION Boomerang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.176.130.123%3a8989/live/bayontv1_480k.stream/playlist.m3u8:BTV News
 #DESCRIPTION BTV News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv01.m3u8:DLTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv01.m3u8:DLTV 1
 #DESCRIPTION DLTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv02.m3u8:DLTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv02.m3u8:DLTV 2
 #DESCRIPTION DLTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv03.m3u8:DLTV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv03.m3u8:DLTV 3
 #DESCRIPTION DLTV 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv04.m3u8:DLTV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv04.m3u8:DLTV 4
 #DESCRIPTION DLTV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv05.m3u8:DLTV 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv05.m3u8:DLTV 5
 #DESCRIPTION DLTV 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv06.m3u8:DLTV 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv06.m3u8:DLTV 6
 #DESCRIPTION DLTV 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv07.m3u8:DLTV 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv07.m3u8:DLTV 7
 #DESCRIPTION DLTV 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv08.m3u8:DLTV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv08.m3u8:DLTV 8
 #DESCRIPTION DLTV 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv09.m3u8:DLTV 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv09.m3u8:DLTV 9
 #DESCRIPTION DLTV 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv10.m3u8:DLTV 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv10.m3u8:DLTV 10
 #DESCRIPTION DLTV 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv11.m3u8:DLTV 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv11.m3u8:DLTV 11
 #DESCRIPTION DLTV 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv12.m3u8:DLTV 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv12.m3u8:DLTV 12
 #DESCRIPTION DLTV 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv13.m3u8:DLTV 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv13.m3u8:DLTV 13
 #DESCRIPTION DLTV 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv14.m3u8:DLTV 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv14.m3u8:DLTV 14
 #DESCRIPTION DLTV 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dltv-live-edge.catcdn.cloud/dltv15.m3u8:DLTV 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv15.m3u8:DLTV 15
 #DESCRIPTION DLTV 15
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge6a.v2h-cdn.com/v2h/V2H15.stream_720p/playlist.m3u8:Drama Channel
 #DESCRIPTION Drama Channel

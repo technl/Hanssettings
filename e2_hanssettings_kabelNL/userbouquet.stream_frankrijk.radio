@@ -69,10 +69,6 @@
 #DESCRIPTION CK-RADIO
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/cocktailfm-high.mp3:Cocktail FM
 #DESCRIPTION Cocktail FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radio-contact-high.aac:Contact FM - la radio enjoy (FR) aac
-#DESCRIPTION Contact FM - la radio enjoy (FR) aac
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radio-contact-low.mp3:Contact FM - la radio enjoy (FR) mp3
-#DESCRIPTION Contact FM - la radio enjoy (FR) mp3
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//92.243.25.139%3a9000/;stream.mp3:Corsica Radio
 #DESCRIPTION Corsica Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/deltafmboulogne-high.mp3:Delta FM Boulogne
@@ -163,8 +159,10 @@
 #DESCRIPTION Euradio (Lyon, Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//euradio67.ice.infomaniak.ch/euradio67-192.mp3?ver=770990:Euradio (Strasbourg, Frankrijk)
 #DESCRIPTION Euradio (Strasbourg, Frankrijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ais-live.cloud-services.paris%3a8000/europe1.mp3:Europe 1 (Frankrijk)
-#DESCRIPTION Europe 1 (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ais-live.cloud-services.paris%3a8000/europe1.mp3:Europe 1
+#DESCRIPTION Europe 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ais-live.cloud-services.paris%3a8000/europe2.mp3:Europe 2
+#DESCRIPTION Europe 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.evasionfm.com/Paris:Evasion FM
 #DESCRIPTION Evasion FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.59.45%3a8013/stream:Feeling Floyd (Frankrijk)
@@ -769,7 +767,17 @@
 #DESCRIPTION Radio Classique AAC+ (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioclassique.ice.infomaniak.ch/radioclassique-high.mp3?ua=wwwradioclassique:Radio Classique Paris (Frankrijk)
 #DESCRIPTION Radio Classique Paris (Frankrijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/contactfr192:Radio Contact
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01a-eu.rcs.revma.com/yev075zat18uv:Radio Contact 2000
+#DESCRIPTION Radio Contact 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n13a-eu.rcs.revma.com/uge5n8zat18uv:Radio Contact 90s
+#DESCRIPTION Radio Contact 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n09a-eu.rcs.revma.com/b3pvxr0at18uv:Radio Contact Chill
+#DESCRIPTION Radio Contact Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n16a-eu.rcs.revma.com/1kpby05at18uv:Radio Contact Christmas
+#DESCRIPTION Radio Contact Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n03a-eu.rcs.revma.com/6pk4ppv7f18uv:Radio Contact La Radio Enjoy
+#DESCRIPTION Radio Contact La Radio Enjoy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio-contact.ice.infomaniak.ch/radio-contact-high.mp3:Radio Contact
 #DESCRIPTION Radio Contact
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radiocristal-high.mp3:Radio Cristal
 #DESCRIPTION Radio Cristal
@@ -927,18 +935,18 @@
 #DESCRIPTION Rouge Live Music France
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3:Rouge Made in France
 #DESCRIPTION Rouge Made in France
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/index.m3u8:RTL
+#DESCRIPTION RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/203/index.m3u8:RTL 100%25 France
 #DESCRIPTION RTL 100% France
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/202/index.m3u8:RTL 100%25 Grosses Têtes
 #DESCRIPTION RTL 100% Grosses Têtes
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/201/index.m3u8:RTL 100%25 Hits
 #DESCRIPTION RTL 100% Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/index.m3u8:RTL 2
-#DESCRIPTION RTL 2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlreunion.ice.infomaniak.ch%3a80/rtlreunion-64.aac:RTL Reunion (Frankrijk, DROM)
-#DESCRIPTION RTL Reunion (Frankrijk, DROM)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/index.m3u8:RTL
-#DESCRIPTION RTL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlreunion.ice.infomaniak.ch%3a80/rtlreunion-64.aac:RTL Reunion
+#DESCRIPTION RTL Reunion
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/index.m3u8:RTL2
+#DESCRIPTION RTL2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl2/201/index.m3u8:RTL2 Acoustique
 #DESCRIPTION RTL2 Acoustique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl2/202/index.m3u8:RTL2 Sur la route

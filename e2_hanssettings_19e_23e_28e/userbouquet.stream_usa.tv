@@ -1,56 +1,38 @@
 #NAME Stream USA (US)
-#SERVICE 1:64:371:0:0:0:0:0:0:0:
+#SERVICE 1:64:380:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders networks++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abc123.digital%3a8080/Legend/QmdhPq6Sb9/419594:ABC 7 Los Angeles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/8460:ABC 7 Los Angeles
 #DESCRIPTION ABC 7 Los Angeles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8:ABC 7 New York
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//satline.xyz%3a8080/live/7381662208002780/5261662208002780/19471.ts:ABC 7 New York
 #DESCRIPTION ABC 7 New York
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2282:Bravo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2282:Bravo
 #DESCRIPTION Bravo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8:Buzzr
 #DESCRIPTION Buzzr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buzzr-roku-us.amagi.tv/playlist.m3u8:Buzzr -2-
 #DESCRIPTION Buzzr -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abc123.digital%3a8080/Legend/QmdhPq6Sb9/419596:CBS 2 Los Angeles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//un-pluggedtv.net%3a8080/Iptvghost/VTEvu5Jz6l/52728:CBS 2 Los Angeles
 #DESCRIPTION CBS 2 Los Angeles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8:CBS 2 New York
-#DESCRIPTION CBS 2 New York
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/8421:CBS 4 New Orleans
+#DESCRIPTION CBS 4 New Orleans
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay:Court TV
 #DESCRIPTION Court TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abc123.digital%3a8080/Legend/QmdhPq6Sb9/419597:CW Network Los Angeles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/171820:CW Network Los Angeles
 #DESCRIPTION CW Network Los Angeles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-ny.mybtv.net/live/562.m3u8:CW Network New York
-#DESCRIPTION CW Network New York
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8 :ET Live
-#DESCRIPTION ET Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/286708:CW Network Nashville
+#DESCRIPTION CW Network Nashville
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8:ET Live feed
 #DESCRIPTION ET Live feed
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abc123.digital%3a8080/Legend/QmdhPq6Sb9/419598:FOX 5 Los Angeles
-#DESCRIPTION FOX 5 Los Angeles
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8:FOX 5 New York
 #DESCRIPTION FOX 5 New York
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e54187aae660e00093561d6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=167&terminate=false&userId=:Game Show Central
 #DESCRIPTION Game Show Central
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abc123.digital%3a8080/Legend/QmdhPq6Sb9/417891:Game Show Network East
-#DESCRIPTION Game Show Network East
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2344:MTV
-#DESCRIPTION MTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/459:MTV 2
-#DESCRIPTION MTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abc123.digital%3a8080/Legend/QmdhPq6Sb9/419600:NBC 4 Los Angeles
-#DESCRIPTION NBC 4 Los Angeles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/14351:Game Show Network
+#DESCRIPTION Game Show Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8:NBC 4 New York
 #DESCRIPTION NBC 4 New York
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.161.118.146%3a8080/ISG03_NBC_BALTIMORE_MD_WBAL/video.m3u8:NBC 11 Baltimore
-#DESCRIPTION NBC 11 Baltimore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//api.new.livestream.com/accounts/28355708/events/8865717/:PBS 9 KCTS Create (KCTS-DT3) (Seattle WA)
 #DESCRIPTION PBS 9 KCTS Create (KCTS-DT3) (Seattle WA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//api.new.livestream.com/accounts/28355708/events/8904290/:PBS 9 KCTS World (KCTS-DT4) (Seattle WA)
-#DESCRIPTION PBS 9 KCTS World (KCTS-DT4) (Seattle WA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//axr.life%3a80/EbhTbZp8Zudg/kQyPeRtp2jRM/1045367:PBS 13 New York
-#DESCRIPTION PBS 13 New York
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//axr.life%3a80/EbhTbZp8Zudg/kQyPeRtp2jRM/1045491:PBS 17 Albany
-#DESCRIPTION PBS 17 Albany
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8:PBS 39 Allentown Extra
 #DESCRIPTION PBS 39 Allentown Extra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pbs-samsunguk.amagi.tv/playlist.m3u8:PBS America
@@ -67,58 +49,56 @@
 #DESCRIPTION PBS Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8:PBS Kids Florida
 #DESCRIPTION PBS Kids Florida
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_138/amlst%3a201814-1291584/playlist.m3u8:PBS MPT Owings Mills
-#DESCRIPTION PBS MPT Owings Mills
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8:PBS TPT Now KTCA
 #DESCRIPTION PBS TPT Now KTCA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2359:Syfy East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/648340:Syfy East
 #DESCRIPTION Syfy East
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8:TMZ
-#DESCRIPTION TMZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/295674:TBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/677201:TBS
 #DESCRIPTION TBS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/769:TNT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/677203:TCM
+#DESCRIPTION TCM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/4876:TNT
 #DESCRIPTION TNT
-#SERVICE 1:64:372:0:0:0:0:0:0:0:
+#SERVICE 1:64:381:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abc123.digital%3a8080/Legend/QmdhPq6Sb9/417871:A&E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/4960:A&E
 #DESCRIPTION A&E
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2274:ActionMax
-#DESCRIPTION ActionMax
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/751:AMC East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/684738:AMC East
 #DESCRIPTION AMC East
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/6329:Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/14393:Animal Planet
 #DESCRIPTION Animal Planet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8:BBC America
 #DESCRIPTION BBC America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2278:BET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/684741:BET
 #DESCRIPTION BET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thegateway.app/BizAndYou/BizTV/playlist.m3u8:Biz TV
 #DESCRIPTION Biz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/679201:Bravo
+#DESCRIPTION Bravo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8:Charge!
 #DESCRIPTION Charge!
 #SERVICE 4097:0:1:2820:d2a4:ec:0:0:0:0:https%3a//circle-vizio.amagi.tv/playlist.m3u8:Circle
 #DESCRIPTION Circle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2294:CMT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/14383:CMT
 #DESCRIPTION CMT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/754:Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/4882:Comedy Central
 #DESCRIPTION Comedy Central
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/6497:Comet TV
-#DESCRIPTION Comet TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8:Crime 360
 #DESCRIPTION Crime 360
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2303:Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/14369:Disney Channel
 #DESCRIPTION Disney Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2306:E!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/684728:E!
 #DESCRIPTION E!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/15086:Grit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/696719:Grit
 #DESCRIPTION Grit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/759:Hallmark Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/685299:Hallmark Channel
 #DESCRIPTION Hallmark Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/761:History East
-#DESCRIPTION History East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/14347:History
+#DESCRIPTION History
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/hwotta/playlist/playlist.m3u8:HollyWire
 #DESCRIPTION HollyWire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8:IFC East
+#DESCRIPTION IFC East
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8:ION
 #DESCRIPTION ION
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8:ION Mystery
@@ -127,43 +107,41 @@
 #DESCRIPTION ION Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8:Law & Crime Network
 #DESCRIPTION Law & Crime Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/14342:MTV
+#DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8:NASA
 #DESCRIPTION NASA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8:NASA TV Media
 #DESCRIPTION NASA TV Media
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/764:Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/696792:Nickelodeon
 #DESCRIPTION Nickelodeon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2352:Oprah Winfrey Network
-#DESCRIPTION Oprah Winfrey Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/14839:Paramount Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/13760:OWN
+#DESCRIPTION OWN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/677220:Paramount Network
 #DESCRIPTION Paramount Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=:Paramount Plus Picks
 #DESCRIPTION Paramount Plus Picks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/684761:POP TV
+#DESCRIPTION POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8:Quiz Show Network
 #DESCRIPTION Quiz Show Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/13001:QVC
-#DESCRIPTION QVC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8:QVC 3
 #DESCRIPTION QVC 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/76356:Retro Plex
-#DESCRIPTION Retro Plex
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/765:Showtime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/4926:Showtime
 #DESCRIPTION Showtime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/78161:Showtime 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/677213:Showtime 2
 #DESCRIPTION Showtime 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/12044:Starz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/678450:Starz
 #DESCRIPTION Starz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8:Sundance East
 #DESCRIPTION Sundance East
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/193459:TCM Movies
-#DESCRIPTION TCM Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2364:TV Land
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/655120:TV Land
 #DESCRIPTION TV Land
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/3390:USA Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/4901:USA Network
 #DESCRIPTION USA Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2do1g43aq7264.cloudfront.net/playlist.m3u8:Vice East
 #DESCRIPTION Vice East
-#SERVICE 1:64:373:0:0:0:0:0:0:0:
+#SERVICE 1:64:382:0:0:0:0:0:0:0:
 #DESCRIPTION ++landelijke nieuwszenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8:ABC News
 #DESCRIPTION ABC News
@@ -211,7 +189,7 @@
 #DESCRIPTION MSNBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8:NBC News Now
 #DESCRIPTION NBC News Now
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newsmax-samsungus.amagi.tv/playlist.m3u8:Newsmax TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8:Newsmax TV
 #DESCRIPTION Newsmax TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_138/amlst%3a201950-1311088/playlist.m3u8:NewsNet 
 #DESCRIPTION NewsNet 
@@ -265,49 +243,65 @@
 #DESCRIPTION Yahoo! Finance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8:Yahoo! News
 #DESCRIPTION Yahoo! News
-#SERVICE 1:64:374:0:0:0:0:0:0:0:
+#SERVICE 1:64:383:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders sport++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/59945:AT&T SportsNet
-#DESCRIPTION AT&T SportsNet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/696720:ACC Network
+#DESCRIPTION ACC Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/696727:AT&T Sportsnet Pittsburgh
+#DESCRIPTION AT&T Sportsnet Pittsburgh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil%3aBEKPRIMEW.smil/playlist.m3u8:BEK TV Sports West
 #DESCRIPTION BEK TV Sports West
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/747:ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/684743:Big Ten Network
+#DESCRIPTION Big Ten Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/14385:CBS Sports Network
+#DESCRIPTION CBS Sports Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/747:ESPN
 #DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/41918:ESPN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/41918:ESPN 2
 #DESCRIPTION ESPN 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/14816:ESPN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/14816:ESPN 3
 #DESCRIPTION ESPN 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2312:ESPN News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2312:ESPN News
 #DESCRIPTION ESPN News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2311:ESPNU
-#DESCRIPTION ESPNU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/32382:ESPN Sec Network
+#DESCRIPTION ESPN Sec Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2311:ESPN U
+#DESCRIPTION ESPN U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8:Fight Network
 #DESCRIPTION Fight Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/756:FOX Sports 1
-#DESCRIPTION FOX Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/757:FOX Sports 2
-#DESCRIPTION FOX Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/14562:Fox Sports 1
+#DESCRIPTION Fox Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/494259:Fox Sports 2
+#DESCRIPTION Fox Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/14408:Fox Soccer Plus
+#DESCRIPTION Fox Soccer Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//elevensports-samsunguk-ca.samsung.wurl.tv/playlist.m3u8:FTF Sports
 #DESCRIPTION FTF Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8:Impact Wrestling
 #DESCRIPTION Impact Wrestling
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/762:NBA TV
-#DESCRIPTION NBA TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/3370:NBCSN
-#DESCRIPTION NBCSN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2367:NFL Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/4868:MLB Network
+#DESCRIPTION MLB Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/684729:NBA TV HD
+#DESCRIPTION NBA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/34415:NESN
+#DESCRIPTION NESN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/685903:NFL Network
 #DESCRIPTION NFL Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2348:NHL Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/4875:NHL Network
 #DESCRIPTION NHL Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-sportstribal.amagi.tv/playlist.m3u8:Pac 12 Insider
-#DESCRIPTION Pac 12 Insider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/3370:NBCSN
+#DESCRIPTION NBCSN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/684756:Pac-12 Network
+#DESCRIPTION Pac-12 Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8:Stadium
 #DESCRIPTION Stadium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8:Tennis Channel
 #DESCRIPTION Tennis Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quality-restream.com%3a8080/GenIptvLast/FaP6YswK77NaOPOF/2373:WWE
-#DESCRIPTION WWE
-#SERVICE 1:64:375:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/683883:WWE Network
+#DESCRIPTION WWE Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/688786:Yes Network
+#DESCRIPTION Yes Network
+#SERVICE 1:64:384:0:0:0:0:0:0:0:
 #DESCRIPTION ++nieuwsfeeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8:ABC News 1
 #DESCRIPTION ABC News 1
@@ -369,7 +363,7 @@
 #DESCRIPTION NBC News Now Event 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8:WSJ Live 
 #DESCRIPTION WSJ Live 
-#SERVICE 1:64:376:0:0:0:0:0:0:0:
+#SERVICE 1:64:385:0:0:0:0:0:0:0:
 #DESCRIPTION ++regionale informatieve uitzendingen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil%3awbrz-live.smil/chunklist.m3u8:ABC 2 Baton Rouge (WBRZ)
 #DESCRIPTION ABC 2 Baton Rouge (WBRZ)
@@ -553,7 +547,7 @@
 #DESCRIPTION NBC 15 Madison
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8:NBC 26 Green Bay
 #DESCRIPTION NBC 26 Green Bay
-#SERVICE 1:64:377:0:0:0:0:0:0:0:
+#SERVICE 1:64:386:0:0:0:0:0:0:0:
 #DESCRIPTION ++lokale uitzendingen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8:7 News Boston
 #DESCRIPTION 7 News Boston
@@ -681,6 +675,12 @@
 #DESCRIPTION Fairfield FairTV Education Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.helnix.com/autoHLS/02d8dab006ef9ffd/02d8dab006ef9ffd.m3u8:Fairfield FairTV Government Channel
 #DESCRIPTION Fairfield FairTV Government Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//reflect-falmouth.cablecast.tv/live-18/live/live.m3u8:Falmouth Community Television Education Channel 14
+#DESCRIPTION Falmouth Community Television Education Channel 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//reflect-falmouth.cablecast.tv/live-19/live/live.m3u8:Falmouth Community Television Government Channel 15
+#DESCRIPTION Falmouth Community Television Government Channel 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//reflect-falmouth.cablecast.tv/live-17/live/live.m3u8:Falmouth Community Television Public Channel 13
+#DESCRIPTION Falmouth Community Television Public Channel 13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCT3Dk_ZPcoR7CeHM_Wwb3QA/live:Fayetteville Public Television (FPTV)
 #DESCRIPTION Fayetteville Public Television (FPTV)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8:Fort Lauderdale FLTV
@@ -1093,7 +1093,7 @@
 #DESCRIPTION WSVI-TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//fss29.streamhoster.com/lv_goodlife45f1 playpath=broadcast1 swfUrl=http%3a//public.streamhoster.com/Resources/Flash/JWFLVMediaPlayer/mediaplayer.swf pageUrl=http%3a//www.tv45.org/watch-now/:WTGL-TV Good Life 45
 #DESCRIPTION WTGL-TV Good Life 45
-#SERVICE 1:64:378:0:0:0:0:0:0:0:
+#SERVICE 1:64:387:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8:3ABN
 #DESCRIPTION 3ABN
@@ -1607,8 +1607,6 @@
 #DESCRIPTION Hunt Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8:IDG
 #DESCRIPTION IDG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8:IFC Films Picks
-#DESCRIPTION IFC Films Picks
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ft-ifood-roku.amagi.tv/playlist.m3u8:iFood.TV
 #DESCRIPTION iFood.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ign-plex.amagi.tv/playlist.m3u8:IGN HD
@@ -1885,7 +1883,7 @@
 #DESCRIPTION OUR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8:Outdoor America
 #DESCRIPTION Outdoor America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//outdoorchannel-samsungau.amagi.tv/playlist.m3u8:Outdoor Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8:Outdoor Channel
 #DESCRIPTION Outdoor Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8:Outside TV
 #DESCRIPTION Outside TV
@@ -1907,7 +1905,7 @@
 #DESCRIPTION Plant-Based Network HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3a//app.plex.tv&ads.consent=0&ads.gdpr=1&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.ua=Mozilla/5.0+(Windows+NT+6.1;+rv%3a83.0)+Gecko/20100101+Firefox/83.0&ads.us_privacy=1---&ads.wurl_channel=512&ads.wurl_name=PlayWorks:Play.Works
 #DESCRIPTION Play.Works
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8:Players TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerstv-roku-us.amagi.tv/playlist.m3u8:Players TV
 #DESCRIPTION Players TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pocketwatch-vizio.amagi.tv/playlist.m3u8:Pocket.watch
 #DESCRIPTION Pocket.watch

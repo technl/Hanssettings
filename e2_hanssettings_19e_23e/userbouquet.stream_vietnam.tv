@@ -1,8 +1,16 @@
 #NAME Stream Vietnam (VN)
-#SERVICE 1:64:351:0:0:0:0:0:0:0:
+#SERVICE 1:64:35b:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.163.216.23%3a1935/live/tv2.stream_480p/chunklist.m3u8:BRT HD 
 #DESCRIPTION BRT HD 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/172014:HTV 2
+#DESCRIPTION HTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/172015:HTV 3
+#DESCRIPTION HTV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/172002:HTV 7
+#DESCRIPTION HTV 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/172011:HTV 9
+#DESCRIPTION HTV 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8:ISTV
 #DESCRIPTION ISTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.6.157%3a8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8:QRT HD
@@ -15,23 +23,25 @@
 #DESCRIPTION THGL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vinhphuctv.vn%3a8090/vinhphuclive/web.stream_360p/chunklist_.m3u8:VP TV
 #DESCRIPTION VP TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s4live.tv1asia.com%3a21585/vtv1/tracks-v1a1/mono.m3u8:VTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/172072:VTC 3
+#DESCRIPTION VTC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/144993:VTV 1
 #DESCRIPTION VTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s4live.tv1asia.com%3a21585/vtv2/tracks-v1a1/mono.m3u8:VTV 2
-#DESCRIPTION VTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s4live.tv1asia.com%3a21585/vtv3/tracks-v1a1/mono.m3u8:VTV 3
-#DESCRIPTION VTV 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s4live.tv1asia.com%3a21585/vtv4/tracks-v1a1/mono.m3u8:VTV 4
 #DESCRIPTION VTV 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8:VTV 5 Tây Nam Bộ
 #DESCRIPTION VTV 5 Tây Nam Bộ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8:VTV 5 Tây Nguyên
 #DESCRIPTION VTV 5 Tây Nguyên
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s4live.tv1asia.com%3a21585/vtv6/tracks-v1a1/mono.m3u8:VTV 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/172023:VTV 6
 #DESCRIPTION VTV 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s4live.tv1asia.com%3a21585/vtv9/tracks-v1a1/mono.m3u8:VTV 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/172010:VTV 7
+#DESCRIPTION VTV 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/172039:VTV 8
+#DESCRIPTION VTV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/172013:VTV 9
 #DESCRIPTION VTV 9
-#SERVICE 1:64:352:0:0:0:0:0:0:0:
+#SERVICE 1:64:35c:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8:Air Lao TV
 #DESCRIPTION Air Lao TV

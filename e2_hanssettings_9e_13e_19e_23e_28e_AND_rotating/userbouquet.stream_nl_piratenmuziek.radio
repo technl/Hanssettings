@@ -29,6 +29,8 @@
 #DESCRIPTION De Kwakkeloars
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.icehosting.nl%3a8492:De Piraten Familie (De Bilt)
 #DESCRIPTION De Piraten Familie (De Bilt)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-06.stream-server.nl%3a8402/stream;?1546532491045:De Piraten Gigant (Den Bosch)
+#DESCRIPTION De Piraten Gigant (Den Bosch)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.176%3a8417/stream:De Piratenclub
 #DESCRIPTION De Piratenclub
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-26.stream-server.nl%3a8624/:De Veluwse Piraten
@@ -333,8 +335,8 @@
 #DESCRIPTION Sunsetradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.audiostreamen.nl/teamfmatlantis:Team FM Atlantis - 24/7 piratenmuziek
 #DESCRIPTION Team FM Atlantis - 24/7 piratenmuziek
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.audiostreamen.nl/teamfmpiratenplaten:Team FM Piratenplaten
-#DESCRIPTION Team FM Piratenplaten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediacp.audiostreamen.nl/piratenplaten:Team FM - Piratenplaten
+#DESCRIPTION Team FM - Piratenplaten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8308/stream:teamstillewilly
 #DESCRIPTION teamstillewilly
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.toppersteam.nl%3a8016/stream:Toppersteam

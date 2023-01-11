@@ -1,5 +1,5 @@
 #NAME Stream Kerstmuziek
-#SERVICE 1:64:537:0:0:0:0:0:0:0:
+#SERVICE 1:64:541:0:0:0:0:0:0:0:
 #DESCRIPTION ++Nederland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web05_mp3:100%25 NL Kerst
 #DESCRIPTION 100% NL Kerst
@@ -7,13 +7,17 @@
 #DESCRIPTION Kerst Hitradio (Amsterdam)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostreamen.nl/kerstradio:Kerstradio.nl
 #DESCRIPTION Kerstradio.nl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/thema.mp3:Omrop Fryslan - Kryst mei Douwe
+#DESCRIPTION Omrop Fryslan - Kryst mei Douwe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_96.mp3:Q-Music - Christmas
+#DESCRIPTION Q-Music - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_64.aac:Qmusic Christmas
 #DESCRIPTION Qmusic Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22343.live.streamtheworld.com/SRGSTR08.mp3:Sky Radio - Christmas
 #DESCRIPTION Sky Radio - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22193.live.streamtheworld.com/SUBLIMEPLAYGROUND.mp3:Sublime Christmas
 #DESCRIPTION Sublime Christmas
-#SERVICE 1:64:538:0:0:0:0:0:0:0:
+#SERVICE 1:64:542:0:0:0:0:0:0:0:
 #DESCRIPTION ++België++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beonexmas:Be One Xmas (Oostende - België)
 #DESCRIPTION Be One Xmas (Oostende - België)
@@ -29,8 +33,10 @@
 #DESCRIPTION NRJ-Belgique En mode Noel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/zomer:Radio Noordzee - Kerstradio
 #DESCRIPTION Radio Noordzee - Kerstradio
-#SERVICE 1:64:539:0:0:0:0:0:0:0:
+#SERVICE 1:64:543:0:0:0:0:0:0:0:
 #DESCRIPTION ++Duitsland++
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//topradio-de-hz-fal-stream07-cluster01.radiohost.de/rs2-event_128:942-rs2-weinachtsradio (kerstmuziek - Duitsland)
+#DESCRIPTION 942-rs2-weinachtsradio (kerstmuziek - Duitsland)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.laut.fm/alpenweihnacht:1000-Alpenweihnacht (Duitsland)
 #DESCRIPTION 1000-Alpenweihnacht (Duitsland)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000christmashits:1000-Christmas Hits (Duitsland)
@@ -45,6 +51,14 @@
 #DESCRIPTION Antenne Niedersachsen - X-Mas
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//webradio.antennevorarlberg.at%3a80/spezial:Antenna Voralberg - Weihnacht
 #DESCRIPTION Antenna Voralberg - Weihnacht
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//46.105.118.14%3a25500:BeMyRadio Xmas (Duitsland)
+#DESCRIPTION BeMyRadio Xmas (Duitsland)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//server23644.streamplus.de%3a80/;:DWG-Radio-German
+#DESCRIPTION DWG-Radio-German
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.hoerradar.de/deltaradio-andersxmas-mp3-hq?sABC=5n2nr86o%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523enqvbfher&amsparams=playerid%3aradiosure;skey%3a1512761451:delta radio X-Mas (Duitsland)
+#DESCRIPTION delta radio X-Mas (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/56852/mp3_128.mp3?:Energy Xmas Hits
+#DESCRIPTION Energy Xmas Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.ffh.de/ffhchannels/hqxmas.aac:FFH Digital - Weinachtsradio (Duitsland) aac
 #DESCRIPTION FFH Digital - Weinachtsradio (Duitsland) aac
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqxmas.mp3:FFH Digital - Weinachtsradio (Duitsland) mp3
@@ -57,12 +71,18 @@
 #DESCRIPTION Hitradio RTL Christmas Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.klassikradio.de/christmas/mp3-128:Klassik Radio - Bunte Weihnacht
 #DESCRIPTION Klassik Radio - Bunte Weihnacht
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-xmasrock-mp3-192-5123736:Radio 21 X-MAS-ROCK NonStop (DE)
+#DESCRIPTION Radio 21 X-MAS-ROCK NonStop (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//weihnachten.radioarabella.de/arabella-weihnachten.mp3:Radio Arabella - Christmas (Duitsland)
 #DESCRIPTION Radio Arabella - Christmas (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radioerzgebirge.de/radio-erzgebirge_XMAS_192k_mp3:Radio Erzgebirge - Weihnachtsradio
 #DESCRIPTION Radio Erzgebirge - Weihnachtsradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong-channel06.cast.addradio.de/radiogong/channel06/mp3/high:Radio Gong X-Mas (München)
+#DESCRIPTION Radio Gong X-Mas (München)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rnrw.cast.addradio.de/rnrw-017f/deinevent/high/stream.mp3:Radio Hochstift - Weihnachten (Duitsland)
 #DESCRIPTION Radio Hochstift - Weihnachten (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rnrw.cast.addradio.de/rnrw-016F/deinevent/high/stream.mp3:Radio Lippe - Welle-Hamm - -Christmas
+#DESCRIPTION Radio Lippe - Welle-Hamm - -Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.hoerradar.de/psr-event01-mp3-hq:Radio PSR-Weihnachts Superhits (Duitsland)
 #DESCRIPTION Radio PSR-Weihnachts Superhits (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//christmas-high.rautemusik.fm:RauteMusik-Christmas (Duitsland)
@@ -71,6 +91,8 @@
 #DESCRIPTION RT1-Xmas (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rpr1.de/rpr-weihnachten-128-mp3:RPR1 - Weihnachtslieder (D)
 #DESCRIPTION RPR1 - Weihnachtslieder (D)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.hoerradar.de/rsh-event02-mp3-mq?sABC=59q417s3%25230%2523s58q219o90642456or95s6ns726669n1%2523yvfgrayvir&amsparams=playerid%3alistenlive;skey%3a1507071987:RSH - Weihnachtsmix
+#DESCRIPTION RSH - Weihnachtsmix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlxmsgreath-mp3-128-5365238:RTL Berlin - Weihnachtsradio Greatest Hits (DE)
 #DESCRIPTION RTL Berlin - Weihnachtsradio Greatest Hits (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlxmsneueh-mp3-128-5778248:RTL Berlin - Weihnachtsradio Neue Hits (DE)
@@ -87,7 +109,27 @@
 #DESCRIPTION Tannenbaumradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-weihnachten-mp3-192-2156039:Toggo Radio Weihnachten
 #DESCRIPTION Toggo Radio Weihnachten
-#SERVICE 1:64:53a:0:0:0:0:0:0:0:
+#SERVICE 1:64:544:0:0:0:0:0:0:0:
+#DESCRIPTION ++Engeland en Ierland++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice31.securenetsystems.net/XMASFMM :Christmas FM Ireland (Ierland)
+#DESCRIPTION Christmas FM Ireland (Ierland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio.co/s64f76aae3/listen:Christmas Santa Radio (Engeland, UK)
+#DESCRIPTION Christmas Santa Radio (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/HeartXmas:Heart Xmas (UK)
+#DESCRIPTION Heart Xmas (UK)
+#SERVICE 1:64:545:0:0:0:0:0:0:0:
+#DESCRIPTION ++Frankrijk++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n16a-eu.rcs.revma.com/1kpby05at18uv:Radio Contact Christmas
+#DESCRIPTION Radio Contact Christmas
+#SERVICE 1:64:546:0:0:0:0:0:0:0:
+#DESCRIPTION ++Italië++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/R101_558.aac:R101 Christmas (Italië)
+#DESCRIPTION R101 Christmas (Italië)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um019.mp3:United Music Holiday Radio Christmas Party (Italië)
+#DESCRIPTION United Music Holiday Radio Christmas Party (Italië)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um113.mp3:United Music Holiday Radio Cool Christmas (Italië)
+#DESCRIPTION United Music Holiday Radio Cool Christmas (Italië)
+#SERVICE 1:64:547:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige landen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-event01-mp3-hq:80s80s Xmas
 #DESCRIPTION 80s80s Xmas
@@ -125,71 +167,25 @@
 #DESCRIPTION 181.FM - Christmas Standards
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icyrelay.181.fm/181-xswing_128k.mp3:181.FM - Christmas Swing
 #DESCRIPTION 181.FM - Christmas Swing
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//regiocast.hoerradar.de/80s80s-event01-mp3-hq?sABC=59q28n72%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523fgernzf.80f80f.qr&amsparams=playerid%3astreams.80s80s.de;skey%3a1506970226:80s80s-Christmas
-#DESCRIPTION 80s80s-Christmas
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//topradio-de-hz-fal-stream07-cluster01.radiohost.de/rs2-event_128:942-rs2-weinachtsradio (kerstmuziek - Duitsland)
-#DESCRIPTION 942-rs2-weinachtsradio (kerstmuziek - Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fred.torontocast.com%3a2625/stream:Network ABC - ABC Christmas
 #DESCRIPTION Network ABC - ABC Christmas
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//46.105.118.14%3a25500:BeMyRadio Xmas (Duitsland)
-#DESCRIPTION BeMyRadio Xmas (Duitsland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice31.securenetsystems.net/XMASFMM :Christmas FM Ireland (Ierland)
-#DESCRIPTION Christmas FM Ireland (Ierland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3:Christmas Radio.fm
 #DESCRIPTION Christmas Radio.fm
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio.co/s64f76aae3/listen:Christmas Santa Radio (Engeland, UK)
-#DESCRIPTION Christmas Santa Radio (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server-26.stream-server.nl%3a8638/stream192:Christmas24 - NL
-#DESCRIPTION Christmas24 - NL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.hoerradar.de/deltaradio-andersxmas-mp3-hq?sABC=5n2nr86o%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523enqvbfher&amsparams=playerid%3aradiosure;skey%3a1512761451:delta radio X-Mas (Duitsland)
-#DESCRIPTION delta radio X-Mas (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//server23644.streamplus.de%3a80/;:DWG-Radio-German
-#DESCRIPTION DWG-Radio-German
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/56852/mp3_128.mp3?:Energy Xmas Hits
-#DESCRIPTION Energy Xmas Hits
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/HappyChristmasradio:Happy Christmas Radio
 #DESCRIPTION Happy Christmas Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/HeartXmas:Heart Xmas (UK)
-#DESCRIPTION Heart Xmas (UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c9icyelb.prod.playlists.ihrhls.com/4596_icy:iHeartChristmas
-#DESCRIPTION iHeartChristmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live-bauerno.sharp-stream.com/station17_no_mp3:Juleradioen (kerst - Noorwegen)
 #DESCRIPTION Juleradioen (kerst - Noorwegen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_trap.mp3:KissKiss Christmas
 #DESCRIPTION KissKiss Christmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//liferadio.stream.kapper.net%3a8011/xmas:Life-Radio - Christmas (Oostenrijk)
-#DESCRIPTION Life-Radio - Christmas (Oostenrijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/webcast4high.aac:Magic 100%25 Christmas (UK, t/m 25 december 2020)
-#DESCRIPTION Magic 100% Christmas (UK, t/m 25 december 2020)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8:Music Choice - All Xmas
 #DESCRIPTION Music Choice - All Xmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//norawebstreams-stream23.radiohost.de/nora-event01_mp3-192:NORA Weihnachten
-#DESCRIPTION NORA Weihnachten
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nrk-radio-super.akamaized.net/46/0/hls/nrk_radio_super/1474703433-1474703433-prog_index.m3u8:NRK Super Jul (Noorwegen)
 #DESCRIPTION NRK Super Jul (Noorwegen)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/thema.mp3:Omrop Fryslan - Kryst mei Douwe
-#DESCRIPTION Omrop Fryslan - Kryst mei Douwe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_96.mp3:Q-Music - Christmas
-#DESCRIPTION Q-Music - Christmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/R101_558.aac:R101 Christmas (Italië)
-#DESCRIPTION R101 Christmas (Italië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-xmasrock-mp3-192-5123736:Radio 21 X-MAS-ROCK NonStop (DE)
-#DESCRIPTION Radio 21 X-MAS-ROCK NonStop (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-xmasrock-mp3-256-4341316:Radio 21 & Rockland Radio - X-Mas Rock Nonstop
 #DESCRIPTION Radio 21 & Rockland Radio - X-Mas Rock Nonstop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiogong-channel06.cast.addradio.de/radiogong/channel06/mp3/high:Radio Gong X-Mas (München)
-#DESCRIPTION Radio Gong X-Mas (München)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rnrw.cast.addradio.de/rnrw-016F/deinevent/high/stream.mp3:Radio Lippe - Welle-Hamm - -Christmas
-#DESCRIPTION Radio Lippe - Welle-Hamm - -Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s6-webradio.rockantenne.de/xmas-rock/stream:Rock Antenne Xmas Rock
 #DESCRIPTION Rock Antenne Xmas Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.hoerradar.de/rsh-event02-mp3-mq?sABC=59q417s3%25230%2523s58q219o90642456or95s6ns726669n1%2523yvfgrayvir&amsparams=playerid%3alistenlive;skey%3a1507071987:RSH - Weihnachtsmix
-#DESCRIPTION RSH - Weihnachtsmix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um019.mp3:United Music Holiday Radio Christmas Party (Italië)
-#DESCRIPTION United Music Holiday Radio Christmas Party (Italië)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um113.mp3:United Music Holiday Radio Cool Christmas (Italië)
-#DESCRIPTION United Music Holiday Radio Cool Christmas (Italië)
-#SERVICE 1:64:53b:0:0:0:0:0:0:0:
+#SERVICE 1:64:548:0:0:0:0:0:0:0:
 #DESCRIPTION +++Sinterklaas+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sintfm.nl%3a8000/sinterklaasradiohigh.mp3:Sint FM
 #DESCRIPTION Sint FM

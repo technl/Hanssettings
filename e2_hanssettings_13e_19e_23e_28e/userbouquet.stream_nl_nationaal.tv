@@ -1,21 +1,29 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:1f6:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f3:0:0:0:0:0:0:0:
 #DESCRIPTION ++NPO - werkt niet in iedere ontvanger!++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.197.214.59%3a4000/play/a02z/index.m3u8:NPO 1
 #DESCRIPTION NPO 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2481:NPO 1 -2-
+#DESCRIPTION NPO 1 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.197.214.59%3a4000/play/a030/index.m3u8:NPO 2
 #DESCRIPTION NPO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/852:NPO 2 -2-
+#DESCRIPTION NPO 2 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.197.214.59%3a4000/play/a031/index.m3u8:NPO 3
 #DESCRIPTION NPO 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/280398:NPO 3 -2-
+#DESCRIPTION NPO 3 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.197.214.59%3a4002/play/a03n/index.m3u8:NPO 1 Extra
 #DESCRIPTION NPO 1 Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.251.29.82%3a7261/play/a009:NPO 2 Extra ++even niet++
-#DESCRIPTION NPO 2 Extra ++even niet++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.219%3a9100/play/a003:NPO Politiek en Nieuws ++even niet++
-#DESCRIPTION NPO Politiek en Nieuws ++even niet++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/37541:NPO 1 Extra -2-
+#DESCRIPTION NPO 1 Extra -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/65701:NPO 2 Extra
+#DESCRIPTION NPO 2 Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/5061:NPO Politiek en Nieuws
+#DESCRIPTION NPO Politiek en Nieuws
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a00t:BVN
 #DESCRIPTION BVN
-#SERVICE 1:64:1f7:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f4:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:4ed1:c99:3:eb0000:0:0:0:https%3a//bnr-cache-cdp.triple-it.nl/studio/1648910007-fast-1280-720-800000-index.m3u8:BNR Nieuwsradio
 #DESCRIPTION BNR Nieuwsradio
@@ -47,7 +55,7 @@
 #DESCRIPTION Tommy TV (met epg via Ziggo)
 #SERVICE 4097:0:1:4cfc:81c:600:ffff0000:0:0:0:http%3a//ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8 :XITE HD
 #DESCRIPTION XITE HD
-#SERVICE 1:64:1f8:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f5:0:0:0:0:0:0:0:
 #DESCRIPTION +++Radio Toppers+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-67.stream-server.nl%3a1936/RadioToppers/RadioToppers/playlist.m3u8:Radio Toppers
 #DESCRIPTION Radio Toppers
@@ -57,7 +65,7 @@
 #DESCRIPTION Poesjes TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-23.stream-server.nl%3a1936/WinkRadio/WinkRadio/playlist.m3u8:Wink Radio
 #DESCRIPTION Wink Radio
-#SERVICE 1:64:1f9:0:0:0:0:0:0:0:
+#SERVICE 1:64:1f6:0:0:0:0:0:0:0:
 #DESCRIPTION ++NL amateur-tv++
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.pi6atv.com%3a8081/scoop/pi6atv-hd/playlist.m3u8  :PI6atv (NL amateur tv)
 #DESCRIPTION PI6atv (NL amateur tv)

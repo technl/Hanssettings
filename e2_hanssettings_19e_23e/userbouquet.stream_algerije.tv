@@ -1,11 +1,11 @@
 #NAME Stream Algerije (DZ)
-#SERVICE 1:64:2c2:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:2c3:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8:Algerie TV1 - El Djazair N1
 #DESCRIPTION Algerie TV1 - El Djazair N1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8:Algérie TV2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8:Algérie TV2
 #DESCRIPTION Algérie TV2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/ThalithaA3.m3u8:Algerie TV3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8:Algerie TV3
 #DESCRIPTION Algerie TV3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8:Algerie TV4
 #DESCRIPTION Algerie TV4
@@ -17,8 +17,8 @@
 #DESCRIPTION Algerie TV7 -  Elmaarifa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8:Algerie TV8 -  Edhakira
 #DESCRIPTION Algerie TV8 -  Edhakira
-#SERVICE 1:64:2c3:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 1:64:2c4:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8:Al Anis TV
 #DESCRIPTION Al Anis TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8:Bahia TV
@@ -31,7 +31,7 @@
 #DESCRIPTION El Bilad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_720p/chunks.m3u8:El Djazairia One
 #DESCRIPTION El Djazairia One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8:El Fadjr TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8:El Fadjr TV
 #DESCRIPTION El Fadjr TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8:El Hayat TV
 #DESCRIPTION El Hayat TV
@@ -41,5 +41,5 @@
 #DESCRIPTION ENTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8:Lina TV
 #DESCRIPTION Lina TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8:Samira TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8:Samira TV
 #DESCRIPTION Samira TV

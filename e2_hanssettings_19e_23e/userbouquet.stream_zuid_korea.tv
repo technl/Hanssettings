@@ -1,5 +1,5 @@
 #NAME Stream Zuid-Korea (KR)
-#SERVICE 1:64:357:0:0:0:0:0:0:0:
+#SERVICE 1:64:361:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders KBS++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ye23.vip/z7z8/2021/kbs2020.php?id=1:KBS 1
 #DESCRIPTION KBS 1
@@ -23,7 +23,7 @@
 #DESCRIPTION KBS Story
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wms4-kortv.akamaized.net/a_live/63719963/smil%3a20ch011.smil/playlist.m3u8:KBS World 
 #DESCRIPTION KBS World 
-#SERVICE 1:64:358:0:0:0:0:0:0:0:
+#SERVICE 1:64:362:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8:BTN TV
 #DESCRIPTION BTN TV
@@ -137,7 +137,7 @@
 #DESCRIPTION YTN Science
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.us195.jpnettv.live%3a1935/jptv/kansi_yomiuri_720/playlist.m3u8:YTV
 #DESCRIPTION YTV
-#SERVICE 1:64:359:0:0:0:0:0:0:0:
+#SERVICE 1:64:363:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.dothome.co.kr/ch/catv/230.php:Anione
 #DESCRIPTION Anione

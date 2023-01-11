@@ -1,5 +1,5 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:51d:0:0:0:0:0:0:0:
+#SERVICE 1:64:527:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
@@ -343,7 +343,9 @@
 #DESCRIPTION Radio Park FM (Antwerpen - BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//167.172.62.28%3a8000/radio.mp3:Radio Palermo Essen (BE)
 #DESCRIPTION Radio Palermo Essen (BE)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//s39.myradiostream.com%3a14494:Radio Pallieter (Lier)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s39.myradiostream.com%3a14494:Radio Pallieter (Lier)
+#DESCRIPTION Radio Pallieter (Lier)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//shoutcast2.wirelessantwerpen.be/pallieter:Radio Pallieter (Lier)
 #DESCRIPTION Radio Pallieter (Lier)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//84.80.98.187%3a8000/paloma106:Radio Paloma (Poppel)
 #DESCRIPTION Radio Paloma (Poppel)
@@ -365,6 +367,8 @@
 #DESCRIPTION Radio Scorpio (studnetenradio uit Leuven)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//caster05.streampakket.com/proxy/8928/stream:Radio Scorpio (Ledegem)
 #DESCRIPTION Radio Scorpio (Ledegem)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//relay.radioscorpio.be/stream:Radio Scorpio (Leuven)
+#DESCRIPTION Radio Scorpio (Leuven)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice.cr2.streamzilla.xlcdn.com%3a8001/sz=radiosingjaal=radiostream:Radio Singjaal (Leuven)
 #DESCRIPTION Radio Singjaal (Leuven)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.radiostad.org%3a8344:Radio Stad Antwerpen
@@ -531,7 +535,7 @@
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:51e:0:0:0:0:0:0:0:
+#SERVICE 1:64:528:0:0:0:0:0:0:0:
 #DESCRIPTION ++Brussel en Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)
@@ -573,9 +577,11 @@
 #DESCRIPTION LFM Radio (Luik)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//manager5.streamradio.fr%3a1665/stream:Libellule FM (Comines-Warneton)
 #DESCRIPTION Libellule FM (Comines-Warneton)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n12a-eu.rcs.revma.com/anew1ctrgzzuv/hls.m3u8:LN Radio (Etterbeek)
+#DESCRIPTION LN Radio (Etterbeek)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio195.be.belstream.net/mradio.mp3:M Radio 
 #DESCRIPTION M Radio 
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.31.111.221%3a9290/;stream.nsv:Max FM (Ath en regio)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//direct.maxfm.be%3a8000/maxfm:Max FM (Ath en regio)
 #DESCRIPTION Max FM (Ath en regio)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01a-eu.rcs.revma.com/vnmbzemrmm0uv:Maximum (Luik)
 #DESCRIPTION Maximum (Luik)

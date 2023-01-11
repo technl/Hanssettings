@@ -1,15 +1,15 @@
 #NAME Stream België (BE)
-#SERVICE 1:64:bd:0:0:0:0:0:0:0:
+#SERVICE 1:64:c2:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - landelijk+++
-#SERVICE 4097:0:1:5221:c99:3:0:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.111.0.6%3a1234:VRT één
+#SERVICE 4097:0:1:5221:c99:3:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/843:VRT één
 #DESCRIPTION VRT één
 #SERVICE 4097:0:1:5226:c99:3:0:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.111.0.5%3a1234:VRT Canvas
 #DESCRIPTION VRT Canvas
-#SERVICE 4097:0:1:5278:c96:3:0:0:0:0:http%3a//87.212.248.23%3a8080/play/z08p:VRT Ketnet
+#SERVICE 4097:0:1:5278:c96:3:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1960:VRT Ketnet
 #DESCRIPTION VRT Ketnet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8:VRT Ketnet Junior
 #DESCRIPTION VRT Ketnet Junior
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8:HLN Live (BE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8:HLN Live (BE)
 #DESCRIPTION HLN Live (BE)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-vrt.akamaized.net/groupb/live/a1ddf2fd-c2b5-4558-9b19-e66c9bd995a8/live.isml/.m3u8:VRT Events 1 (België)
 #DESCRIPTION VRT Events 1 (België)
@@ -17,7 +17,7 @@
 #DESCRIPTION VRT Events 2 (België)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8:VRT Events 3 / Radio 1 studiocam
 #DESCRIPTION VRT Events 3 / Radio 1 studiocam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.24.75.92%3a5555/udp/239.111.2.5%3a1234:VTM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/840:VTM HD
 #DESCRIPTION VTM HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8:VTM
 #DESCRIPTION VTM
@@ -25,7 +25,7 @@
 #DESCRIPTION VTM NWS - tijdens journaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.parolis.be%3a1935/live/PLN_NL/chunklist_w27225067.m3u8:Federaal parlement BE (tijdens vergaderingen)
 #DESCRIPTION Federaal parlement BE (tijdens vergaderingen)
-#SERVICE 1:64:be:0:0:0:0:0:0:0:
+#SERVICE 1:64:c3:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - regionaal+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_107244/1080n/index.m3u8:ATV (Antwerpen)
 #DESCRIPTION ATV (Antwerpen)
@@ -35,7 +35,7 @@
 #DESCRIPTION TVL - TV Limburg (België)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_399410/1080n/index.m3u8:TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
 #DESCRIPTION TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
-#SERVICE 1:64:bf:0:0:0:0:0:0:0:
+#SERVICE 1:64:c4:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen radio webcams++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8:VRT - Radio 1 studiocam
 #DESCRIPTION VRT - Radio 1 studiocam
@@ -51,19 +51,21 @@
 #DESCRIPTION CityMusic (Denderstreek - België) webcam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8:Radio PROS (webcam) Heldergem-België
 #DESCRIPTION Radio PROS (webcam) Heldergem-België
-#SERVICE 1:64:c0:0:0:0:0:0:0:0:
+#SERVICE 1:64:c5:0:0:0:0:0:0:0:
 #DESCRIPTION +++Bruxelles/Wallonie+++
-#SERVICE 1:64:c1:0:0:0:0:0:0:0:
+#SERVICE 1:64:c6:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:420e:2f44:13e:820000:0:0:0:http%3a//154.54.220.67%3a34780/play/a02e:RTBF La 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/248:RTBF La 1
 #DESCRIPTION RTBF La 1
-#SERVICE 4097:0:1:420f:2f44:13e:820000:0:0:0:http%3a//154.54.220.67%3a34780/play/a02f:RTBF 2 Tipik
+#SERVICE 4097:0:1:420f:2f44:13e:820000:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/249:RTBF 2 Tipik
 #DESCRIPTION RTBF 2 Tipik
-#SERVICE 4097:0:1:4210:2f44:13e:820000:0:0:0:http%3a//154.54.220.67%3a34780/play/a02g:RTBF La 3
-#DESCRIPTION RTBF La 3
-#SERVICE 4097:0:0:1:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a02h:RTL TVI
+#SERVICE 4097:0:0:1:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/251:RTL TVI
 #DESCRIPTION RTL TVI
-#SERVICE 1:64:c2:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/253:Club RTL
+#DESCRIPTION Club RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/252:Plug RTL
+#DESCRIPTION Plug RTL
+#SERVICE 1:64:c7:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1800.m3u8:BEL RTL
 #DESCRIPTION BEL RTL

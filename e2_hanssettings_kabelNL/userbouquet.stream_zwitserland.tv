@@ -1,24 +1,34 @@
 #NAME Stream Zwitserland (CH)
-#SERVICE 1:64:299:0:0:0:0:0:0:0:
+#SERVICE 1:64:2a7:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a002:3+ HD
-#DESCRIPTION 3+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a00p:RSI La 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/9873:RSI La 1 HD
 #DESCRIPTION RSI La 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a00q:RSI La 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1993:RSI La 2 HD
 #DESCRIPTION RSI La 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a004:RTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00j:RTS 1 HD
 #DESCRIPTION RTS 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a00b:RTS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00k:RTS 2 HD
 #DESCRIPTION RTS 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a012:SRF 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00h:SRF 1 HD
 #DESCRIPTION SRF 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a017:SRF 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00i:SRF 2 HD
 #DESCRIPTION SRF 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a016:SRF Info HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2805:SRF Info HD
 #DESCRIPTION SRF Info HD
-#SERVICE 1:64:29a:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/14266:3+
+#DESCRIPTION 3+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2809:4+
+#DESCRIPTION 4+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/14262:5+
+#DESCRIPTION 5+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/14264:6+
+#DESCRIPTION 6+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/83347:Puls Acht
+#DESCRIPTION Puls Acht
+#SERVICE 1:64:2a8:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/ik%3aalpen-wellelivestream/playlist.m3u8:Alpenland TV
+#DESCRIPTION Alpenland TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canalalpha.vedge.infomaniak.com/livecast/smil%3acanalalpha.smil/manifest.m3u8:Canal Alpha
 #DESCRIPTION Canal Alpha
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8:Canal Alpha Jura
@@ -33,7 +43,7 @@
 #DESCRIPTION Kanal 9 en Français
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8:La Télé
 #DESCRIPTION La Télé
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//lfmmd.vedge.infomaniak.com/livecast/smil%3alfmmd.smil/playlist.m3u8:LFM
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//lfmmd.vedge.infomaniak.com/livecast/smil%3alfmmd.smil/chunklist.m3u8:LFM
 #DESCRIPTION LFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.meteonews.net/hls/stream.m3u8:Meteonews
 #DESCRIPTION Meteonews
@@ -45,9 +55,11 @@
 #DESCRIPTION Radio Pilatus webcam
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//event.vedge.infomaniak.com/livecast/event.stream/chunklist.m3u8:Rouge TV
 #DESCRIPTION Rouge TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/82686:Swiss 1
+#DESCRIPTION Swiss 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8:Tele 1
 #DESCRIPTION Tele 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8:Tele Bärn HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8:Tele Bärn HD
 #DESCRIPTION Tele Bärn HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3atelebielinguech/manifest.m3u8:Tele Bielingue
 #DESCRIPTION Tele Bielingue
@@ -55,8 +67,12 @@
 #DESCRIPTION Tele M1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.gruppocdt.ch/hls/teleticino.m3u8:Tele Ticino
 #DESCRIPTION Tele Ticino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/WBrfPA9txtU5iuPYBt6pjA/index-s32.m3u8:Tele Züri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8:Tele Züri
 #DESCRIPTION Tele Züri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8:Telebasel
+#DESCRIPTION Telebasel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/157407:TV Suedostschweiz
+#DESCRIPTION TV Suedostschweiz
 #SERVICE 4097:0:1:234:0:0:0:0:0:0:https%3a//tvm3.vedge.infomaniak.com/livecast/tvm3/f1tv.m3u8:TVM 3
 #DESCRIPTION TVM 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8:TVO

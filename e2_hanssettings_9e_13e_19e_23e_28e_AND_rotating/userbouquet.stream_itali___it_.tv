@@ -1,5 +1,5 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:1b2a:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b03:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a02g:Rai 1
 #DESCRIPTION Rai 1
@@ -69,7 +69,7 @@
 #DESCRIPTION TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/283205:Sky TG 24
 #DESCRIPTION Sky TG 24
-#SERVICE 1:64:1b2b:0:0:0:0:0:0:0:
+#SERVICE 1:64:1b04:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
@@ -237,6 +237,8 @@
 #DESCRIPTION Gold 78
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8:Gold TV
 #DESCRIPTION Gold TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8:Gold TV Sat
+#DESCRIPTION Gold TV Sat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cbd3bc28341f.streamlock.net%3a444/grp/live/playlist.m3u8:GRP Televisione
 #DESCRIPTION GRP Televisione
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8:History Lab

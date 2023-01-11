@@ -3,6 +3,8 @@
 #DESCRIPTION Al Arabiya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8:Al Arabiya Al Hadath
 #DESCRIPTION Al Arabiya Al Hadath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/aldafrahtv:Al Dafrah TV
+#DESCRIPTION Al Dafrah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8:Al Hadath TV
 #DESCRIPTION Al Hadath TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8:Al Qamar TV (360p)
@@ -15,12 +17,16 @@
 #DESCRIPTION Al Yaum TV (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7207:Alerth
 #DESCRIPTION Alerth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.najah.edu%3a8443/hls/AlNajah.m3u8:An-Najah
+#DESCRIPTION An-Najah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//citrusdemo.live.tactint.com/citrus/6befa38a9c2d2b9e1889a03cca7ac836.sdp/citrus/uae1/playlist.m3u8:Citruss TV
 #DESCRIPTION Citruss TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8:Hawas TV
 #DESCRIPTION Hawas TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-iraq-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1
 #DESCRIPTION MBC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8:MBC 1 KSA
+#DESCRIPTION MBC 1 KSA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8:MBC 1 USA
 #DESCRIPTION MBC 1 USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//102.222.232.18%3a9981/stream/channelid/162366733?ticket=C53575587BBBC53B1AC81DDA1912FEB050F669F4&profile=matroska:MBC 2
@@ -45,12 +51,16 @@
 #DESCRIPTION MBC Max
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8:MBC Persia
 #DESCRIPTION MBC Persia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.bestream.io%3a19360/elfaro4/elfaro4.m3u8:Nour TV
+#DESCRIPTION Nour TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8:Sharjah TV
 #DESCRIPTION Sharjah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8:Sharjah 2
 #DESCRIPTION Sharjah 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8:Sharjah Sports TV
 #DESCRIPTION Sharjah Sports TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.spacetoon.com/live/stchannel/smil%3alivesmil.smil/playlist.m3u8:Spacetoon
+#DESCRIPTION Spacetoon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8:Wanasah
 #DESCRIPTION Wanasah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_action/index.m3u8:Weyyak Action
@@ -69,7 +79,7 @@
 #DESCRIPTION Zee Aflam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8:Zee Alwan
 #DESCRIPTION Zee Alwan
-#SERVICE 1:64:3e3:0:0:0:0:0:0:0:
+#SERVICE 1:64:3e9:0:0:0:0:0:0:0:
 #DESCRIPTION ++Abu Dhabi = hoofdstad VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/adtv/smil%3aadtv.stream.smil/playlist.m3u8:Abu Dhabi Aloula
 #DESCRIPTION Abu Dhabi Aloula
@@ -91,7 +101,7 @@
 #DESCRIPTION Majid TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/playlist.m3u8:National Geographic Abu Dhabi
 #DESCRIPTION National Geographic Abu Dhabi
-#SERVICE 1:64:3e4:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ea:0:0:0:0:0:0:0:
 #DESCRIPTION ++Dubai, stad in VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x8924av:3eesh Al Aan TV
 #DESCRIPTION 3eesh Al Aan TV

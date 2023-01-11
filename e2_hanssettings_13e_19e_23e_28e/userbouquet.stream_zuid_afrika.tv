@@ -1,29 +1,21 @@
 #NAME Stream Zuid-Afrika (ZA)
-#SERVICE 1:64:3e9:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ef:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/38564:SABC 1
-#DESCRIPTION SABC 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/38556:SABC 2
-#DESCRIPTION SABC 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/281528:SABC 3
-#DESCRIPTION SABC 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/38566:SABC News
-#DESCRIPTION SABC News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/278762:KykNet
-#DESCRIPTION KykNet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/278763:KykNet & Kie
-#DESCRIPTION KykNet & Kie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/90214:KykNet Nou
-#DESCRIPTION KykNet Nou
-#SERVICE 1:64:3ea:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8:Cape Town TV
+#DESCRIPTION Cape Town TV
+#SERVICE 1:64:3f0:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boktv.interworks.in%3a1935/live/boktv/playlist.m3u8:BOK TV
 #DESCRIPTION BOK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.227.202.76/hls-live/CTV/_definst_/liveevent/livestream.m3u8:Celebration TV
 #DESCRIPTION Celebration TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive68-lh.akamaihd.net/i/dclive_1@791904/index_150_av-p.m3u8:Kruiskyk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/296548:Kruiskyk TV
 #DESCRIPTION Kruiskyk TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_18rwoe8djxxc.m3u8:Life Destiny TV (Zuid-Afrika)
-#DESCRIPTION Life Destiny TV (Zuid-Afrika)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8:LoveWorld Sat
+#DESCRIPTION LoveWorld Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8:RLW TV
+#DESCRIPTION RLW TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8:Trace Africa
 #DESCRIPTION Trace Africa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/commectv_live/UBNTV/index.m3u8:UBN
+#DESCRIPTION UBN

@@ -1,5 +1,5 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:508:0:0:0:0:0:0:0:
+#SERVICE 1:64:516:0:0:0:0:0:0:0:
 #DESCRIPTION ++Rai++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:Rai Radio 1
 #DESCRIPTION Rai Radio 1
@@ -23,8 +23,8 @@
 #DESCRIPTION Rai IsoRadio
 #SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//icestreaming.rai.it/12.mp3:Rai IsoRadio Estero
 #DESCRIPTION Rai IsoRadio Estero
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/15.mp3:Rai Radio Indie
-#DESCRIPTION Rai Radio Indie
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/15.mp3:Rai No Name Radio
+#DESCRIPTION Rai No Name Radio
 #SERVICE 4097:0:2:13:0:0:0:0:0:0:http%3a//icestreaming.rai.it/11.mp3:Rai Radio Kids
 #DESCRIPTION Rai Radio Kids
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it%3a80/10.mp3:Rai Radio Live
@@ -37,7 +37,7 @@
 #DESCRIPTION Rai Radio Tutta Italiana
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiobzlive.rai.it/RAIBZ_Livestream:Rai Südtirol
 #DESCRIPTION Rai Südtirol
-#SERVICE 1:64:509:0:0:0:0:0:0:0:
+#SERVICE 1:64:517:0:0:0:0:0:0:0:
 #DESCRIPTION ++festival San Remo, themazenders++
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um049.mp3:Music Radio Festival Le Canzoni Vincitrici
 #DESCRIPTION Music Radio Festival Le Canzoni Vincitrici
@@ -47,7 +47,7 @@
 #DESCRIPTION United Music Radio Festival 1951-1999
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um112.mp3:United Music Radio Festival 2000-2021
 #DESCRIPTION United Music Radio Festival 2000-2021
-#SERVICE 1:64:50a:0:0:0:0:0:0:0:
+#SERVICE 1:64:518:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
 #DESCRIPTION 105 Indie
@@ -361,12 +361,16 @@
 #DESCRIPTION RADIO MARGHERITA
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8016/:Radio Maria Italië
 #DESCRIPTION Radio Maria Italië
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.shoutitaly.com/proxy/radiomariasudtirol:Radio Maria Südtirol
+#DESCRIPTION Radio Maria Südtirol
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//wma01.fluidstream.net%3a8210/;stream/1:Radio Marilù
 #DESCRIPTION Radio Marilù
 #SERVICE 4097:0:2:81:0:0:0:0:0:0:http%3a//onair18.xdevel.com%3a8212/:RADIO MARTE
 #DESCRIPTION RADIO MARTE
-#SERVICE 4097:0:2:249:0:0:0:0:0:0:http%3a//s3.shoutitaly.com%3a8016/;stream.nsv:RADIO MATER
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.shoutitaly.com%3a8016/;stream.nsv:RADIO MATER
 #DESCRIPTION RADIO MATER
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast3.ipstream.it/radio.mp3:Radio Megamix 80 (Florence)
+#DESCRIPTION Radio Megamix 80 (Florence)
 #SERVICE 4097:0:2:305:0:0:0:0:0:0:http%3a//sh1.inmystream.info%3a8175/:RADIO MILANO
 #DESCRIPTION RADIO MILANO
 #SERVICE 4097:0:2:355:0:0:0:0:0:0:http%3a//ice12.fluidstream.net/millenote.mp3:RADIO MILLE NOTE

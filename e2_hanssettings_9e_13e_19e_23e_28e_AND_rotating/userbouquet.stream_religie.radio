@@ -101,6 +101,8 @@
 #DESCRIPTION Radio Maria Canada
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8044/stream/1/:Radio Maria Costa Rica
 #DESCRIPTION Radio Maria Costa Rica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dreamsiteradiocp5.com/proxy/rmengland:Radio Maria England
+#DESCRIPTION Radio Maria England
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8052/stream.mp3:Radio Maria Filipijnen
 #DESCRIPTION Radio Maria Filipijnen
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8110/:Radio Maria France
@@ -109,22 +111,34 @@
 #DESCRIPTION Radio Maria Hongarije
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8102/:Radio Maria Horeb (Duitsland)
 #DESCRIPTION Radio Maria Horeb (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8014/stream.mp3:Radio Maria Ireland (Ierland)
-#DESCRIPTION Radio Maria Ireland (Ierland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8016/:Radio Maria Italië
-#DESCRIPTION Radio Maria Italië
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8014/stream.mp3:Radio Maria Ireland
+#DESCRIPTION Radio Maria Ireland
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8016/:Radio Maria Italia
+#DESCRIPTION Radio Maria Italia
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8054/:Radio Maria Kroatië
 #DESCRIPTION Radio Maria Kroatië
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.marijosradijas.lt%3a8001/marijosradijas.mp3:Radio Maria Lithuania
+#DESCRIPTION Radio Maria Lithuania
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8088/stream.mp3:Radio Maria Mozambique (reli - Mozambique)
 #DESCRIPTION Radio Maria Mozambique (reli - Mozambique)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiomaria.nl/mp3:Radio Maria NL
-#DESCRIPTION Radio Maria NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiomaria.nl/mp3:Radio Maria Nederland
+#DESCRIPTION Radio Maria Nederland
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp4.com%3a8008/:Radio Maria Roemenië
 #DESCRIPTION Radio Maria Roemenië
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming2.elitecomunicacion.es%3a9000/radiomaria_lo:Radio Maria Schweiz
+#DESCRIPTION Radio Maria Schweiz
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8030/:Radio Maria Spanje
 #DESCRIPTION Radio Maria Spanje
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//s1.shoutitaly.com%3a8020/:Radio Maria Suedtirol Italy - German language
 #DESCRIPTION Radio Maria Suedtirol Italy - German language
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dreamsiteradiocp4.com/proxy/rmrsuisse2:Radio Maria Suisse Romande
+#DESCRIPTION Radio Maria Suisse Romande
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.shoutitaly.com/proxy/radiomariasudtirol:Radio Maria Südtirol
+#DESCRIPTION Radio Maria Südtirol
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp4.com%3a8026/;stream/1:Radio Maria Transylvania
+#DESCRIPTION Radio Maria Transylvania
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp.com%3a8022/;:Radio Maria Ukraine
+#DESCRIPTION Radio Maria Ukraine
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//50.7.135.98%3a8042/:Radio Maria USA Chicago (Spaans)
 #DESCRIPTION Radio Maria USA Chicago (Spaans)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp4.com%3a8006/:Radio Maria USA Engelstalig
