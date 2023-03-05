@@ -1,5 +1,5 @@
 #NAME Stream Kerstmuziek
-#SERVICE 1:64:1c87:0:0:0:0:0:0:0:
+#SERVICE 1:64:54a:0:0:0:0:0:0:0:
 #DESCRIPTION ++Nederland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.100p.nl/web05_mp3:100%25 NL Kerst
 #DESCRIPTION 100% NL Kerst
@@ -17,7 +17,7 @@
 #DESCRIPTION Sky Radio - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22193.live.streamtheworld.com/SUBLIMEPLAYGROUND.mp3:Sublime Christmas
 #DESCRIPTION Sublime Christmas
-#SERVICE 1:64:1c88:0:0:0:0:0:0:0:
+#SERVICE 1:64:54b:0:0:0:0:0:0:0:
 #DESCRIPTION ++België++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beonexmas:Be One Xmas (Oostende - België)
 #DESCRIPTION Be One Xmas (Oostende - België)
@@ -33,7 +33,7 @@
 #DESCRIPTION NRJ-Belgique En mode Noel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/zomer:Radio Noordzee - Kerstradio
 #DESCRIPTION Radio Noordzee - Kerstradio
-#SERVICE 1:64:1c89:0:0:0:0:0:0:0:
+#SERVICE 1:64:54c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Duitsland++
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//topradio-de-hz-fal-stream07-cluster01.radiohost.de/rs2-event_128:942-rs2-weinachtsradio (kerstmuziek - Duitsland)
 #DESCRIPTION 942-rs2-weinachtsradio (kerstmuziek - Duitsland)
@@ -93,6 +93,8 @@
 #DESCRIPTION RPR1 - Weihnachtslieder (D)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.hoerradar.de/rsh-event02-mp3-mq?sABC=59q417s3%25230%2523s58q219o90642456or95s6ns726669n1%2523yvfgrayvir&amsparams=playerid%3alistenlive;skey%3a1507071987:RSH - Weihnachtsmix
 #DESCRIPTION RSH - Weihnachtsmix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlxms-mp3-128-4695411:RTL Radio / 104.6 XMax / Weihnachtsradio
+#DESCRIPTION RTL Radio / 104.6 XMax / Weihnachtsradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlxmsgreath-mp3-128-5365238:RTL Berlin - Weihnachtsradio Greatest Hits (DE)
 #DESCRIPTION RTL Berlin - Weihnachtsradio Greatest Hits (DE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlxmsneueh-mp3-128-5778248:RTL Berlin - Weihnachtsradio Neue Hits (DE)
@@ -105,11 +107,13 @@
 #DESCRIPTION RTL+ Weihnachtssongs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//schw6.streampanel.cloud/14-weihnacht:Schwany-14 Weihnachten (DE)
 #DESCRIPTION Schwany-14 Weihnachten (DE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-spreeradioxms-mp3-192-2733462:Spreeradio Weihnachtsradio
+#DESCRIPTION Spreeradio Weihnachtsradio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//tannenbaumradio.stream.laut.fm/tannenbaumradio?t302=2017-12-18_20-30-02&uuid=1db5df1e-728d-40aa-beff-8b792f96b52e:Tannenbaumradio
 #DESCRIPTION Tannenbaumradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//superrtl.streamabc.net/srtl-weihnachten-mp3-192-2156039:Toggo Radio Weihnachten
 #DESCRIPTION Toggo Radio Weihnachten
-#SERVICE 1:64:1c8a:0:0:0:0:0:0:0:
+#SERVICE 1:64:54d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Engeland en Ierland++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice31.securenetsystems.net/XMASFMM :Christmas FM Ireland (Ierland)
 #DESCRIPTION Christmas FM Ireland (Ierland)
@@ -117,11 +121,11 @@
 #DESCRIPTION Christmas Santa Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/HeartXmas:Heart Xmas (UK)
 #DESCRIPTION Heart Xmas (UK)
-#SERVICE 1:64:1c8b:0:0:0:0:0:0:0:
+#SERVICE 1:64:54e:0:0:0:0:0:0:0:
 #DESCRIPTION ++Frankrijk++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n16a-eu.rcs.revma.com/1kpby05at18uv:Radio Contact Christmas
 #DESCRIPTION Radio Contact Christmas
-#SERVICE 1:64:1c8c:0:0:0:0:0:0:0:
+#SERVICE 1:64:54f:0:0:0:0:0:0:0:
 #DESCRIPTION ++Italië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/R101_558.aac:R101 Christmas (Italië)
 #DESCRIPTION R101 Christmas (Italië)
@@ -129,7 +133,7 @@
 #DESCRIPTION United Music Holiday Radio Christmas Party (Italië)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um113.mp3:United Music Holiday Radio Cool Christmas (Italië)
 #DESCRIPTION United Music Holiday Radio Cool Christmas (Italië)
-#SERVICE 1:64:1c8d:0:0:0:0:0:0:0:
+#SERVICE 1:64:550:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige landen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-event01-mp3-hq:80s80s Xmas
 #DESCRIPTION 80s80s Xmas
@@ -185,7 +189,7 @@
 #DESCRIPTION Radio 21 & Rockland Radio - X-Mas Rock Nonstop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s6-webradio.rockantenne.de/xmas-rock/stream:Rock Antenne Xmas Rock
 #DESCRIPTION Rock Antenne Xmas Rock
-#SERVICE 1:64:1c8e:0:0:0:0:0:0:0:
+#SERVICE 1:64:551:0:0:0:0:0:0:0:
 #DESCRIPTION +++Sinterklaas+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sintfm.nl%3a8000/sinterklaasradiohigh.mp3:Sint FM
 #DESCRIPTION Sint FM

@@ -17,6 +17,14 @@
 #DESCRIPTION Premium Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icepe4.infomaniak.ch/radiomonaco-128.mp3:Radio Monaco (Monaco)
 #DESCRIPTION Radio Monaco (Monaco)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/radio-monaco :Radio Monaco (Monte Carlo)  
+#DESCRIPTION Radio Monaco (Monte Carlo)  
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/radio-monaco-madeinnewyork:Radio Monaco - Made in New York
+#DESCRIPTION Radio Monaco - Made in New York
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/radio-monaco-mixdj:Radio Monaco Mix DJ 
+#DESCRIPTION Radio Monaco Mix DJ 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/radio-monaco-nightmood:Radio Monaco Nightmood 
+#DESCRIPTION Radio Monaco Nightmood 
 #SERVICE 4097:0:2:87:0:0:0:0:0:0:https%3a//edge.singsingmusic.net/MC2.mp3:RADIO MONTECARLO  2
 #DESCRIPTION RADIO MONTECARLO  2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//fms.105.net%3a1935/live/rmc1:Radio MonteCarlo TV (Monaco)

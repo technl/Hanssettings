@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:47a:0:0:0:0:0:0:0:
+#SERVICE 1:64:47e:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:47b:0:0:0:0:0:0:0:
+#SERVICE 1:64:47f:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -179,6 +179,8 @@
 #DESCRIPTION Banbury FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//everestcast.shoutcastservices.com%3a1520/stream:Base Radio (Filwood)
 #DESCRIPTION Base Radio (Filwood)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c32.radioboss.fm%3a18520/stream:Basingstoke Now
+#DESCRIPTION Basingstoke Now
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hydra.shoutca.st%3a8064/stream:Bay Trust Radio (Kendal, Engeland, UK)
 #DESCRIPTION Bay Trust Radio (Kendal, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.98.130.255%3a8014/live.mp3:BCfm (Bristol)
@@ -1411,6 +1413,10 @@
 #DESCRIPTION Stoke Mandeville Hospital Radio (Aylesbury, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//aries.streaming.zfast.co.uk%3a8064/live:Stomp Radio (Engeland, UK)
 #DESCRIPTION Stomp Radio (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s6df48fd88/listen:Storm FM (Hailsham, East Sussex)
+#DESCRIPTION Storm FM (Hailsham, East Sussex)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rbx2.hnux.com/http%3a//e14263.cloudrad.io%3a8066/;:Storm FM Gold (Hailsham, East Sussex)
+#DESCRIPTION Storm FM Gold (Hailsham, East Sussex)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rss-streaming.co.uk%3a8070/stream/1/:Strawberry Radio (Stockport - Engeland, UK)
 #DESCRIPTION Strawberry Radio (Stockport - Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.sad.ukrd.com/stray:Stray FM (Engeland, UK)
@@ -1433,7 +1439,7 @@
 #DESCRIPTION Surrey Hills Radio (Surrey, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.28.49.164%3a7510/stream:Swindon 105.5 (Engeland, UK)
 #DESCRIPTION Swindon 105.5 (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.viastreaming.net%3a8585/;stream:Swinging Radio 60s (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.liveradio.es/http%3a//s2.xrad.io%3a8058/stream:Swinging Radio 60s (Engeland, UK)
 #DESCRIPTION Swinging Radio 60s (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/SwingingRadioEngland3?lang=nl%252cen-US%253bq%253d0.7%252cen%253bq%253d0.3:Swinging Radio England.UK (Engeland, UK)
 #DESCRIPTION Swinging Radio England.UK (Engeland, UK)
@@ -1559,12 +1565,6 @@
 #DESCRIPTION UKG 247 (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//undercoverfm.com%3a8000/stream:Undercover FM (Derby, Engeland, UK)
 #DESCRIPTION Undercover FM (Derby, Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23543.live.streamtheworld.com/JACK_DAB_HIAAC.aac:Union Jack Radio (Engeland, UK)
-#DESCRIPTION Union Jack Radio (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22723.live.streamtheworld.com/UJ_DANCE_HIAAC.aac:Union Jack Dance
-#DESCRIPTION Union Jack Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/UJ_ROCK_HIAAC.aac:Union Jack Rock
-#DESCRIPTION Union Jack Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.fidele.media%3a8383/stream:UniqueRadio.Org (Engeland, UK)
 #DESCRIPTION UniqueRadio.Org (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.audiospace.co/unityradio:Unity Radio (Engeland)

@@ -1,4 +1,6 @@
 #NAME Stream Bolivia (BO)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//master.tucableip.com/abyayalatv/playlist.m3u8:Abya Yala TV
+#DESCRIPTION Abya Yala TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x89sfvo:ATB Cochabamba
 #DESCRIPTION ATB Cochabamba
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x84eirw:ATB La Paz
@@ -15,10 +17,18 @@
 #DESCRIPTION Bolivia TV 7.2 Deportes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2byzrnrdb259r.cloudfront.net/hls/live.m3u8:Bolivisión
 #DESCRIPTION Bolivisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/ceacom/ceacom/playlist.m3u8:Canal 51 Ceacom
+#DESCRIPTION Canal 51 Ceacom
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/playlist.m3u8:Contacto Bolivia
 #DESCRIPTION Contacto Bolivia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8182/8182/playlist.m3u8:Erbol
+#DESCRIPTION Erbol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//master.tucableip.com/ftv/index.m3u8:FTV HD
+#DESCRIPTION FTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streamer1.streamhost.org/salive/GMIalfam:Logos TV
 #DESCRIPTION Logos TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//solo.disfrutaenlared.com%3a1936/tvcbba/tvcbba/playlist.m3u8:Mega TV
+#DESCRIPTION Mega TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//master.tucableip.com/pat/playlist.m3u8:PAT
 #DESCRIPTION PAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer1.streamhost.org%3a1935/salive/GMIredadvenirm/playlist.m3u8:Red AD Venir Internacional
@@ -29,12 +39,12 @@
 #DESCRIPTION RTP Bolivia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.seo.tv.bo%3a3645/live/franzleonel0live.m3u8:SEO TV
 #DESCRIPTION SEO TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.seo.tv.bo%3a3314/live/seolive.m3u8:SEO TV Deportes
-#DESCRIPTION SEO TV Deportes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.seo.tv.bo%3a3182/live/franzleonellive.m3u8:SEO TV Kids
 #DESCRIPTION SEO TV Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.seo.tv.bo%3a3337/live/franzbalboa2live.m3u8:SEO TV Novelas
 #DESCRIPTION SEO TV Novelas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.seo.tv.bo%3a3314/live/seolive.m3u8:SEO TV Películas
+#DESCRIPTION SEO TV Películas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8:TV Latina Canal 42 HD
 #DESCRIPTION TV Latina Canal 42 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videohd.sistemareal.com%3a3290/live/tvoffhdlive.m3u8:TV Off Travel

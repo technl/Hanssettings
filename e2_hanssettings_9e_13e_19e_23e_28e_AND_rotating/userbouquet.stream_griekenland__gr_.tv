@@ -1,5 +1,5 @@
 #NAME Stream Griekenland (GR)
-#SERVICE 1:64:1aea:0:0:0:0:0:0:0:
+#SERVICE 1:64:39f:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8BwLvDZ12qncWDml1bp00a:ERT 1
 #DESCRIPTION ERT 1
@@ -37,7 +37,7 @@
 #DESCRIPTION Star HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star -2- (deels Geoblocking)
 #DESCRIPTION Star -2- (deels Geoblocking)
-#SERVICE 1:64:1aeb:0:0:0:0:0:0:0:
+#SERVICE 1:64:3a0:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/34100/playlist.m3u8:34100 TV
 #DESCRIPTION 34100 TV
@@ -95,6 +95,8 @@
 #DESCRIPTION Epsilon TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/eurochannel:Euro TV
 #DESCRIPTION Euro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8:Euronews Greek
+#DESCRIPTION Euronews Greek
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/68469:Extra TV
 #DESCRIPTION Extra TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/faros2/playlist.m3u8:Faros TV
@@ -137,7 +139,7 @@
 #DESCRIPTION Nea TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/13554:NET TV
 #DESCRIPTION NET TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/NGradio/NGradio/playlist.m3u8:NG Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.streams.ovh/NGradio/NGradio/playlist.m3u8:NG Radio
 #DESCRIPTION NG Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/146375:Nickelodeon
 #DESCRIPTION Nickelodeon

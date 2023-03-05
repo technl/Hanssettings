@@ -113,6 +113,8 @@
 #DESCRIPTION RTVS Radio Regina Košice
 #SERVICE 4097:0:2:77:0:0:0:0:0:0:http%3a//live.slovakradio.sk%3a8000/Slovensko_128.mp3:RTVS Radio Slovensko
 #DESCRIPTION RTVS Radio Slovensko
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/rsi_128.mp3:RTVS Radio Slovakia International
+#DESCRIPTION RTVS Radio Slovakia International
 #SERVICE 4097:0:2:115:0:0:0:0:0:0:http%3a//stream.skyradio.sk%3a8000/sky128:Sky
 #DESCRIPTION Sky
 #SERVICE 4097:0:2:113:0:0:0:0:0:0:http%3a//stream.sepia.sk%3a8000/viva128.mp3:Viva Metropol

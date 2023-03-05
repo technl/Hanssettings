@@ -1,4 +1,20 @@
 #NAME Stream Spaans (ES)
+#SERVICE 1:64:463:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/crtve/rne1/main/mp3/high:RNE Radio Nacional
+#DESCRIPTION RNE Radio Nacional
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/crtve/rner3/main/mp3/high:RNE Radio 3
+#DESCRIPTION RNE Radio 3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/crtve/rner4/main/mp3/high:RNE Radio 4 Catalunya
+#DESCRIPTION RNE Radio 4 Catalunya
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/crtve/rne5/mad/mp3/high:RNE Radio 5 Todo Nocitias
+#DESCRIPTION RNE Radio 5 Todo Nocitias
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high:RNE Radio Clásica
+#DESCRIPTION RNE Radio Clásica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/crtve/rneree/main/mp3/high:RNE Exterior
+#DESCRIPTION RNE Exterior
+#SERVICE 1:64:464:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.10.10.225/zaragoza/live-web/chunklist_b128000.m3u8?GKID=dc544ece277711e9809800163e914f69:Aragón Radio
 #DESCRIPTION Aragón Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3:Cadena 100
@@ -141,26 +157,6 @@
 #DESCRIPTION Radiole Costa de la Luz, Huelva
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//19993.live.streamtheworld.com/RADIOLEAAC.aac:Radiolé
 #DESCRIPTION Radiolé
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtvelivestreamv3.akamaized.net/rtvesec/rne_re_main.m3u8:RNE Exterior
-#DESCRIPTION RNE Exterior
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve--di--crtve-ice--01--cdn.cast.addradio.de/crtve/rner3/main/mp3/high:RNE Radio 3
-#DESCRIPTION RNE Radio 3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve--di--crtve-ice--01--cdn.cast.addradio.de/crtve/rner4/main/mp3/high:RNE Radio 4 Catalunya
-#DESCRIPTION RNE Radio 4 Catalunya
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve--di--crtve-ice--03--cdn.cast.addradio.de/crtve/rne5/main/mp3/high:RNE Radio 5 Todo Nocitias
-#DESCRIPTION RNE Radio 5 Todo Nocitias
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne5-bcn.cast.addradio.de/crtve/rne5/bcn/mp3/high:RNE Radio 5 Todo Noticias Catalunya (Barcelona)
-#DESCRIPTION RNE Radio 5 Todo Noticias Catalunya (Barcelona)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne5-mad.cast.addradio.de/crtve/rne5/mad/mp3/high:RNE Radio 5 Todo Noticias Madrid
-#DESCRIPTION RNE Radio 5 Todo Noticias Madrid
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtvelivestreamv3.akamaized.net/rtvesec/rne_r2_main.m3u8 :RNE Radio Clásica
-#DESCRIPTION RNE Radio Clásica
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne1-cat.cast.addradio.de/crtve/rne1/cat/mp3/high:RNE Radio Nacional Catalunya
-#DESCRIPTION RNE Radio Nacional Catalunya
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne1-mad.cast.addradio.de/crtve/rne1/mad/mp3/high:RNE Radio Nacional Madrid
-#DESCRIPTION RNE Radio Nacional Madrid
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crtve-rne1-cnr.cast.addradio.de/crtve/rne1/cnr/mp3/high:RNE Radio Nacional
-#DESCRIPTION RNE Radio Nacional
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.55.74.207/cope/rockfm/chunks.m3u8?GKID=c7a9ffb6277011e9809800163e914f69:Rock FM
 #DESCRIPTION Rock FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.internetgirona.com%3a8008/onair:Ràdio Platja d'Aro

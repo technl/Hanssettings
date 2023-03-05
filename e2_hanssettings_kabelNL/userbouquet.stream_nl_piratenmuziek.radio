@@ -111,6 +111,10 @@
 #DESCRIPTION hitlandradio.nl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.5.73%3a8774/stream:Hitsjagerstream.nl
 #DESCRIPTION Hitsjagerstream.nl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediacp.audiostreamen.nl%3a8318/stream:Hitpower
+#DESCRIPTION Hitpower
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediacp.audiostreamen.nl%3a8332/Flashback:Hitpower Flashback
+#DESCRIPTION Hitpower Flashback
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.161.211.219%3a443/;:Hitstream.Fm
 #DESCRIPTION Hitstream.Fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.161.211.219%3a443/stream/2/;:Hitstream.Fm
@@ -265,6 +269,8 @@
 #DESCRIPTION Radio Lady Monza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.31.224.21%3a8864/stream:Radio Lauwerszee
 #DESCRIPTION Radio Lauwerszee
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//everestcast.renshosting.nl%3a1130/index.html?sid=1:Radio Luistervink
+#DESCRIPTION Radio Luistervink
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8334/stream:Radio Moontje
 #DESCRIPTION Radio Moontje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster02.streampakket.com%3a8228/stream:Radio Muziektoppers (Vroomshoop - Overijssel)

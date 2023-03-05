@@ -45,6 +45,9 @@ ffff0000:0071:08c9
 ffff0000:007a:08c9
 	c 626000:6900000:2:3:0:0:0
 /
+ffff0000:081b:0000
+	c 546000:6900000:2:5:0:0:0
+/
 ffff0000:081b:0600
 	c 546000:6900000:2:5:0:0:0
 /
@@ -104,6 +107,9 @@ ffff0000:001a:10ef
 /
 ffff0000:0003:10ef
 	c 570000:6875000:2:3:0:0:0
+/
+ffff0000:0c83:0600
+	c 266000:6900000:2:5:0:0:0
 /
 ffff0000:006d:08c9
 	c 650000:6900000:2:3:0:0:0
@@ -263,6 +269,9 @@ ffff0000:001e:10ef
 /
 ffff0000:0063:10ef
 	c 546000:6875000:2:3:0:0:0
+/
+ffff0000:0819:0000
+	c 426000:6900000:2:5:0:0:0
 /
 ffff0000:0819:0600
 	c 426000:6900000:2:5:0:0:0
@@ -842,6 +851,54 @@ p:CAIW Media
 5604:ffff0000:007a:08c9:2:0
 Radio Gelderland
 p:CAIW Media
+4511:ffff0000:081b:0000:1:0
+546 SID 0x4511
+p:,f:40
+452e:ffff0000:081b:0000:1:0
+546 SID 0x452e
+p:,f:40
+4530:ffff0000:081b:0000:1:0
+546 SID 0x4530
+p:,f:40
+4531:ffff0000:081b:0000:1:0
+546 SID 0x4531
+p:,f:40
+4532:ffff0000:081b:0000:1:0
+546 SID 0x4532
+p:,f:40
+4ce1:ffff0000:081b:0000:1:0
+546 SID 0x4ce1
+p:,f:40
+4515:ffff0000:081b:0000:100:0
+546 SID 0x4515
+p:,f:40
+451f:ffff0000:081b:0000:100:0
+546 SID 0x451f
+p:,f:40
+4520:ffff0000:081b:0000:100:0
+546 SID 0x4520
+p:,f:40
+4521:ffff0000:081b:0000:100:0
+546 SID 0x4521
+p:,f:40
+4522:ffff0000:081b:0000:100:0
+546 SID 0x4522
+p:,f:40
+4526:ffff0000:081b:0000:100:0
+546 SID 0x4526
+p:,f:40
+4528:ffff0000:081b:0000:100:0
+546 SID 0x4528
+p:,f:40
+452a:ffff0000:081b:0000:100:0
+546 SID 0x452a
+p:,f:40
+452c:ffff0000:081b:0000:100:0
+546 SID 0x452c
+p:,f:40
+452f:ffff0000:081b:0000:100:0
+546 SID 0x452f
+p:,f:40
 4511:ffff0000:081b:0600:1:0
 Ajax TV
 p:Ziggo
@@ -1562,6 +1619,66 @@ p:Delta
 0135:ffff0000:0003:10ef:25:0
 Nautical Channel HD
 p:Del
+1b32:ffff0000:0c83:0600:1:0
+TV Valkenburg
+p:Ziggo,f:40
+1b37:ffff0000:0c83:0600:1:0
+Meer vandaag TV
+p:Ziggo,f:40
+0f7d:ffff0000:0c83:0600:2:0
+RTV Maastricht Radio
+p:Ziggo,f:40
+0f7e:ffff0000:0c83:0600:2:0
+BieOs SGB Radio
+p:Ziggo,f:40
+0f80:ffff0000:0c83:0600:2:0
+RTV Parkstad Radio
+p:Ziggo,f:40
+0f81:ffff0000:0c83:0600:2:0
+ZO-NWS Radio
+p:Ziggo,f:40
+0f82:ffff0000:0c83:0600:2:0
+BieOs Stein Radio
+p:Ziggo,f:40
+0f83:ffff0000:0c83:0600:2:0
+3Heuvelland Radio
+p:Ziggo,f:40
+0f84:ffff0000:0c83:0600:2:0
+Meer vandaag FM
+p:Ziggo,f:40
+0f85:ffff0000:0c83:0600:2:0
+SOL2 Radio
+p:Ziggo,f:40
+0f86:ffff0000:0c83:0600:2:0
+TIP FM
+p:Ziggo,f:40
+1b2f:ffff0000:0c83:0600:25:0
+SOL2
+p:Ziggo,f:40
+1b30:ffff0000:0c83:0600:25:0
+RTV Maastricht TV
+p:Ziggo,f:40
+1b31:ffff0000:0c83:0600:25:0
+BieOs SGB TV
+p:Ziggo,f:40
+1b33:ffff0000:0c83:0600:25:0
+RTV Parkstad
+p:Ziggo,f:40
+1b34:ffff0000:0c83:0600:25:0
+ZO-NWS
+p:Ziggo,f:40
+1b35:ffff0000:0c83:0600:25:0
+BieOs Stein TV
+p:Ziggo,f:40
+1b36:ffff0000:0c83:0600:25:0
+3Heuvelland TV
+p:Ziggo,f:40
+1b38:ffff0000:0c83:0600:25:0
+TVEllef
+p:Ziggo,f:40
+1b39:ffff0000:0c83:0600:25:0
+Omroep Landgraaf TV
+p:Ziggo,f:40
 2332:ffff0000:006d:08c9:1:0
 Eurosport 2
 p:CAIW Media
@@ -1654,7 +1771,7 @@ TRT Çocuk
 p:Ziggo
 4b34:ffff0000:0810:0600:22:0
 Comedy Central Extra
-p:Ziggo,c:050001,f:40
+p:Ziggo,c:050001
 4b36:ffff0000:0810:0600:22:0
 MTV 80s
 p:Ziggo
@@ -2033,15 +2150,15 @@ p:Ziggo
 27e9:ffff0000:0806:0600:2:0
 FunX
 p:Ziggo
-4a51:ffff0000:0806:0600:22:0
-Ketnet
-p:Ziggo,c:050001,c:098800
 4a53:ffff0000:0806:0600:22:0
 SBS6
 p:Ziggo,c:050001,c:098800
 4a50:ffff0000:0806:0600:25:0
 Net5
 p:Ziggo,c:050001,c:090202
+4a51:ffff0000:0806:0600:25:0
+Ketnet
+p:Ziggo,c:050001,c:098800
 0457:ffff0000:000b:0001:1:0
 vtm
 p:Telenet,c:050001
@@ -2167,9 +2284,6 @@ Roerstreek OR6
 p:Ziggo
 4d5b:ffff0000:0bbc:0600:1:0
 Omroep 3ML
-p:Ziggo
-4d5f:ffff0000:0bbc:0600:1:0
-TV Ellef
 p:Ziggo
 4d6e:ffff0000:0bbc:0600:1:0
 TV Limburg
@@ -3104,6 +3218,21 @@ p:Delta
 26bd:ffff0000:0063:10ef:1:0
 Dummy Disco World
 p:Delta
+4cbd:ffff0000:0819:0000:1:0
+426 SID 0x4cbd
+p:,f:40
+4cc3:ffff0000:0819:0000:1:0
+426 SID 0x4cc3
+p:,f:40
+4cc5:ffff0000:0819:0000:1:0
+426 SID 0x4cc5
+p:,f:40
+4cc6:ffff0000:0819:0000:1:0
+426 SID 0x4cc6
+p:,f:40
+4cc7:ffff0000:0819:0000:1:0
+426 SID 0x4cc7
+p:,f:40
 4cc3:ffff0000:0819:0600:1:0
 Ziggo
 p:Ziggo
@@ -3570,7 +3699,7 @@ p:Ziggo
 Net5
 p:Ziggo,c:050001,c:098800
 76e9:ffff0000:0834:0600:25:0
-Ziggo Live Events ESPN
+ESPN
 p:Ziggo,c:050001,c:098800
 4bf1:ffff0000:0834:0600:25:0
 ESPN
@@ -3647,12 +3776,15 @@ p:Ziggo,c:050001
 1faa:ffff0000:0cac:0600:25:0
 Studio040
 p:Ziggo,c:050001
+1fae:ffff0000:0cac:0600:25:0
+Omroep Veldhoven
+p:Ziggo,f:40
 1faf:ffff0000:0cac:0600:25:0
 RTV Horizon TV
 p:Ziggo,c:050001,f:40
 1fb2:ffff0000:0cac:0600:25:0
 WeertFM TV
-p:Ziggo,f:40
+p:Ziggo,c:050001,f:40
 1fb4:ffff0000:0cac:0600:25:0
 Lokale Omroep Nuenen
 p:Ziggo,c:050001,f:40
@@ -4064,9 +4196,6 @@ p:Ziggo,c:050001
 4b49:ffff0000:0812:0600:22:0
 HaberTürk
 p:Ziggo
-4b4a:ffff0000:0812:0600:22:0
-Mezzo
-p:Ziggo,c:050001
 4b4c:ffff0000:0812:0600:22:0
 TRT Turk
 p:Ziggo
@@ -4078,6 +4207,9 @@ OUTtv
 p:Ziggo,c:050001
 4b3d:ffff0000:0812:0600:25:0
 Love Nature
+p:Ziggo,c:050001
+4b4a:ffff0000:0812:0600:25:0
+Mezzo
 p:Ziggo,c:050001
 4b4b:ffff0000:0812:0600:25:0
 OUTtv
@@ -4286,9 +4418,12 @@ p:Ziggo,c:050001,c:098800
 4b1a:ffff0000:080f:0600:25:0
 Canvas
 p:Ziggo,c:050001,c:090202
+4c2e:ffff0000:0837:0600:25:0
+Hier komt Disney Channel
+p:Ziggo,c:050001,f:40
 4c2f:ffff0000:0837:0600:25:0
 Disney Plus
-p:Ziggo
+p:Ziggo,c:050001
 4c31:ffff0000:0837:0600:25:0
 Viaplay
 p:Ziggo,c:050001
@@ -4305,14 +4440,14 @@ p:Ziggo,c:050001
 Ziggo Live Events ESPN
 p:Ziggo,c:050001
 4c36:ffff0000:0837:0600:25:0
-Ziggo Live Events ESPN
+HBOmax
 p:Ziggo,c:050001
 4c30:ffff0000:0837:0600:31:0
 Ziggo Sport
 p:Ziggo,c:050007
 4c3e:ffff0000:0837:0600:31:0
 NPO 1 UHD
-p:Ziggo,c:050001,f:40
+p:Ziggo,c:050001
 4e36:ffff0000:0802:0600:25:0
 BBC One
 p:Ziggo,c:050001,c:098800

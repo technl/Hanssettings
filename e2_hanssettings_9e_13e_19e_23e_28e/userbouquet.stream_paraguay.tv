@@ -13,6 +13,10 @@
 #DESCRIPTION Farra Play
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rds3gen.desdeparaguay.net/gentv/gentv_int_alta/chunklist_w126287707.m3u8:Gen
 #DESCRIPTION Gen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.desdepylabs.com/External/tvaccion/heitv:Hei Now
+#DESCRIPTION Hei Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.desdepylabs.com/External/tvaccion/latele:La Tele
+#DESCRIPTION La Tele
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.admefy.com/live/default/ashamed_crimson_3360d.m3u8:LIM TV
 #DESCRIPTION LIM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/mastvonline:Más TV
@@ -35,6 +39,8 @@
 #DESCRIPTION Telefuturo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//174.138.118.252/live/trece.m3u8:Trece Paraguay
 #DESCRIPTION Trece Paraguay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8:TV Aire
+#DESCRIPTION TV Aire
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rds3.desdeparaguay.net/tvs/tvs/playlist.m3u8:TVS
 #DESCRIPTION TVS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.55.127.106/live/unicanal.m3u8:Unicanal

@@ -1,4 +1,8 @@
 #NAME Stream Honduras (HN)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//multimedia.tmcreativos.com%3a1936/mbcrtzxnxd/mbcrtzxnxd/playlist.m3u8:Activa TV
+#DESCRIPTION Activa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.zcasthn.com.br/azatvhd/azatvhd/playlist.m3u8:AZA TV HD
+#DESCRIPTION AZA TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8:Campus TV
 #DESCRIPTION Campus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvdatta.com%3a3392/live/portaldelsurhnlive.m3u8:Canal Uno de Chuloteca
@@ -7,7 +11,11 @@
 #DESCRIPTION CCI Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//audiotvserver.net%3a1935/livemedia/cholusat/chunklist_w1981374450.m3u8:Cholusat Sur 36
 #DESCRIPTION Cholusat Sur 36
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hds4.worldkast.com%3a1935/ebenezertv2/ebenezertv2_source/live.m3u8:Ebenezer TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.streambrothers.com%3a1936/8054/8054/playlist.m3u8:CHTV
+#DESCRIPTION CHTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediacp.us%3a8081/ctvhn/index.m3u8:CTV Internacional
+#DESCRIPTION CTV Internacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e85d90130e77.streamlock.net/6010/ngrp%3a6010_all/playlist.m3u8:Ebenezer TV
 #DESCRIPTION Ebenezer TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//60417ddeaf0d9.streamlock.net/edntv/videoedntv/chunklist_.m3u8:EDN TV
 #DESCRIPTION EDN TV
@@ -25,15 +33,31 @@
 #DESCRIPTION Q'hubo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lencatelevision.com%3a8080/hls/ltv2.m3u8:Radio Imagen 105.1 FM La Esperanza
 #DESCRIPTION Radio Imagen 105.1 FM La Esperanza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv4.zcast.com.br/roatanhableclaro/roatanhableclaro/playlist.m3u8:RHC TV
+#DESCRIPTION RHC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.grupoabchn.com%3a1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8:Sercano TV
 #DESCRIPTION Sercano TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/STVETELEBASICA:STVE Telebasica
+#DESCRIPTION STVE Telebasica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sulatv1.ddns.net/hls/live/index.m3u8:Sula TV
+#DESCRIPTION Sula TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_.m3u8:TeleProgreso
 #DESCRIPTION TeleProgreso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.grupoabchn.com%3a1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8:TEN TV Canal 10
 #DESCRIPTION TEN TV Canal 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//emisoras.hn%3a8081/tsh/index.m3u8:Thunder Sports
+#DESCRIPTION Thunder Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8:TSI
 #DESCRIPTION TSI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8032/8032/playlist.m3u8:TV Centro HD
+#DESCRIPTION TV Centro HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8004/8004/playlist.m3u8:TV Centro 27.2
+#DESCRIPTION TV Centro 27.2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-utv.unah.edu.hn/web/salida.m3u8:UNAH UTV
 #DESCRIPTION UNAH UTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.amixtv.com%3a8081/unetv/video.m3u8:Une TV
+#DESCRIPTION Une TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8:VTV
 #DESCRIPTION VTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videoserver.ideskhn.com%3a3863/live/waldivisionlive.m3u8:Waldivisión Internacional
+#DESCRIPTION Waldivisión Internacional

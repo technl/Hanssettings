@@ -1,75 +1,79 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:344:0:0:0:0:0:0:0:
+#SERVICE 1:64:33f:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a02g:Rai 1
 #DESCRIPTION Rai 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a047:Rai 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/131/play.m3u8:Rai 2
 #DESCRIPTION Rai 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8:Rai 3
 #DESCRIPTION Rai 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a04n:Rai 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/132/play.m3u8:Rai 3 -2-
+#DESCRIPTION Rai 3 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/130/play.m3u8:Rai 3 -3-
+#DESCRIPTION Rai 3 -3-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139120:Rai 4
 #DESCRIPTION Rai 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a04j:Rai 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139121:Rai 5
 #DESCRIPTION Rai 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a04k:Rai Gulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139302:Rai Gulp
 #DESCRIPTION Rai Gulp
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.69/s/s63/S4/mnf.m3u8:Rai Italia
 #DESCRIPTION Rai Italia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/38715:Rai Italia -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/x6bnqe/s/s63/index2.m3u8:Rai Italia -2-
 #DESCRIPTION Rai Italia -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/x6bnqe/s/s63/index2.m3u8:Rai Italia Asia
 #DESCRIPTION Rai Italia Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a04p:Rai Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139313:Rai Movie
 #DESCRIPTION Rai Movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a04a:Rai News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/133/play.m3u8:Rai News 24
 #DESCRIPTION Rai News 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a0a2:Rai Premium
 #DESCRIPTION Rai Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/1985:Rai Scuola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139306:Rai Scuola
 #DESCRIPTION Rai Scuola
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a09p:Rai Sport+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139257:Rai Sport+
 #DESCRIPTION Rai Sport+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a04b:Rai Storia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139305:Rai Storia
 #DESCRIPTION Rai Storia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a04l:Rai Yoyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139303:Rai Yoyo
 #DESCRIPTION Rai Yoyo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05h:Mediaset Italia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.58.116.16%3a8000/play/a02b:Mediaset Italia 1
 #DESCRIPTION Mediaset Italia 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05p:Mediaset Italia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-tv.uk%3a8080/Mitcko_skype/qtcyt6X2gQS4/9173:Mediaset Italia 2
 #DESCRIPTION Mediaset Italia 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05j:Mediaset Rete 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.58.116.16%3a8000/play/a029:Mediaset Rete 4
 #DESCRIPTION Mediaset Rete 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05i:Mediaset Canale 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.58.116.16%3a8000/play/a02a:Mediaset Canale 5
 #DESCRIPTION Mediaset Canale 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05m:Mediaset La 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139336:Mediaset La 5
 #DESCRIPTION Mediaset La 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a075:Mediaset 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139333:Mediaset 20
 #DESCRIPTION Mediaset 20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a0b6:Mediaset 27
 #DESCRIPTION Mediaset 27
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05e:Mediaset Cine 34
 #DESCRIPTION Mediaset Cine 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05o:Mediaset Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.58.116.16%3a8000/play/a02d:Mediaset Extra
 #DESCRIPTION Mediaset Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a06r:Mediaset Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139340:Mediaset Focus
 #DESCRIPTION Mediaset Focus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05k:Mediaset Iris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139337:Mediaset Iris
 #DESCRIPTION Mediaset Iris
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05n:Mediaset TGCOM24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139326:Mediaset TGCOM24
 #DESCRIPTION Mediaset TGCOM24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05q:Mediaset Top Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139325:Mediaset Top Crime
 #DESCRIPTION Mediaset Top Crime
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8:La 7
 #DESCRIPTION La 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/988:La 7d
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139317:La 7d
 #DESCRIPTION La 7d
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a06c:Nove
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139331:Nove
 #DESCRIPTION Nove
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a069:TV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139324:TV 8
 #DESCRIPTION TV 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/283205:Sky TG 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139329:Sky TG 24
 #DESCRIPTION Sky TG 24
-#SERVICE 1:64:345:0:0:0:0:0:0:0:
+#SERVICE 1:64:340:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
@@ -219,8 +223,8 @@
 #DESCRIPTION Euro Indie Music Chart TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8:Euro TV
 #DESCRIPTION Euro TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8:Euronews Italia
-#DESCRIPTION Euronews Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8:Euronews Italiano
+#DESCRIPTION Euronews Italiano
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cbd3bc28341f.streamlock.net%3a444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8:Fano TV Canale 17
 #DESCRIPTION Fano TV Canale 17
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream7.xdevel.com/video0s975817-411/stream/playlist.m3u8:FM Italia TV
@@ -335,6 +339,8 @@
 #DESCRIPTION One TV E.R.
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.mediastreaming.it/orlertv/livestream/playlist.m3u8:Orler TV 
 #DESCRIPTION Orler TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/chunklist_.m3u8:Paci Contemporary Channel
+#DESCRIPTION Paci Contemporary Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8:Padre Pio TV
 #DESCRIPTION Padre Pio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tsw.streamingwebtv24.it%3a1936/paradisetv/paradisetv/playlist.m3u8:Paradise TV

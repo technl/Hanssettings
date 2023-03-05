@@ -1,5 +1,5 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:1d18:0:0:0:0:0:0:0:
+#SERVICE 1:64:5dd:0:0:0:0:0:0:0:
 #DESCRIPTION ++Rai++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:Rai Radio 1
 #DESCRIPTION Rai Radio 1
@@ -37,7 +37,7 @@
 #DESCRIPTION Rai Radio Tutta Italiana
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiobzlive.rai.it/RAIBZ_Livestream:Rai Südtirol
 #DESCRIPTION Rai Südtirol
-#SERVICE 1:64:1d19:0:0:0:0:0:0:0:
+#SERVICE 1:64:5de:0:0:0:0:0:0:0:
 #DESCRIPTION ++festival San Remo, themazenders++
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um049.mp3:Music Radio Festival Le Canzoni Vincitrici
 #DESCRIPTION Music Radio Festival Le Canzoni Vincitrici
@@ -47,8 +47,10 @@
 #DESCRIPTION United Music Radio Festival 1951-1999
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um112.mp3:United Music Radio Festival 2000-2021
 #DESCRIPTION United Music Radio Festival 2000-2021
-#SERVICE 1:64:1d1a:0:0:0:0:0:0:0:
+#SERVICE 1:64:5df:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
+#SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_522.mp3:105 BSMNT
+#DESCRIPTION 105 BSMNT
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_524.mp3:105 Indie
 #DESCRIPTION 105 Indie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nr7.newradio.it%3a18003/stream:ACI Radio
@@ -95,10 +97,14 @@
 #DESCRIPTION KissKiss Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_history.mp3:KissKiss History Kiss
 #DESCRIPTION KissKiss History Kiss
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_history_lounge.mp3:KissKiss History Lounge
+#DESCRIPTION KissKiss History Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_hits.mp3:KissKiss Hits
 #DESCRIPTION KissKiss Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kisskiss.fluidstream.eu/KKItalia.mp3:Kiss Kiss Italia
 #DESCRIPTION Kiss Kiss Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kk.fluidstream.eu/kk_discoparty.mp3:KissKiss La Notte Vola
+#DESCRIPTION KissKiss La Notte Vola
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kk.fluidstream.eu/kk_hits.mp3:KissKiss Latina
 #DESCRIPTION KissKiss Latina
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kisskiss.fluidstream.eu/KKNapoli.mp3:Kiss Kiss Napoli
@@ -119,6 +125,8 @@
 #DESCRIPTION Latte Miele 
 #SERVICE 4097:0:2:315:0:0:0:0:0:0:http%3a//176.31.117.120%3a8221/:LAZIO STYLE RADIO
 #DESCRIPTION LAZIO STYLE RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream6.xdevel.com/audio3s975809-440/stream/icecast.audio:Lifegate Blues 
+#DESCRIPTION Lifegate Blues 
 #SERVICE 4097:0:2:111:0:0:0:0:0:0:http%3a//94.23.67.20%3a8034/stream:LINEA RADIO SAVONA
 #DESCRIPTION LINEA RADIO SAVONA
 #SERVICE 4097:0:2:181:0:0:0:0:0:0:https%3a//stream.lolliradio.net/lolli_dance.mp3:LOLLI RADIO DANCE
@@ -167,8 +175,10 @@
 #DESCRIPTION Radio 24
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sphera.fluidstream.eu/radio80.mp3:Radio 80
 #DESCRIPTION Radio 80
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNews24-Centro/stream:Radio News 24 Centro
-#DESCRIPTION Radio News 24 Centro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sphera.fluidstream.eu/radio80.mp3:Radio 80
+#DESCRIPTION Radio 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icy.unitedradio.it/um094.mp3:Radio Amici (United Music/105-R101-Subasio)
+#DESCRIPTION Radio Amici (United Music/105-R101-Subasio)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNews24-Nord/stream:Radio News 24 Nord
 #DESCRIPTION Radio News 24 Nord
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ns3159873.ip-51-91-131.eu%3a2000/stream/RadioNewsSud/stream:Radio News 24 Sud
@@ -239,6 +249,8 @@
 #DESCRIPTION Radio capodistria
 #SERVICE 4097:0:2:321:0:0:0:0:0:0:http%3a//37.187.93.104%3a8054/stream:RADIO CARINA
 #DESCRIPTION RADIO CARINA
+#SERVICE 4097:0:2:321:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/rbqepyvhas/rbqepyvhas.stream/playlist.m3u8:Radio Casa Bertallot (Radio Capital)
+#DESCRIPTION Radio Casa Bertallot (Radio Capital)
 #SERVICE 4097:0:2:359:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a8236/;:RADIO CIAO
 #DESCRIPTION RADIO CIAO
 #SERVICE 4097:0:2:323:0:0:0:0:0:0:http%3a//onair11.xdevel.com%3a8198/;stream.nsv:RADIO CICCIORICCIO
@@ -335,6 +347,8 @@
 #DESCRIPTION RADIO LASER MATERA
 #SERVICE 4097:0:2:75:0:0:0:0:0:0:http%3a//onair18.xdevel.com%3a8014/:RADIO LATTEMIELE
 #DESCRIPTION RADIO LATTEMIELE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream:Radio Legends
+#DESCRIPTION Radio Legends
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.xdevel.com/audio0s975360-306/stream/icecast.audio:Radio Libertà
 #DESCRIPTION Radio Libertà
 #SERVICE 4097:0:2:317:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a8254/:RADIO LIFEGATE SOUND
@@ -357,7 +371,7 @@
 #DESCRIPTION RADIO MAMBO
 #SERVICE 4097:0:2:357:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/radiomanila:RADIO MANILA
 #DESCRIPTION RADIO MANILA
-#SERVICE 4097:0:2:341:0:0:0:0:0:0:http%3a//shoutcast.streamingmedia.it%3a7072/;stream.nsv:RADIO MARGHERITA
+#SERVICE 4097:0:2:341:0:0:0:0:0:0:https%3a//stream5.xdevel.com/audio0s975929-659/stream/icecast.audio:RADIO MARGHERITA
 #DESCRIPTION RADIO MARGHERITA
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8016/:Radio Maria Italië
 #DESCRIPTION Radio Maria Italië
@@ -377,6 +391,8 @@
 #DESCRIPTION RADIO MILLE NOTE
 #SERVICE 4097:0:2:355:0:0:0:0:0:0:https%3a//5f204aff97bee.streamlock.net/MillenniumTV/livestream/chunklist.m3u8:Radio Millenium TV
 #DESCRIPTION Radio Millenium TV
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mln.fluidstream.eu/millennium3.mp3:Radio Millenium 80s
+#DESCRIPTION Radio Millenium 80s
 #SERVICE 4097:0:2:369:0:0:0:0:0:0:http%3a//95.110.226.198%3a8000:RADIO NON SOLO SUONI
 #DESCRIPTION RADIO NON SOLO SUONI
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8218/:RADIO NORBA
@@ -549,10 +565,14 @@
 #DESCRIPTION RDS
 #SERVICE 4097:0:2:171:0:0:0:0:0:0:http%3a//dreamsiteradiocp3.com%3a8024/;:RDT STATION
 #DESCRIPTION RDT STATION
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.retetoscanaclassica.it%3a8005/:Rete Toscana Classica
+#DESCRIPTION Rete Toscana Classica
 #SERVICE 4097:0:2:109:0:0:0:0:0:0:http%3a//sr9.inmystream.info%3a8006:RIN RADIO ITALIA NETWORK
 #DESCRIPTION RIN RADIO ITALIA NETWORK
-#SERVICE 4097:0:2:25:0:0:0:0:0:0:http%3a//streamingv2.shoutcast.com/rtl-1025-news:RTL 102.5 News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8 :RTL 102.5 News
 #DESCRIPTION RTL 102.5 News
+#SERVICE 4097:0:2:355:0:0:0:0:0:0:https%3a//streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S26743519/49ksH8apMKou/chunklist_b2816000.m3u8:RTL 102.5 + Plus
+#DESCRIPTION RTL 102.5 + Plus
 #SERVICE 4097:0:2:27:0:0:0:0:0:0:http%3a//shoutcast.rtl.it%3a3020/:RTL Best
 #DESCRIPTION RTL Best
 #SERVICE 4097:0:2:31:0:0:0:0:0:0:http%3a//shoutcast.rtl.it%3a3040/:RTL Groove

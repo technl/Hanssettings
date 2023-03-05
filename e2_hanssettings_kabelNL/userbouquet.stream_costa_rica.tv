@@ -1,10 +1,10 @@
 #NAME Stream Costa Rica (CR)
-#SERVICE 1:64:228:0:0:0:0:0:0:0:
+#SERVICE 1:64:225:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teleunotv.cr%3a1935/TVUNO/TVUNO/playlist.m3u8:Tele 1 TV
 #DESCRIPTION Tele 1 TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.7.192.164%3a8004/play/s46:CDR 2
-#DESCRIPTION CDR 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8:CDR Canal 2
+#DESCRIPTION CDR Canal 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8:TD+2
 #DESCRIPTION TD+2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.7.192.164%3a8002/play/s12:Canal 4 Repretel
@@ -37,11 +37,15 @@
 #DESCRIPTION Anexion TV 36
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.info/canal38/envivo/playlist.m3u8:Canal 38 HD
 #DESCRIPTION Canal 38 HD
-#SERVICE 1:64:229:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/extratv42:Extra TV 42
+#DESCRIPTION Extra TV 42
+#SERVICE 1:64:226:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:Colosal TV HD
 #DESCRIPTION Colosal TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.livestream.com/60fd3829_a5d997b6ddff9adb9848157f58b078baffdf2d03/events/000000000023030a/ada22c4b-e944-4de1-8cc3-a7dec8b01177_446.m3u8:Enlace Juvenil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//11554-1.b.cdn13.com/EnlaceTV/smil%3aenlace-hd.smil/playlist.m3u8:Enlace
+#DESCRIPTION Enlace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//11554-1.b.cdn13.com/EJTV/smil%3aejtv-hd.smil/playlist.m3u8:Enlace Juvenil
 #DESCRIPTION Enlace Juvenil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:Extrema TV
 #DESCRIPTION Extrema TV
@@ -57,8 +61,12 @@
 #DESCRIPTION Luz Naciente TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8248/index.m3u8:MZ Sports
 #DESCRIPTION MZ Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8:Nicoya TV
+#DESCRIPTION Nicoya TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/chunklist_w1223558379.m3u8:Radio 88 Stereo
 #DESCRIPTION Radio 88 Stereo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a19360/8212/8212.m3u8:RT TV
+#DESCRIPTION RT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.sradiotv.com%3a1936/8064/8064/playlist.m3u8:San Rafael en Linea
 #DESCRIPTION San Rafael en Linea
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lstv.duckdns.org%3a449/hls/stv.m3u8:Sarapiqui TV

@@ -1,26 +1,40 @@
 #NAME Stream Slovenië (SI)
-#SERVICE 1:64:3ec:0:0:0:0:0:0:0:
-#DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/5567:TV Slovenija 1
-#DESCRIPTION TV Slovenija 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/5568:TV Slovenija 2
-#DESCRIPTION TV Slovenija 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/5569:TV Slovenija 3
-#DESCRIPTION TV Slovenija 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//26-rtvslo-tv-kp-slo.cdn.eurovisioncdn.net/chunklist.m3u8:RTV SLO - TV Koper
-#DESCRIPTION RTV SLO - TV Koper
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8?DVR:RTV SLO - TV Maribor
-#DESCRIPTION RTV SLO - TV Maribor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/RTVSLON/live:TV Slon Extra
-#DESCRIPTION TV Slon Extra
 #SERVICE 1:64:3ed:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5567:TV Slovenija 1
+#DESCRIPTION TV Slovenija 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vodstr.rtvslo.si/ava_archive05/_definst_/preroll/intermission.mp4/chunklist_w2117822941.m3u8:RTV SLO - MMC TV (deels geoblocking)
+#DESCRIPTION RTV SLO - MMC TV (deels geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-live.rtvslo.si/hls/live/2035343/tvkp_slo/tvkp_slo_720p/hdntl=exp=1673054447~acl=%252f*~data=hdntl~hmac=8b808fa72bb151c99e30bf9e2e9bd9ca60de2fb7ac551d5c0dbda10cab0436bf/chunklist.m3u8:RTV SLO - TV Koper
+#DESCRIPTION RTV SLO - TV Koper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vodstr.rtvslo.si/ava_archive05/_definst_/preroll/intermission.mp4/chunklist_w1410424387.m3u8:RTV SLO - TV Maribor (deels geoblocking)
+#DESCRIPTION RTV SLO - TV Maribor (deels geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5633:Nova 24 TV
+#DESCRIPTION Nova 24 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5570:Pop TV
+#DESCRIPTION Pop TV
+#SERVICE 1:64:3ee:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdne.folxplay.tv/folx-trz/streams/ch-1/1080-P2JJPUURUQ.m3u8:Adria Music TV
+#DESCRIPTION Adria Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/84772:Brio
+#DESCRIPTION Brio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//584943999.r.worldssl.net/584943999/_definst_/vzivo/chunklist_w1994149598.m3u8:Exodus TV
 #DESCRIPTION Exodus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdne.folxplay.tv/folx-trz/streams/ch-5/1080-DALFCIM8LU.m3u8:Folx TV Slovenija
+#DESCRIPTION Folx TV Slovenija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5631:Gold TV
+#DESCRIPTION Gold TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/169998:Golica TV
+#DESCRIPTION Golica TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.220.221.60/gtv_hls/gtv_03.m3u8:GTV
 #DESCRIPTION GTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/chunklist_b2328000.m3u8:MMC TV
-#DESCRIPTION MMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdne.folxplay.tv/folx-trz/streams/ch-6/1080-4A0K35PMXN.m3u8:One 1 Adria
+#DESCRIPTION One 1 Adria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/166641:TV Koper Capodistria
+#DESCRIPTION TV Koper Capodistria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5636:TV Maribor
+#DESCRIPTION TV Maribor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.veseljak.tv/hls/stream.m3u8:TV Veseljak
 #DESCRIPTION TV Veseljak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8:TVDX

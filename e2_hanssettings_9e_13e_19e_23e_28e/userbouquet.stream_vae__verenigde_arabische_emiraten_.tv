@@ -7,18 +7,20 @@
 #DESCRIPTION Al Dafrah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8:Al Hadath TV
 #DESCRIPTION Al Hadath TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8:Al Qamar TV (360p)
-#DESCRIPTION Al Qamar TV (360p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8:Al Sharqiya Min Kabla (1080p)
-#DESCRIPTION Al Sharqiya Min Kabla (1080p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8:Al Wousta TV (1080p)
-#DESCRIPTION Al Wousta TV (1080p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8:Al Yaum TV (720p)
-#DESCRIPTION Al Yaum TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8:Al Qamar TV
+#DESCRIPTION Al Qamar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8:Al Sharqiya Min Kabla
+#DESCRIPTION Al Sharqiya Min Kabla
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8:Al Wousta TV
+#DESCRIPTION Al Wousta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8:Al Yaum TV
+#DESCRIPTION Al Yaum TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7207:Alerth
 #DESCRIPTION Alerth
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.najah.edu%3a8443/hls/AlNajah.m3u8:An-Najah
 #DESCRIPTION An-Najah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8:Asharq
+#DESCRIPTION Asharq
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//citrusdemo.live.tactint.com/citrus/6befa38a9c2d2b9e1889a03cca7ac836.sdp/citrus/uae1/playlist.m3u8:Citruss TV
 #DESCRIPTION Citruss TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8:Hawas TV
@@ -79,7 +81,7 @@
 #DESCRIPTION Zee Aflam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8:Zee Alwan
 #DESCRIPTION Zee Alwan
-#SERVICE 1:64:405:0:0:0:0:0:0:0:
+#SERVICE 1:64:409:0:0:0:0:0:0:0:
 #DESCRIPTION ++Abu Dhabi = hoofdstad VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/adtv/smil%3aadtv.stream.smil/playlist.m3u8:Abu Dhabi Aloula
 #DESCRIPTION Abu Dhabi Aloula
@@ -101,12 +103,14 @@
 #DESCRIPTION Majid TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/playlist.m3u8:National Geographic Abu Dhabi
 #DESCRIPTION National Geographic Abu Dhabi
-#SERVICE 1:64:406:0:0:0:0:0:0:0:
+#SERVICE 1:64:40a:0:0:0:0:0:0:0:
 #DESCRIPTION ++Dubai, stad in VAE++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/video/x8924av:3eesh Al Aan TV
 #DESCRIPTION 3eesh Al Aan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//dai.ly/x74wje5:Al Aan TV
 #DESCRIPTION Al Aan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.youtb.workers.dev/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8:CNBC Arabia
+#DESCRIPTION CNBC Arabia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/playlist.m3u8:Dubai One
 #DESCRIPTION Dubai One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/playlist.m3u8:Dubai Racing 1

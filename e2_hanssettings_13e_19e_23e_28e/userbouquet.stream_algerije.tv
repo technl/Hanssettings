@@ -1,5 +1,5 @@
 #NAME Stream Algerije (DZ)
-#SERVICE 1:64:353:0:0:0:0:0:0:0:
+#SERVICE 1:64:34d:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8:Algerie TV1 - El Djazair N1
 #DESCRIPTION Algerie TV1 - El Djazair N1
@@ -17,10 +17,12 @@
 #DESCRIPTION Algerie TV7 -  Elmaarifa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8:Algerie TV8 -  Edhakira
 #DESCRIPTION Algerie TV8 -  Edhakira
-#SERVICE 1:64:354:0:0:0:0:0:0:0:
+#SERVICE 1:64:34e:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8:Al Anis TV
 #DESCRIPTION Al Anis TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8:Almagharibia TV
+#DESCRIPTION Almagharibia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8:Bahia TV
 #DESCRIPTION Bahia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8:Echorouk News

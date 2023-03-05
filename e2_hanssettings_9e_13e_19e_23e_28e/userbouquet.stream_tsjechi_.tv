@@ -1,38 +1,50 @@
 #NAME Stream Tsjechië (CZ)
-#SERVICE 1:64:3f2:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f6:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-5100-tv-pc.m3u8:CT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/121563:CT 1
 #DESCRIPTION CT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/ct1:CT 1 -2-
-#DESCRIPTION CT 1 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/CT2HD:CT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/170008:CT 2
 #DESCRIPTION CT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/CT_3_HD:CT 3
-#DESCRIPTION CT 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/CT24:CT 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/174685:CT Sport
+#DESCRIPTION CT Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/23320:CT 24
 #DESCRIPTION CT 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0:CNN Prima News
+#DESCRIPTION CNN Prima News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-insysgo.cf.insyscd.net/echo24.smil/manifest.m3u8:Echo 24
+#DESCRIPTION Echo 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/joj-720.m3u8:JOJ
 #DESCRIPTION JOJ
-#SERVICE 4097:0:1:377:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/TV_JOJ:JOJ -2-
-#DESCRIPTION JOJ -2-
 #SERVICE 4097:0:1:379:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/hls/jojplus-540.m3u8:JOJ+
 #DESCRIPTION JOJ+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/142206:JOJ Cinema HD
+#DESCRIPTION JOJ Cinema HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/family-540.m3u8:JOJ Family
 #DESCRIPTION JOJ Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/142204:JOJ Ko HD
+#DESCRIPTION JOJ Ko HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/wau-540.m3u8:JOJ Wau
 #DESCRIPTION JOJ Wau
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-5106-tv-pc/hls/4001v102.m3u8:Markiza
-#DESCRIPTION Markiza
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/NovaHD:Nova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/1997:Markiza HD
+#DESCRIPTION Markiza HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/23335:Nova
 #DESCRIPTION Nova
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Nova2:Nova 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/285317:Nova 2
 #DESCRIPTION Nova 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/NovaCinema:Nova Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/18409:Nova Action
+#DESCRIPTION Nova Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/21104:Nova Cinema
 #DESCRIPTION Nova Cinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Nova_Gold:Nova Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/23331:Nova Fun
+#DESCRIPTION Nova Fun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/21103:Nova Gold
 #DESCRIPTION Nova Gold
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/NovaSport2:Nova Sport 2
-#DESCRIPTION Nova Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/83400:Nova International
+#DESCRIPTION Nova International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/3325:Nova Sport 1 HD
+#DESCRIPTION Nova Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/3324:Nova Sport 2 HD
+#DESCRIPTION Nova Sport 2 HD
 #SERVICE 4097:0:1:1451:c98:3:eb0000:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8:Ocko TV
 #DESCRIPTION Ocko TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8:Ocko TV -2-
@@ -43,109 +55,85 @@
 #DESCRIPTION Ocko Gold
 #SERVICE 4097:0:1:1335:ca2:3:eb0000:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8:Ocko Star
 #DESCRIPTION Ocko Star
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Prima:Prima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/21100:Prima
 #DESCRIPTION Prima
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Prima Comedy Central:Prima Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/83395:Prima Comedy Central
 #DESCRIPTION Prima Comedy Central
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Prima_KRIMI:Prima Krimi
-#DESCRIPTION Prima Krimi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/prima_max:Prima Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/21101:Prima Cool
+#DESCRIPTION Prima Cool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/23339:Prima Love
+#DESCRIPTION Prima Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/21102:Prima Max
 #DESCRIPTION Prima Max
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/prima_plus:Prima Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/146952:Prima Plus
 #DESCRIPTION Prima Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/primazoom:Prima Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/83397:Prima Zoom
 #DESCRIPTION Prima Zoom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/TA3:TA 3
-#DESCRIPTION TA 3
-#SERVICE 1:64:3f3:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8:ÚTV
+#DESCRIPTION ÚTV
+#SERVICE 1:64:3f7:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/a02z:Beat
-#DESCRIPTION Beat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/CartoonNetwork:Cartoon Network CZ
-#DESCRIPTION Cartoon Network CZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/CNNPrimaNews:CNN Prima News HD
-#DESCRIPTION CNN Prima News HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/a030:Country JM
-#DESCRIPTION Country JM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/CS Film:CS Film
-#DESCRIPTION CS Film
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/a04v:CS Mystery
-#DESCRIPTION CS Mystery
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/dajto:Dajto
-#DESCRIPTION Dajto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/a02v:Devin
-#DESCRIPTION Devin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/DisneyChannel:Disney CZ
-#DESCRIPTION Disney CZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/doma:Doma
-#DESCRIPTION Doma
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Dvojka:Dvojka HD
-#DESCRIPTION Dvojka HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-insysgo.cf.insyscd.net/echo24.smil/manifest.m3u8:Echo 24
-#DESCRIPTION Echo 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8:Elektrika TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/142208:CS Film / CS Horor HD
+#DESCRIPTION CS Film / CS Horor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/142210:CS History HD
+#DESCRIPTION CS History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/142212:CS Mystery HD
+#DESCRIPTION CS Mystery HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/19910:Dajto HD
+#DESCRIPTION Dajto HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/1999:Doma HD
+#DESCRIPTION Doma HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/21117:E!
+#DESCRIPTION E!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.elektrika.cz/live/myStream.sdp/HasBahCa.m3u8:Elektrika TV
 #DESCRIPTION Elektrika TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Epic Drama:Epic Drama HD
-#DESCRIPTION Epic Drama HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/83386:Epic Drama
+#DESCRIPTION Epic Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/playlist.m3u8:Fashion TV Czech & Slovak
 #DESCRIPTION Fashion TV Czech & Slovak
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-6110-tv-pc/hls/4005v105.m3u8:Filmbox
-#DESCRIPTION Filmbox
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Jednotka:Jednotka TV
-#DESCRIPTION Jednotka TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/a02w:Jemne V
-#DESCRIPTION Jemne V
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Nickelodeon:Nickelodeon
-#DESCRIPTION Nickelodeon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/NickJr:Nick Jr Czech
-#DESCRIPTION Nick Jr Czech
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Paramount_Network:Paramount Network
-#DESCRIPTION Paramount Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/83394:Kino Barrandov
+#DESCRIPTION Kino Barrandov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/287729:Krimi Barrandov
+#DESCRIPTION Krimi Barrandov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/5237:Mňam HD
+#DESCRIPTION Mňam HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.polar.cz/polar/polarlive-1/playlist.m3u8:Polar TV HD
 #DESCRIPTION Polar TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.polar.cz%3a1935/polar2/polarlive2-1/playlist.m3u8:Polar 2 TV
+#DESCRIPTION Polar 2 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.polar.cz%3a1935/prahatv/prahatvlive-1/playlist.m3u8:Praha TV HD
 #DESCRIPTION Praha TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8:Praha TV HD -2-
 #DESCRIPTION Praha TV HD -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/a02x:Radio Lumen
-#DESCRIPTION Radio Lumen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/reduta:Reduta
 #DESCRIPTION Reduta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/a02u:ReginaKE
-#DESCRIPTION ReginaKE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:Retro Music Television
-#DESCRIPTION Retro Music Television
-#SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/rtvssport:RTVS Sport HD
-#DESCRIPTION RTVS Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/83382:Relax
+#DESCRIPTION Relax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/18414:Retro Music TV
+#DESCRIPTION Retro Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/retroplustv/_definst_/retroplustv/HasBahCa.m3u8:Retro Plus HD
+#DESCRIPTION Retro Plus HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.huntertv.cz/live/1-playlist.m3u8:RTM+ Liberecko
 #DESCRIPTION RTM+ Liberecko
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/SENZI:Senzi
-#DESCRIPTION Senzi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-6.mazana.tv/slagr.m3u:Šlágr 1 Original
 #DESCRIPTION Šlágr 1 Original
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-33.mazana.tv/slagr2.m3u:Šlágr 2 Muzika
 #DESCRIPTION Šlágr 2 Muzika
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arenasportslovakia.ddns.net/hls/slager.m3u8:Šlágr Premium
-#DESCRIPTION Šlágr Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/a02t:Slovensko
-#DESCRIPTION Slovensko
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Sport1:Sport 1
-#DESCRIPTION Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/Trojka:Trojka HD
-#DESCRIPTION Trojka HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-15.mazana.tv/slagrpremium.m3u:Slagr Premium
+#DESCRIPTION Slagr Premium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tvlux.sk%3a1935/lux/lux.stream_360p/playlist.m3u8:TV Lux
 #DESCRIPTION TV Lux
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media1.tvnatura.cz/live_out/2/live.m3u8:TV Natura
 #DESCRIPTION TV Natura
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/NOE:TV Noe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8:TV Noe
 #DESCRIPTION TV Noe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/TVPaprika:TV Paprika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8:TV Noe+
+#DESCRIPTION TV Noe+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/46721:TV Paprika
 #DESCRIPTION TV Paprika
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/tvruzinov/stream/playlist.m3u8:TV Ruzinov
 #DESCRIPTION TV Ruzinov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/WAR:TV War
-#DESCRIPTION TV War
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.133.130%3a8000/play/a031:VLNA VS
-#DESCRIPTION VLNA VS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.polar.cz/vctv/vctvlive-1/playlist.m3u8:Východočeská TV
 #DESCRIPTION Východočeská TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.237.170.202%3a11000/play/142200:Wau HD
+#DESCRIPTION Wau HD

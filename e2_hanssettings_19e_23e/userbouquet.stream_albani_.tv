@@ -1,5 +1,5 @@
 #NAME Stream Albanië (AL)
-#SERVICE 1:64:2c1:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b8:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/4123:RTSH 1
 #DESCRIPTION RTSH 1
@@ -39,7 +39,7 @@
 #DESCRIPTION RTSH Shqip -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/F18528/9c644af0/2568:RTSH Sport
 #DESCRIPTION RTSH Sport
-#SERVICE 1:64:2c2:0:0:0:0:0:0:0:
+#SERVICE 1:64:2b9:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2.abcnews.al/live/abcnews/chunks.m3u8:ABC News Albania
 #DESCRIPTION ABC News Albania
@@ -53,13 +53,15 @@
 #DESCRIPTION ALPO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.99.146.236/0.m3u8:ATD USA
 #DESCRIPTION ATD USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mfe01.tring.al/delta/106/out/u/1118_3.m3u8:Bubble TV
+#DESCRIPTION Bubble TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//protokolldns.xyz/dritaweb007/index.m3u8:Drita TV
 #DESCRIPTION Drita TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge01eu.ekranet.com/elroditv_240p/index.m3u8:Elrodi TV
 #DESCRIPTION Elrodi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.131%3a1935/live/euroAl/chunklist.m3u8:EUROAL
 #DESCRIPTION EUROAL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live:Euronews Albania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.youtb.workers.dev/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8:Euronews Albania
 #DESCRIPTION Euronews Albania
 #SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//93.157.62.180/Fox/mpegts:Fox Albania
 #DESCRIPTION Fox Albania
@@ -95,10 +97,16 @@
 #DESCRIPTION TopEstrada TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//199.127.60.117%3a8081/live/tring3plus/playlist.m3u8:Tring 3 Plus
 #DESCRIPTION Tring 3 Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mfe01.tring.al/delta/106/out/u/1114_3.m3u8:Tring Classic
+#DESCRIPTION Tring Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mfe01.tring.al/delta/106/out/u/1117_3.m3u8:Tring Collection
+#DESCRIPTION Tring Collection
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.107.132.105/out/u/573_1.m3u8:Tring Comedy
 #DESCRIPTION Tring Comedy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.107.132.105/out/u/673_3.m3u8:Tring Family
 #DESCRIPTION Tring Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mfe01.tring.al/delta/106/out/u/1115_3.m3u8:Tring Fantasy
+#DESCRIPTION Tring Fantasy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.107.132.106/out/u/419_1.m3u8:Tring Info
 #DESCRIPTION Tring Info
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.107.132.105/out/u/609_3.m3u8:Tring International
@@ -115,5 +123,7 @@
 #DESCRIPTION TV7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.az-mediaserver.com%3a1935/7064/7064/playlist.m3u8:TV7 -2-
 #DESCRIPTION TV7 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge01eu.ekranet.com/zjarrtv/index.m3u8:Zjarr TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mfe01.tring.al/delta/105/out/u/618_13.m3u8:Vizion Plus
+#DESCRIPTION Vizion Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mfe01.tring.al/delta/106/out/u/284_1.m3u8:Zjarr TV
 #DESCRIPTION Zjarr TV

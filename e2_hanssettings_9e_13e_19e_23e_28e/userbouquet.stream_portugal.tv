@@ -21,8 +21,10 @@
 #DESCRIPTION RTP Madeira
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1425:RTP Memória
 #DESCRIPTION RTP Memória
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8:SIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8:SIC
 #DESCRIPTION SIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8:SIC -2-
+#DESCRIPTION SIC -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/5910:SIC Caras
 #DESCRIPTION SIC Caras
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/4021:SIC K
@@ -43,26 +45,14 @@
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0ge:11
 #DESCRIPTION 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0ha:24 Kitchen
-#DESCRIPTION 24 Kitchen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0ho:A Bola TV
 #DESCRIPTION A Bola TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8:ADB TV
 #DESCRIPTION ADB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a002:Alma Lusa HD
 #DESCRIPTION Alma Lusa HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0jf:AMC HD
-#DESCRIPTION AMC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0io:ARTV
 #DESCRIPTION ARTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0go:AXN HD
-#DESCRIPTION AXN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h6:AXN Movies
-#DESCRIPTION AXN Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h5:AXN White
-#DESCRIPTION AXN White
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0iz:BBC Entertainment
-#DESCRIPTION BBC Entertainment
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gv:Biggs
 #DESCRIPTION Biggs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h4:Blaze
@@ -79,8 +69,6 @@
 #DESCRIPTION Canal Q
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0js:Canção Nova
 #DESCRIPTION Canção Nova
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h3:Cartoon Network
-#DESCRIPTION Cartoon Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.70%3a8000/play/a0k9:Casa e Cozinha
 #DESCRIPTION Casa e Cozinha
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0je:Cinemundo HD
@@ -91,28 +79,10 @@
 #DESCRIPTION CMTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiAzOjI4OjMxIEFNJmhhc2hfdmFsdWU9WnJRdHpqMWs2Zy9Ya1VZQ05kc2k5dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgzMGJjMzdkLTFkOGYtNDBiOC04ZTA5LWY2NzJkZTA0MGNjMA==/:CNN
 #DESCRIPTION CNN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0j3:Crime+Investigation
-#DESCRIPTION Crime+Investigation
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0hg:Discovery Channel
-#DESCRIPTION Discovery Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gu:Disney Channel
-#DESCRIPTION Disney Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0iv:Disney Júnior
-#DESCRIPTION Disney Júnior
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8001/play/a03h:E HD
-#DESCRIPTION E HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2575:Euronews Portugal
+#DESCRIPTION Euronews Portugal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gh:Eurosport 1 HD
 #DESCRIPTION Eurosport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gm:FOX HD
-#DESCRIPTION FOX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8001/play/a032:FOX Comedy HD
-#DESCRIPTION FOX Comedy HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h2:FOX Crime
-#DESCRIPTION FOX Crime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h1:FOX Life
-#DESCRIPTION FOX Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h0:FOX Movies HD
-#DESCRIPTION FOX Movies HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0hr:FTV
 #DESCRIPTION FTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8001/play/a02p:Fuel TV HD
@@ -125,8 +95,6 @@
 #DESCRIPTION Globo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0he:História
 #DESCRIPTION História
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0jg:Hollywood HD
-#DESCRIPTION Hollywood HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w2.manasat.com/kcine/smil%3akcine.smil/playlist.m3u8:Kuriakos Cine
 #DESCRIPTION Kuriakos Cine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w2.manasat.com/kkids/smil%3akkids.smil/playlist.m3u8:Kuriakos Kids
@@ -147,12 +115,6 @@
 #DESCRIPTION MCM Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0ih:MCM Top
 #DESCRIPTION MCM Top
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h7:MTV Portugal
-#DESCRIPTION MTV Portugal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0hb:National Geographic
-#DESCRIPTION National Geographic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8001/play/a03g:Nat Geo Wild HD
-#DESCRIPTION Nat Geo Wild HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0hd:Odisseia
 #DESCRIPTION Odisseia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8:ON TV
@@ -171,14 +133,6 @@
 #DESCRIPTION Rede Minas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8001/play/a03v:RT Doc
 #DESCRIPTION RT Doc
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0j1:Sport TV +
-#DESCRIPTION Sport TV +
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8001/play/a03y:Sport TV Mais HD
-#DESCRIPTION Sport TV Mais HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0gg:Sporting TV HD
-#DESCRIPTION Sporting TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.44.48.82%3a8002/play/a07s:SyFy HD
-#DESCRIPTION SyFy HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0h8:TLC
 #DESCRIPTION TLC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.72%3a8000/play/a0jo:TPA

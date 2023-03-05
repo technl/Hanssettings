@@ -1,5 +1,5 @@
 #NAME Stream Zwitserland (CH)
-#SERVICE 1:64:7a9:0:0:0:0:0:0:0:
+#SERVICE 1:64:7b7:0:0:0:0:0:0:0:
 #DESCRIPTION ++publiek Duitstalig++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lsaplus.swisstxt.ch/audio/drs1_96.stream/chunklist_DVR.m3u8:SFR 1 (Zwitserland)
 #DESCRIPTION SFR 1 (Zwitserland)
@@ -13,11 +13,11 @@
 #DESCRIPTION SFR Musikwelle (Zwitserland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lsaplus.swisstxt.ch/audio/drsvirus_96.stream/chunklist_DVR.m3u8 :SFR Virus (Zwitserland)
 #DESCRIPTION SFR Virus (Zwitserland)
-#SERVICE 1:64:7aa:0:0:0:0:0:0:0:
+#SERVICE 1:64:7b8:0:0:0:0:0:0:0:
 #DESCRIPTION ++publiek RTR Duitstalig++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lsaplus.swisstxt.ch/audio/rr_96.stream/chunklist_DVR.m3u8:RTR (Zwitserland)
 #DESCRIPTION RTR (Zwitserland)
-#SERVICE 1:64:7ab:0:0:0:0:0:0:0:
+#SERVICE 1:64:7b9:0:0:0:0:0:0:0:
 #DESCRIPTION ++publiek Franstalig++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/rsc_fr/mp3_128:Radio Swiss Classic FR (klassiek - Zwitserland)
 #DESCRIPTION Radio Swiss Classic FR (klassiek - Zwitserland)
@@ -29,7 +29,7 @@
 #DESCRIPTION RTS Couleur 3 (Zwitserland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lsaplus.swisstxt.ch/audio/option-musique_96.stream/playlist.m3u8:RTS Option Musique (Zwitserland)
 #DESCRIPTION RTS Option Musique (Zwitserland)
-#SERVICE 1:64:7ac:0:0:0:0:0:0:0:
+#SERVICE 1:64:7ba:0:0:0:0:0:0:0:
 #DESCRIPTION ++publiek Italiaanstalig++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lsaplus.swisstxt.ch/audio/reteuno_96.stream/chunklist_DVR.m3u8:RSI Rete Uno (Zwitserland)
 #DESCRIPTION RSI Rete Uno (Zwitserland)
@@ -37,7 +37,7 @@
 #DESCRIPTION RSI Rete Due (Zwitserland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lsaplus.swisstxt.ch/audio/retetre_96.stream/chunklist_DVR.m3u8:RSI Rete Tre (Zwitserland)
 #DESCRIPTION RSI Rete Tre (Zwitserland)
-#SERVICE 1:64:7ad:0:0:0:0:0:0:0:
+#SERVICE 1:64:7bb:0:0:0:0:0:0:0:
 #DESCRIPTION ++publiek algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/rsc_de/mp3_128:SFR Swiss Classic (Zwitserland)
 #DESCRIPTION SFR Swiss Classic (Zwitserland)
@@ -45,7 +45,7 @@
 #DESCRIPTION SFR Swiss Jazz (Zwitserland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/rsp/mp3_128:SFR Swiss Pop (Zwitserland)
 #DESCRIPTION SFR Swiss Pop (Zwitserland)
-#SERVICE 1:64:7ae:0:0:0:0:0:0:0:
+#SERVICE 1:64:7bc:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice03.fluidstream.net/onedancech.mp3:1ne Dance
 #DESCRIPTION 1ne Dance
@@ -55,6 +55,10 @@
 #DESCRIPTION 1.FM - Otto's Classical Music (klassiek - Zwitserland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//strm112.1.fm/opera_mobile_mp3:1.FM - Otto's Opera House (klassiek - Zwitserland)
 #DESCRIPTION 1.FM - Otto's Opera House (klassiek - Zwitserland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/s7a78bf9d2/listen:Aktiv Radio
+#DESCRIPTION Aktiv Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-57.zeno.fm/1kmwfseauwzuv:Albradio
+#DESCRIPTION Albradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//av03.upstream-media.ch/canal3allemand-192.mp3:Canal3 (Zwitserland)
 #DESCRIPTION Canal3 (Zwitserland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.smartradio.ch%3a8510/stream:COTN Creatures of the Night Radio Lounge & Relax  
@@ -145,6 +149,8 @@
 #DESCRIPTION Radio Argovia - Visual Radio (Zwitserland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocite.ice.infomaniak.ch/radiochablais-high.mp3:Radio Chablais
 #DESCRIPTION Radio Chablais
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//chmedia.streamabc.net/79-rbern1-mp3-192-6868042:Radio Bern 1
+#DESCRIPTION Radio Bern 1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocite.ice.infomaniak.ch/radiochablais-high.aac:Radio Chablais AAC+
 #DESCRIPTION Radio Chablais AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocite.ice.infomaniak.ch/radiocite128.mp3:Radio Cité Geneve
@@ -171,6 +177,8 @@
 #DESCRIPTION Radio Fribourg AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocite.ice.infomaniak.ch/stream128k.mp3:Radio Kaiseregg
 #DESCRIPTION Radio Kaiseregg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioluzernpop.ice.infomaniak.ch/radioluzernpop-192.mp3:Radio Luzern Pop
+#DESCRIPTION Radio Luzern Pop
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8106/:Radio Maria Zwitserland
 #DESCRIPTION Radio Maria Zwitserland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dreamsiteradiocp4.com/proxy/rmrsuisse2:Radio Maria Suisse Romande

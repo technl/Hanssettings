@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:1c68:0:0:0:0:0:0:0:
+#SERVICE 1:64:52b:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -53,7 +53,7 @@
 #DESCRIPTION VRT Studio Brussel UNTZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs-high.mp3:VRT Studio Brussel Vuurland
 #DESCRIPTION VRT Studio Brussel Vuurland
-#SERVICE 1:64:1c69:0:0:0:0:0:0:0:
+#SERVICE 1:64:52c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -89,7 +89,7 @@
 #DESCRIPTION City-Music (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8092/country:Countryradio Musicbox4friends 
 #DESCRIPTION Countryradio Musicbox4friends 
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.crooze.eu/proxy/crooze/MP3:CROOZE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.shoutcast.com/crooze-mp3:CROOZE
 #DESCRIPTION CROOZE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.crooze.fm%3a8006/;stream128:Crooze FM Radio - chillout (België)
 #DESCRIPTION Crooze FM Radio - chillout (België)
@@ -169,21 +169,19 @@
 #DESCRIPTION Instrumentals Forever (Vlaanderen)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//184.75.223.178%3a8151/stream:Instrumentals Forever (Vlaanderen) - alternatief
 #DESCRIPTION Instrumentals Forever (Vlaanderen) - alternatief
-#SERVICE 4097:0:2:1b74:c88:3:eb0000:0:0:0:http%3a//icecast-qmusic.cdp.triple-it.nl%3a80/JOEfm_be_live_128.mp3:Joe
+#SERVICE 4097:0:2:1b74:c88:3:eb0000:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe.mp3:Joe
 #DESCRIPTION Joe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/JOE_LAGE_LANDEN.mp3:Joe 10 Om Te Zien
 #DESCRIPTION Joe 10 Om Te Zien
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast-qmusic.cdp.triple-it.nl/JOEfm_be_70s_128.mp3:Joe 60's & 70's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_60s_70s.mp3:Joe 60's & 70's
 #DESCRIPTION Joe 60's & 70's
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JOE_80S.mp3:Joe 80's & 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3:Joe 80's & 90s
 #DESCRIPTION Joe 80's & 90s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dpgmedia.streamtheuniverse.com/joe-christmas.mp3:Joe Christmas
-#DESCRIPTION Joe Christmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JOE_EASY.mp3:Joe Easy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_easy.mp3:Joe Easy
 #DESCRIPTION Joe Easy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JOE_LAGE_LANDEN.mp3:Joe Lage Landen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3:Joe Lage Landen
 #DESCRIPTION Joe Lage Landen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/JOE_TOP2000.mp3:Joe Top 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.mp3:Joe Top 2000
 #DESCRIPTION Joe Top 2000
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jouwradio.live-streams.nl/:Jouwradio (België)
 #DESCRIPTION Jouwradio (België)
@@ -407,7 +405,7 @@
 #DESCRIPTION ZZOldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK
 #DESCRIPTION ZZROCK
-#SERVICE 1:64:1c6a:0:0:0:0:0:0:0:
+#SERVICE 1:64:52d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Bruxelles et Wallonie++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -423,6 +421,8 @@
 #DESCRIPTION Bel RTL 90
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belbelbelrtl.ice.infomaniak.ch/belbelbelrtl-192.mp3:Bel RTL 300
 #DESCRIPTION Bel RTL 300
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//belrtlclassicrock.ice.infomaniak.ch/belrtlclassicrock-192.mp3:Bel RTL Classic Rock 
+#DESCRIPTION Bel RTL Classic Rock 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtlcomedie.ice.infomaniak.ch/belrtlcomedie-192.mp3:Bel RTL Comédie
 #DESCRIPTION Bel RTL Comédie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//franco-belrtl.ice.infomaniak.ch/franco-belrtl-192.mp3:Bel RTL Franco
@@ -599,16 +599,16 @@
 #DESCRIPTION Radio Contact - 2000
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3:Radio Contact - FeelGood
 #DESCRIPTION Radio Contact - FeelGood
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactmix.ice.infomaniak.ch/contactmix-192.mp3:Radio Contact - Afro-Latin 
+#DESCRIPTION Radio Contact - Afro-Latin 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactgold.ice.infomaniak.ch/contactgold-192.mp3:Radio Contact - Gold 80s/90s
 #DESCRIPTION Radio Contact - Gold 80s/90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactkids.ice.infomaniak.ch/contactkids-192.mp3:Radio Contact - Kids
 #DESCRIPTION Radio Contact - Kids
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactlounge.ice.infomaniak.ch/contactlounge-192.mp3:Radio Contact - Lounge
-#DESCRIPTION Radio Contact - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactlounge.ice.infomaniak.ch/contactlounge-192.mp3:Radio Contact - La Playlist de Tonton 
+#DESCRIPTION Radio Contact - La Playlist de Tonton 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactlove.ice.infomaniak.ch/contactlove-192.mp3:Radio Contact - Love
 #DESCRIPTION Radio Contact - Love
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactmix.ice.infomaniak.ch/contactmix-192.mp3:Radio Contact - Mix
-#DESCRIPTION Radio Contact - Mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/contactrnb:Radio Contact - RnB
 #DESCRIPTION Radio Contact - RnB
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contacturban.ice.infomaniak.ch/contacturban-192.mp3:Radio Contact - Urban (BE/Wallonië)
@@ -705,7 +705,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:1c6b:0:0:0:0:0:0:0:
+#SERVICE 1:64:52e:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -721,7 +721,7 @@
 #DESCRIPTION Radio Contact Ostbelgien NOW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:1c6c:0:0:0:0:0:0:0:
+#SERVICE 1:64:52f:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

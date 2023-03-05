@@ -1,5 +1,5 @@
 #NAME Stream China (CN)
-#SERVICE 1:64:2e5:0:0:0:0:0:0:0:
+#SERVICE 1:64:2dc:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225618/index.m3u8:CCTV 1 HD
 #DESCRIPTION CCTV 1 HD
@@ -43,7 +43,7 @@
 #DESCRIPTION CETV 2
 #SERVICE 4097:0:1:1b02:3fe:1:c00000:0:0:0:http%3a//news.cgtn.com/resource/live/english/cgtn-news.m3u8:CGTN
 #DESCRIPTION CGTN
-#SERVICE 1:64:2e6:0:0:0:0:0:0:0:
+#SERVICE 1:64:2dd:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dstpush1.retalltech.com/app/stream2.m3u8:Ānhuī Ⅰ Tónglíng Gōnggòng
 #DESCRIPTION Ānhuī Ⅰ Tónglíng Gōnggòng
@@ -87,6 +87,8 @@
 #DESCRIPTION Chúzhōu Shì Guǎngbò Diànshìtái Kējiào Píndào
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cztv.cc%3a85/live/xwpd.m3u8:Chúzhōu Shì Guǎngbò Diànshìtái Xīnwén Zònghé Píndào
 #DESCRIPTION Chúzhōu Shì Guǎngbò Diànshìtái Xīnwén Zònghé Píndào
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pulltv1.wanfudaluye.com/live/tv1.m3u8:Da Ai 1
+#DESCRIPTION Da Ai 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8:Daqing News Comprehensive
 #DESCRIPTION Daqing News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.255.190/live/program/live/dycj/1300000/mnf.m3u8:Dì yī Cáijīng (First Financial)
@@ -237,6 +239,8 @@
 #DESCRIPTION Minshi News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/mmzh/playlist.m3u8:MMZH
 #DESCRIPTION MMZH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8:MNews
+#DESCRIPTION MNews
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//natv.cnjrna.com%3a3000/channel/sovp/1000000000000018/video_1564_none.m3u8:Nan'an TV
 #DESCRIPTION Nan'an TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.nbs.cn/channels/njtv/jkpd/flv%3a500k/live:Nanjing Educational Science

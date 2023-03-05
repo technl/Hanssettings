@@ -27,14 +27,14 @@
 #DESCRIPTION 2x2 +2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.tv.3angels.ru/stream.m3u8:3 Angels
 #DESCRIPTION 3 Angels
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d7tv.pp.ua/hls/d7tv.m3u8:7D7
-#DESCRIPTION 7D7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.65.18.213/perviy_molodeginyi_3100kb.m3u8:8 Kanal Krasnoyarskiy Kray
 #DESCRIPTION 8 Kanal Krasnoyarskiy Kray
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.99.110.252/stream8/playlist.m3u8:8 Kanal Krym
 #DESCRIPTION 8 Kanal Krym
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sitv.ru/hls/s861024.m3u8:86 Kanal
 #DESCRIPTION 86 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/9volna/playlist.m3u8:9 Volna
+#DESCRIPTION 9 Volna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8:360°
 #DESCRIPTION 360°
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge2-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8:360° News
@@ -159,6 +159,8 @@
 #DESCRIPTION Iz.RU -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8:Iz.RU -3-
 #DESCRIPTION Iz.RU -3-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.rtcommufa.ru%3a1935/ptica/ptica1/playlist.m3u8:Jar Ptïca
+#DESCRIPTION Jar Ptïca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.40.68.167/russia/jimjam/playlist.m3u8:JimJam Russia
 #DESCRIPTION JimJam Russia
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//109.68.40.67/life/k1.m3u8:К1
@@ -247,7 +249,7 @@
 #DESCRIPTION Mir +7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8:Mir 24 HD
 #DESCRIPTION Mir 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mirbelogorya.ru%3a8080/mirbelogorya/index.m3u8:Mir Belogor'ya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvbelgorod.ru%3a8080/mirbelogorya/index.m3u8:Mir Belogor'ya
 #DESCRIPTION Mir Belogor'ya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.40.68.167/russia/mir_seriala/playlist.m3u8:Mir Seriala
 #DESCRIPTION Mir Seriala
@@ -347,6 +349,8 @@
 #DESCRIPTION PNK 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/poehali.m3u8:Poyekhali!
 #DESCRIPTION Poyekhali!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8:Prima
+#DESCRIPTION Prima
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/prosveschenie_edge/index.m3u8:Prosveshhenie
 #DESCRIPTION Prosveshhenie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s50/index.m3u8:Pyatnitsa!+2
@@ -373,10 +377,12 @@
 #DESCRIPTION Ramowka TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//online-video.rbc.ru/online/rbctv.m3u8:Ratnik
 #DESCRIPTION Ratnik
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online-video.rbc.ru/online/rbctv.m3u8:RBC
-#DESCRIPTION RBC
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//online.video.rbc.ru/online/rbctv_576p/index.m3u8:RBC -2-
-#DESCRIPTION RBC -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online-video.rbc.ru/online/rbctv.m3u8:RBK
+#DESCRIPTION RBK
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//online.video.rbc.ru/online/rbctv_576p/index.m3u8:RBK -2-
+#DESCRIPTION RBK -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rednet.rs/providus/redtv_multi_hq/index.m3u8:Red TV
+#DESCRIPTION Red TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ad-hls-rentv.cdnvideo.ru/ren/smil%3aren.smil/chunklist_b1024000.m3u8:REN TV
 #DESCRIPTION REN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/RenTV.m3u8:REN TV International

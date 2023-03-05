@@ -1,4 +1,14 @@
 #NAME Stream Duitsland (DE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-rtl80er-mp3-128-8507059:104.6 RTL 80er
+#DESCRIPTION 104.6 RTL 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlblack-mp3-128-4192915:104.6 RTL Black Greatest Hits
+#DESCRIPTION 104.6 RTL Black Greatest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtldeutsch-mp3-128-7698367:104.6 RTL Deutsch Greatest Hits
+#DESCRIPTION 104.6 RTL Deutsch Greatest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-rtlgreatest-mp3-128-9034983:104.6 RTL Greatest Hits
+#DESCRIPTION 104.6 RTL Greatest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlrock-mp3-128-5486104:104.6 RTL Rock Greatest Hits
+#DESCRIPTION 104.6 RTL Rock Greatest Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-dab-mp3-mq:80s80s DAB+
 #DESCRIPTION 80s80s DAB+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-deutsch-mp3-hq:80s80s Deutsch
@@ -29,6 +39,8 @@
 #DESCRIPTION 89.0 RTL Dusch Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fhhalle.streamabc.net/fhhal-rtlputz-mp3-128-1945524:89.0 RTL House Putz
 #DESCRIPTION 89.0 RTL House Putz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fhhalle.streamabc.net/fhhal_890rtltre_3wru-mp3-128-3489339:89.0 RTL Top Hits 2023 
+#DESCRIPTION 89.0 RTL Top Hits 2023 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//90s90s.hoerradar.de/90s90s-pop-mp3-hq:90s90s Radio 
 #DESCRIPTION 90s90s Radio 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/boygroup/mp3-192/streams.90s90s.de/:90s90s Radio - Boygroups
@@ -1537,6 +1549,8 @@
 #DESCRIPTION Lobpreisradio-56-kbpts-ogg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.59.28.208%3a8254/stream:Lofthouse-Music
 #DESCRIPTION Lofthouse-Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.lohro.de/lohro.mp3:LOHRO (Rostock)
+#DESCRIPTION LOHRO (Rostock)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.lora924.de%3a8000/loramp3.mp3:LORA-München
 #DESCRIPTION LORA-München
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//loungeplus-ais-edge-3072-fra-eco-cdn.cast.addradio.de/loungeplus/live/mp3/mid:Lounge Plus (Duitsland)
@@ -1739,6 +1753,8 @@
 #DESCRIPTION Munichs Hardest Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.ml0.t4e.dj%3a80/chartsradio_high.mp3:musicloversFM
 #DESCRIPTION musicloversFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.musicradiostation.de%3a8002/listen/:Musicradiostation (Frankfurt am Main)
+#DESCRIPTION Musicradiostation (Frankfurt am Main)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamplus19.leonex.de%3a11112/:Musik-Train
 #DESCRIPTION Musik-Train
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.musikwelle-allgaeu.de%3a8000/stream1:MusikWelle Allgäu
@@ -2571,7 +2587,7 @@
 #DESCRIPTION Radio Hochstift - Urban (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rnrw.cast.addradio.de/rnrw-017f/deinevent/high/stream.mp3:Radio Hochstift - Weihnachten (Duitsland)
 #DESCRIPTION Radio Hochstift - Weihnachten (Duitsland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioholiday-ais-edge-4007-fra-dtag-cdn.cast.addradio.de/radioholiday/live/mp3/high:Radio Holiday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup-stream31.radiohost.de/radio-holiday_mp3-192:Radio Holiday
 #DESCRIPTION Radio Holiday
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//radiohomburg-live.cast.addradio.de/radiohomburg/live/aac/low/stream.aac:Radio Homburg
 #DESCRIPTION Radio Homburg
@@ -3429,6 +3445,8 @@
 #DESCRIPTION RTL Power-Workout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtldtl.hoerradar.de/rtldtl-beste-hits-mp3-128?sABC=5n36r436%25230%2523rnoopr590o2qqrp5qsq2s8p24q12pp2n%2523enqvb-oebjfre.vasb&amsparams=playerid%3aradio-browser.info;skey%3a1513546806:RTL Radio (Duitsland + Luxemburg)
 #DESCRIPTION RTL Radio (Duitsland + Luxemburg)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlxms-mp3-128-4695411:RTL Radio / 104.6 XMax / Weihnachtsradio
+#DESCRIPTION RTL Radio / 104.6 XMax / Weihnachtsradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rt1-relax.cast.addradio.de/rt1/relax/mp3/high/stream.mp3:RTL Relax
 #DESCRIPTION RTL Relax
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fhhalle.streamabc.net/fhhal-rtlremmi-mp3-128-8837212:RTL Remmi Demmi
@@ -3737,6 +3755,16 @@
 #DESCRIPTION SOULPOWERfm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.shoutcast.com/Sound4U:Sound4U
 #DESCRIPTION Sound4U
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-spreeradio80slove-mp3-192-5287496:Spreeradio 80er Love
+#DESCRIPTION Spreeradio 80er Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-spreeradio80srock-mp3-192-2535091:Spreeradio 80er Rock
+#DESCRIPTION Spreeradio 80er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-spreeradio80s-mp3-192-3534659:Spreeradio 80s
+#DESCRIPTION Spreeradio 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-spreeradioblack-mp3-192-5909470:Spreeradio Black
+#DESCRIPTION Spreeradio Black
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-spreeradioxms-mp3-192-2733462:Spreeradio Weihnachtsradio
+#DESCRIPTION Spreeradio Weihnachtsradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.spreeradio.de/spree-live/mp3-128:Spreeradio
 #DESCRIPTION Spreeradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//85.25.217.22%3a8200:SQRR---StatusQuoRockRadio

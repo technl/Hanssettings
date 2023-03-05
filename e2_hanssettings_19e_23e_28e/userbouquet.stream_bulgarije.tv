@@ -1,189 +1,107 @@
 #NAME Stream Bulgarije (BG)
-#SERVICE 1:64:309:0:0:0:0:0:0:0:
+#SERVICE 1:64:302:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.88.114%3a8000/play/a03m:BNT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16353:BNT 1
 #DESCRIPTION BNT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.88.114%3a8000/play/a03x:BNT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16356:BNT 2
 #DESCRIPTION BNT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.88.114%3a8000/play/a03q:BNT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16357:BNT 3
 #DESCRIPTION BNT 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0cd:BNT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/32001:BNT 4
 #DESCRIPTION BNT 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a03w:bTV
-#DESCRIPTION bTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a04n:bTV Action
-#DESCRIPTION bTV Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a04i:bTV Cinema
-#DESCRIPTION bTV Cinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a04k:bTV Comedy
-#DESCRIPTION bTV Comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a05i:bTV Lady
-#DESCRIPTION bTV Lady
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0ci:Bulgaria 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/278802:BTV
+#DESCRIPTION BTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16373:BTV Action
+#DESCRIPTION BTV Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16360:BTV Cinema
+#DESCRIPTION BTV Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16358:BTV Comedy
+#DESCRIPTION BTV Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16363:BTV Lady
+#DESCRIPTION BTV Lady
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/23956:Bulgaria 24
 #DESCRIPTION Bulgaria 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a08v:Bulgaria On Air
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16385:Bulgaria On Air
 #DESCRIPTION Bulgaria On Air
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a045:Diema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16364:Diema
 #DESCRIPTION Diema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a047:Diema Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16361:Diema Family
 #DESCRIPTION Diema Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bc:Diema Sport
-#DESCRIPTION Diema Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bd:Diema Sport 2
-#DESCRIPTION Diema Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0e8:Diema Sport 3
-#DESCRIPTION Diema Sport 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.249.95.140%3a8081/hls/data.m3u8:DSTV
 #DESCRIPTION DSTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a05c:FOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/46819:FOX
 #DESCRIPTION FOX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a04f:FOX Life
-#DESCRIPTION FOX Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a04h:FOX Crime
-#DESCRIPTION FOX Crime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a041:Kino Nova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16362:Kino Nova
 #DESCRIPTION Kino Nova
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a03l:Nova
-#DESCRIPTION Nova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16369:Nova TV
+#DESCRIPTION Nova TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wz4.dnip.com.br/novaeratv/novaeratv.sdp/playlist.m3u8:Nova Era TV
 #DESCRIPTION Nova Era TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a08x:Nova News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16399:Nova News
 #DESCRIPTION Nova News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bn:Nova Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/10531:Nova Sport
 #DESCRIPTION Nova Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bo:Ring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/20466:Ring
 #DESCRIPTION Ring
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:mmsh%3a//212.200.255.151/rtv1:RTV 1
-#DESCRIPTION RTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:mmsh%3a//212.200.255.151/rtv2:RTV 2 
-#DESCRIPTION RTV 2 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv1.cloudcdn.bg%3a8081/stream_hd720.m3u8:TV 1 HD
 #DESCRIPTION TV 1 HD
-#SERVICE 1:64:30a:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16394:7/8 TV
+#DESCRIPTION 7/8 TV
+#SERVICE 1:64:303:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a08u:24 Kitchen
-#DESCRIPTION 24 Kitchen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0b6:Action Box
-#DESCRIPTION Action Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//restr2.bgtv.bg/agro/hls/agro.m3u8:Agro TV
 #DESCRIPTION Agro TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a05r:Animal Planet
-#DESCRIPTION Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16400:Alfa TV
+#DESCRIPTION Alfa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//100automoto.tv/100gaz//shukerov:Auto Moto TV
 #DESCRIPTION Auto Moto TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a04d:AXN
-#DESCRIPTION AXN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0ba:AXN Black
-#DESCRIPTION AXN Black
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0b9:AXN White
-#DESCRIPTION AXN White
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0cl:Baby TV
-#DESCRIPTION Baby TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a05h:Balkanika
-#DESCRIPTION Balkanika
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge16.cdn.bg%3a20910/fls/bloomberg.stream/chunklist_w111918406.m3u8?at=f05e774e5edab142764b658e4f2f8794:Bloomberg TV Bulgaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4135:Balkanika Music TV
+#DESCRIPTION Balkanika Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16421:BG Music Channel
+#DESCRIPTION BG Music Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/42538:Bloomberg TV Bulgaria
 #DESCRIPTION Bloomberg TV Bulgaria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0ck:Boomerang
-#DESCRIPTION Boomerang
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.14.32.15%3a8801/udp/224.100.1.4%3a56000:BSTV
-#DESCRIPTION BSTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0dz:B1B Box
-#DESCRIPTION B1B Box
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a05a:Cartoon Network
-#DESCRIPTION Cartoon Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0b7:Cine Box
-#DESCRIPTION Cine Box
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a06c:City TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16378:City TV
 #DESCRIPTION City TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8:Code Fashion TV
 #DESCRIPTION Code Fashion TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0b8:Comedy Box
-#DESCRIPTION Comedy Box
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bu:Crime & Investigations
-#DESCRIPTION Crime & Investigations
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bw:Da Vinci
-#DESCRIPTION Da Vinci
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a044:Discovery Channel
-#DESCRIPTION Discovery Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0ce:Discovery Science
-#DESCRIPTION Discovery Science
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a059:Disney Channel
-#DESCRIPTION Disney Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0c5:Disney Junior
-#DESCRIPTION Disney Junior
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0cf:Epic Drama
-#DESCRIPTION Epic Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/32017:EKids
+#DESCRIPTION EKids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eurofolk.cdn.netbadgers.com/bg040/bg041/bg041_sd.m3u8:EuroFolk TV
 #DESCRIPTION EuroFolk TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a05e:Euronews Bulgaria
-#DESCRIPTION Euronews Bulgaria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bb:Eurosport 1
-#DESCRIPTION Eurosport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a04b:Eurosport 2
-#DESCRIPTION Eurosport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ecomservice.bg/hls/stream.m3u8:Evrokom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16404:Evrokom
 #DESCRIPTION Evrokom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a05f:Fen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16415:Fen Folk
+#DESCRIPTION Fen Folk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/13884:Fen TV
 #DESCRIPTION Fen TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0b4:FilmBox Stars
-#DESCRIPTION FilmBox Stars
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0cg:Food Network
-#DESCRIPTION Food Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0cc:HGTV
-#DESCRIPTION HGTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bp:History
-#DESCRIPTION History
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a08z:Investigation Discovery Xtra
-#DESCRIPTION Investigation Discovery Xtra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bx:Magic TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4054:Folklor TV
+#DESCRIPTION Folklor TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/41930:Hit Mix Channel
+#DESCRIPTION Hit Mix Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16417:Magic TV
 #DESCRIPTION Magic TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0be:MAX Sport 1
-#DESCRIPTION MAX Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bf:MAX Sport 2
-#DESCRIPTION MAX Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bg:MAX Sport 3
-#DESCRIPTION MAX Sport 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0e7:MAX Sport 4
-#DESCRIPTION MAX Sport 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0b5:Movie Star
-#DESCRIPTION Movie Star
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bi:MTV 80s
-#DESCRIPTION MTV 80s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bj:MTV 00s
-#DESCRIPTION MTV 00s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bt:National Geographic
-#DESCRIPTION National Geographic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bs:National Geographic Wild
-#DESCRIPTION National Geographic Wild
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a056:Nickelodeon
-#DESCRIPTION Nickelodeon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a05k:Nick Jr
-#DESCRIPTION Nick Jr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0de:Nick Toons
-#DESCRIPTION Nick Toons
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a03t:Planeta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.83.191.18%3a8000/play/a07d:Perviy Kanal
+#DESCRIPTION Perviy Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/36344:Planeta Folk
+#DESCRIPTION Planeta Folk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/13885:Planeta TV
 #DESCRIPTION Planeta TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.14.32.15%3a8801/udp/224.100.1.6%3a56000:PP TV
-#DESCRIPTION PP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8:RMTV
 #DESCRIPTION RMTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0by:The Voice
-#DESCRIPTION The Voice
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.246.54.125%3a4022/udp/239.1.1.81%3a4000:Tiankov Folk TV
-#DESCRIPTION Tiankov Folk TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a093:TLC
-#DESCRIPTION TLC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bv:Travel Channel
-#DESCRIPTION Travel Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0b3:TV 1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/32041:Rodina
+#DESCRIPTION Rodina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/32039:Skat TV
+#DESCRIPTION Skat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16419:The Voice TV
+#DESCRIPTION The Voice TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/16414:Tiankov Folk
+#DESCRIPTION Tiankov Folk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/294984:Tiankov Orient Folk
+#DESCRIPTION Tiankov Orient Folk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/23398:TV 1000
 #DESCRIPTION TV 1000
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//83.222.173.94/tvart//tvart:TV Art
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/174597:TV Art
 #DESCRIPTION TV Art
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de1se01.v2beat.live/playlist.m3u8:V2 Beat
 #DESCRIPTION V2 Beat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a058:Viasat Explore
-#DESCRIPTION Viasat Explore
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0bq:Viasat History
-#DESCRIPTION Viasat History
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.228.75.166%3a8000/play/a0br:Viasat Nature
-#DESCRIPTION Viasat Nature

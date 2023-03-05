@@ -1,6 +1,8 @@
 #NAME Stream Taiwan (TW)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.220.74%3a8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e:Cartoon Network Taiwan
 #DESCRIPTION Cartoon Network Taiwan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8:CTi News
+#DESCRIPTION CTi News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.237.10.66%3a16372:CTi Variety
 #DESCRIPTION CTi Variety
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.220.74%3a8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0:CTV Classic
@@ -47,12 +49,18 @@
 #DESCRIPTION Next TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ntdimg.com/aplive200/playlist.m3u8:NTD TV
 #DESCRIPTION NTD TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.16.64.10%3a8278/bosigolf2_twn/playlist.m3u8?ct=19225&tid=MF5F9848925298489252&tsum=2600464749aadbcd55d1c32ec071e36e:Sportcast Golf 2
+#DESCRIPTION Sportcast Golf 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//seb.sason.top/sc/tsxw_fhd.m3u8:Tái Shì Xīnwén
 #DESCRIPTION Tái Shì Xīnwén
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.youtb.workers.dev/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8:Taiwan Plus
+#DESCRIPTION Taiwan Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamipcf.akamaized.net/live/_definst_/smil%3aliveabr.smil/playlist.m3u8:TITV
 #DESCRIPTION TITV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.220.74%3a8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970:TTV
 #DESCRIPTION TTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8:TTV News
+#DESCRIPTION TTV News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.220.74%3a8278/tvbs/playlist.m3u8?ct=19226&tid=MDED5111960351119603&tsum=49931e2d3885c468d56ffae2c2db9e6e:TVBS HD
 #DESCRIPTION TVBS HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.64.72.148/hls/modn/list/4005/playlist.m3u8:TVBS Asia

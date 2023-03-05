@@ -63,6 +63,8 @@
 #DESCRIPTION Chante France Comptines (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.chantefrance.com/cf-emotion:Chante France Emotion (Frankrijk)
 #DESCRIPTION Chante France Emotion (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/30219/aac_64.mp3 :Cherie Italia 
+#DESCRIPTION Cherie Italia 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/audio1/fr/30201/aac_64.mp3:Chérie FM
 #DESCRIPTION Chérie FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/charlekingradio.mp3:CK-RADIO
@@ -573,10 +575,24 @@
 #DESCRIPTION Nostalgie - USA 90 (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/56660/mp3_128.mp3:Nostalgie - Vinyles 80 (Frankrijk)
 #DESCRIPTION Nostalgie - Vinyles 80 (Frankrijk)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radionova-high.mp3:Nova
-#DESCRIPTION Nova
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//snb.ice.infomaniak.ch/snb-high.mp3:Nova Bordeaux
+#DESCRIPTION Nova Bordeaux
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3:Nova Classics
+#DESCRIPTION Nova Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nova-ln.ice.infomaniak.ch/nova-ln-128.mp3:Nova La Nuit
+#DESCRIPTION Nova La Nuit
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nova-lyon.ice.infomaniak.ch/nova-lyon-128.mp3:Nova Lyon
+#DESCRIPTION Nova Lyon
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3:Nova Nouvo
+#DESCRIPTION Nova Nouvo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//novazz.ice.infomaniak.ch/novazz-128.mp3:Nova Paris
+#DESCRIPTION Nova Paris
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nova-soul.ice.infomaniak.ch/nova-soul-128.mp3:Nova Soul
+#DESCRIPTION Nova Soul
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3:NRJ - algemeen (Frankrijk)
 #DESCRIPTION NRJ - algemeen (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/58412/aac_64.mp3:NRJ - Best of Latino 2022 
+#DESCRIPTION NRJ - Best of Latino 2022 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/30411/aac_64.mp3:NRJ - Blagues
 #DESCRIPTION NRJ - Blagues
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/30413/aac_64.mp3:NRJ - Canulars
@@ -607,6 +623,8 @@
 #DESCRIPTION NRJ - Hits de future 2021
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/57293/mp3_128.mp3:NRJ - Hits de l'ete 2021
 #DESCRIPTION NRJ - Hits de l'ete 2021
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/58357/aac_64.mp3 :NRJ - Hits Latino de l'Hiver 
+#DESCRIPTION NRJ - Hits Latino de l'Hiver 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/audio1/fr/55670/aac_64.mp3:NRJ - Hommage à Coluche
 #DESCRIPTION NRJ - Hommage à Coluche
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/55514/aac_64.mp3:NRJ - Humour du Sud
@@ -615,6 +633,8 @@
 #DESCRIPTION NRJ - La Playlist Des Vacances (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/30077/mp3_128.mp3:NRJ - Latino (Frankrijk)
 #DESCRIPTION NRJ - Latino (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/58116/aac_64.mp3 :NRJ - Latino 2023 
+#DESCRIPTION NRJ - Latino 2023 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/56657/mp3_128.mp3:NRJ - Le Top 10 du Weekend (Frankrijk)
 #DESCRIPTION NRJ - Le Top 10 du Weekend (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/30409/aac_64.mp3:NRJ - Live
@@ -673,6 +693,8 @@
 #DESCRIPTION NRJ - Sketches
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/30417/aac_64.mp3:NRJ - Stand up
 #DESCRIPTION NRJ - Stand up
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/58191/aac_64.mp3:NRJ - Summer Latino  
+#DESCRIPTION NRJ - Summer Latino  
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/57010/mp3_128.mp3:NRJ - Top 10 2019
 #DESCRIPTION NRJ - Top 10 2019
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/56819/mp3_128.mp3:NRJ - Top 5 Nouveautés (Frankrijk)
@@ -935,8 +957,6 @@
 #DESCRIPTION Rouge Live Music France
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3:Rouge Made in France
 #DESCRIPTION Rouge Made in France
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/index.m3u8:RTL
-#DESCRIPTION RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/203/index.m3u8:RTL 100%25 France
 #DESCRIPTION RTL 100% France
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/202/index.m3u8:RTL 100%25 Grosses Têtes
@@ -945,12 +965,14 @@
 #DESCRIPTION RTL 100% Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlreunion.ice.infomaniak.ch%3a80/rtlreunion-64.aac:RTL Reunion
 #DESCRIPTION RTL Reunion
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/index.m3u8:RTL2
-#DESCRIPTION RTL2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/index.m3u8:RTL
+#DESCRIPTION RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl2/201/index.m3u8:RTL2 Acoustique
 #DESCRIPTION RTL2 Acoustique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl2/202/index.m3u8:RTL2 Sur la route
 #DESCRIPTION RTL2 Sur la route
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/index.m3u8:RTL2
+#DESCRIPTION RTL2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/francais_aac_128k:Skyrock 100%25 Français
 #DESCRIPTION Skyrock 100% Français
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/abidjan_aac_128k:Skyrock Abidjan
@@ -975,6 +997,10 @@
 #DESCRIPTION Skyrock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//start-sud.ice.infomaniak.ch/start-sud-high.mp3:Sud Radio
 #DESCRIPTION Sud Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rcs.revma.com/nv1hu7644k0uv:Trace FM Guadaloupe
+#DESCRIPTION Trace FM Guadaloupe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rcs.revma.com/nxvafk744k0uv:Trace FM Guyana
+#DESCRIPTION Trace FM Guyana
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rcs.revma.com/1u2tgf744k0uv:Trace Martinique (Frans overzees gebiedsdeel)
 #DESCRIPTION Trace Martinique (Frans overzees gebiedsdeel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tsfjazz.ice.infomaniak.ch/tsfjazz-high:TSF Jazz

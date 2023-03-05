@@ -5,14 +5,18 @@
 #DESCRIPTION Al Ekhbariya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8:Al Khalij
 #DESCRIPTION Al Khalij
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.live.net.sa%3a1935/live/quran/playlist.m3u8:Al Quran Al Kareem TV (Mecca)
+#DESCRIPTION Al Quran Al Kareem TV (Mecca)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.taghtia.com/sa/12.m3u8:Al Riyadh Radio
 #DESCRIPTION Al Riyadh Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.live.net.sa%3a1935/live/sunnah/playlist.m3u8:Al Sunnah Al Nabawiyah TV (Medina)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.taghtia.com/sa/6.m3u8:Al Sunnah Al Nabawiyah TV (Medina)
 #DESCRIPTION Al Sunnah Al Nabawiyah TV (Medina)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8:Asharq
-#DESCRIPTION Asharq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8:Asharq News
+#DESCRIPTION Asharq News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8:Atfal Wa Mawaheb
 #DESCRIPTION Atfal Wa Mawaheb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.holol.com/live/ayat/playlist.m3u8:Ayaat
+#DESCRIPTION Ayaat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.taghtia.com/sa/15.m3u8:Jeddah Radio
 #DESCRIPTION Jeddah Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.taghtia.com/sa/2.m3u8:KSA 1
@@ -61,5 +65,5 @@
 #DESCRIPTION SSC Action Waleed Extra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.taghtia.com/sa/3.m3u8:Thikrayat TV
 #DESCRIPTION Thikrayat TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g/live:Zad TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8:Zad TV
 #DESCRIPTION Zad TV

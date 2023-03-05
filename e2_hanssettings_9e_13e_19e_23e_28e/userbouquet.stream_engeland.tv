@@ -1,10 +1,8 @@
 #NAME Stream Engeland (UK)
-#SERVICE 1:64:237:0:0:0:0:0:0:0:
+#SERVICE 1:64:22e:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a05n:BBC 1 HD
 #DESCRIPTION BBC 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_bbc_1_sd/index.m3u8:BBC 1 -2-
-#DESCRIPTION BBC 1 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a05o:BBC 1 Noord-Ierland
 #DESCRIPTION BBC 1 Noord-Ierland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a04h/index.m3u8:BBC 1 Wales
@@ -17,73 +15,65 @@
 #DESCRIPTION BBC 2 Noord-Ierland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a05l:BBC 2 Wales
 #DESCRIPTION BBC 2 Wales
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_bbc_3_sd/index.m3u8:BBC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/BBC3/index.m3u8:BBC 3
 #DESCRIPTION BBC 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_bbc_4_sd/index.m3u8:BBC 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/BBC4/index.m3u8:BBC 4
 #DESCRIPTION BBC 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60330/play/a078:BBC Alba
 #DESCRIPTION BBC Alba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_bbc_news_sd/index.m3u8:BBC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a04n/index.m3u8:BBC News
 #DESCRIPTION BBC News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a04n/index.m3u8:BBC News -2-
-#DESCRIPTION BBC News -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a04g/index.m3u8:BBC Parliament
 #DESCRIPTION BBC Parliament
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60330/play/a07j:BBC Red Button 1
 #DESCRIPTION BBC Red Button 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60330/play/a076:BBC Scotland
 #DESCRIPTION BBC Scotland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.114.87.149%3a8881/play/a01q/index.m3u8:BBC World News
-#DESCRIPTION BBC World News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a05p:CBBC
-#DESCRIPTION CBBC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60330/play/a04n:CBeebies
-#DESCRIPTION CBeebies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.131.92.221%3a60450/play/a091/index.m3u8:CITV
-#DESCRIPTION CITV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_itv_sd/index.m3u8:ITV
-#DESCRIPTION ITV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a06u/index.m3u8:ITV -2-
-#DESCRIPTION ITV -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.10.164.23%3a9981/stream/channelid/1331546120?profile=pass:ITV +1
-#DESCRIPTION ITV +1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/a01w/index.m3u8:ITV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a07d:ITV 1
+#DESCRIPTION ITV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/ITV1/index.m3u8:ITV 1 -2-
+#DESCRIPTION ITV 1 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a08k:ITV 1 Meridian South Coast
+#DESCRIPTION ITV 1 Meridian South Coast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a08j:ITV 1 Meridian Thames Valley
+#DESCRIPTION ITV 1 Meridian Thames Valley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.89.104.199%3a60350/play/a0a9/index.m3u8:ITV 1 Yorkshire East
+#DESCRIPTION ITV 1 Yorkshire East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a08l:ITV 1 Yorkshire West
+#DESCRIPTION ITV 1 Yorkshire West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a095:ITV 2
 #DESCRIPTION ITV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.10.164.23%3a9981/stream/channelid/593895116?profile=pass:ITV 2 +1
-#DESCRIPTION ITV 2 +1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60450/play/a07j/index.m3u8:ITV 2+1 -2-
-#DESCRIPTION ITV 2+1 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/a01z/index.m3u8:ITV 3+1
-#DESCRIPTION ITV 3+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/a01y/index.m3u8:ITV 4+1
-#DESCRIPTION ITV 4+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a074:ITV 3+1
-#DESCRIPTION ITV 3+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/ITV2/index.m3u8:ITV 2 -2-
+#DESCRIPTION ITV 2 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/ITV3/index.m3u8:ITV 3
+#DESCRIPTION ITV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/ITV4/index.m3u8:ITV 4
+#DESCRIPTION ITV 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a08q:ITV Be.
 #DESCRIPTION ITV Be.
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a07h:STV
 #DESCRIPTION STV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_channel_4_sd/index.m3u8:Channel 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/Channel4/index.m3u8:Channel 4
 #DESCRIPTION Channel 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a04s/index.m3u8:Channel 4 -2-
 #DESCRIPTION Channel 4 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_e4_sd/index.m3u8:E4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/E4/index.m3u8:E4
 #DESCRIPTION E4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_film4_sd/index.m3u8:Film 4
-#DESCRIPTION Film 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a04t/index.m3u8:4 Seven
 #DESCRIPTION 4 Seven
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_s4c_sd/index.m3u8:S4C HD
-#DESCRIPTION S4C HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/a00l/index.m3u8:Channel 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/4Seven/index.m3u8:4 Seven -2-
+#DESCRIPTION 4 Seven -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/S4C/index.m3u8:S4C
+#DESCRIPTION S4C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/Channel5/index.m3u8:Channel 5
 #DESCRIPTION Channel 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_5_select_sd/index.m3u8:5 Select
-#DESCRIPTION 5 Select
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_5_star_sd/index.m3u8:5 Star
-#DESCRIPTION 5 Star
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_5_usa_sd/index.m3u8:5 USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.riotelecomm.es%3a4513/m3u8/5USAFIBRA.m3u8:5 USA
 #DESCRIPTION 5 USA
-#SERVICE 1:64:238:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.youtb.workers.dev/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8:GB News
+#DESCRIPTION GB News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_sky_news_sd/index.m3u8:Sky News UK
+#DESCRIPTION Sky News UK
+#SERVICE 1:64:22f:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
 #DESCRIPTION 92 News UK
@@ -95,6 +85,8 @@
 #DESCRIPTION Akaal Channel UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60530/play/a083:Alibi
 #DESCRIPTION Alibi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8:Arise News
+#DESCRIPTION Arise News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a05g/index.m3u8:ATN Bangla UK
 #DESCRIPTION ATN Bangla UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a07u/index.m3u8:Ayozat TV
@@ -131,17 +123,17 @@
 #DESCRIPTION Daystar HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a04w:DMAX
 #DESCRIPTION DMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8:DSTV DanceStar Television
+#DESCRIPTION DSTV DanceStar Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ov.ottera.tv/live/master1400000.m3u8;session=earth_et:EarthxTV
 #DESCRIPTION EarthxTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60130/play/a06k:FreeSports HD
 #DESCRIPTION FreeSports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8:FTF Sports
 #DESCRIPTION FTF Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8:GB News
-#DESCRIPTION GB News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//57d6b85685bb8.streamlock.net%3a1935/abrgemporiaukgfx/livestream_360p/index.m3u8:Gems TV
 #DESCRIPTION Gems TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.131.92.221%3a60450/play/a085/index.m3u8:Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.128.100%3a8080/Gold/index.m3u8:Gold
 #DESCRIPTION Gold
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60530/play/a082:Gold -2-
 #DESCRIPTION Gold -2-
@@ -191,18 +183,12 @@
 #DESCRIPTION Kerrang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a05l/index.m3u8:KICC TV
 #DESCRIPTION KICC TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60530/play/a07v:Kiss
-#DESCRIPTION Kiss
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60230/play/a04y/index.m3u8:Legend
 #DESCRIPTION Legend
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.131.92.221%3a60450/play/a07y/index.m3u8:LoveWorld
 #DESCRIPTION LoveWorld
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.212.248.44%3a60530/play/a07w:Magic
-#DESCRIPTION Magic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moonbug-rokuus.amagi.tv/playlist.m3u8:Moonbug Kids
 #DESCRIPTION Moonbug Kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-fast2.evrideo.tv/51da5aca-56ff-4735-bde8-b75d2ae4d9b9_0_HLS/manifest.m3u8:Music & Memories
-#DESCRIPTION Music & Memories
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:My5 Documentaries
 #DESCRIPTION My5 Documentaries
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:My5 GP's
@@ -253,8 +239,6 @@
 #DESCRIPTION Sikh Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_sky_arts_sd/index.m3u8:Sky Arts
 #DESCRIPTION Sky Arts
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.210%3a8000/play/UK_sky_news_sd/index.m3u8:Sky News UK
-#DESCRIPTION Sky News UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.131.92.221%3a60450/play/a08g/index.m3u8:Smithsonian Channel
 #DESCRIPTION Smithsonian Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofytv-samsunguk.amagi.tv/playlist.m3u8:Sofy TV

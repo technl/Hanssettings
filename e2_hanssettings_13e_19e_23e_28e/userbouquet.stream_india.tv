@@ -17,6 +17,8 @@
 #DESCRIPTION &Pictures
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8:&privé HD
 #DESCRIPTION &privé HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newsmaffia.casacam.net%3a1935/newsmaffia/newsmaffia/playlist.m3u8:A News Maffia Tv Desi Musix
+#DESCRIPTION A News Maffia Tv Desi Musix
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.216.226.165%3a1935/aonetv/aonetv/chunklist_w1755925546.m3u8:A-One Punjabi TV
 #DESCRIPTION A-One Punjabi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist_w946802597_b1200000.m3u8:A1TV
@@ -111,7 +113,7 @@
 #DESCRIPTION Darshana TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8:DD National
 #DESCRIPTION DD National
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live:DD News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8:DD News
 #DESCRIPTION DD News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.media.nic.in/live/ddpunjabi1/index.m3u8:DD Punjabi
 #DESCRIPTION DD Punjabi
@@ -201,7 +203,7 @@
 #DESCRIPTION ITN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/jaihindtv/index.m3u8?token=693400:Jaihind TV
 #DESCRIPTION Jaihind TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jantvstream.in%3a1935/edge1/sc1jantv.stream_aac/playlist.m3u8:Jan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q.m3u8:Jan TV
 #DESCRIPTION Jan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0ja/index.m3u8:Janam TV
 #DESCRIPTION Janam TV
@@ -215,7 +217,7 @@
 #DESCRIPTION Jhanjar Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8:Jonack TV
 #DESCRIPTION Jonack TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/kairalinews/index.m3u8?token=693400:Kairali News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8:Kairali News
 #DESCRIPTION Kairali News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.com/neestream_01/kairalitv/playlist.m3u8:Kairali TV
 #DESCRIPTION Kairali TV
@@ -283,6 +285,8 @@
 #DESCRIPTION Mastiii
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/mathrubhuminews/index.m3u8?token=693400:Mathrubhumi News
 #DESCRIPTION Mathrubhumi News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8:Mathrubhumi News -2-
+#DESCRIPTION Mathrubhumi News -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0kd/index.m3u8:Mazhavil Manorama
 #DESCRIPTION Mazhavil Manorama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/mediaone/index.m3u8?token=693400:Media One
@@ -325,6 +329,8 @@
 #DESCRIPTION NDTV India
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8:NDTV Profit
 #DESCRIPTION NDTV Profit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8:NDTV Profit -2-
+#DESCRIPTION NDTV Profit -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/neecinema/index.m3u8?token=693400:Nee Cinema
 #DESCRIPTION Nee Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shashwatha.com/hls/show/newhopetv_low.m3u8:New Hope TV
@@ -361,10 +367,14 @@
 #DESCRIPTION News 18 Rajasthan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?rebase=on&sd=10:News 18 Tamil
 #DESCRIPTION News 18 Tamil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCat88i6_rELqI_prwvjspRA.m3u8:News 18 Tamil -2-
+#DESCRIPTION News 18 Tamil -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10:News 18 Uttarakhand
 #DESCRIPTION News 18 Uttarakhand
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8:News 24
 #DESCRIPTION News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8:News J
+#DESCRIPTION News J
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/chunklist_w1887620803_b1200000.m3u8:News Live
 #DESCRIPTION News Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-07.ix7.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVPSobSvfgxxPn7AOuVNJEo)/dm/3/x7t0g3i/s/live-1.m3u8#cell=lcore:News Nation TV
@@ -373,8 +383,12 @@
 #DESCRIPTION News Srate TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newsjatt.camdvr.org%3a1935/newsjatt/myStream/playlist.m3u8:Newsdons.com.tv
 #DESCRIPTION Newsdons.com.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.168.19.4%3a1935/live/myStream/playlist.m3u8:NewsMaffia.com TV Desi Musix
+#DESCRIPTION NewsMaffia.com TV Desi Musix
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//calvary.livebox.co.in/NireekshanaTVhls/live.m3u8:Nireekshana TV
 #DESCRIPTION Nireekshana TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ktismaservers.in%3a3394/stream/play.m3u8:NLM TV
+#DESCRIPTION NLM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist_w1631836689_b1200000.m3u8:Northeast Live TV
 #DESCRIPTION Northeast Live TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.singamcloud.in%3a1935/nvision/nvision/playlist.m3u8:NVision
@@ -389,6 +403,8 @@
 #DESCRIPTION Pitaara TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live:Polimer News
 #DESCRIPTION Polimer News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8:Polimer News -2-
+#DESCRIPTION Polimer News -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-weaver.ams02.hls.ttvnw.net/v1/playlist/Cp0F4YqWLQCCen3MD21RWW0Ef9ruKVFiudlMztAyzelOTVG45J5foJeYxYXjydJCYtHE-4AIl3UXV71UXkW_ZE26viTPuDByDAFB87kTQepR16kKgYJXj0LrKi7CvNPLVV4oeS8BrQkBEVPPBwSQTyMGZQmWL08mjsLOrE3XuGl_d5EAen7_c86iNiwSsbRJa19EcBkrVzc2I2RBf9lg2CyGbhWl5f9DZLGm8VqwTLdG8nKY3C2vuPVSmcovKXL12f9D3ZZB2gZygS4gV_4D_7mictYNjolvmjuz8eNLykkBEilQv8YnP2K-SBNGTzwuN3nT_NOqNMew0nVoAdBydkelLCTQ704nuymfY2XMcgUb_JzaTN9IxWH4GEeP-_fXmZ0EWbDLpy_NWeMTVlTKijZd4-h-2ssN4ZT583o0X7hQ1HqiapUtgJD6cZPvWkmdvgxGDpkbdXuSUAZD_BzzGVoRtBa0Xa8rAIIVOTcdEn9l3oPTMJrgTNFfzSQ2ptP1RWgfJHx2mfUQie_wzUjCPy2MjCWgrsyUveXCEArE45CWzQI6sfUr66eZEHD90HEFWOYYmxpitfYvBjOPvSKr8avi7DUw4DlDjLQi7GNc0M0D1XNEhnfziqak5zf59zb79XBcO3DfiMKZaV5tMslobVALhmo8bhdXaNCJZiSc9qHdPoQPBpjHvLIfsWuMePieTU5gHnDPRCxgJtUTvgj0wpIo5teQ-fWXo06KFFwInNeG2gS-9vXYz1-9Dkn5My0_L5WwRuYUVAdCsLmcbNp65TYtvm-H2A0rUfV5q5AAiIktWomHUtXSgNEIo_GcF78WHe_4sBnju7WseRil0aoo6v5LTf9y4w2RNomfpnJ8d34eh6pgZ5rqWjaWCMeQA4PKEhBnwwF6vQyJlC9kemdPII1qGgwaumhykuog8oaD0bs.m3u8:Prag News TV
 #DESCRIPTION Prag News TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livemedia.ios.wowstream.in%3a1935/ka-prajaa/prajaa-news/playlist.m3u8:Prajaa Kannada TV
@@ -465,6 +481,8 @@
 #DESCRIPTION Sarv Dharam Sangam TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live:Sathiyam TV
 #DESCRIPTION Sathiyam TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UC2ziCMHFPWkFHjocUMXT__Q.m3u8:Sathiyam TV -2-
+#DESCRIPTION Sathiyam TV -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//satsangtv.sanskargroup.in/satsangtvlive.m3u8:Satsang
 #DESCRIPTION Satsang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7starcloud.com%3a1935/sd/sdmedia/playlist.m3u8:SD Media
@@ -475,6 +493,8 @@
 #DESCRIPTION Shalom TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0ok/index.m3u8:Shekinah TV
 #DESCRIPTION Shekinah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCHtYUfPnQci6GoUpPlWfrOg.m3u8:Shekinah TV -2-
+#DESCRIPTION Shekinah TV -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525:Shirdi Live
 #DESCRIPTION Shirdi Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8:Shubhsandesh

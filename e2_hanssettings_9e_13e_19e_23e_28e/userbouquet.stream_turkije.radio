@@ -41,6 +41,12 @@
 #DESCRIPTION KOLEJ FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//38.96.148.39%3a8588/:KORDON FM
 #DESCRIPTION KORDON FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kralwmp.radyotvonline.com/:Kral FM
+#DESCRIPTION Kral FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dygedge2.radyotvonline.net/kralfm/playlist.m3u8:Kral FM
+#DESCRIPTION Kral FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dygedge.radyotvonline.net/kralpop/playlist.m3u8:Kral Pop
+#DESCRIPTION Kral Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sr1.netmedya.org%3a9700/:KÃœPE FM
 #DESCRIPTION KÃœPE FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radyotvonline.com%3a9050:NAZILLI RADYO OZDEN

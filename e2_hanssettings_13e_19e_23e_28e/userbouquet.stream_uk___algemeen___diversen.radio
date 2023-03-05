@@ -1,5 +1,5 @@
 #NAME Stream UK - algemeen + diversen
-#SERVICE 1:64:50b:0:0:0:0:0:0:0:
+#SERVICE 1:64:515:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio BBC algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_one:BBC Radio 1
 #DESCRIPTION BBC Radio 1
@@ -33,13 +33,11 @@
 #DESCRIPTION BBC World Service
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena:BBC Afrique
 #DESCRIPTION BBC Afrique
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba?type=.mp3%252F:BBC Arabic
-#DESCRIPTION BBC Arabic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_asian_network:BBC Asian Network
 #DESCRIPTION BBC Asian Network
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-urdua_backup:BBC Urdu
 #DESCRIPTION BBC Urdu
-#SERVICE 1:64:50c:0:0:0:0:0:0:0:
+#SERVICE 1:64:516:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr5.1mix.co.uk%3a8020/;:1 Mix Radio (UK algemeen)
 #DESCRIPTION 1 Mix Radio (UK algemeen)
@@ -93,12 +91,20 @@
 #DESCRIPTION British Comedy Radio 1 (UK, algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming02.zfast.co.uk/proxy/britcom1?mp=%252Fstream:British Comedy Radio 2 (UK, algemeen)
 #DESCRIPTION British Comedy Radio 2 (UK, algemeen)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/CapitalDance:Capital Dance (UK, algemeen)
-#DESCRIPTION Capital Dance (UK, algemeen)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice-the.musicradio.com/CapitalXTRANationalMP3:Capital XTRA National (UK, algemeen)
-#DESCRIPTION Capital XTRA National (UK, algemeen)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//vis.media-ice.musicradio.com/ClassicFMMP3:Classic FM (UK, algemeen)
-#DESCRIPTION Classic FM (UK, algemeen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/CapitalUK:Capital UK
+#DESCRIPTION Capital UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/CapitalChill:Capital Chill
+#DESCRIPTION Capital Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/CapitalDance:Capital Dance
+#DESCRIPTION Capital Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice-the.musicradio.com/CapitalXTRANationalMP3:Capital XTRA
+#DESCRIPTION Capital XTRA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/CapitalXTRAReloaded:Capital XTRA Reloaded
+#DESCRIPTION Capital XTRA Reloaded
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//vis.media-ice.musicradio.com/ClassicFMMP3:Classic FM
+#DESCRIPTION Classic FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/ClassicFM-M-RomanticClassics:Classic FM - Romantic Classics
+#DESCRIPTION Classic FM - Romantic Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/JamendoLounge:Classical Radio (UK, algemeen)
 #DESCRIPTION Classical Radio (UK, algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//node-27.zeno.fm/9xnur705yqruv?rj-ttl=5&rj-tok=AAABctcxypcA6zDj60JYNiid5w:Classical Radio International (UK, algemeen)
@@ -209,6 +215,10 @@
 #DESCRIPTION Radio Maria England
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playoutonestreaming.com%3a8008/radiotodaylive:RadioToday
 #DESCRIPTION RadioToday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/RadioXUK:RadioX
+#DESCRIPTION RadioX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/RadioXClassicRock:RadioX Classic Rock
+#DESCRIPTION RadioX Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//realhouseradio.out.airtime.pro%3a8000/realhouseradio_a:Real House Radio (UK algemeen)
 #DESCRIPTION Real House Radio (UK algemeen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/s07aafdd25/listen:Reggae Starz Radio (UK algemeen)
@@ -279,15 +289,15 @@
 #DESCRIPTION Virgin Radio Pride
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.wrn.org%3a8026/:WRN English for Europe
 #DESCRIPTION WRN English for Europe
-#SERVICE 1:64:50d:0:0:0:0:0:0:0:
+#SERVICE 1:64:517:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Gibraltar++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.123.118.13%3a8041/stream:GBC Radio = Radio Gibraltar (Gibraltar)
 #DESCRIPTION GBC Radio = Radio Gibraltar (Gibraltar)
-#SERVICE 1:64:50e:0:0:0:0:0:0:0:
+#SERVICE 1:64:518:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio overzee++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.inselradio.com/high.sunshine.mp3:Mallorca Sunshine Radio (Engelstalig)
 #DESCRIPTION Mallorca Sunshine Radio (Engelstalig)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.28.53.118%3a7001/stream/:Talk Radio Europe Costa Blanca
 #DESCRIPTION Talk Radio Europe Costa Blanca
-#SERVICE 1:64:50f:0:0:0:0:0:0:0:
+#SERVICE 1:64:519:0:0:0:0:0:0:0:
 #DESCRIPTION +++BFBS in apart boeket+++

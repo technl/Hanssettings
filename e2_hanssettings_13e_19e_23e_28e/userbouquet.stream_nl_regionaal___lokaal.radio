@@ -1,5 +1,5 @@
 #NAME Stream NL regionaal & lokaal
-#SERVICE 1:64:4f3:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fd:0:0:0:0:0:0:0:
 #DESCRIPTION +++Friesland/Groningen/Drenthe+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mcp-1.streampanel.nl%3a8022/stream:Amplivier Radio (Friesland/Groningen)
 #DESCRIPTION Amplivier Radio (Friesland/Groningen)
@@ -19,7 +19,7 @@
 #DESCRIPTION Radio Seabreeze
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.simone.nl/simone:SimoneFM (Emmen)
 #DESCRIPTION SimoneFM (Emmen)
-#SERVICE 1:64:4f4:0:0:0:0:0:0:0:
+#SERVICE 1:64:4fe:0:0:0:0:0:0:0:
 #DESCRIPTION +++Groningen+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media.rtvnoord.nl/icecast/rtvnoord/radio:RTV Noord - Radio Noord
 #DESCRIPTION RTV Noord - Radio Noord
@@ -41,6 +41,8 @@
 #DESCRIPTION Radio Calypso (Oostwold)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//olon.az.icecast.ebsd.ericsson.net/het_hoge_land:Radio Hogeland (Het Hogeland, Groningen)
 #DESCRIPTION Radio Hogeland (Het Hogeland, Groningen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioonstwedde.stream.laut.fm/radioonstwedde:Radio Onstwedde
+#DESCRIPTION Radio Onstwedde
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server2.inetcast.nl%3a1935/stream:Radio Pronkjewail (Groningen Stad en Ommeland)
 #DESCRIPTION Radio Pronkjewail (Groningen Stad en Ommeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.radiowesterwolde.nl%3a8000/G1_RWW:Radio Westerwolde - Vlagtwedde
@@ -55,13 +57,15 @@
 #DESCRIPTION RTV1  (Stadskanaal)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.radiowesterwolde.nl%3a8000/G1_RTVLOGO:RTV GO! (Oldambt)
 #DESCRIPTION RTV GO! (Oldambt)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtvsellingen.stream.laut.fm/rtvsellingen:RTV Sellingen
+#DESCRIPTION RTV Sellingen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.studio-lwd.nl/radio/8000/stream.mp3:RTV Zulthe (Groningen)
 #DESCRIPTION RTV Zulthe (Groningen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.audiostreamen.nl/teamfm:Team FM
 #DESCRIPTION Team FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.audiostreamen.nl/teamfmdrenthe:Team FM Drenthe & Groningen
 #DESCRIPTION Team FM Drenthe & Groningen
-#SERVICE 1:64:4f5:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ff:0:0:0:0:0:0:0:
 #DESCRIPTION +++Friesland+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3:Omrop Fryslan
 #DESCRIPTION Omrop Fryslan
@@ -141,7 +145,7 @@
 #DESCRIPTION Verkeercentrale Brandaris Terschelling NL (soms berichten)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.waterstadfm.nl/waterstadfm:Waterstad FM (Sneek)
 #DESCRIPTION Waterstad FM (Sneek)
-#SERVICE 1:64:4f6:0:0:0:0:0:0:0:
+#SERVICE 1:64:500:0:0:0:0:0:0:0:
 #DESCRIPTION +++Drenthe+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio:RTV Drenthe
 #DESCRIPTION RTV Drenthe
@@ -177,6 +181,8 @@
 #DESCRIPTION Radio Aa en Hunze (Aa en Hunze)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.streamone.net/IhANA6uBZNYS:Radio Assen (Assen)
 #DESCRIPTION Radio Assen (Assen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mcp-2.mm-stream.nl%3a8124/stream:Radio Bokzwien (Erica)
+#DESCRIPTION Radio Bokzwien (Erica)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiocontinu.nl/radiocontinu:Radio Continu (Tweede Exloermond)
 #DESCRIPTION Radio Continu (Tweede Exloermond)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radionl.fm/rnlassen:RadioNL - Editie Assen
@@ -199,7 +205,7 @@
 #DESCRIPTION Tynaarlo Lokaal (Tynaarlo)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mcp-2.mm-stream.nl%3a7000/stream:ZO!34 (Coevorden/Emmen)
 #DESCRIPTION ZO!34 (Coevorden/Emmen)
-#SERVICE 1:64:4f7:0:0:0:0:0:0:0:
+#SERVICE 1:64:501:0:0:0:0:0:0:0:
 #DESCRIPTION +++Flevoland+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.omroepflevoland.nl/icecast/omroepflevoland/stream2:Omroep Flevoland
 #DESCRIPTION Omroep Flevoland
@@ -243,7 +249,7 @@
 #DESCRIPTION Urk FM Geestelijk (Flevoland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.223.94/wildfm.mp3:Wild FM (Flevoland + Noord-Holland)
 #DESCRIPTION Wild FM (Flevoland + Noord-Holland)
-#SERVICE 1:64:4f8:0:0:0:0:0:0:0:
+#SERVICE 1:64:502:0:0:0:0:0:0:0:
 #DESCRIPTION +++Gelderland+++
 #SERVICE 4097:0:2:525e:c99:3:eb0000:0:0:0:http%3a//stream.omroepgelderland.nl/radiogelderland:Radio Gelderland
 #DESCRIPTION Radio Gelderland
@@ -309,6 +315,8 @@
 #DESCRIPTION Love Angel Radio (Beuningen) 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.181.167%3a8000/;   :Maximaal FM (Nunspeet - Gelderland)
 #DESCRIPTION Maximaal FM (Nunspeet - Gelderland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//caster04.streampakket.com/proxy/8216/stream:Midland FM (Renswoude, Scherpenzeel, Veenendaal en Woudenberg)
+#DESCRIPTION Midland FM (Renswoude, Scherpenzeel, Veenendaal en Woudenberg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//aalburgfm.gkstreamen.nl%3a80:Oké FM  (Bommelerwaard/Altena)
 #DESCRIPTION Oké FM  (Bommelerwaard/Altena)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cc6.beheerstream.com/proxy/bergendal?mp=/stream:Omroep Berg en Dal (Berg en Dal)
@@ -379,7 +387,7 @@
 #DESCRIPTION VIB Radio visual (Zevenaar)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//caster04.streampakket.com/proxy/8340/stram:Voorst Veluwezoom FM
 #DESCRIPTION Voorst Veluwezoom FM
-#SERVICE 1:64:4f9:0:0:0:0:0:0:0:
+#SERVICE 1:64:503:0:0:0:0:0:0:0:
 #DESCRIPTION +++Overijssel+++
 #SERVICE 4097:0:2:525f:c99:3:eb0000:0:0:0:http%3a//streams.rtvoost.nl/audio/oost/mp3:Radio Oost
 #DESCRIPTION Radio Oost
@@ -485,7 +493,7 @@
 #DESCRIPTION Zwartewater FM (Zwartewaterland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cc5.beheerstream.com/proxy/zwollefm:Zwolle FM 
 #DESCRIPTION Zwolle FM 
-#SERVICE 1:64:4fa:0:0:0:0:0:0:0:
+#SERVICE 1:64:504:0:0:0:0:0:0:0:
 #DESCRIPTION +++Utrecht+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media.rtvutrecht.nl/radiomutrecht-bb-mp3:RTV Utrecht - Radio M
 #DESCRIPTION RTV Utrecht - Radio M
@@ -553,7 +561,7 @@
 #DESCRIPTION Ultraradio Utrecht 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-25.stream-server.nl%3a8366/stream:Vallei Radio (Utrechtse en Gelderse vallei)
 #DESCRIPTION Vallei Radio (Utrechtse en Gelderse vallei)
-#SERVICE 1:64:4fb:0:0:0:0:0:0:0:
+#SERVICE 1:64:505:0:0:0:0:0:0:0:
 #DESCRIPTION +++Noord-Holland+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice.cr6.streamzilla.xlcdn.com%3a8000/sz=nhnieuws=NHRadio_mp3:NH (RTV Noord-Holland)
 #DESCRIPTION NH (RTV Noord-Holland)
@@ -801,7 +809,7 @@
 #DESCRIPTION XT Radio (Amsterdam)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.bytesheep.net/zfmzandvoort.mp3:ZFM (Zandvoort)
 #DESCRIPTION ZFM (Zandvoort)
-#SERVICE 1:64:4fc:0:0:0:0:0:0:0:
+#SERVICE 1:64:506:0:0:0:0:0:0:0:
 #DESCRIPTION +++Zuid-Holland+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.stream.bbvms.com/omroepwest_radio:Omroep West
 #DESCRIPTION Omroep West
@@ -1059,7 +1067,7 @@
 #DESCRIPTION ZFM Zoetermeer (Zoetermeer)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zosipv6radio.live-streams.nl%3a8100/live:ZOS Radio (Schiedam)
 #DESCRIPTION ZOS Radio (Schiedam)
-#SERVICE 1:64:4fd:0:0:0:0:0:0:0:
+#SERVICE 1:64:507:0:0:0:0:0:0:0:
 #DESCRIPTION +++Zeeland+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//livestream.zeelandnet.nl%3a8000/omroepzeeland_radio:Omroep Zeeland
 #DESCRIPTION Omroep Zeeland
@@ -1099,7 +1107,7 @@
 #DESCRIPTION Vintage Music Radio 1485 AM (Vlissingen - Zeeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rbx2.hnux.com/http%3a//149.202.22.75%3a8120/live:WFM96 (Middelburg, Veere, Vlissingen - Walcheren)
 #DESCRIPTION WFM96 (Middelburg, Veere, Vlissingen - Walcheren)
-#SERVICE 1:64:4fe:0:0:0:0:0:0:0:
+#SERVICE 1:64:508:0:0:0:0:0:0:0:
 #DESCRIPTION +++Noord-Brabant+++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.omroepbrabant.nl/mp3hq:Omroep Brabant
 #DESCRIPTION Omroep Brabant
@@ -1147,6 +1155,8 @@
 #DESCRIPTION Hot FM (Tilburg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.htrradio.nl%3a8010/HTRradio320:HTR Radio  (Heusden)
 #DESCRIPTION HTR Radio  (Heusden)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//caster04.streampakket.com/proxy/8390/stream.mp3:IRON RTV (Langstraat = Midden- en West-Brabant)
+#DESCRIPTION IRON RTV (Langstraat = Midden- en West-Brabant)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream5.jungletrain.net%3a8000/;stream/1:jungletrain.net (Veldhoven - Noord-Brabant)
 #DESCRIPTION jungletrain.net (Veldhoven - Noord-Brabant)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server-26.stream-server.nl%3a8632/stream:Just Music en Waanzin (Eindhoven e.o.)
@@ -1175,8 +1185,6 @@
 #DESCRIPTION MFM Brabant
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//totaal-streaming.de/radio/8040/320:NOVO3 (Vught)
 #DESCRIPTION NOVO3 (Vught)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//aalburgfm.gkstreamen.nl/;:OKË FM (Bommelerwaard - Noord-Brabant)
-#DESCRIPTION OKË FM (Bommelerwaard - Noord-Brabant)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s40.myradiostream.com%3a21042/stream:Omroep Baarle  (Baarle-Nassau)
 #DESCRIPTION Omroep Baarle  (Baarle-Nassau)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//109.235.33.237%3a8000/omroep.mp3:Omroep Best (Best)
@@ -1301,7 +1309,7 @@
 #DESCRIPTION West End Radio (Meireijstad)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.zuidwestfm.nl/zuidwest.mp3:ZuidWest FM (Bergen op Zoom/Roosendaal/Woensdrecht)
 #DESCRIPTION ZuidWest FM (Bergen op Zoom/Roosendaal/Woensdrecht)
-#SERVICE 1:64:4ff:0:0:0:0:0:0:0:
+#SERVICE 1:64:509:0:0:0:0:0:0:0:
 #DESCRIPTION +++Limburg+++
 #SERVICE 4097:0:2:3748:c8e:3:eb0000:0:0:0:http%3a//d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3:L1 Radio
 #DESCRIPTION L1 Radio
@@ -1327,6 +1335,8 @@
 #DESCRIPTION GL8 (Gelderland: Heumen; Limburg: Mook & Middelaar)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server6.inetcast.nl%3a1715/stream:GrenzRadio (Siebengewald)
 #DESCRIPTION GrenzRadio (Siebengewald)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cc6.beheerstream.com/proxy/nftwerfy:Heuvelland Vandaag
+#DESCRIPTION Heuvelland Vandaag
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//server-51.stream-server.nl%3a18340/stream:Heuvellandexpress (NL - LImburg)
 #DESCRIPTION Heuvellandexpress (NL - LImburg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-27.stream-server.nl%3a8388/:higher power radio
@@ -1385,7 +1395,7 @@
 #DESCRIPTION Weert FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//olon.az.icecast.ebsd.ericsson.net/loo_radio:ZO-NWS (regio Beekdaelen en Brunssum (Limburg)
 #DESCRIPTION ZO-NWS (regio Beekdaelen en Brunssum (Limburg)
-#SERVICE 1:64:500:0:0:0:0:0:0:0:
+#SERVICE 1:64:50a:0:0:0:0:0:0:0:
 #DESCRIPTION ++diversen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8065/stream:Studio Grensstad (BE en NL)
 #DESCRIPTION Studio Grensstad (BE en NL)

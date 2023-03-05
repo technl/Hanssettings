@@ -1,27 +1,25 @@
 #NAME Stream Oostenrijk (AT)
-#SERVICE 1:64:32d:0:0:0:0:0:0:0:
+#SERVICE 1:64:32b:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1665:ORF 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a06a:ORF 1 HD
 #DESCRIPTION ORF 1 HD
-#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/1664:ORF 2 HD
+#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//149.62.177.115%3a8042/play/a06b:ORF 2 HD
 #DESCRIPTION ORF 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/3492:ORF 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a01m:ORF 3 HD
 #DESCRIPTION ORF 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/2098:ORF Sport+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a01n:ORF Sport+ HD
 #DESCRIPTION ORF Sport+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:OE24.TV HD
 #DESCRIPTION OE24.TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/3489:ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a00u:ATV HD
 #DESCRIPTION ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/12643:ATV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a00s:ATV 2 HD
 #DESCRIPTION ATV 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/12644:Puls 4 Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.217.45%3a8008/play/a06u/index.m3u8:Puls 4 Austria
 #DESCRIPTION Puls 4 Austria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/174351:Puls 24 HD
-#DESCRIPTION Puls 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/193532:R9 Österreich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a06j:R9 Österreich
 #DESCRIPTION R9 Österreich
-#SERVICE 1:64:32e:0:0:0:0:0:0:0:
+#SERVICE 1:64:32c:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:6:2:6:0:0:0:0:https%3a//5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4%3alivestream/playlist.m3u8:Antenne Voralberg - Visual Radio
 #DESCRIPTION Antenne Voralberg - Visual Radio
@@ -43,6 +41,10 @@
 #DESCRIPTION Kronehit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8:Ländle TV
 #DESCRIPTION Ländle TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.m4tv.at/live/m4tv.stream/playlist.m3u8:M4TV
+#DESCRIPTION M4TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/ptv_vienna:P-TV
+#DESCRIPTION P-TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.rtv-ooe.at/stream.m3u8:RTV HD
 #DESCRIPTION RTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8:Schau TV

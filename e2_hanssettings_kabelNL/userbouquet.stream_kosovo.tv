@@ -1,9 +1,53 @@
 #NAME Stream Kosovo (XK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.56.10%3a1935/rtk1stream/rtk1.stream/playlist.m3u8:RTK 1 HD
-#DESCRIPTION RTK 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.rtkit.com%3a1935/rtk2stream/rtk2.stream/playlist.m3u8:RTK 2
+#SERVICE 1:64:257:0:0:0:0:0:0:0:
+#DESCRIPTION ++publieke omroepen++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq1080/index.m3u8:RTK 1
+#DESCRIPTION RTK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8:RTK 2
 #DESCRIPTION RTK 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.rtkit.com%3a1935/rtk3stream/rtk3.stream/playlist.m3u8:RTK 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk1080/index.m3u8:RTK 3
 #DESCRIPTION RTK 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.rtkit.com%3a1935/rtk4stream/rtk4.stream/playlist.m3u8:RTK 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt1080/index.m3u8:RTK 4
 #DESCRIPTION RTK 4
+#SERVICE 1:64:258:0:0:0:0:0:0:0:
+#DESCRIPTION ++commerciële omroepen++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4039:Arta
+#DESCRIPTION Arta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zyq0011080/index.m3u8:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4051:First Channel
+#DESCRIPTION First Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/280141:Kanal 10
+#DESCRIPTION Kanal 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//viptv.me%3a80/blackkill/vg8u9xXi8g/55232:Klan Kosova
+#DESCRIPTION Klan Kosova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//viptv.me%3a80/blackkill/vg8u9xXi8g/55231:Klan Plus
+#DESCRIPTION Klan Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/51988:KTV Kohavision
+#DESCRIPTION KTV Kohavision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4083:RTV 21
+#DESCRIPTION RTV 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4084:RTV 21 Junior
+#DESCRIPTION RTV 21 Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4086:RTV 21 Mix
+#DESCRIPTION RTV 21 Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/2549:RTV 21 Plus
+#DESCRIPTION RTV 21 Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/6909:RTV 21 Popullore
+#DESCRIPTION RTV 21 Popullore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/6722:T7
+#DESCRIPTION T7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/23150:Zico TV
+#DESCRIPTION Zico TV
+#SERVICE 1:64:259:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//viptv.me%3a80/blackkill/vg8u9xXi8g/55316:Besa
+#DESCRIPTION Besa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//viptv.me%3a80/blackkill/vg8u9xXi8g/56760:Dasma TV
+#DESCRIPTION Dasma TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//viptv.me%3a80/blackkill/vg8u9xXi8g/55312:Syri Vizion
+#DESCRIPTION Syri Vizion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//viptv.me%3a80/blackkill/vg8u9xXi8g/55233:Top Kosova
+#DESCRIPTION Top Kosova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//viptv.me%3a80/blackkill/vg8u9xXi8g/55318:TV Mitrovica
+#DESCRIPTION TV Mitrovica

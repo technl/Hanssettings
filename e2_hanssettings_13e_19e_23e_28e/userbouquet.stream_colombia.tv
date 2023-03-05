@@ -1,4 +1,50 @@
 #NAME Stream Colombia (CO)
+#SERVICE 1:64:371:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8:Canal 1
+#DESCRIPTION Canal 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video13.virtualtronics.com/streamer/canal2_720/index.m3u8:Canal 2
+#DESCRIPTION Canal 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8:Canal 9 Bío Bío Televisión
+#DESCRIPTION Canal 9 Bío Bío Televisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.117.4.70%3a8075/channel11/playlist.m3u8:Canal 11 TV Red
+#DESCRIPTION Canal 11 TV Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//teveo.com.co/player/AcAAAgAJAAFFA1IAyADIQCAAAAAAAAAA.js:Canal 12
+#DESCRIPTION Canal 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canaltrece-live.logicideas.media/canaltrece-live/smil%3alive.smil/playlist.m3u8:Canal 13
+#DESCRIPTION Canal 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.panelchs.com%3a1936/8012/8012/playlist.m3u8:Canal 13 Famili Channel
+#DESCRIPTION Canal 13 Famili Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canaltreceplus-live.logicideas.media/canaltreceplus-live/smil%3alive1plus.smil/playlist.m3u8:Canal 13 Plus
+#DESCRIPTION Canal 13 Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/zuldemayda.m3u8:Canal 13 Zuldemayda
+#DESCRIPTION Canal 13 Zuldemayda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8:Canal Capital
+#DESCRIPTION Canal Capital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/popular/popular/chunklist_.m3u8:Canal CNC HD
+#DESCRIPTION Canal CNC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8054/8054/playlist.m3u8:Canal CNC Cartagena
+#DESCRIPTION Canal CNC Cartagena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cncmedellin.ddns.net%3a1935/canalcnc/canalcnc_360p/playlist.m3u8:Canal CNC Medellin
+#DESCRIPTION Canal CNC Medellin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud28.vsgtech.co%3a3932/live/cncmonterialive.m3u8:Canal CNC Monteria
+#DESCRIPTION Canal CNC Monteria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/cncpasto/cncpasto/chunklist.m3u8:Canal CNC Pasto
+#DESCRIPTION Canal CNC Pasto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc1/cnc1/chunklist_.m3u8:Canal CNC Pasto Hits Channel
+#DESCRIPTION Canal CNC Pasto Hits Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc4/cnc4/chunklist_.m3u8:Canal CNC Pasto Sentimiento Vallenato
+#DESCRIPTION Canal CNC Pasto Sentimiento Vallenato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc3/cnc3/chunklist_.m3u8:Canal CNC Pasto Son Corazon
+#DESCRIPTION Canal CNC Pasto Son Corazon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc2/cnc2/chunklist_.m3u8:Canal CNC Pasto Son Latino
+#DESCRIPTION Canal CNC Pasto Son Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc7/cnc7/chunklist_.m3u8:Canal CNC Pasto Son Popular
+#DESCRIPTION Canal CNC Pasto Son Popular
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud28.vsgtech.co%3a3052/live/psctvlive.m3u8:PSC Televisión
+#DESCRIPTION PSC Televisión
+#SERVICE 1:64:372:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/canalacuario:Acuario Television
 #DESCRIPTION Acuario Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/atmtv/index.m3u8:ATM Televisión
@@ -13,40 +59,10 @@
 #DESCRIPTION Cablenoticias Bogotà
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video17.virtualtronics.com/streamer/canalcampotv.m3u8:Campo Televisión Santa Marta
 #DESCRIPTION Campo Televisión Santa Marta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8:Canal 1
-#DESCRIPTION Canal 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video13.virtualtronics.com/streamer/canal2_720/index.m3u8:Canal 2
-#DESCRIPTION Canal 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8:Canal 9 Bío Bío Televisión
-#DESCRIPTION Canal 9 Bío Bío Televisión
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.117.4.70%3a8075/channel11/playlist.m3u8:Canal 11 TV Red
-#DESCRIPTION Canal 11 TV Red
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8:Canal 12
-#DESCRIPTION Canal 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canaltrece-live.logicideas.media/canaltrece-live/smil%3alive.smil/playlist.m3u8:Canal 13
-#DESCRIPTION Canal 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canaltreceplus-live.logicideas.media/canaltreceplus-live/smil%3alive1plus.smil/playlist.m3u8:Canal 13 Plus
-#DESCRIPTION Canal 13 Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8:Canal Cali TV
 #DESCRIPTION Canal Cali TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/popular/popular/chunklist_.m3u8:Canal CNC HD
-#DESCRIPTION Canal CNC HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8054/8054/playlist.m3u8:Canal CNC Cartagena
-#DESCRIPTION Canal CNC Cartagena
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/canalcnc/canalcnc/chunklist.m3u8:Canal CNC Medellin
-#DESCRIPTION Canal CNC Medellin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/cncpasto/cncpasto/chunklist.m3u8:Canal CNC Pasto
-#DESCRIPTION Canal CNC Pasto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc1/cnc1/chunklist_.m3u8:Canal CNC Pasto Hits Channel
-#DESCRIPTION Canal CNC Pasto Hits Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc4/cnc4/chunklist_.m3u8:Canal CNC Pasto Sentimiento Vallenato
-#DESCRIPTION Canal CNC Pasto Sentimiento Vallenato
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc3/cnc3/chunklist_.m3u8:Canal CNC Pasto Son Corazon
-#DESCRIPTION Canal CNC Pasto Son Corazon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc2/cnc2/chunklist_.m3u8:Canal CNC Pasto Son Latino
-#DESCRIPTION Canal CNC Pasto Son Latino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc7/cnc7/chunklist_.m3u8:Canal CNC Pasto Son Popular
-#DESCRIPTION Canal CNC Pasto Son Popular
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//teveo.com.co/player/AeAAAgAlAANrA1IAyADIQCAAAAAAAAAAA.js:Canal Cartagena
+#DESCRIPTION Canal Cartagena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil%3alive.smil/chunklist_b1500000.m3u8:Canal Institucional
 #DESCRIPTION Canal Institucional
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hd.chileservidores.cl%3a1936/latina/latina/playlist.m3u8:Canal Latino
@@ -61,6 +77,8 @@
 #DESCRIPTION Canal VIP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canalzoom.itex.com.co%3a3027/live/canalzoombr1live.m3u8:Canal Zoom
 #DESCRIPTION Canal Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8:Cantina TV
+#DESCRIPTION Cantina TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videohls2.cosmovision.tv/hls/sd.m3u8:Cosmovision
 #DESCRIPTION Cosmovision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8:CTV Barranquilla
@@ -73,6 +91,8 @@
 #DESCRIPTION Enlace Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcpar.myplaytv.com/esportsmax/live/playlist.m3u8:Esports Max
 #DESCRIPTION Esports Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcpar.myplaytv.com/fiestamax/live/playlist.m3u8:Fiesta Max
+#DESCRIPTION Fiesta Max
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pastocnc1.ddns.net%3a1935/pastocnc8/cnc8/chunklist_.m3u8:Galeras TV
 #DESCRIPTION Galeras TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv.panelcast.net/halcontv/halcontv/playlist.m3u8:HRTV
@@ -111,9 +131,11 @@
 #DESCRIPTION Red+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetv.305streamhd.com%3a3111/multi_live/play.m3u8:Suram TV
 #DESCRIPTION Suram TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.ejeserver.com/live/telesanjacinto.m3u8:Tele San Jacinto
+#DESCRIPTION Tele San Jacinto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==:Telecaribe
 #DESCRIPTION Telecaribe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//vbox2.cehis.net/live-teleislas/teleislas app=live-teleislas pageUrl=https%3a//streaming.com.co/clientes/teleislas/index.html swfUrl=https%3a//cehis.net/player55/player.swf tcUrl=rtmp%3a//vbox2.cehis.net/live-teleislas playPath=teleislas live=1:Teleislas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8:Teleislas
 #DESCRIPTION Teleislas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.logicideas.media/telepacifico-live/smil%3alive.smil/chunklist_b4500000.m3u8:Telepacifico
 #DESCRIPTION Telepacifico
@@ -125,7 +147,5 @@
 #DESCRIPTION VAM Vid's & More
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/veotv.m3u8:Veo Television
 #DESCRIPTION Veo Television
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/zuldemayda.m3u8:Zuldemayda Canal 13
-#DESCRIPTION Zuldemayda Canal 13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.ejeserver.com/live/zuldemayda.m3u8:Zuldemayda Comunicaciones
 #DESCRIPTION Zuldemayda Comunicaciones

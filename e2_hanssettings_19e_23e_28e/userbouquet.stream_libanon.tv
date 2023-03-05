@@ -15,6 +15,8 @@
 #DESCRIPTION Al Manar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdnlv.cdn.octivid.com/almdn/smil%3ampegts.stream.smil/playlist.m3u8:Al Mayadeen
 #DESCRIPTION Al Mayadeen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alwifaklive.info%3a1935/live/myStream/playlist.m3u8:Al Wifak
+#DESCRIPTION Al Wifak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8:Aliman TV
 #DESCRIPTION Aliman TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/chunks.m3u8:Almasirah Mubasher TV
@@ -37,8 +39,8 @@
 #DESCRIPTION Nabaa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.14.40.237%3a1935/live/Nabaa/chunklist.m3u8:Nabaa TV -2-
 #DESCRIPTION Nabaa TV -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nbntv.me%3a8443/nbntv/index.m3u8:NBN HD
-#DESCRIPTION NBN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8:NBN
+#DESCRIPTION NBN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8:Nour Al Koddas
 #DESCRIPTION Nour Al Koddas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8:Nour Al Sharq

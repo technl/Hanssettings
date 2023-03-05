@@ -1,5 +1,5 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:1c6d:0:0:0:0:0:0:0:
+#SERVICE 1:64:530:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
@@ -81,8 +81,10 @@
 #DESCRIPTION Familyradio Beiaard (Dendermonde)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/enjoyfm:Familieradio Enjoy FM (Merchtem)
 #DESCRIPTION Familieradio Enjoy FM (Merchtem)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.impek.com%3a8300/stream:FG XTRA (Antwerpen, BE)
-#DESCRIPTION FG XTRA (Antwerpen, BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/5wesqhfap98uv:FG Antwerpen
+#DESCRIPTION FG Antwerpen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/w33p2cfap98uv:FG Xtra
+#DESCRIPTION FG Xtra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media1.hostin.cc/fiestaradio.mp3:Fiësta Radio (Diest, Vlaanderen, BE)
 #DESCRIPTION Fiësta Radio (Diest, Vlaanderen, BE)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.fmbrussel.be/:FM Brussel (Brussel e.o.)
@@ -535,7 +537,7 @@
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:1c6e:0:0:0:0:0:0:0:
+#SERVICE 1:64:531:0:0:0:0:0:0:0:
 #DESCRIPTION ++Brussel en Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)

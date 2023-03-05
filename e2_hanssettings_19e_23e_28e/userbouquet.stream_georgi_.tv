@@ -5,6 +5,8 @@
 #DESCRIPTION Formula TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8:Imedi TV
 #DESCRIPTION Imedi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.services.everywan.net%3a8080/martv-web/video.m3u8:Mar TV
+#DESCRIPTION Mar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8:Mtavari Arkhi
 #DESCRIPTION Mtavari Arkhi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.palitra.ge/hls/palitratv/index.m3u8:Palitra News

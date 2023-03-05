@@ -1,5 +1,5 @@
 #NAME Stream Maleisië (MY)
-#SERVICE 1:64:1b11:0:0:0:0:0:0:0:
+#SERVICE 1:64:3cb:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/TV1/playlist.m3u8:RTM 1
 #DESCRIPTION RTM 1
@@ -15,7 +15,7 @@
 #DESCRIPTION TV 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884940 :Astro AEC
 #DESCRIPTION Astro AEC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Awani/playlist.m3u8:Astro Awani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8:Astro Awani
 #DESCRIPTION Astro Awani
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Ceria/playlist.m3u8:Astro Ceria
 #DESCRIPTION Astro Ceria
@@ -33,9 +33,9 @@
 #DESCRIPTION Astro Shuang Xing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Xiaotaiyang/playlist.m3u8:Astro Xiao Tai Yang
 #DESCRIPTION Astro Xiao Tai Yang
-#SERVICE 1:64:1b12:0:0:0:0:0:0:0:
+#SERVICE 1:64:3cc:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live:Bernama TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.youtb.workers.dev/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8:Bernama TV
 #DESCRIPTION Bernama TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Boo/playlist.m3u8:Boo
 #DESCRIPTION Boo
@@ -43,8 +43,6 @@
 #DESCRIPTION Celestial Classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8:Channel News Asia
 #DESCRIPTION Channel News Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h22/01.m3u8:eGG Network
-#DESCRIPTION eGG Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Hbo/playlist.m3u8:HBO Malaysia
 #DESCRIPTION HBO Malaysia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h08/01.m3u8:K+
