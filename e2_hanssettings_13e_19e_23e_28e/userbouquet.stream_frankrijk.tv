@@ -1,5 +1,5 @@
 #NAME Stream Frankrijk (FR)
-#SERVICE 1:64:381:0:0:0:0:0:0:0:
+#SERVICE 1:64:35f:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:2460:440:1:c00000:0:0:0:http%3a//livetv.ktv.zone/3/play.m3u8:TF1
 #DESCRIPTION TF1
@@ -43,7 +43,7 @@
 #DESCRIPTION RTL 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/11/play.m3u8:W9
 #DESCRIPTION W9
-#SERVICE 1:64:382:0:0:0:0:0:0:0:
+#SERVICE 1:64:360:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END:BFM TV
 #DESCRIPTION BFM TV
@@ -101,7 +101,7 @@
 #DESCRIPTION TMC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/61/play.m3u8:TV5 Monde Europe
 #DESCRIPTION TV5 Monde Europe
-#SERVICE 1:64:383:0:0:0:0:0:0:0:
+#SERVICE 1:64:361:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//3abn-live.akamaized.net/hls/live/2010546-b/French/master.m3u8:3ABN French
 #DESCRIPTION 3ABN French

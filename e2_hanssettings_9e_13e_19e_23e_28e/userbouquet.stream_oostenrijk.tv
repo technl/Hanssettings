@@ -1,25 +1,29 @@
 #NAME Stream Oostenrijk (AT)
-#SERVICE 1:64:3d9:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b7:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a06a:ORF 1 HD
-#DESCRIPTION ORF 1 HD
-#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//149.62.177.115%3a8042/play/a06b:ORF 2 HD
-#DESCRIPTION ORF 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a01m:ORF 3 HD
-#DESCRIPTION ORF 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a01n:ORF Sport+ HD
+#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//185.234.217.45%3a8004/play/a06r/index.m3u8:ORF 1
+#DESCRIPTION ORF 1
+#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2328:ORF 1 -2-
+#DESCRIPTION ORF 1 -2-
+#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//185.234.217.45%3a8004/play/a06s/index.m3u8:ORF 2 Wien
+#DESCRIPTION ORF 2 Wien
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2293:ORF 3
+#DESCRIPTION ORF 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/113012:ORF Sport+ HD
 #DESCRIPTION ORF Sport+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:OE24.TV HD
 #DESCRIPTION OE24.TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a00u:ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.217.45%3a8004/play/a078/index.m3u8:ATV HD
 #DESCRIPTION ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a00s:ATV 2 HD
-#DESCRIPTION ATV 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.217.45%3a8008/play/a06u/index.m3u8:Puls 4 Austria
-#DESCRIPTION Puls 4 Austria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.62.177.115%3a8042/play/a06j:R9 Österreich
-#DESCRIPTION R9 Österreich
-#SERVICE 1:64:3da:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2301:ATV 2
+#DESCRIPTION ATV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2287:Puls 4
+#DESCRIPTION Puls 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/207376:R9 HD
+#DESCRIPTION R9 HD
+#SERVICE 4097:0:1:1331:3ef:1:c00000:0:0:0:http%3a//185.234.217.45%3a8004/play/a06t/index.m3u8:Servus TV Österreich
+#DESCRIPTION Servus TV Österreich
+#SERVICE 1:64:3b8:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:6:2:6:0:0:0:0:https%3a//5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4%3alivestream/playlist.m3u8:Antenne Voralberg - Visual Radio
 #DESCRIPTION Antenne Voralberg - Visual Radio
@@ -45,6 +49,8 @@
 #DESCRIPTION M4TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/ptv_vienna:P-TV
 #DESCRIPTION P-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_vstxdcuh/tl/main/st/0/t/GR63rDXKl5UwbPGZBAuOKw/index-s32.m3u8:Radio Pilatus
+#DESCRIPTION Radio Pilatus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.rtv-ooe.at/stream.m3u8:RTV HD
 #DESCRIPTION RTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8:Schau TV

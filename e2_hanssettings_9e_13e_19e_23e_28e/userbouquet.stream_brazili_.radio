@@ -1,3 +1,97 @@
-#NAME Stream Brazilië
+#NAME Stream Brazilië (BR)
+#SERVICE 1:64:585:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/chunks.m3u8:Nacional FM
+#DESCRIPTION Nacional FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//26373.live.streamtheworld.com/CBN_SPAAC.aac:Central Brasileira de Notícias Brasilia
+#DESCRIPTION Central Brasileira de Notícias Brasilia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//26373.live.streamtheworld.com/CBN_SPAAC.aac:Central Brasileira de Notícias Belo Horizonte
+#DESCRIPTION Central Brasileira de Notícias Belo Horizonte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//26373.live.streamtheworld.com/CBN_SPAAC.aac:Central Brasileira de Notícias Rio de Janeiro
+#DESCRIPTION Central Brasileira de Notícias Rio de Janeiro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//26373.live.streamtheworld.com/CBN_SPAAC.aac:Central Brasileira de Notícias Sãu Paulo
+#DESCRIPTION Central Brasileira de Notícias Sãu Paulo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiomec-stream.ebc.com.br/ebc/radiomec/chunks.m3u8:Rádio MEC Baú Musical
+#DESCRIPTION Rádio MEC Baú Musical
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radionacionalbrasilia-stream.ebc.com.br/ebc/radionacionalbrasilia/chunks.m3u8:Rádio Nacional Brasilia
+#DESCRIPTION Rádio Nacional Brasilia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radionacionalaltosolimoes-stream.ebc.com.br/ebc/radionacionalaltosolimoes/chunks.m3u8:Rádio Nacional Alto Solimões
+#DESCRIPTION Rádio Nacional Alto Solimões
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/chunks.m3u8:Rádio Nacional Amazônia
+#DESCRIPTION Rádio Nacional Amazônia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/chunks.m3u8:Rádio Nacional Rio de Janeiro
+#DESCRIPTION Rádio Nacional Rio de Janeiro
+#SERVICE 1:64:586:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antenaone.crossradio.com.br/stream/2:Antena 1
+#DESCRIPTION Antena 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a1rj.streams.com.br/stream:Antena 1 Rio de Janeiro
+#DESCRIPTION Antena 1 Rio de Janeiro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.megadj.com.br/listen/belavista/radio.mp3:Bela Vista 98.5 FM
+#DESCRIPTION Bela Vista 98.5 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.livespanel.com%3a20000/live:FM O Dia 100.5
+#DESCRIPTION FM O Dia 100.5
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//17513.live.streamtheworld.com/JP_SP_FMAAC.aac:Jovem Pan
+#DESCRIPTION Jovem Pan
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//26593.live.streamtheworld.com/JP_SP_AMAAC.aac:Jovem Pan 620 AM
+#DESCRIPTION Jovem Pan 620 AM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//142.44.230.74%3a9173/live:Jovem Pan News
+#DESCRIPTION Jovem Pan News
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//servidor30-2.brlogic.com%3a8500/live:Kairós FM 88.7
+#DESCRIPTION Kairós FM 88.7
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-64.zeno.fm/vg7dyvrw6bhvv?zs=TtVlkVaHToOtwr66AlB9lQ:Luiz FM 104 FM
+#DESCRIPTION Luiz FM 104 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonicpanel.oficialserver.com%3a7041:Nativa FM 99.3
+#DESCRIPTION Nativa FM 99.3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//03.bitstreaming.info%3a7878/stream:Paraíso FM 101.1
+#DESCRIPTION Paraíso FM 101.1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//26653.live.streamtheworld.com/POSITIVIDADE_FM_ADP.aac:Positividade FM 104.5
+#DESCRIPTION Positividade FM 104.5
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast4.hoost.com.br%3a20190/stream:Rádio 92 FM
+#DESCRIPTION Rádio 92 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//26673.live.streamtheworld.com/FM93AAC.aac:Rádio 93 FM
+#DESCRIPTION Rádio 93 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live1.livemus.com.br%3a27306/stream:Rádio Antena 8 104.9 FM
+#DESCRIPTION Rádio Antena 8 104.9 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//10.stmip.net%3a8292/stream:Rádio Boa Vista 87.9 FM
+#DESCRIPTION Rádio Boa Vista 87.9 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shout35.crossradio.com.br%3a8064/1:Rádio Boa Vista FM 99,3
+#DESCRIPTION Rádio Boa Vista FM 99,3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//play.braudio.com.br/ssl.php?p=7088&s=srv1:Rádio Cantate 104.5 FM
+#DESCRIPTION Rádio Cantate 104.5 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20843.live.streamtheworld.com/RADIOCIDADEAAC.aac:Radio Cidada 102.9 FM
+#DESCRIPTION Radio Cidada 102.9 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/5610bfdf-f622-4e84-b6e0-51fc82956cf7/0/playlist.m3u8:Rádio Disney Brasil
+#DESCRIPTION Rádio Disney Brasil
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cc6.streammaximum.com/proxy/radiofolha/stream:Rádio Folha 100.3 FM
+#DESCRIPTION Rádio Folha 100.3 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//26253.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac:Rádio Globo
+#DESCRIPTION Rádio Globo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//15723.live.streamtheworld.com/JBFMAAC1.aac:Radio JBFM 99.9
+#DESCRIPTION Radio JBFM 99.9
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18183.live.streamtheworld.com/MELODIAFMAAC.aac:Radio Melodia 97.6 FM
+#DESCRIPTION Radio Melodia 97.6 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//f30.fabricahost.com.br/metropolitana985sp?f=1678044311N01GTSKRBM26KN4R02CXYKCHDGJ&tid=01GTSKRBM2BY08GYW26D95Q5NJ:Rádio Metropolitana 98.5 Sao Paulo
+#DESCRIPTION Rádio Metropolitana 98.5 Sao Paulo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metro1090.html5player.acessaradios.com.br%3a7092/metro1090:Rádio Metropolitana 1090 AM Rio de Janeiro
+#DESCRIPTION Rádio Metropolitana 1090 AM Rio de Janeiro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stm2.painelcast.com%3a7532/stream?1678044789115:Rádio Record 1000 AM
+#DESCRIPTION Rádio Record 1000 AM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//148.72.158.239%3a8031/live:Rádio Sinal 2
+#DESCRIPTION Rádio Sinal 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-55.zeno.fm/z5z5ddfqyeruv?zs=jGCth8oORFSd8axcHtKjTA:Rio Sul Radio 2
+#DESCRIPTION Rio Sul Radio 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str02.kfmidia.com.br%3a8024/stream:Rota Do Sol FM 107.8
+#DESCRIPTION Rota Do Sol FM 107.8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20813.live.streamtheworld.com/SULAMERICAAAC.aac:SúlAmerica Paradiso 95.7 FM
+#DESCRIPTION SúlAmerica Paradiso 95.7 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//8923.brasilstream.com.br/stream:Super Rádio Tupi 96.5 FM
+#DESCRIPTION Super Rádio Tupi 96.5 FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//6d9a.webradio.upx.net.br.%3a9895/stream:Tomorrowland Brasil 
 #DESCRIPTION Tomorrowland Brasil 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//8923.brasilstream.com.br/stream:Tupi Rádio Tupi 96.5
+#DESCRIPTION Tupi Rádio Tupi 96.5
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stm01.virtualcast.com.br%3a8100/live:Vale FM 91.3
+#DESCRIPTION Vale FM 91.3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//r13.ciclano.io%3a8771/stream:Zebu FM 93.9
+#DESCRIPTION Zebu FM 93.9

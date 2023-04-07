@@ -1,5 +1,5 @@
 #NAME Stream Spanje (ES)
-#SERVICE 1:64:288:0:0:0:0:0:0:0:
+#SERVICE 1:64:264:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.36.81%3a18000/LA_1/hls/playlist.m3u8:TVE 1
 #DESCRIPTION TVE 1
@@ -71,7 +71,7 @@
 #DESCRIPTION Canal Parlamento
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8:France 24 Español
 #DESCRIPTION France 24 Español
-#SERVICE 1:64:289:0:0:0:0:0:0:0:
+#SERVICE 1:64:265:0:0:0:0:0:0:0:
 #DESCRIPTION ++regionaal++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-origin/canal324-hls/bitrate_7.m3u8:3/24
 #DESCRIPTION 3/24
@@ -289,7 +289,7 @@
 #DESCRIPTION TVO San Vicente
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//secure3.todostreaming.es/live/visionseis-livestream.m3u8:Visión 6 TV
 #DESCRIPTION Visión 6 TV
-#SERVICE 1:64:28a:0:0:0:0:0:0:0:
+#SERVICE 1:64:266:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8:A Punt TV
 #DESCRIPTION A Punt TV

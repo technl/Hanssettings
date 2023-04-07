@@ -1,5 +1,5 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:39d:0:0:0:0:0:0:0:
+#SERVICE 1:64:37b:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a02g:Rai 1
 #DESCRIPTION Rai 1
@@ -73,7 +73,7 @@
 #DESCRIPTION TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139329:Sky TG 24
 #DESCRIPTION Sky TG 24
-#SERVICE 1:64:39e:0:0:0:0:0:0:0:
+#SERVICE 1:64:37c:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
@@ -313,7 +313,7 @@
 #DESCRIPTION My Surf TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8:New Signal TV Genova
 #DESCRIPTION New Signal TV Genova
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannunsec-lh.akamaihd.net/i/tv_1@868496/master.m3u8:NSL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannlivensl.cachefly.net/Protected/sp=1;dirmatch=true;ip=77.173.172.158/a9f42612edc178165b41bd82c27a0a3dbdfb8ca85cb51a52543ef56310471fe7/nsl1/nsl1/playlist.m3u8:NSL
 #DESCRIPTION NSL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.ntimedia.it/video/S0/S0_master.m3u8:NTI Canale 271
 #DESCRIPTION NTI Canale 271

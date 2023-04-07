@@ -1,5 +1,5 @@
 #NAME Stream Australië (AU)
-#SERVICE 1:64:209:0:0:0:0:0:0:0:
+#SERVICE 1:64:1e5:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1227792883?ticket=95B6D646B3CC94E61FDA58B0BCF53ABA4060FDF6&profile=pass:ABC TV HD
 #DESCRIPTION ABC TV HD
@@ -65,7 +65,7 @@
 #DESCRIPTION SBS World Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1128185890?ticket=E0AD0F8B760047A4A34C6DA18D16893DE360E4E1&profile=pass:SBS World Watch
 #DESCRIPTION SBS World Watch
-#SERVICE 1:64:20a:0:0:0:0:0:0:0:
+#SERVICE 1:64:1e6:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8:Ausbiz TV
 #DESCRIPTION Ausbiz TV
@@ -107,7 +107,7 @@
 #DESCRIPTION Trace Sport Stars
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8:TVSN
 #DESCRIPTION TVSN
-#SERVICE 1:64:20b:0:0:0:0:0:0:0:
+#SERVICE 1:64:1e7:0:0:0:0:0:0:0:
 #DESCRIPTION +++radio+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1618888332?ticket=B65C2161BF3A52F3921B922A345EFEF3C41CB064&profile=pass:ABC Brisbane
 #DESCRIPTION ABC Brisbane

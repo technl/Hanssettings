@@ -1,7 +1,7 @@
 #NAME Stream Zwitserland (CH)
-#SERVICE 1:64:416:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f4:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.28.87.164%3a8000/play/a0it:RSI La 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/19763:RSI La 1 HD
 #DESCRIPTION RSI La 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/1993:RSI La 2 HD
 #DESCRIPTION RSI La 2 HD
@@ -13,23 +13,25 @@
 #DESCRIPTION RTS 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/2/play.m3u8:RTS 2 HD -2-
 #DESCRIPTION RTS 2 HD -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00h:SRF 1 HD
+#SERVICE 4097:0:1:4331:300c:13e:820000:0:0:0:http%3a//185.236.229.31%3a9981/play/a00h:SRF 1 HD
 #DESCRIPTION SRF 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00i:SRF 2 HD
+#SERVICE 4097:0:1:4332:300c:13e:820000:0:0:0:http%3a//185.236.229.31%3a9981/play/a00i:SRF 2 HD
 #DESCRIPTION SRF 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-tv.uk%3a8080/Mitcko_skype/qtcyt6X2gQS4/11746:SRF Info HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/19753:SRF Info HD
 #DESCRIPTION SRF Info HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8:SRF Regional
 #DESCRIPTION SRF Regional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-tv.uk%3a8080/Mitcko_skype/qtcyt6X2gQS4/11751:3+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/19777:3+
 #DESCRIPTION 3+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/2809:4+
 #DESCRIPTION 4+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-tv.uk%3a8080/Mitcko_skype/qtcyt6X2gQS4/11753:5+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/59862:5+
 #DESCRIPTION 5+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/14264:6+
 #DESCRIPTION 6+
-#SERVICE 1:64:417:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/59861:Puls 8
+#DESCRIPTION Puls 8
+#SERVICE 1:64:3f5:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/ik%3aalpen-wellelivestream/playlist.m3u8:Alpenland TV
 #DESCRIPTION Alpenland TV
@@ -47,11 +49,11 @@
 #DESCRIPTION Kanal 9 en Français
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8:La Télé
 #DESCRIPTION La Télé
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//lfmmd.vedge.infomaniak.com/livecast/smil%3alfmmd.smil/chunklist.m3u8:LFM
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3alfmmd/manifest.m3u8:LFM
 #DESCRIPTION LFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.meteonews.net/hls/stream.m3u8:Meteonews
 #DESCRIPTION Meteonews
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.gruppocdt.ch/hls/radio3i.m3u8:Radio 3i
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vstream-cdn.ch/hls/radio3i_1080p/index.m3u8:Radio 3i
 #DESCRIPTION Radio 3i
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_vstxdcuh/tl/main/st/0/t/GR63rDXKl5UwbPGZBAuOKw/index-s32.m3u8:Radio Pilatus webcam
 #DESCRIPTION Radio Pilatus webcam

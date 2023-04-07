@@ -1,5 +1,5 @@
 #NAME Stream USA (US)
-#SERVICE 1:64:3fd:0:0:0:0:0:0:0:
+#SERVICE 1:64:3db:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders networks++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/8460:ABC 7 Los Angeles
 #DESCRIPTION ABC 7 Los Angeles
@@ -63,7 +63,7 @@
 #DESCRIPTION TCM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/4876:TNT
 #DESCRIPTION TNT
-#SERVICE 1:64:3fe:0:0:0:0:0:0:0:
+#SERVICE 1:64:3dc:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/4960:A&E
 #DESCRIPTION A&E
@@ -151,7 +151,7 @@
 #DESCRIPTION USA Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2do1g43aq7264.cloudfront.net/playlist.m3u8:Vice East
 #DESCRIPTION Vice East
-#SERVICE 1:64:3ff:0:0:0:0:0:0:0:
+#SERVICE 1:64:3dd:0:0:0:0:0:0:0:
 #DESCRIPTION ++landelijke nieuwszenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/2734:ABC News
 #DESCRIPTION ABC News
@@ -255,7 +255,7 @@
 #DESCRIPTION Yahoo! Finance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8:Yahoo! News
 #DESCRIPTION Yahoo! News
-#SERVICE 1:64:400:0:0:0:0:0:0:0:
+#SERVICE 1:64:3de:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders sport++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/696727:AT&T Sportsnet Pittsburgh
 #DESCRIPTION AT&T Sportsnet Pittsburgh
@@ -315,7 +315,7 @@
 #DESCRIPTION WWE Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mytv.fun%3a80/i56ov74dxg/3yxfxhvomg/688786:Yes Network
 #DESCRIPTION Yes Network
-#SERVICE 1:64:401:0:0:0:0:0:0:0:
+#SERVICE 1:64:3df:0:0:0:0:0:0:0:
 #DESCRIPTION ++nieuwsfeeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8:ABC News 1
 #DESCRIPTION ABC News 1
@@ -377,7 +377,7 @@
 #DESCRIPTION NBC News Now Event 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8:WSJ Live 
 #DESCRIPTION WSJ Live 
-#SERVICE 1:64:402:0:0:0:0:0:0:0:
+#SERVICE 1:64:3e0:0:0:0:0:0:0:0:
 #DESCRIPTION ++regionale informatieve uitzendingen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil%3awbrz-live.smil/chunklist.m3u8:ABC 2 Baton Rouge (WBRZ)
 #DESCRIPTION ABC 2 Baton Rouge (WBRZ)
@@ -563,7 +563,7 @@
 #DESCRIPTION NBC 15 Madison
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8:NBC 26 Green Bay
 #DESCRIPTION NBC 26 Green Bay
-#SERVICE 1:64:403:0:0:0:0:0:0:0:
+#SERVICE 1:64:3e1:0:0:0:0:0:0:0:
 #DESCRIPTION ++lokale uitzendingen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8:7 News Boston
 #DESCRIPTION 7 News Boston
@@ -1111,7 +1111,7 @@
 #DESCRIPTION WSVI-TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//fss29.streamhoster.com/lv_goodlife45f1 playpath=broadcast1 swfUrl=http%3a//public.streamhoster.com/Resources/Flash/JWFLVMediaPlayer/mediaplayer.swf pageUrl=http%3a//www.tv45.org/watch-now/:WTGL-TV Good Life 45
 #DESCRIPTION WTGL-TV Good Life 45
-#SERVICE 1:64:404:0:0:0:0:0:0:0:
+#SERVICE 1:64:3e2:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8:3ABN
 #DESCRIPTION 3ABN

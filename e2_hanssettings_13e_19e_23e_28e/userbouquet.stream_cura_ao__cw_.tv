@@ -1,6 +1,8 @@
 #NAME Stream Curaçao (CW)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8:Bonce TV
 #DESCRIPTION Bonce TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8:DCTV
+#DESCRIPTION DCTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannlivecariflix.cachefly.net/cariflix12/cariflix12/playlist.m3u8:Intermediate League Curacao
 #DESCRIPTION Intermediate League Curacao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8:Nos Pais TV
@@ -9,5 +11,7 @@
 #DESCRIPTION TCFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.streann.com%3a8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8:TeleCuracao
 #DESCRIPTION TeleCuracao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.tvdirect13.com/live/smil%3amystream.smil/playlist_720p.m3u8:TV Direct 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sincerecloud.stream/loadbalancer/secure/OVik9SEuS75m6Jy9V2Fr1w/1679997279/hPtgrdyt.m3u8:TV Direct 13
 #DESCRIPTION TV Direct 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8:VAM Vids & More 
+#DESCRIPTION VAM Vids & More 

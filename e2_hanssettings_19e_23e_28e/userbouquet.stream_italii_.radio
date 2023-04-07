@@ -1,5 +1,5 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:555:0:0:0:0:0:0:0:
+#SERVICE 1:64:533:0:0:0:0:0:0:0:
 #DESCRIPTION ++Rai++
 #SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//icestreaming.rai.it/1.mp3:Rai Radio 1
 #DESCRIPTION Rai Radio 1
@@ -27,8 +27,8 @@
 #DESCRIPTION Rai No Name Radio
 #SERVICE 4097:0:2:13:0:0:0:0:0:0:http%3a//icestreaming.rai.it/11.mp3:Rai Radio Kids
 #DESCRIPTION Rai Radio Kids
-#SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it%3a80/10.mp3:Rai Radio Live
-#DESCRIPTION Rai Radio Live
+#SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it%3a80/10.mp3:Rai Radio Live Napoli
+#DESCRIPTION Rai Radio Live Napoli
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icestreaming.rai.it/9.mp3:Rai Radio Techetè
 #DESCRIPTION Rai Radio Techetè
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:https%3a//raievent9-live.akamaized.net/hls/live/619188/raievent9/raievent9/playlist.m3u8:Rai Radio TRST A 
@@ -37,7 +37,7 @@
 #DESCRIPTION Rai Radio Tutta Italiana
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiobzlive.rai.it/RAIBZ_Livestream:Rai Südtirol
 #DESCRIPTION Rai Südtirol
-#SERVICE 1:64:556:0:0:0:0:0:0:0:
+#SERVICE 1:64:534:0:0:0:0:0:0:0:
 #DESCRIPTION ++festival San Remo, themazenders++
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um049.mp3:Music Radio Festival Le Canzoni Vincitrici
 #DESCRIPTION Music Radio Festival Le Canzoni Vincitrici
@@ -47,7 +47,7 @@
 #DESCRIPTION United Music Radio Festival 1951-1999
 #SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//icecast.unitedradio.it/um112.mp3:United Music Radio Festival 2000-2021
 #DESCRIPTION United Music Radio Festival 2000-2021
-#SERVICE 1:64:557:0:0:0:0:0:0:0:
+#SERVICE 1:64:535:0:0:0:0:0:0:0:
 #DESCRIPTION ++overig Italiaans++
 #SERVICE 4097:0:2:273:0:0:0:0:0:0:http%3a//icy.unitedradio.it/105_522.mp3:105 BSMNT
 #DESCRIPTION 105 BSMNT

@@ -13,6 +13,8 @@
 #DESCRIPTION Radio Ngoma
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rs1.radiostreamer.com%3a8000:Radio Okapi
 #DESCRIPTION Radio Okapi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rs1.radiostreamer.com%3a8030/listen.pls:Radio Okapi Enfant
+#DESCRIPTION Radio Okapi Enfant
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.59.42.207%3a8080:Radio TV Mix Congolaise
 #DESCRIPTION Radio TV Mix Congolaise
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ratelkiradio.ice.infomaniak.ch/ratelkiradio-64.mp3:Ratelki

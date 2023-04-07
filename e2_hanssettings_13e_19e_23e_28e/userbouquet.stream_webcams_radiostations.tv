@@ -1,5 +1,5 @@
 #NAME Stream webcams radiostations
-#SERVICE 1:64:23b:0:0:0:0:0:0:0:
+#SERVICE 1:64:219:0:0:0:0:0:0:0:
 #DESCRIPTION ++Nederland landelijk++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bnr-cache-cdp.triple-it.nl/studio/index.m3u8:BNR Nieuwsradio
 #DESCRIPTION BNR Nieuwsradio
@@ -13,27 +13,27 @@
 #DESCRIPTION Radio NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioveronica.prd1.talpatvcdn.nl/a1115cc610fd42418e2f6d7e29a01c3c/index_1.m3u8:Radio Veronica
 #DESCRIPTION Radio Veronica
-#SERVICE 1:64:23c:0:0:0:0:0:0:0:
+#SERVICE 1:64:21a:0:0:0:0:0:0:0:
 #DESCRIPTION ++Nederland regionaal++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.uitzending.tv%3a19360/gigantfm/gigantfm.m3u8:Gigant FM studiocam (Groningen + Drenthe)
 #DESCRIPTION Gigant FM studiocam (Groningen + Drenthe)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=nhnieuws&file=nhradio&type=live&service=wowza&protocol=https&output=playlist.m3u8:NH Radio
 #DESCRIPTION NH Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvstream.grumpydutchradio.nl%3a81/tv/studio1.m3u8:NL Music
+#DESCRIPTION NL Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8:Omroep Brabant
+#DESCRIPTION Omroep Brabant
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/radio/index.m3u8:Omroep Flevoland
 #DESCRIPTION Omroep Flevoland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2od87akyl46nm.cloudfront.net/live/omroepgelderland/meekijkradio-hls/index.m3u8:Omroep Gelderland radiostudio
+#DESCRIPTION Omroep Gelderland radiostudio
 #SERVICE 4097:0:1:33d:c35a:9e:5a0000:0:0:0:http%3a//5f1b356656745.streamlock.net/radiocontinu/live/chunklist.m3u8:Radio Continu
 #DESCRIPTION Radio Continu
 #SERVICE 4097:0:1:33d:c35a:9e:5a0000:0:0:0:https%3a//streaming05.stream.delivery/radiocontinu/live/playlist.m3u8:Radio Continu -2-
 #DESCRIPTION Radio Continu -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radiojnd.cdn.hostin.cc/radiojnd/chunklist_w395219843.m3u8:Radio JND
 #DESCRIPTION Radio JND
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/radio/index.m3u8:Omroep Flevoland 
-#DESCRIPTION Omroep Flevoland 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2od87akyl46nm.cloudfront.net/live/omroepgelderland/kijkradio/index.m3u8:Omroep Gelderland
-#DESCRIPTION Omroep Gelderland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8:Omroep Brabant
-#DESCRIPTION Omroep Brabant
-#SERVICE 1:64:23d:0:0:0:0:0:0:0:
+#SERVICE 1:64:21b:0:0:0:0:0:0:0:
 #DESCRIPTION +Nederland lokaal++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.a1mediagroep.eu/hls/a1studio.m3u8:A1 Studio Barneveld en Nijkerk
 #DESCRIPTION A1 Studio Barneveld en Nijkerk
@@ -67,7 +67,7 @@
 #DESCRIPTION WEEFF Radio Enkhuizen e.o.
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//olon.ctl.cdn.ebsd.ericsson.net/L8B/e7d1cfea/989fe748.isml/master.m3u8:ZFM Zoetemeer 
 #DESCRIPTION ZFM Zoetemeer 
-#SERVICE 1:64:23e:0:0:0:0:0:0:0:
+#SERVICE 1:64:21c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Belgie Vlaanderen landelijk++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -81,33 +81,33 @@
 #DESCRIPTION VRT Radio Studio Brussel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8:JOE
 #DESCRIPTION JOE
-#SERVICE 1:64:23f:0:0:0:0:0:0:0:
+#SERVICE 1:64:21d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Belgie Vlaanderen regionaal/lokaal++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8:City Music Aalst
 #DESCRIPTION City Music Aalst
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8:Radio PROS Heldergem
 #DESCRIPTION Radio PROS Heldergem
-#SERVICE 1:64:240:0:0:0:0:0:0:0:
+#SERVICE 1:64:21e:0:0:0:0:0:0:0:
 #DESCRIPTION ++Belgie Wallonie landelijk++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//funradiovisionhd.vedge.infomaniak.com/livecast/smil%3afunradiovisionhd.smil/playlist.m3u8:Fun Radio (Visual radio)
 #DESCRIPTION Fun Radio (Visual radio)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8:BEL RTL
 #DESCRIPTION BEL RTL
-#SERVICE 1:64:241:0:0:0:0:0:0:0:
+#SERVICE 1:64:21f:0:0:0:0:0:0:0:
 #DESCRIPTION ++Belgie Wallonie regionaal/lokaal++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//funradiovisionhd.vedge.infomaniak.com/livecast/smil%3afunradiovisionhd.smil/playlist.m3u8:Fun Radio 
 #DESCRIPTION Fun Radio 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8:Radio Contact 
 #DESCRIPTION Radio Contact 
-#SERVICE 1:64:242:0:0:0:0:0:0:0:
+#SERVICE 1:64:220:0:0:0:0:0:0:0:
 #DESCRIPTION ++Australie++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8:3AW Melbourne
 #DESCRIPTION 3AW Melbourne
-#SERVICE 1:64:243:0:0:0:0:0:0:0:
+#SERVICE 1:64:221:0:0:0:0:0:0:0:
 #DESCRIPTION ++Armenie++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radiovan.fm/stream/index.m3u8:Radio Van (Visual Radio)
 #DESCRIPTION Radio Van (Visual Radio)
-#SERVICE 1:64:244:0:0:0:0:0:0:0:
+#SERVICE 1:64:222:0:0:0:0:0:0:0:
 #DESCRIPTION ++Duitsland++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8:Das Ding
 #DESCRIPTION Das Ding
@@ -121,29 +121,29 @@
 #DESCRIPTION SWR 3-VisualRadio
 #SERVICE 4097:0:1:6f37:445:1:c00000:0:0:0:https%3a//swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8:SWR Das Ding 
 #DESCRIPTION SWR Das Ding 
-#SERVICE 1:64:245:0:0:0:0:0:0:0:
+#SERVICE 1:64:223:0:0:0:0:0:0:0:
 #DESCRIPTION ++Chili++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//593b04c4c5670.streamlock.net/8104/8104/playlist.m3u8:Radio HOY
 #DESCRIPTION Radio HOY
-#SERVICE 1:64:246:0:0:0:0:0:0:0:
+#SERVICE 1:64:224:0:0:0:0:0:0:0:
 #DESCRIPTION ++Engeland++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w11.streamgb.com%3a1935/kool/kool/playlist.m3u8:Kool London Radio (Webradio)
 #DESCRIPTION Kool London Radio (Webradio)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.sheffieldlive.org/hls/main.m3u8:Sheffield Live 93.2 FM (Webradio)
 #DESCRIPTION Sheffield Live 93.2 FM (Webradio)
-#SERVICE 1:64:247:0:0:0:0:0:0:0:
+#SERVICE 1:64:225:0:0:0:0:0:0:0:
 #DESCRIPTION ++Frankrijk++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/Europe1fr:Europe 1
 #DESCRIPTION Europe 1
-#SERVICE 1:64:248:0:0:0:0:0:0:0:
+#SERVICE 1:64:226:0:0:0:0:0:0:0:
 #DESCRIPTION ++Griekenland++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rythmoscam.dyndns.org%3a1935/live/myStream:RYTHMOS 94.3 - Visual Radio (Griekenland)
 #DESCRIPTION RYTHMOS 94.3 - Visual Radio (Griekenland)
-#SERVICE 1:64:249:0:0:0:0:0:0:0:
+#SERVICE 1:64:227:0:0:0:0:0:0:0:
 #DESCRIPTION ++Hongarije++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hitmusic.hu/hitmusic.m3u8:Hit Music Channel Hungary
 #DESCRIPTION Hit Music Channel Hungary
-#SERVICE 1:64:24a:0:0:0:0:0:0:0:
+#SERVICE 1:64:228:0:0:0:0:0:0:0:
 #DESCRIPTION ++Italië++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/GiornaleRadioTelevision/GiornaleRadioTelevision/chunklist_w212644547.m3u8:Giornale Radio TV
 #DESCRIPTION Giornale Radio TV
@@ -159,19 +159,19 @@
 #DESCRIPTION Radio Millenium TV
 #SERVICE 4097:0:2:355:0:0:0:0:0:0:https%3a//streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S26743519/49ksH8apMKou/chunklist_b2816000.m3u8:RTL 102.5 + Plus
 #DESCRIPTION RTL 102.5 + Plus
-#SERVICE 1:64:24b:0:0:0:0:0:0:0:
+#SERVICE 1:64:229:0:0:0:0:0:0:0:
 #DESCRIPTION ++Letland++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a44e5b800a41.streamlock.net%3a1935/liveVLR1/mp4%3aLR1/playlist.m3u8:Latvijas Radio 1 106.1 FM Latgale
 #DESCRIPTION Latvijas Radio 1 106.1 FM Latgale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a44e5b800a41.streamlock.net%3a1935/liveVLR3/mp4%3aKlasika/playlist.m3u8:Latvijas Radio 3 Klasika
 #DESCRIPTION Latvijas Radio 3 Klasika
-#SERVICE 1:64:24c:0:0:0:0:0:0:0:
+#SERVICE 1:64:22a:0:0:0:0:0:0:0:
 #DESCRIPTION ++Litouwen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam2_720p/index.m3u8:LRT Radio - webcam -
 #DESCRIPTION LRT Radio - webcam -
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1 (Litouwen, webradio)
 #DESCRIPTION Radio M-1 (Litouwen, webradio)
-#SERVICE 1:64:24d:0:0:0:0:0:0:0:
+#SERVICE 1:64:22b:0:0:0:0:0:0:0:
 #DESCRIPTION ++Luxemburg++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/eldotv/smil%3aeldotv.smil/playlist.m3u8:Eldoradio TV (Webradio)
 #DESCRIPTION Eldoradio TV (Webradio)
@@ -181,22 +181,26 @@
 #DESCRIPTION RTL Tele Letzeburg (Webradio) alternatief
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-edge.rtl.lu/channel2/smil%3achannel2.smil/720p.m3u8:RTL Tele Letzeburg (Webradio)
 #DESCRIPTION RTL Tele Letzeburg (Webradio)
-#SERVICE 1:64:24e:0:0:0:0:0:0:0:
+#SERVICE 1:64:22c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostenrijk++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4%3alivestream/playlist.m3u8:Antenne Vorarlberg
 #DESCRIPTION Antenne Vorarlberg
 #SERVICE 4097:0:1:32d5:45d:1:c00000:0:0:0:https%3a//studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8:ORF Ö3 
 #DESCRIPTION ORF Ö3 
-#SERVICE 1:64:24f:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_vstxdcuh/tl/main/st/0/t/GR63rDXKl5UwbPGZBAuOKw/index-s32.m3u8:Radio Pilatus
+#DESCRIPTION Radio Pilatus
+#SERVICE 1:64:22d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Panama++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.panelzcast.com/asondesalsa/asondesalsa/chunklist_w1327954588.m3u8:A son de Salsa TV (Latin/Panama)
 #DESCRIPTION A son de Salsa TV (Latin/Panama)
-#SERVICE 1:64:250:0:0:0:0:0:0:0:
+#SERVICE 1:64:22e:0:0:0:0:0:0:0:
 #DESCRIPTION ++Peru++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//megastreamm.com%3a3611/multi_web/play_480.m3u8:Radio Chalaca TV (Peru)
 #DESCRIPTION Radio Chalaca TV (Peru)
-#SERVICE 1:64:251:0:0:0:0:0:0:0:
+#SERVICE 1:64:22f:0:0:0:0:0:0:0:
 #DESCRIPTION ++Zwitserland++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vstream-cdn.ch/hls/radio3i_1080p/index.m3u8:Radio 3i
+#DESCRIPTION Radio 3i
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8:Radio 24 (Visual radio)
 #DESCRIPTION Radio 24 (Visual radio)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8?checkedby%3aiptvcat.com:Radio Argovia (Visual radio)
@@ -207,7 +211,7 @@
 #DESCRIPTION Radio Ticino Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8:RTS Couleur 3 (Visual radio)
 #DESCRIPTION RTS Couleur 3 (Visual radio)
-#SERVICE 1:64:252:0:0:0:0:0:0:0:
+#SERVICE 1:64:230:0:0:0:0:0:0:0:
 #DESCRIPTION ++Rusland++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:Hit HD
 #DESCRIPTION Hit HD
@@ -223,11 +227,11 @@
 #DESCRIPTION Radio Govorit Moskva
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pilotfm.ru/cam/hls/pilothd.m3u8:Radio Pilot
 #DESCRIPTION Radio Pilot
-#SERVICE 1:64:253:0:0:0:0:0:0:0:
+#SERVICE 1:64:231:0:0:0:0:0:0:0:
 #DESCRIPTION ++USA++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wlngstudiowebcam.srfms.com%3a1935/wlngstudiowebcam/livestream/playlist.m3u8:WLNG Radio
 #DESCRIPTION WLNG Radio
-#SERVICE 1:64:254:0:0:0:0:0:0:0:
+#SERVICE 1:64:232:0:0:0:0:0:0:0:
 #DESCRIPTION ++Arabisch algemeen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8?@amarnettv.live:MBC FM
 #DESCRIPTION MBC FM

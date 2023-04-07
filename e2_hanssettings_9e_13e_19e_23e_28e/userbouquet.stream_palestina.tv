@@ -1,5 +1,5 @@
 #NAME Stream Palestina (PS)
-#SERVICE 1:64:3db:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b9:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvpalsat.mada.ps%3a8888/audeh/index.m3u8:Auwdeh
 #DESCRIPTION Auwdeh
@@ -19,7 +19,7 @@
 #DESCRIPTION Wanasah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvint.mada.ps%3a8889/orient/tracks-v1a1/mono.m3u8?v=86757236:Watar TV
 #DESCRIPTION Watar TV
-#SERVICE 1:64:3dc:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ba:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8:Al Aqsa Channel
 #DESCRIPTION Al Aqsa Channel

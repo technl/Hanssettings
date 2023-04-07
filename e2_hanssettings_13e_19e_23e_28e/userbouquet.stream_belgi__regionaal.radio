@@ -1,5 +1,5 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:513:0:0:0:0:0:0:0:
+#SERVICE 1:64:4f0:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
@@ -65,8 +65,8 @@
 #DESCRIPTION Diana Oldies (Studio 22, Gullegem)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.streamin.cc/digitaalfm.mp3:DigitaalFM vr 12.00 - zon 0.00 / Demerstad overige tijden
 #DESCRIPTION DigitaalFM vr 12.00 - zon 0.00 / Demerstad overige tijden
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.intronic.nl/wettelmusic:Duvelradio (Lommel - België)
-#DESCRIPTION Duvelradio (Lommel - België)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//quincy.torontocast.com%3a2440/;:Duvelradio (Lommel)
+#DESCRIPTION Duvelradio (Lommel)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uk6.internet-radio.com/proxy/eradio2440?mp=/stream:e-Radio 2440 (Geel) zat/zon/ma, 14-22.00 uur
 #DESCRIPTION e-Radio 2440 (Geel) zat/zon/ma, 14-22.00 uur
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/studio-22-west:ElDorado Studio 22 west
@@ -191,6 +191,8 @@
 #DESCRIPTION Radio 777 (Hasselt)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.openstream.co/4613/audio:Radio 854 Gold (Aalst/Haaltert/Ninove)
 #DESCRIPTION Radio 854 Gold (Aalst/Haaltert/Ninove)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s8.ssl-stream.com/radio9420:Radio 9420 (Haaltert)
+#DESCRIPTION Radio 9420 (Haaltert)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.clubfmserver.be%3a8000/accent.mp3:Radio Accent (Gent en Wetteren)
 #DESCRIPTION Radio Accent (Gent en Wetteren)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.streemlion.com%3a2555/stream:Radio Albatros (Asse - België)
@@ -205,7 +207,7 @@
 #DESCRIPTION Radio Ariane (Kortessem - België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bahena.be%3a8000/bahena.mp3       :Radio Bahena (Baarle-Hertog - België)
 #DESCRIPTION Radio Bahena (Baarle-Hertog - België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//82.94.205.106%3a8095/stream:Radio Barbier (Kruibeke - België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server5.radio-streams.net%3a8095/stream2:Radio Barbier (Kruibeke - België)
 #DESCRIPTION Radio Barbier (Kruibeke - België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s47.myradiostream.com/10592/;:Radio Beach (De Panne + Nieuwpoort - België)
 #DESCRIPTION Radio Beach (De Panne + Nieuwpoort - België)
@@ -381,8 +383,8 @@
 #DESCRIPTION Radio Superstar (Gent)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//masterdomains.be%3a8000/stream/2/ :Radio Superstar Classics (Gent)
 #DESCRIPTION Radio Superstar Classics (Gent)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server6.inetcast.nl%3a1415/stream:Radio 't Zwaantje (Heist-op-den-Berg, BE)
-#DESCRIPTION Radio 't Zwaantje (Heist-op-den-Berg, BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kathy.torontocast.com%3a3915/stream:Radio 't Zwaantje (Heist-op-den-Berg)
+#DESCRIPTION Radio 't Zwaantje (Heist-op-den-Berg)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//audiostreamen.nl%3a8006/stream:Radio Tamara (Steenhuffel)
 #DESCRIPTION Radio Tamara (Steenhuffel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.clubfmserver.be%3a8000/tamboer.mp3:Radio Tamboer (Eeklo, Kaprijke - BE)
@@ -429,6 +431,8 @@
 #DESCRIPTION Radio X Brussel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//shoutcast2.wirelessbelgie.be/zuidrand/;audio.mp3:Radio Zuidrand (Antwerpen)
 #DESCRIPTION Radio Zuidrand (Antwerpen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiofunvlaanderen.stream.laut.fm/radiofunvlaanderen:Radiofunvlaanderen (Assenede)
+#DESCRIPTION Radiofunvlaanderen (Assenede)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8220:RBS Radio (Berlare, Dendermonde, Lokeren/Zele - BE)
 #DESCRIPTION RBS Radio (Berlare, Dendermonde, Lokeren/Zele - BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//caster04.streampakket.com/proxy/8090/stream:RBS Gold (Berlare, Dendermonde, Lokeren/Zele - BE)
@@ -537,7 +541,7 @@
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:514:0:0:0:0:0:0:0:
+#SERVICE 1:64:4f1:0:0:0:0:0:0:0:
 #DESCRIPTION ++Brussel en Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)

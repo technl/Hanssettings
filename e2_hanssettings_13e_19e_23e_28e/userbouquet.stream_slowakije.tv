@@ -1,5 +1,5 @@
 #NAME Stream Slowakije (SK)
-#SERVICE 1:64:3d4:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b2:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n16.stv.livebox.sk/stv-tv/25a069cc3034c8362a9f511144fd7681/stv1.smil/chunklist_.m3u8:RTVS 1 (deels geoblocking)
 #DESCRIPTION RTVS 1 (deels geoblocking)
@@ -43,7 +43,7 @@
 #DESCRIPTION TV Nove Zamky
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/novezamky:TV Nove Zamky -2-
 #DESCRIPTION TV Nove Zamky -2-
-#SERVICE 1:64:3d5:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b3:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/46690:Dajto
 #DESCRIPTION Dajto

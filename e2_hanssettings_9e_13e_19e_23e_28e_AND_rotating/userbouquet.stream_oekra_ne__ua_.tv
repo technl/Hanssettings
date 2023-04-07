@@ -1,11 +1,11 @@
 #NAME Stream Oekraïne (UA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.194.79.46%3a8081/stream1/channel1/playlist.m3u8:1 TV Odessa
 #DESCRIPTION 1 TV Odessa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//myott.top/stream/D3VTJRDNKLY/172.m3u8:1+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.20%3a1234:1+1
 #DESCRIPTION 1+1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-k2301-kbp.1plus1.video/sport/smil%3asport.smil/playlist.m3u8:1+1 Sport
 #DESCRIPTION 1+1 Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//myott.top/stream/D3VTJRDNKLY/173.m3u8:2+2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.3%3a1234:2+2
 #DESCRIPTION 2+2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/196220:5 Kanal
 #DESCRIPTION 5 Kanal
@@ -25,13 +25,13 @@
 #DESCRIPTION Balta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290413:BamBarBia TV
 #DESCRIPTION BamBarBia TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290488:Bigudi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.1%3a1234:Bigudi
 #DESCRIPTION Bigudi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//langate.tv/promin/live_720/index.m3u8:Chernіveckij Promіn
 #DESCRIPTION Chernіveckij Promіn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290727:Dumskaya TV
 #DESCRIPTION Dumskaya TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/196221:Enter Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.15%3a1234:Enter Film
 #DESCRIPTION Enter Film
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/283094:Espreso TV
 #DESCRIPTION Espreso TV
@@ -47,12 +47,14 @@
 #DESCRIPTION ICTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/283109:Inshyy TV
 #DESCRIPTION Inshyy TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/19285:Inter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.8%3a1234:Inter
 #DESCRIPTION Inter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/163085:K1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.11%3a1234:K1
 #DESCRIPTION K1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.28.87.173%3a8000/play/a10y/index.m3u8:К2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.12%3a1234:К2
 #DESCRIPTION К2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.19%3a1234:Kvartal TV
+#DESCRIPTION Kvartal TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/283102:Kyïv TV
 #DESCRIPTION Kyïv TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.televidenie.tv/hls_sec/239.33.75.33-.m3u8:Latynina TV
@@ -61,29 +63,35 @@
 #DESCRIPTION M1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.m2.tv/hls3/stream.m3u8:M2
 #DESCRIPTION M2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290495:Mega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.10%3a1234:Mega
 #DESCRIPTION Mega
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290496:Milady TV
 #DESCRIPTION Milady TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/296619:MTM
 #DESCRIPTION MTM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.216.83.245/mtv/index.m3u8:MTV
+#DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nadiya.home-net.com.ua/mob/mystream.m3u8:Nadiya/Novyy Kanal
 #DESCRIPTION Nadiya/Novyy Kanal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ntktv.ua/s/ntk/ntk.m3u8:NTK HD
 #DESCRIPTION NTK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/163093:NTN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.9%3a1234:NTN
 #DESCRIPTION NTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.75.33-.m3u8:Obshchestvennoye Nezavisimoye Televideniye
 #DESCRIPTION Obshchestvennoye Nezavisimoye Televideniye
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ftp.orbita.dn.ua/hls/orbita.m3u8:Orbita TV
 #DESCRIPTION Orbita TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.21%3a1234:Paramount Comedy
+#DESCRIPTION Paramount Comedy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.28.87.173%3a8000/play/a105/index.m3u8:Pershiy
 #DESCRIPTION Pershiy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290441:Pervyy Gorodskoy
 #DESCRIPTION Pervyy Gorodskoy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.14%3a1234:Pixel
+#DESCRIPTION Pixel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.91.177.102%3a1935/live/live1/chunklist_.m3u8:Planeta TV
 #DESCRIPTION Planeta TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290501:Plus Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.5%3a1234:Plus Plus
 #DESCRIPTION Plus Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8:Pravda TUT
 #DESCRIPTION Pravda TUT
@@ -107,7 +115,7 @@
 #DESCRIPTION Telekanal Pryamyy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/283093:Telekanal STB
 #DESCRIPTION Telekanal STB
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/192784:TET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.4%3a1234:TET
 #DESCRIPTION TET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8:TIS Odessa
 #DESCRIPTION TIS Odessa
@@ -117,10 +125,18 @@
 #DESCRIPTION TRK 555
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.trkmillet.ru/millet/index.m3u8:TRK Millet
 #DESCRIPTION TRK Millet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.216.83.245/tv1/index.m3u8:TV 1
+#DESCRIPTION TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.216.83.245/tv3/index.m3u8:TV 3
+#DESCRIPTION TV 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vs822.vcdn.biz/a57d8ffdb1d9a872622b667762f51cf1_megogo/live/hls/b/700/u_sid/0/o/71044361/rsid/23b6fee4-224e-49b1-8605-4ad1c63d962b/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/84.30.206.221*asn/type.live/chunklist-sid8545675292698708933-b700000.m3u8:TV-4
 #DESCRIPTION TV-4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.216.83.245/tv6/index.m3u8:TV 6
+#DESCRIPTION TV 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290711:TV7+ (Khmelʹnytsʹkyy)
 #DESCRIPTION TV7+ (Khmelʹnytsʹkyy)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.216.83.245/tv8/index.m3u8:TV 8
+#DESCRIPTION TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290431:TVA
 #DESCRIPTION TVA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/290504:Tysa 1
@@ -133,5 +149,5 @@
 #DESCRIPTION Unian TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ztv.zp.ua/hls/live.m3u8:Z TV HD
 #DESCRIPTION Z TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/192788:Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.33.181.28%3a9010/udp/225.1.1.13%3a1234:Zoom
 #DESCRIPTION Zoom

@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:50e:0:0:0:0:0:0:0:
+#SERVICE 1:64:4eb:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -53,7 +53,7 @@
 #DESCRIPTION VRT Studio Brussel UNTZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs-high.mp3:VRT Studio Brussel Vuurland
 #DESCRIPTION VRT Studio Brussel Vuurland
-#SERVICE 1:64:50f:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ec:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -161,6 +161,8 @@
 #DESCRIPTION Golden Flash (BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//18193.live.streamtheworld.com/SAM10AAC034_SC:GothVille Radio (België)
 #DESCRIPTION GothVille Radio (België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE.mp3:Grand Prix Radio - live commentaar (BE versie)
+#DESCRIPTION Grand Prix Radio - live commentaar (BE versie)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitfm.be/hitfm:Hit FM Vlaanderen
 #DESCRIPTION Hit FM Vlaanderen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//jenny.torontocast.com%3a8162/stream:Humorzender Radio
@@ -405,7 +407,7 @@
 #DESCRIPTION ZZOldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK
 #DESCRIPTION ZZROCK
-#SERVICE 1:64:510:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ed:0:0:0:0:0:0:0:
 #DESCRIPTION ++Bruxelles et Wallonie++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -457,10 +459,6 @@
 #DESCRIPTION Chérie Romantic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55563/aac_64.mp3:Chérie Zen
 #DESCRIPTION Chérie Zen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//contact80s.ice.infomaniak.ch/contact80s-192.mp3:Contact 80s
-#DESCRIPTION Contact 80s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//contact90s.ice.infomaniak.ch/contact90s-192.mp3:Contact 90s
-#DESCRIPTION Contact 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactplus.ice.infomaniak.ch/contactplus-192.mp3:Contact  Fresh
 #DESCRIPTION Contact  Fresh
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//belbelbelrtl.ice.infomaniak.ch/belbelbelrtl-192.mp3:Bel RTL 60 
@@ -563,38 +561,46 @@
 #DESCRIPTION Nostalgie Soul Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/NRJ?:NRJ Wallonië (België)
 #DESCRIPTION NRJ Wallonië (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.157/be/34003/mp3_128.mp3:NRJ-Belgique---Best-Hits-Ever
-#DESCRIPTION NRJ-Belgique---Best-Hits-Ever
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.162/be/55152/mp3_128.mp3:NRJ-Belgique---Cover-Hits
-#DESCRIPTION NRJ-Belgique---Cover-Hits
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/34007/mp3_128.mp3:NRJ-Belgique - Dance
-#DESCRIPTION NRJ-Belgique - Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/57036/aac_64.mp3:NRJ-Belgique En mode Noel
-#DESCRIPTION NRJ-Belgique En mode Noel
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/57200/mp3_128.mp3:NRJ Héros (Belgiquee)
-#DESCRIPTION NRJ Héros (Belgiquee)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.157/be/34009/mp3_128.mp3:NRJ-Belgique---Hits
-#DESCRIPTION NRJ-Belgique---Hits
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.131/be/55153/mp3_128.mp3:NRJ-Belgique---Hits-of-the-Month
-#DESCRIPTION NRJ-Belgique---Hits-of-the-Month
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/34011/mp3_128.mp3:NRJ-Belgique - Hits of the Week
-#DESCRIPTION NRJ-Belgique - Hits of the Week
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/34013/mp3_128.mp3:NRJ-Belgique - Love
-#DESCRIPTION NRJ-Belgique - Love
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.159/be/55528/mp3_128.mp3:NRJ-Belgique---Mikl
-#DESCRIPTION NRJ-Belgique---Mikl
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.159/be/34017/mp3_128.mp3:NRJ-Belgique---Nouveautes
-#DESCRIPTION NRJ-Belgique---Nouveautes
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/34015/mp3_128.mp3:NRJ-Belgique - NRJ Music Awards
-#DESCRIPTION NRJ-Belgique - NRJ Music Awards
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55527/mp3_128.mp3:NRJ-Belgique - Pour Le Sport
-#DESCRIPTION NRJ-Belgique - Pour Le Sport
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.159/be/34039/mp3_128.mp3:NRJ-Belgique---Rap-FR
-#DESCRIPTION NRJ-Belgique---Rap-FR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.157/be/34003/mp3_128.mp3:NRJ Best Hits Ever
+#DESCRIPTION NRJ Best Hits Ever
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamingp.shoutcast.com/BestOfBelgium:NRJ Best of Belgium 
+#DESCRIPTION NRJ Best of Belgium 
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//185.52.127.162/be/55152/mp3_128.mp3:NRJ Cover Hits
+#DESCRIPTION NRJ Cover Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/34007/mp3_128.mp3:NRJ Dance
+#DESCRIPTION NRJ Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/57036/aac_64.mp3:NRJ En mode Noel
+#DESCRIPTION NRJ En mode Noel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/57200/mp3_128.mp3:NRJ Héros
+#DESCRIPTION NRJ Héros
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.157/be/34009/mp3_128.mp3:NRJ Hits
+#DESCRIPTION NRJ Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.131/be/55153/mp3_128.mp3:NRJ Hits of the Month
+#DESCRIPTION NRJ Hits of the Month
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/34011/mp3_128.mp3:NRJ Hits of the Week
+#DESCRIPTION NRJ Hits of the Week
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/34013/mp3_128.mp3:NRJ Love
+#DESCRIPTION NRJ Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.159/be/55528/mp3_128.mp3:NRJ Mikl
+#DESCRIPTION NRJ Mikl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.159/be/34017/mp3_128.mp3:NRJ Nouveautes
+#DESCRIPTION NRJ Nouveautes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/34015/mp3_128.mp3:NRJ NRJ Music Awards
+#DESCRIPTION NRJ NRJ Music Awards
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/be/55527/mp3_128.mp3:NRJ Pour Le Sport
+#DESCRIPTION NRJ Pour Le Sport
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.159/be/34039/mp3_128.mp3:NRJ Rap FR
+#DESCRIPTION NRJ Rap FR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingp.shoutcast.com/NRJPlus:NRJ+ 
+#DESCRIPTION NRJ+ 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioairlibre.be/radioairlibre.ogg.m3u:Radio Air Libre (Brussel)
 #DESCRIPTION Radio Air Libre (Brussel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.rtl.be/contactfr:Radio Contact
 #DESCRIPTION Radio Contact
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//contact80s.ice.infomaniak.ch/contact80s-192.mp3:Radio Contact 80s
+#DESCRIPTION Radio Contact 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//contact90s.ice.infomaniak.ch/contact90s-192.mp3:Radio Contact 90s
+#DESCRIPTION Radio Contact 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contact2.ice.infomaniak.ch/contact2-192.mp3:Radio Contact - 2000
 #DESCRIPTION Radio Contact - 2000
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3:Radio Contact - FeelGood
@@ -705,7 +711,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:511:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ee:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -721,7 +727,7 @@
 #DESCRIPTION Radio Contact Ostbelgien NOW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:512:0:0:0:0:0:0:0:
+#SERVICE 1:64:4ef:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio
