@@ -1,5 +1,5 @@
 #NAME Stream Turkije (TR)
-#SERVICE 1:64:189b:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d8:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.83.71.210/TRT1/index.m3u8:TRT 1
 #DESCRIPTION TRT 1
@@ -101,7 +101,7 @@
 #DESCRIPTION Show TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/512:Star TV
 #DESCRIPTION Star TV
-#SERVICE 1:64:189c:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d9:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com%3a1935/tv1/bant1:TV 1
 #DESCRIPTION TV 1
@@ -181,7 +181,7 @@
 #DESCRIPTION TV Kayseri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8:TV Net
 #DESCRIPTION TV Net
-#SERVICE 1:64:189d:0:0:0:0:0:0:0:
+#SERVICE 1:64:3da:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8:AA Live
 #DESCRIPTION AA Live

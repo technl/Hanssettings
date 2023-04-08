@@ -1,5 +1,5 @@
 #NAME Stream Polen (PL)
-#SERVICE 1:64:1880:0:0:0:0:0:0:0:
+#SERVICE 1:64:3bd:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders TVP++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//congariptv.com%3a80/kLbWNZDHm3/CGcttIYsyXE/73738:TVP 1
 #DESCRIPTION TVP 1
@@ -27,7 +27,7 @@
 #DESCRIPTION TVP Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.129.193.20/tsstreamer/TVP_SD.ts:TVP World
 #DESCRIPTION TVP World
-#SERVICE 1:64:1881:0:0:0:0:0:0:0:
+#SERVICE 1:64:3be:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//congariptv.com%3a80/kLbWNZDHm3/CGcttIYsyXE/73713:Polsat 
 #DESCRIPTION Polsat 
@@ -89,7 +89,7 @@
 #DESCRIPTION TVN Style 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//congariptv.com%3a80/kLbWNZDHm3/CGcttIYsyXE/73737:TVN Turbo
 #DESCRIPTION TVN Turbo
-#SERVICE 1:64:1882:0:0:0:0:0:0:0:
+#SERVICE 1:64:3bf:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//congariptv.com%3a80/kLbWNZDHm3/CGcttIYsyXE/73643:4 Fun Dance
 #DESCRIPTION 4 Fun Dance

@@ -1,5 +1,5 @@
 #NAME Stream Duitsland (DE)
-#SERVICE 1:64:16cb:0:0:0:0:0:0:0:
+#SERVICE 1:64:208:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders-publieke omroepen++
 #SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2331:ARD
 #DESCRIPTION ARD
@@ -87,7 +87,7 @@
 #DESCRIPTION 3sat
 #SERVICE 4097:0:1:6d68:437:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2271:KiKA
 #DESCRIPTION KiKA
-#SERVICE 1:64:16cc:0:0:0:0:0:0:0:
+#SERVICE 1:64:209:0:0:0:0:0:0:0:
 #DESCRIPTION ++commerciële zenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5987:ANIXE+
 #DESCRIPTION ANIXE+
@@ -179,7 +179,7 @@
 #DESCRIPTION Welt der Wunder TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/ik%3awir24tv_hms/manifest.m3u8:Wir 24 TV (deels geoblocking)
 #DESCRIPTION Wir 24 TV (deels geoblocking)
-#SERVICE 1:64:16cd:0:0:0:0:0:0:0:
+#SERVICE 1:64:20a:0:0:0:0:0:0:0:
 #DESCRIPTION ++lokale zenders++
 #SERVICE 4097:0:1:16a8:3ff:1:c00000:0:0:0:http%3a//178.248.241.103/iptv/atv.ts:a.tv HD
 #DESCRIPTION a.tv HD
@@ -391,7 +391,7 @@
 #DESCRIPTION Weser TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.telvi.de/hls/wwtv_hd720.m3u8:WW TV
 #DESCRIPTION WW TV
-#SERVICE 1:64:16ce:0:0:0:0:0:0:0:
+#SERVICE 1:64:20b:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3 TV 
 #DESCRIPTION 1-2-3 TV 

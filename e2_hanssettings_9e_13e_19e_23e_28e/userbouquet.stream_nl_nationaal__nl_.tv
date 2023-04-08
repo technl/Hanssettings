@@ -1,5 +1,5 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:16a9:0:0:0:0:0:0:0:
+#SERVICE 1:64:1e6:0:0:0:0:0:0:0:
 #DESCRIPTION ++NPO - werkt niet in iedere ontvanger!++
 #SERVICE 4097:0:19:5225:c99:3:eb0000:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/2995:NPO 1
 #DESCRIPTION NPO 1
@@ -15,7 +15,7 @@
 #DESCRIPTION NPO Politiek en Nieuws
 #SERVICE 4097:0:16:1645:42c:1:c00000:0:0:0:http%3a//62.2.85.68%3a39981/play/a00t:BVN 
 #DESCRIPTION BVN 
-#SERVICE 1:64:16aa:0:0:0:0:0:0:0:
+#SERVICE 1:64:1e7:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:4ed1:c99:3:eb0000:0:0:0:https%3a//bnr-cache-cdp.triple-it.nl/studio/1648910007-fast-1280-720-800000-index.m3u8:BNR Nieuwsradio
 #DESCRIPTION BNR Nieuwsradio
@@ -47,7 +47,7 @@
 #DESCRIPTION Tommy TV (met epg via Ziggo)
 #SERVICE 4097:0:1:4cfc:81c:600:ffff0000:0:0:0:http%3a//ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8 :XITE HD
 #DESCRIPTION XITE HD
-#SERVICE 1:64:16ab:0:0:0:0:0:0:0:
+#SERVICE 1:64:1e8:0:0:0:0:0:0:0:
 #DESCRIPTION +++Radio Toppers+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-67.stream-server.nl%3a1936/RadioToppers/RadioToppers/playlist.m3u8:Radio Toppers
 #DESCRIPTION Radio Toppers
@@ -57,7 +57,7 @@
 #DESCRIPTION Poesjes TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-23.stream-server.nl%3a1936/WinkRadio/WinkRadio/playlist.m3u8:Wink Radio
 #DESCRIPTION Wink Radio
-#SERVICE 1:64:16ac:0:0:0:0:0:0:0:
+#SERVICE 1:64:1e9:0:0:0:0:0:0:0:
 #DESCRIPTION ++NL amateur-tv++
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.pi6atv.com%3a8081/scoop/pi6atv-hd/playlist.m3u8  :PI6atv (NL amateur tv)
 #DESCRIPTION PI6atv (NL amateur tv)
