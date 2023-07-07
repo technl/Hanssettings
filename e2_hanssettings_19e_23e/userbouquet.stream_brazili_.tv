@@ -39,6 +39,8 @@
 #DESCRIPTION Canal 10 Cabo Frio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8:Canal 25 Jundiaí
 #DESCRIPTION Canal 25 Jundiaí
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8:Canal 38
+#DESCRIPTION Canal 38
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.novotempo.com/tv/smil%3aexecutivo.smil/chunklist_w1786386513_b628000_slpor.m3u8:Canal Executivo
 #DESCRIPTION Canal Executivo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8:Canal Metropolitano de Noticia
@@ -129,6 +131,8 @@
 #DESCRIPTION Gospel Cartoon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.srvif.com/gospelf/gospelf/playlist.m3u8:Gospel Movie TV
 #DESCRIPTION Gospel Movie TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joaocaiado.com%3a1443/ies_tv/ngrp%3aies_tv_all/playlist.m3u8:iesTV
+#DESCRIPTION iesTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58a4464faef53.streamlock.net/impd/ngrp%3aimpd_all/playlist.m3u8:IMPD TV
 #DESCRIPTION IMPD TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8:Información Periodística
@@ -305,6 +309,8 @@
 #DESCRIPTION TBC TV Brasil Central
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tcm10.com.br/tcm10hd/stream.m3u8:TCM 10
 #DESCRIPTION TCM 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.familylatinatv.com%3a88/live/5de910ea0ec86/index.m3u8:Tele 8 Mercedes
+#DESCRIPTION Tele 8 Mercedes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8:Tele Cine Action
 #DESCRIPTION Tele Cine Action
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.zcasthn.com.br/teleprogreso/teleprogreso/playlist.m3u8:Tele Progreso
@@ -317,6 +323,8 @@
 #DESCRIPTION Teve Globo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evpp.mm.uol.com.br%3a1935/band_live/terraviva/playlist.m3u8:Terra Viva
 #DESCRIPTION Terra Viva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8:TNT Sports 1 Brasil
+#DESCRIPTION TNT Sports 1 Brasil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8:TNT Sports 2 Brasil
 #DESCRIPTION TNT Sports 2 Brasil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8:TNT Sports 3 Brasil
@@ -365,6 +373,8 @@
 #DESCRIPTION TV BNO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(naXbjbTlDxrHlrlxKSNzig)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuG_AaUF86vlMJtsMkooySBOlQbVM33PgsYPQdea2BJafjjc-BWtPRlStfmQ939PXcd844pid2JY82J6JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kYcqZf8MZQ)))/index.m3u8:TV Brasil
 #DESCRIPTION TV Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8:TV Brasil (#)
+#DESCRIPTION TV Brasil (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8:TV Brasil Oeste
 #DESCRIPTION TV Brasil Oeste
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream3.camara.gov.br/tv1/manifest.m3u8:TV Câmara 1
@@ -403,6 +413,8 @@
 #DESCRIPTION TV Cinec
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8:TV Clube
 #DESCRIPTION TV Clube
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8:TV CN Agitos
+#DESCRIPTION TV CN Agitos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8:TV Com Santos
 #DESCRIPTION TV Com Santos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8:TV Cordeiro
@@ -451,6 +463,8 @@
 #DESCRIPTION TV Guaraparí
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//596639ebdd89b.streamlock.net/tvguarulhos/tvguarulhos/playlist.m3u8:TV Guarulhos
 #DESCRIPTION TV Guarulhos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud3.streaminglivehd.com%3a1936/8068/8068/playlist.m3u8:TV HD Tropical
+#DESCRIPTION TV HD Tropical
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58a4464faef53.streamlock.net/impd/ngrp%3aimpd_all/playlist.m3u8:TV Igreja Mundial
 #DESCRIPTION TV Igreja Mundial
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8:TV InforBahia
@@ -599,6 +613,8 @@
 #DESCRIPTION TVCI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.crossdigital.com.br/2306/2306/chunklist_.m3u8:TV RCI
 #DESCRIPTION TV RCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash.softhost.com.br%3a1935/ufg/tvufgweb/playlist.m3u8:TV UFG
+#DESCRIPTION TV UFG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8:TV Universal
 #DESCRIPTION TV Universal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8:TV Vila Real

@@ -1,76 +1,54 @@
 #NAME Stream Griekenland (GR)
-#SERVICE 1:64:303:0:0:0:0:0:0:0:
+#SERVICE 1:64:361:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8BwLvDZ12qncWDml1bp00a:ERT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210091:ERT 1
 #DESCRIPTION ERT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/136:ERT 2
-#DESCRIPTION ERT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-6E5FixNFMGRZVhkyfeEie:ERT 3
-#DESCRIPTION ERT 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/295277:ERT News
-#DESCRIPTION ERT News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/9:ERT World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8:ERT World
 #DESCRIPTION ERT World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eu2.tv4e.gr%3a554/live/smil%3amyStream.sdp.smil/playlist.m3u8:4E
 #DESCRIPTION 4E
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-sTLwpWg-7rd9aKH_gxHTQ:Alpha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210043:Alpha
 #DESCRIPTION Alpha
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8cnjw6VQTrGxyT4e9guUyC:ANT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210045:ANT 1
 #DESCRIPTION ANT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.streams.ovh/netmedia/netmedia/playlist.m3u8:BCI 24 News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210052:BCI 24 News
 #DESCRIPTION BCI 24 News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bit.ly/2p6JqSo:Groovy
 #DESCRIPTION Groovy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kontralive.siliconweb.com/live/kontratv/playlist.m3u8:Kontra 8
 #DESCRIPTION Kontra 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8cC7q2nXSgOdGk_9cobJAI:Mega TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210127:Makedonia TV
+#DESCRIPTION Makedonia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210129:Mega TV
 #DESCRIPTION Mega TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neatv.gr%3a8888/hls/neatv_high/index.m3u8:Nea TV
+#DESCRIPTION Nea TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netmaxtv.com%3a8080/live/live/playlist.m3u8:Netmax TV
 #DESCRIPTION Netmax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8W5gbBAd4MuE4BG8AmDTj3:Open Beyond TV
-#DESCRIPTION Open Beyond TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sl2.sigmatv.com/hls/live.m3u8:Sigma TV
 #DESCRIPTION Sigma TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boomtivi.xyz%3a80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_iwwYlcGDHMW0dZB0aUi1W:Skai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2599:Skai
 #DESCRIPTION Skai
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.83.71.210/StarHD/index.m3u8:Star HD
-#DESCRIPTION Star HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star -2- (deels Geoblocking)
-#DESCRIPTION Star -2- (deels Geoblocking)
-#SERVICE 1:64:304:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star
+#DESCRIPTION Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eco.streams.ovh%3a1935/syrostv1/syrostv1/HasBahCa.m3u8:Syros TV1 
+#DESCRIPTION Syros TV1 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.fm100.gr/hls/tv100/index.m3u8:TV 100
+#DESCRIPTION TV 100
+#SERVICE 1:64:362:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/34100/playlist.m3u8:34100 TV
 #DESCRIPTION 34100 TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/24007:A Epsilon
-#DESCRIPTION A Epsilon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv.viiideo.gr%3a1935/axeloos/live/playlist.m3u8:Acheloos TV 
 #DESCRIPTION Acheloos TV 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/1971:Action 24
-#DESCRIPTION Action 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8:Alert
 #DESCRIPTION Alert
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8:Alfa
-#DESCRIPTION Alfa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/286587:Alfa Dramas
-#DESCRIPTION Alfa Dramas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/7141:ART TV
-#DESCRIPTION ART TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/45216:Attica TV
-#DESCRIPTION Attica TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh%3a443/BarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Hits 1
 #DESCRIPTION Baraza TV Greek Hits 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Hits 2
 #DESCRIPTION Baraza TV Greek Hits 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/286588:BCI 24 News
-#DESCRIPTION BCI 24 News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/cannali/cannali/playlist.m3u8:BCI Music
-#DESCRIPTION BCI Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/95371:Blue Sky
-#DESCRIPTION Blue Sky
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/hls/webtv.m3u8:Boyah TV
 #DESCRIPTION Boyah TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/centertv:Center TV
-#DESCRIPTION Center TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.streams.ovh%3a3528/stream/play.m3u8:Choice
 #DESCRIPTION Choice
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8:Corfu TV
@@ -91,76 +69,46 @@
 #DESCRIPTION Ellas TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d00db0e0fcd5.streamlock.net/7170/7170/chunklist_.m3u8:Epiloges TV
 #DESCRIPTION Epiloges TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210089:Epirus TV 1
+#DESCRIPTION Epirus TV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdo3.alphaserver.gr%3a3466/stream/play.m3u8:Epsilon TV HD
 #DESCRIPTION Epsilon TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/eurochannel:Euro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/eurotv/eurotv/HasBahCa.m3u8:Euro TV
 #DESCRIPTION Euro TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8:Euronews Greek
-#DESCRIPTION Euronews Greek
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/68469:Extra TV
-#DESCRIPTION Extra TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/faros2/playlist.m3u8:Faros TV
 #DESCRIPTION Faros TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cast-control.eu%3a443/organismos/organismos/playlist.m3u8:GRD Channel
-#DESCRIPTION GRD Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/296241:Greek Kids
-#DESCRIPTION Greek Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdo3.alphaserver.gr%3a3466/live/greektvlondonlive.m3u8:Greek TV London
 #DESCRIPTION Greek TV London
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/wzra.m3u8?#User-Agent=Android:Greek Voice 
 #DESCRIPTION Greek Voice 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//l5.cloudskep.com/hellenictv/htv/playlist.m3u8:Hellenic TV
 #DESCRIPTION Hellenic TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/12671:High TV
-#DESCRIPTION High TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/hightv/hightv/playlist.m3u8:High TV -2-
-#DESCRIPTION High TV -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ioniantv.gr%3a8081/ionian/live/playlist.m3u8:Ionian Channel 
 #DESCRIPTION Ionian Channel 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8:Irida TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210120:Irida TV
 #DESCRIPTION Irida TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/295158:Kriti TV
-#DESCRIPTION Kriti TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/foxtv/foxtv/playlist.m3u8:Mad Greekz
 #DESCRIPTION Mad Greekz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/1973:MAD TV
-#DESCRIPTION MAD TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/magictv/magictv/playlist.m3u8:Magic TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210125:Mad TV
+#DESCRIPTION Mad TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/210126:Magic TV
 #DESCRIPTION Magic TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maroussiotika.dynu.com%3a8000/greektv/FZlHCCdBHL1/359142:Maroussiotika TV
-#DESCRIPTION Maroussiotika TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.streams.ovh%3a3037/stream/play.m3u8:Messatida TV
 #DESCRIPTION Messatida TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/7156:Messinia TV
-#DESCRIPTION Messinia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.streams.ovh%3a3876/stream/play.m3u8:MGR TV
 #DESCRIPTION MGR TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neatv.gr%3a8888/hls/neatv_high/index.m3u8:Nea TV
-#DESCRIPTION Nea TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/13554:NET TV
-#DESCRIPTION NET TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.streams.ovh/NGradio/NGradio/playlist.m3u8:NG Radio
 #DESCRIPTION NG Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/146375:Nickelodeon
-#DESCRIPTION Nickelodeon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/47333:Notioi TV
-#DESCRIPTION Notioi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.nrg91.gr%3a1935/onweb/live/master.m3u8:NRG 91 
 #DESCRIPTION NRG 91 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.streams.ovh%3a1936/pellatv/pellatv/master.m3u8:Pella TV
 #DESCRIPTION Pella TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/Alpha-Host/Alpha-Host/playlist.m3u8:Play TV
 #DESCRIPTION Play TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8:PLP
-#DESCRIPTION PLP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/video/video/playlist.m3u8:Reload Radio
 #DESCRIPTION Reload Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cast-control.eu%3a1935/samiaki/samiaki/playlist.m3u8:Samiaki tv
 #DESCRIPTION Samiaki tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/79561:Smile TV
-#DESCRIPTION Smile TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/7162:Syros TV1 
-#DESCRIPTION Syros TV1 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8:Tile Epoiloges
 #DESCRIPTION Tile Epoiloges
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/music1.m3u8:Tile Mousiki
@@ -169,16 +117,12 @@
 #DESCRIPTION TV Creta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8:TV Dipso 
 #DESCRIPTION TV Dipso 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvfilopoli/tvfilopoli/playlist.m3u8:TV Filopoli 
-#DESCRIPTION TV Filopoli 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/286621:TV Notos
-#DESCRIPTION TV Notos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/parltv.sdp/chunklist.m3u8:Vouli Tileorasi TV
-#DESCRIPTION Vouli Tileorasi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu:Vouli TV
-#DESCRIPTION Vouli TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/27227:Wixlar
-#DESCRIPTION Wixlar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/hls/webtv.m3u8:Vouli TV 1
+#DESCRIPTION Vouli TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8:Vouli TV 2
+#DESCRIPTION Vouli TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8:Vouli TV 3
+#DESCRIPTION Vouli TV 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cast-control.eu%3a443/xalastratv/xalastratv/playlist.m3u8:Xalastra TV
 #DESCRIPTION Xalastra TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore TV

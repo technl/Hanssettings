@@ -1,11 +1,15 @@
 #NAME Stream Rwanda (RW)
-#SERVICE 1:64:3c6:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1004910551.rsc.cdn77.org/LS-PRG-44514-1/tracks-v1a1/mono.m3u8:Rwanda TV
+#SERVICE 1:64:424:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8:Rwanda TV
 #DESCRIPTION Rwanda TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c46fa289c89f.streamlock.net/kc2/kc2/chunklist_.m3u8:Rwanda TV / KC 2
 #DESCRIPTION Rwanda TV / KC 2
-#SERVICE 1:64:3c7:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.livebcm.com%3a3844/live/btntvrwandalive.m3u8:BTN TV
+#DESCRIPTION BTN TV
+#SERVICE 1:64:425:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.241.215.175%3a1935/isangostar/isangostar/chunklist_w1163464230.m3u8:Isango TV
 #DESCRIPTION Isango TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.livebcm.com%3a3192/live/isibotvlive.m3u8:Isibo TV
+#DESCRIPTION Isibo TV

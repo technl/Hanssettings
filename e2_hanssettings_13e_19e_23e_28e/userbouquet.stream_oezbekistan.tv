@@ -1,7 +1,5 @@
 #NAME Stream Oezbekistan (UZ)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv2.azon.uz/high/stream.m3u8:Azon TV
-#DESCRIPTION Azon TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//st.biztv.uz/hls/stream_hi/index.m3u8:BIZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//st.biztv.uz/hls/m_mid/index.m3u8:BIZ Music
+#DESCRIPTION BIZ Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//st.biztv.uz/hls/stream_mid/index.m3u8:BIZ TV
 #DESCRIPTION BIZ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vspnmy3kvpzu7q.data.mediastore.eu-central-1.amazonaws.com/liveHD.m3u8:Uzreport TV
-#DESCRIPTION Uzreport TV

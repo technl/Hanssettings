@@ -1,33 +1,31 @@
 #NAME Stream België (BE)
-#SERVICE 1:64:1e7:0:0:0:0:0:0:0:
+#SERVICE 1:64:240:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - landelijk+++
-#SERVICE 4097:0:1:5221:c99:3:0:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/3026:VRT één
+#SERVICE 4097:0:1:5221:c99:3:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6895:VRT één
 #DESCRIPTION VRT één
-#SERVICE 4097:0:1:5226:c99:3:0:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/3027:VRT Canvas
+#SERVICE 4097:0:1:5226:c99:3:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92900:VRT Canvas
 #DESCRIPTION VRT Canvas
-#SERVICE 4097:0:1:5278:c96:3:0:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/2644:VRT Ketnet
+#SERVICE 4097:0:1:5278:c96:3:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6903:VRT Ketnet
 #DESCRIPTION VRT Ketnet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8:VRT Ketnet Junior
 #DESCRIPTION VRT Ketnet Junior
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8:HLN Live (BE)
-#DESCRIPTION HLN Live (BE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-vrt.akamaized.net/groupb/live/a1ddf2fd-c2b5-4558-9b19-e66c9bd995a8/live.isml/.m3u8:VRT Events 1 (België)
-#DESCRIPTION VRT Events 1 (België)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-vrt.akamaized.net/groupb/live/cbe5b53e-2892-4124-9fba-a9827925624d/live.isml/.m3u8:VRT Events 2 (België)
-#DESCRIPTION VRT Events 2 (België)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8:VRT Events 3 / Radio 1 studiocam
-#DESCRIPTION VRT Events 3 / Radio 1 studiocam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8:HLN Live
+#DESCRIPTION HLN Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-vrt.akamaized.net/groupb/live/a1ddf2fd-c2b5-4558-9b19-e66c9bd995a8/live.isml/.m3u8:VRT Events 1
+#DESCRIPTION VRT Events 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-vrt.akamaized.net/groupb/live/cbe5b53e-2892-4124-9fba-a9827925624d/live.isml/.m3u8:VRT Events 2
+#DESCRIPTION VRT Events 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8:VRT Events 3
+#DESCRIPTION VRT Events 3
 #SERVICE 4097:0:19:1b76:c88:3:eb0000:0:0:0:https%3a//dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8:VTM
 #DESCRIPTION VTM
-#SERVICE 4097:0:19:1b76:c88:3:eb0000:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/840:VTM -2-
-#DESCRIPTION VTM -2-
-#SERVICE 4097:0:19:1b76:c88:3:eb0000:0:0:0:http%3a//x.v-iptv.com%3a25443/live/HAJG6/k7bKPqg05y/48172.ts:VTM -3-
-#DESCRIPTION VTM -3-
+#SERVICE 4097:0:19:1b76:c88:3:eb0000:0:0:0:http%3a//box.slweb.tv%3a8880/nadorge/1lT8oRcMN3/2608:VTM (#)
+#DESCRIPTION VTM (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws.m3u8:VTM NWS - tijdens journaal
 #DESCRIPTION VTM NWS - tijdens journaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.parolis.be%3a1935/live/PLN_NL/chunklist_w27225067.m3u8:Federaal parlement BE (tijdens vergaderingen)
 #DESCRIPTION Federaal parlement BE (tijdens vergaderingen)
-#SERVICE 1:64:1e8:0:0:0:0:0:0:0:
+#SERVICE 1:64:241:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - regionaal+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_107244/1080n/index.m3u8:ATV (Antwerpen)
 #DESCRIPTION ATV (Antwerpen)
@@ -37,7 +35,7 @@
 #DESCRIPTION TVL - TV Limburg (België)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_399410/playlist.m3u8:TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
 #DESCRIPTION TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
-#SERVICE 1:64:1e9:0:0:0:0:0:0:0:
+#SERVICE 1:64:242:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen radio webcams++
 #SERVICE 4097:0:1:101a:451:35:c00000:0:0:0:https%3a//live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8:VRT Radio 1 studiocam
 #DESCRIPTION VRT Radio 1 studiocam
@@ -55,25 +53,23 @@
 #DESCRIPTION JOE studiocam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8:Radio PROS (webcam) Heldergem-België
 #DESCRIPTION Radio PROS (webcam) Heldergem-België
-#SERVICE 1:64:1ea:0:0:0:0:0:0:0:
+#SERVICE 1:64:243:0:0:0:0:0:0:0:
 #DESCRIPTION +++Bruxelles/Wallonie+++
-#SERVICE 1:64:1eb:0:0:0:0:0:0:0:
+#SERVICE 1:64:244:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/2645:RTBF La Une HD
-#DESCRIPTION RTBF La Une HD
-#SERVICE 4097:0:1:420f:2f44:13e:820000:0:0:0:http%3a//x.v-iptv.com%3a25443/live/HAJG6/k7bKPqg05y/70201.ts:RTBF 2 Tipik HD
-#DESCRIPTION RTBF 2 Tipik HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/2647:RTBF La Trois HD
-#DESCRIPTION RTBF La Trois HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//x.v-iptv.com%3a25443/live/HAJG6/k7bKPqg05y/70203.ts:RTL Club HD
-#DESCRIPTION RTL Club HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//x.v-iptv.com%3a25443/live/HAJG6/k7bKPqg05y/70204.ts:RTL Plug HD
-#DESCRIPTION RTL Plug HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/2659:RTL TVI HD
-#DESCRIPTION RTL TVI HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8:RTL TVI -2- (deels geoblocking)
-#DESCRIPTION RTL TVI -2- (deels geoblocking)
-#SERVICE 1:64:1ec:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/65453:La Une
+#DESCRIPTION La Une
+#SERVICE 4097:0:1:420f:2f44:13e:820000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/49473:Tipik
+#DESCRIPTION Tipik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/49441:La Trois
+#DESCRIPTION La Trois
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92323:RTL Club!
+#DESCRIPTION RTL Club!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/49443:RTL Plug!
+#DESCRIPTION RTL Plug!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8:RTL TVi
+#DESCRIPTION RTL TVi
+#SERVICE 1:64:245:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8:BEL RTL
 #DESCRIPTION BEL RTL
@@ -83,8 +79,8 @@
 #DESCRIPTION BX1+ (met beeld)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8:Fun Radio
 #DESCRIPTION Fun Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//funradiovisionhd.vedge.infomaniak.com/livecast/smil%3afunradiovisionhd.smil/playlist.m3u8:Fun Radio -2-
-#DESCRIPTION Fun Radio -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//funradiovisionhd.vedge.infomaniak.com/livecast/smil%3afunradiovisionhd.smil/playlist.m3u8:Fun Radio (#)
+#DESCRIPTION Fun Radio (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/yf7ffzpl/2628/chunklist.m3u8:LN 24
 #DESCRIPTION LN 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.matele.be/hls/live.m3u8:MAtélé

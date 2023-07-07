@@ -1,82 +1,106 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:22b:0:0:0:0:0:0:0:
+#SERVICE 1:64:28e:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.2.85.68%3a39981/play/a02g:Rai 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/12676:Rai 1
 #DESCRIPTION Rai 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/131/play.m3u8:Rai 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/48986:Rai 1 (#)
+#DESCRIPTION Rai 1 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51468:Rai 2
 #DESCRIPTION Rai 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8:Rai 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/48987:Rai 2 (#)
+#DESCRIPTION Rai 2 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/12678:Rai 3
 #DESCRIPTION Rai 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/132/play.m3u8:Rai 3 -2-
-#DESCRIPTION Rai 3 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/130/play.m3u8:Rai 3 -3-
-#DESCRIPTION Rai 3 -3-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139120:Rai 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/48988:Rai 3 (#)
+#DESCRIPTION Rai 3 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51470:Rai 4
 #DESCRIPTION Rai 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139121:Rai 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51471:Rai 5
 #DESCRIPTION Rai 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139302:Rai Gulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6275:Rai Gulp
 #DESCRIPTION Rai Gulp
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.69/s/s63/S4/mnf.m3u8:Rai Italia
 #DESCRIPTION Rai Italia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/x6bnqe/s/s63/index2.m3u8:Rai Italia -2-
-#DESCRIPTION Rai Italia -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/x6bnqe/s/s63/index2.m3u8:Rai Italia Asia
 #DESCRIPTION Rai Italia Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139313:Rai Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51475:Rai Movie
 #DESCRIPTION Rai Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6276:Rai Movie (#)
+#DESCRIPTION Rai Movie (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/133/play.m3u8:Rai News 24
 #DESCRIPTION Rai News 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a0a2:Rai Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51485:Rai News 24 (#)
+#DESCRIPTION Rai News 24 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/12686:Rai Premium
 #DESCRIPTION Rai Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139306:Rai Scuola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6279:Rai Premium (#)
+#DESCRIPTION Rai Premium (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/12751:Rai Scuola
 #DESCRIPTION Rai Scuola
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139257:Rai Sport+
-#DESCRIPTION Rai Sport+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139305:Rai Storia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/48960:Rai Scuola (#)
+#DESCRIPTION Rai Scuola (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51492:Rai Sport
+#DESCRIPTION Rai Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/48961:Rai Sport (#)
+#DESCRIPTION Rai Sport (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51486:Rai Storia
 #DESCRIPTION Rai Storia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139303:Rai Yoyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6103:Rai Storia (#)
+#DESCRIPTION Rai Storia (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/12760:Rai Yoyo
 #DESCRIPTION Rai Yoyo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.58.116.16%3a8000/play/a02b:Mediaset Italia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6288:Rai Yoyo (#)
+#DESCRIPTION Rai Yoyo (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/12683:Mediaset Italia 1
 #DESCRIPTION Mediaset Italia 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-tv.uk%3a8080/Mitcko_skype/qtcyt6X2gQS4/9173:Mediaset Italia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6135:Mediaset Italia 1 (#)
+#DESCRIPTION Mediaset Italia 1 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6114:Mediaset Italia 2
 #DESCRIPTION Mediaset Italia 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.58.116.16%3a8000/play/a029:Mediaset Rete 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6255:Mediaset Rete 4
 #DESCRIPTION Mediaset Rete 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.58.116.16%3a8000/play/a02a:Mediaset Canale 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/5978:Mediaset Canale 5
 #DESCRIPTION Mediaset Canale 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139336:Mediaset La 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/12689:Mediaset La 5
 #DESCRIPTION Mediaset La 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139333:Mediaset 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6118:Mediaset La 5 (#)
+#DESCRIPTION Mediaset La 5 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/5938:Mediaset 20
 #DESCRIPTION Mediaset 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a0b6:Mediaset 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6140:Mediaset 27
 #DESCRIPTION Mediaset 27
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.153.35.200%3a8001/play/a05e:Mediaset Cine 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/5987:Mediaset Cine 34
 #DESCRIPTION Mediaset Cine 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.58.116.16%3a8000/play/a02d:Mediaset Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/12684:Mediaset Extra
 #DESCRIPTION Mediaset Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139340:Mediaset Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6138:Mediaset Extra (#)
+#DESCRIPTION Mediaset Extra (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6005:Mediaset Focus
 #DESCRIPTION Mediaset Focus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139337:Mediaset Iris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6139:Mediaset Iris
 #DESCRIPTION Mediaset Iris
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139326:Mediaset TGCOM24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51488:Mediaset TGCOM24
 #DESCRIPTION Mediaset TGCOM24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139325:Mediaset Top Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6496:Mediaset Top Crime
 #DESCRIPTION Mediaset Top Crime
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8:La 7
 #DESCRIPTION La 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139317:La 7d
-#DESCRIPTION La 7d
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139331:Nove
-#DESCRIPTION Nove
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139324:TV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6153:TV 8
 #DESCRIPTION TV 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//revteam4.offshorerev.cc%3a80/_ms50hh/76s6VYcAuV/139329:Sky TG 24
-#DESCRIPTION Sky TG 24
-#SERVICE 1:64:22c:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51482:Nove
+#DESCRIPTION Nove
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8:Sportitalia Live 24
+#DESCRIPTION Sportitalia Live 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8:Sportitalia SoloCalcio
+#DESCRIPTION Sportitalia SoloCalcio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8:Sportitalia TV/Sportitalia/SI
+#DESCRIPTION Sportitalia TV/Sportitalia/SI
+#SERVICE 1:64:28f:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY:16 Anni e Incinta Italy
+#DESCRIPTION 16 Anni e Incinta Italy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale51/canale51/playlist.m3u8:51 Radio TV
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8:111 TV
@@ -171,6 +195,8 @@
 #DESCRIPTION Class CNBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.dimind.it/live/cilentocnn/index.m3u8:Cilento Channel
 #DESCRIPTION Cilento Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY:Clubbing TV Italy
+#DESCRIPTION Clubbing TV Italy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5929b138b139d.streamlock.net/CompanyTV/smil%3aCompanyTV.smil/master.m3u8:Company TV 
 #DESCRIPTION Company TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8:Cremona 1
@@ -291,6 +317,8 @@
 #DESCRIPTION Lucania TV 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/dmchannel/live/playlist.m3u8:Made in BO
 #DESCRIPTION Made in BO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1601580044.rsc.cdn77.org/live/_jcn_/amlst%3aItaliasette/playlist.m3u8:María+Visión Medjugorje
+#DESCRIPTION María+Visión Medjugorje
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.sloode.com%3a1935/mediatv/live/playlist.m3u8:Media TV
 #DESCRIPTION Media TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59bb40cf810aa.streamlock.net%3a4443/streamingvincente/streamingvincente/playlist.m3u8:Mediterranea TV
@@ -313,7 +341,7 @@
 #DESCRIPTION My Surf TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8:New Signal TV Genova
 #DESCRIPTION New Signal TV Genova
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannlivensl.cachefly.net/Protected/sp=1;dirmatch=true;ip=77.173.172.158/a9f42612edc178165b41bd82c27a0a3dbdfb8ca85cb51a52543ef56310471fe7/nsl1/nsl1/playlist.m3u8:NSL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannunsec-lh.akamaihd.net/i/tv_1@868496/master.m3u8:NSL
 #DESCRIPTION NSL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.ntimedia.it/video/S0/S0_master.m3u8:NTI Canale 271
 #DESCRIPTION NTI Canale 271
@@ -519,8 +547,8 @@
 #DESCRIPTION Super!
 #SERVICE 4097:0:1:73:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/SuperJtv/SuperJtv/playlist.m3u8:Super J TV Teramo
 #DESCRIPTION Super J TV Teramo
-#SERVICE 4097:0:1:4:609:9999:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/supertv/supertv/live.m3u8:Super TV Brescia
-#DESCRIPTION Super TV Brescia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/supertv/mp4%3asupertv/playlist.m3u8:Super TV
+#DESCRIPTION Super TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8:Super Six Lombardia
 #DESCRIPTION Super Six Lombardia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.softwarecreation.it/tnove/tnove/playlist.m3u8:T9
@@ -537,7 +565,7 @@
 #DESCRIPTION Tele Acras
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8:Tele Ambiente
 #DESCRIPTION Tele Ambiente
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8:Tele Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8:Tele Arena
 #DESCRIPTION Tele Arena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//fl1.mediastreaming.it%3a1935/telebari/livestream:Tele Bari
 #DESCRIPTION Tele Bari
@@ -709,6 +737,8 @@
 #DESCRIPTION TG Norba 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash2.streaming.xdevel.com%3a80/radiotouring10496/radiotouring10496/playlist.m3u8:Touring TV 
 #DESCRIPTION Touring TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetr.teleromagna.it/mia/live/playlist.m3u8:TR Sport
+#DESCRIPTION TR Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/trc/trc/playlist.m3u8:TRC Santeramo
 #DESCRIPTION TRC Santeramo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8:Tris News
@@ -799,7 +829,9 @@
 #DESCRIPTION Visual Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8:Vuemme
 #DESCRIPTION Vuemme
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8:Well TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.cp.ets-sistemi.it%3a1936/profservtv/profservtv/playlist.m3u8:Wedding TV
+#DESCRIPTION Wedding TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8:Well TV
 #DESCRIPTION Well TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.43.97.35%3a1935/winechannel/winechannel/playlist.m3u8:Wine Channel
 #DESCRIPTION Wine Channel

@@ -1,9 +1,31 @@
 #NAME Stream Myanmar (Birma. MM)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8:Mahar Bawdi TV
-#DESCRIPTION Mahar Bawdi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.81.84.130/hls/mwd/index.m3u8:MWD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07s/index.m3u8:Education Channel
+#DESCRIPTION Education Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a082/index.m3u8:Fortune TV
+#DESCRIPTION Fortune TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8:MITV
+#DESCRIPTION MITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07r/index.m3u8:MITV (#)
+#DESCRIPTION MITV (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07x/index.m3u8:MN TV
+#DESCRIPTION MN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07l/index.m3u8:MRTV
+#DESCRIPTION MRTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07u/index.m3u8:MRTV 4
+#DESCRIPTION MRTV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07t/index.m3u8:MRTV Entertainment
+#DESCRIPTION MRTV Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07p/index.m3u8:MRTV Farmers
+#DESCRIPTION MRTV Farmers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07m/index.m3u8:MRTV News
+#DESCRIPTION MRTV News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07o/index.m3u8:MRTV NRC
+#DESCRIPTION MRTV NRC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07n/index.m3u8:MRTV Parliament
+#DESCRIPTION MRTV Parliament
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07q/index.m3u8:MRTV Sports
+#DESCRIPTION MRTV Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.89.246.119%3a8881/play/a07z/index.m3u8:MWD
 #DESCRIPTION MWD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.81.84.130/hls/mwd_variety/index.m3u8:MWD Variety
 #DESCRIPTION MWD Variety
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8:Myanmar International TV (MITV)
-#DESCRIPTION Myanmar International TV (MITV)

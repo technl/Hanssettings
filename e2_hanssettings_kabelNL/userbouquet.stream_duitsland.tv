@@ -1,185 +1,313 @@
 #NAME Stream Duitsland (DE)
-#SERVICE 1:64:9d:0:0:0:0:0:0:0:
+#SERVICE 1:64:fb:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders-publieke omroepen++
-#SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2331:ARD
+#SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:https%3a//mcdn.daserste.de/daserste/int/master_1920p_5000.m3u8:ARD
 #DESCRIPTION ARD
-#SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:http%3a//87.228.199.234%3a4000/play/a009:ARD -2-
-#DESCRIPTION ARD -2-
-#SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:https%3a//mcdn.daserste.de/daserste/int/master_1920p_5000.m3u8:ARD (deels geoblocking)
-#DESCRIPTION ARD (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/125022:ARD Alpha
+#SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/248774:ARD (#)
+#DESCRIPTION ARD (#)
+#SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13957:ARD (#)
+#DESCRIPTION ARD (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mcdn.br.de/br/fs/ard_alpha/hls/int/master_960p_1600.m3u8:ARD Alpha
 #DESCRIPTION ARD Alpha
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mcdn.br.de/br/fs/ard_alpha/hls/int/master_960p_1600.m3u8:ARD Alpha (deels geoblocking)
-#DESCRIPTION ARD Alpha (deels geoblocking)
-#SERVICE 4097:0:1:2888:40f:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2294:ARD One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/107053:ARD Alpha (#)
+#DESCRIPTION ARD Alpha (#)
+#SERVICE 4097:0:1:2888:40f:1:c00000:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/248783:ARD One
 #DESCRIPTION ARD One
-#SERVICE 4097:0:1:7035:41b:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2291:ARD Phoenix
+#SERVICE 4097:0:1:2888:40f:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/16516:ARD One (#)
+#DESCRIPTION ARD One (#)
+#SERVICE 4097:0:1:7035:41b:1:c00000:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/15603:ARD Phoenix
 #DESCRIPTION ARD Phoenix
+#SERVICE 4097:0:1:7035:41b:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/14020:ARD Phoenix (#)
+#DESCRIPTION ARD Phoenix (#)
 #SERVICE 4097:0:1:2887:40f:1:c00000:0:0:0:https%3a//tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8:Tagesschau 24
 #DESCRIPTION Tagesschau 24
-#SERVICE 4097:0:1:2856:401:1:c00000:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/18454:BR Fernsehen Nord HD 
-#DESCRIPTION BR Fernsehen Nord HD 
-#SERVICE 4097:0:1:2855:401:1:c00000:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/163105:BR Fernsehen Süd HD 
-#DESCRIPTION BR Fernsehen Süd HD 
-#SERVICE 4097:0:1:2855:401:1:c00000:0:0:0:https%3a//mcdn.br.de/br/fs/bfs_sued/hls/int/master_1920p_5000.m3u8:BR Fernsehen (deels geoblocking)
-#DESCRIPTION BR Fernsehen (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/10941:DW Deutsch
-#DESCRIPTION DW Deutsch
-#SERVICE 4097:0:1:2873:425:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/44278:HR Fernsehen
+#SERVICE 4097:0:1:2855:401:1:c00000:0:0:0:https%3a//mcdn.br.de/br/fs/bfs_sued/hls/int/master_1920p_5000.m3u8:BR Fernsehen
+#DESCRIPTION BR Fernsehen
+#SERVICE 4097:0:1:2856:401:1:c00000:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/70427.ts:BR Fernsehen (#)
+#DESCRIPTION BR Fernsehen (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/31299:DW Deutsche Welle
+#DESCRIPTION DW Deutsche Welle
+#SERVICE 4097:0:1:2873:425:1:c00000:0:0:0:https%3a//hrhls.akamaized.net/hls/live/2024525/hrhls/master-720p-3200.m3u8:HR Fernsehen
 #DESCRIPTION HR Fernsehen
-#SERVICE 4097:0:1:2873:425:1:c00000:0:0:0:https%3a//hrhls.akamaized.net/hls/live/2024525/hrhls/master-720p-3200.m3u8:HR Fernsehen (deels geoblocking)
-#DESCRIPTION HR Fernsehen (deels geoblocking)
-#SERVICE 4097:0:1:2870:425:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0bz/index.m3u8:MDR Sachsen HD 
-#DESCRIPTION MDR Sachsen HD 
-#SERVICE 4097:0:1:2870:425:1:c00000:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3483:MDR Fernsehen Sachsen Anhalt
-#DESCRIPTION MDR Fernsehen Sachsen Anhalt
-#SERVICE 4097:0:1:2859:401:1:c00000:0:0:0:https%3a//mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8:NDR Fernsehen Hamburg HD (deels geoblocking)
-#DESCRIPTION NDR Fernsehen Hamburg HD (deels geoblocking)
-#SERVICE 4097:0:1:2859:401:1:c00000:0:0:0:https%3a//ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8:NDR Fernsehen International (deels geoblocking)
-#DESCRIPTION NDR Fernsehen International (deels geoblocking)
-#SERVICE 4097:0:1:286f:425:1:c00000:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/41991:RBB Berlin HD
-#DESCRIPTION RBB Berlin HD
-#SERVICE 4097:0:1:286e:425:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0bx/index.m3u8:RBB Brandenburg HD
-#DESCRIPTION RBB Brandenburg HD
-#SERVICE 4097:0:1:288a:40f:1:c00000:0:0:0:https%3a//srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8:SR Fernsehen HD
-#DESCRIPTION SR Fernsehen HD
-#SERVICE 4097:0:1:6dd1:44d:1:c00000:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/7513:SWR Fernsehen BW HD 
-#DESCRIPTION SWR Fernsehen BW HD 
-#SERVICE 4097:0:1:6e47:431:1:c00000:0:0:0:http%3a//62.131.92.221%3a60250/play/a0aw/index.m3u8:SWR Fernsehen RP HD
-#DESCRIPTION SWR Fernsehen RP HD
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/18830:WDR Fernsehen HD
-#DESCRIPTION WDR Fernsehen HD
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8:WDR Fernsehen (deels geoblocking)
-#DESCRIPTION WDR Fernsehen (deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8:WDR Fernsehen Aachen [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Aachen [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8:WDR Fernsehen Bielefeld [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Bielefeld [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8:WDR Fernsehen Bonn [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Bonn [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8:WDR Fernsehen Dortmund [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Dortmund [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8:WDR Fernsehen Duisburg [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Duisburg [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8:WDR Fernsehen Düsseldorf [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Düsseldorf [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8:WDR Fernsehen Essen [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Essen [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8:WDR Fernsehen Köln [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Köln [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8:WDR Fernsehen Münster [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Münster [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8:WDR Fernsehen Siegen [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Siegen [deels geoblocking)
-#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8:WDR Fernsehen Wuppertal [deels geoblocking)
-#DESCRIPTION WDR Fernsehen Wuppertal [deels geoblocking)
-#SERVICE 4097:0:1:2b66:3f3:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2307:ZDF HD
-#DESCRIPTION ZDF HD
-#SERVICE 4097:0:1:2b66:3f3:1:c00000:0:0:0:http%3a//87.228.199.234%3a4000/play/a007:ZDF -2-
-#DESCRIPTION ZDF -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2306:ZDF Info
+#SERVICE 4097:0:1:2873:425:1:c00000:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/248779:HR Fernsehen (#)
+#DESCRIPTION HR Fernsehen (#)
+#SERVICE 4097:0:1:2873:425:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0c2/index.m3u8:HR Fernsehen (#)
+#DESCRIPTION HR Fernsehen (#)
+#SERVICE 4097:0:1:2870:425:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0bz/index.m3u8:MDR Fernsehen Sachsen
+#DESCRIPTION MDR Fernsehen Sachsen
+#SERVICE 4097:0:1:2870:425:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0c0/index.m3u8:MDR Fernsehen Sachsen-Anhalt
+#DESCRIPTION MDR Fernsehen Sachsen-Anhalt
+#SERVICE 4097:0:1:2870:425:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0c1/index.m3u8:MDR Fernsehen Thüringen
+#DESCRIPTION MDR Fernsehen Thüringen
+#SERVICE 4097:0:1:2859:401:1:c00000:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/248780:NDR Fernsehen
+#DESCRIPTION NDR Fernsehen
+#SERVICE 4097:0:1:2859:401:1:c00000:0:0:0:https%3a//mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8:NDR Fernsehen Hamburg
+#DESCRIPTION NDR Fernsehen Hamburg
+#SERVICE 4097:0:1:2859:401:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/207866:NDR Fernsehen Niedersachsen
+#DESCRIPTION NDR Fernsehen Niedersachsen
+#SERVICE 4097:0:1:2859:401:1:c00000:0:0:0:https%3a//ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8:NDR Fernsehen International
+#DESCRIPTION NDR Fernsehen International
+#SERVICE 4097:0:1:2859:401:1:c00000:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/70332.ts:NDR Fernsehen Schleswig-Holstein
+#DESCRIPTION NDR Fernsehen Schleswig-Holstein
+#SERVICE 4097:0:1:286f:425:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0by/index.m3u8:RBB Berlin
+#DESCRIPTION RBB Berlin
+#SERVICE 4097:0:1:286e:425:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0bx/index.m3u8:RBB Brandenburg
+#DESCRIPTION RBB Brandenburg
+#SERVICE 4097:0:1:288a:40f:1:c00000:0:0:0:https%3a//srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8:SR Fernsehen
+#DESCRIPTION SR Fernsehen
+#SERVICE 4097:0:1:6dd1:44d:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/14016:SWR Fernsehen BW
+#DESCRIPTION SWR Fernsehen BW
+#SERVICE 4097:0:1:6e47:431:1:c00000:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/41711.ts:SWR Fernsehen RP
+#DESCRIPTION SWR Fernsehen RP
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8:WDR Fernsehen
+#DESCRIPTION WDR Fernsehen
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/248782:WDR Fernsehen (#)
+#DESCRIPTION WDR Fernsehen (#)
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53560:WDR Fernsehen (#)
+#DESCRIPTION WDR Fernsehen (#)
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8:WDR Fernsehen Aachen
+#DESCRIPTION WDR Fernsehen Aachen
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8:WDR Fernsehen Bielefeld
+#DESCRIPTION WDR Fernsehen Bielefeld
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8:WDR Fernsehen Bonn
+#DESCRIPTION WDR Fernsehen Bonn
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8:WDR Fernsehen Dortmund
+#DESCRIPTION WDR Fernsehen Dortmund
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8:WDR Fernsehen Duisburg
+#DESCRIPTION WDR Fernsehen Duisburg
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8:WDR Fernsehen Düsseldorf
+#DESCRIPTION WDR Fernsehen Düsseldorf
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8:WDR Fernsehen Essen
+#DESCRIPTION WDR Fernsehen Essen
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8:WDR Fernsehen Köln
+#DESCRIPTION WDR Fernsehen Köln
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8:WDR Fernsehen Münster
+#DESCRIPTION WDR Fernsehen Münster
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8:WDR Fernsehen Siegen
+#DESCRIPTION WDR Fernsehen Siegen
+#SERVICE 4097:0:1:6f78:457:1:0:0:0:0:https%3a//wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8:WDR Fernsehen Wuppertal
+#DESCRIPTION WDR Fernsehen Wuppertal
+#SERVICE 4097:0:1:2b66:3f3:1:c00000:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/248775:ZDF
+#DESCRIPTION ZDF
+#SERVICE 4097:0:1:2b66:3f3:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13961:ZDF (#)
+#DESCRIPTION ZDF (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/248776:ZDF Info
 #DESCRIPTION ZDF Info
-#SERVICE 4097:0:1:2b7a:3f3:1:c00000:0:0:0:http%3a//87.228.199.234%3a4000/play/a008:ZDF Neo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.35%3a8003/play/a0ce/index.m3u8:ZDF Info (#)
+#DESCRIPTION ZDF Info (#)
+#SERVICE 4097:0:1:2b7a:3f3:1:c00000:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/32106:ZDF Neo
 #DESCRIPTION ZDF Neo
-#SERVICE 4097:0:1:2b7a:3f3:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2305:ZDF Neo -2-
-#DESCRIPTION ZDF Neo -2-
-#SERVICE 4097:0:1:6d67:437:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2334:3sat
+#SERVICE 4097:0:1:2b7a:3f3:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/14022:ZDF Neo (#)
+#DESCRIPTION ZDF Neo (#)
+#SERVICE 4097:0:1:6d67:437:1:c00000:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/248784:3sat
 #DESCRIPTION 3sat
-#SERVICE 4097:0:1:6d68:437:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2271:KiKA
+#SERVICE 4097:0:1:6d67:437:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/14015:3sat (#)
+#DESCRIPTION 3sat (#)
+#SERVICE 4097:0:1:6d68:437:1:c00000:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/248909:KiKA
 #DESCRIPTION KiKA
-#SERVICE 1:64:9e:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:6d68:437:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13962:KiKA (#)
+#DESCRIPTION KiKA (#)
+#SERVICE 1:64:fc:0:0:0:0:0:0:0:
 #DESCRIPTION ++commerciële zenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5987:ANIXE+
-#DESCRIPTION ANIXE+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/296372:ANIXE Serie
-#DESCRIPTION ANIXE Serie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/893:ARTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ma.anixa.tv/clips/stream/anixesd/index.m3u8:Anixe +
+#DESCRIPTION Anixe +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/106248:Anixe Serie
+#DESCRIPTION Anixe Serie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/15876:ARTE
 #DESCRIPTION ARTE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/125135:Bild TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/209370:Bild TV
 #DESCRIPTION Bild TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/1670:Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53727:Bild TV (#)
+#DESCRIPTION Bild TV (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/15580:Comedy Central
 #DESCRIPTION Comedy Central
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/290381:Deluxe Lounge
-#DESCRIPTION Deluxe Lounge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8:Deluxe Dance
+#DESCRIPTION Deluxe Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8:Deluxe Flashback
+#DESCRIPTION Deluxe Flashback
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8:Deluxe Music
 #DESCRIPTION Deluxe Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/163081:Deutsches Musik Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8:Deluxe Rap
+#DESCRIPTION Deluxe Rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.telvi.de/hls/aktionaertv.m3u8:Der Aktionär TV
+#DESCRIPTION Der Aktionär TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8:Deutsches Musik Fernsehen
 #DESCRIPTION Deutsches Musik Fernsehen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4421:Euronews Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/106981:Euronews Deutschland
 #DESCRIPTION Euronews Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78840:Euronews Deutschland (#)
+#DESCRIPTION Euronews Deutschland (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8:Juwelo
 #DESCRIPTION Juwelo
 #SERVICE 4097:0:1:ef76:3f9:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0b3/index.m3u8:Kabel 1
 #DESCRIPTION Kabel 1
-#SERVICE 4097:0:1:ef76:3f9:1:c00000:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/891:Kabel 1 -2-
-#DESCRIPTION Kabel 1 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2295:Kabel 1 Classics
+#SERVICE 4097:0:1:ef76:3f9:1:c00000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53523:Kabel 1 (#)
+#DESCRIPTION Kabel 1 (#)
+#SERVICE 4097:0:1:ef76:3f9:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/16511:Kabel 1 (#)
+#DESCRIPTION Kabel 1 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55351:Kabel 1 Classics
 #DESCRIPTION Kabel 1 Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/10026:Kabel 1 Classics (#)
+#DESCRIPTION Kabel 1 Classics (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53592:Kabel 1 Doku
+#DESCRIPTION Kabel 1 Doku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.35%3a8003/play/a0b9/index.m3u8:Kabel 1 Doku (#)
+#DESCRIPTION Kabel 1 Doku (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.alpaca.t62a.com/hls/9103/index.m3u8:KaufBei TV
 #DESCRIPTION KaufBei TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lilo.iptv-playoutcenter.de/lilo/lilo-sat1/chunks.m3u8:Lilo.TV
 #DESCRIPTION Lilo.TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3486:MTV Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/69703:MTV Deutschland
 #DESCRIPTION MTV Deutschland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//h056.video-stream-hosting.de/easycast9-live/_definst_/mp4%3alivestream99/playlist.m3u8?ref=:Muxx.tv
 #DESCRIPTION Muxx.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2262:N24 Doku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92822:N24 Doku
 #DESCRIPTION N24 Doku
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2259:N-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53597:N-TV
 #DESCRIPTION N-TV
-#SERVICE 4097:0:1:ef75:3f9:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2326:Pro 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/2080:N-TV (#)
+#DESCRIPTION N-TV (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/18509:Pearl TV
+#DESCRIPTION Pearl TV
+#SERVICE 4097:0:1:ef75:3f9:1:c00000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53525:Pro 7
 #DESCRIPTION Pro 7
-#SERVICE 4097:0:1:2f51:a1:270f:ffff0000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2324:Pro 7 Maxx
+#SERVICE 4097:0:1:ef75:3f9:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0b2/index.m3u8:Pro 7 (#)
+#DESCRIPTION Pro 7 (#)
+#SERVICE 4097:0:1:ef75:3f9:1:c00000:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/59881.ts:Pro 7 (#)
+#DESCRIPTION Pro 7 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53538:Pro 7 Fun
+#DESCRIPTION Pro 7 Fun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/16518:Pro 7 Fun (#)
+#DESCRIPTION Pro 7 Fun (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53538:Pro 7 Fun (#)
+#DESCRIPTION Pro 7 Fun (#)
+#SERVICE 4097:0:1:2f51:a1:270f:ffff0000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53541:Pro 7 Maxx
 #DESCRIPTION Pro 7 Maxx
+#SERVICE 4097:0:1:2f51:a1:270f:ffff0000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0b6/index.m3u8:Pro 7 Maxx (#)
+#DESCRIPTION Pro 7 Maxx (#)
+#SERVICE 4097:0:1:2f51:a1:270f:ffff0000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13959:Pro 7 Maxx (#)
+#DESCRIPTION Pro 7 Maxx (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8:QVC Germany
 #DESCRIPTION QVC Germany
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8:QVC Plus
-#DESCRIPTION QVC Plus
-#SERVICE 4097:0:1:2ee3:441:1:c00000:0:0:0:http%3a//87.228.199.234%3a4000/play/a00c:RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8:QVC 2
+#DESCRIPTION QVC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8:QVC Style
+#DESCRIPTION QVC Style
+#SERVICE 4097:0:1:2ee3:441:1:c00000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53527:RTL
 #DESCRIPTION RTL
-#SERVICE 4097:0:1:2ef4:441:1:c00000:0:0:0:http%3a//87.228.199.234%3a4000/play/a00d:RTL 2
+#SERVICE 4097:0:1:2ee3:441:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0ao/index.m3u8:RTL (#)
+#DESCRIPTION RTL (#)
+#SERVICE 4097:0:1:2ee3:441:1:c00000:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/70319.ts:RTL (#)
+#DESCRIPTION RTL (#)
+#SERVICE 4097:0:1:2ef4:441:1:c00000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53529:RTL 2
 #DESCRIPTION RTL 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/3522:RTL Crime HD
-#DESCRIPTION RTL Crime HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/3523:RTL Living HD
-#DESCRIPTION RTL Living HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2330:RTL Nitro HD
-#DESCRIPTION RTL Nitro HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/3521:RTL Passion HD
-#DESCRIPTION RTL Passion HD
+#SERVICE 4097:0:1:2ef4:441:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0at/index.m3u8:RTL 2 (#)
+#DESCRIPTION RTL 2 (#)
+#SERVICE 4097:0:1:2ef4:441:1:c00000:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/70321.ts:RTL 2 (#)
+#DESCRIPTION RTL 2 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/77630:RTL Crime
+#DESCRIPTION RTL Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13993:RTL Crime (#)
+#DESCRIPTION RTL Crime (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/2103:RTL Crime (#)
+#DESCRIPTION RTL Crime (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55364:RTL Living
+#DESCRIPTION RTL Living
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13960:RTL Living (#)
+#DESCRIPTION RTL Living (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/K1discord/B54Zlkw0DbgddmP51lWi8L0bbsbxfN/55364:RTL Living (#)
+#DESCRIPTION RTL Living (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53547:RTL Nitro
+#DESCRIPTION RTL Nitro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/106987:RTL Nitro (#)
+#DESCRIPTION RTL Nitro (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/70322.ts:RTL Nitro (#)
+#DESCRIPTION RTL Nitro (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55349:RTL Passion
+#DESCRIPTION RTL Passion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13958:RTL Passion (#)
+#DESCRIPTION RTL Passion (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/70317.ts:RTL Passion (#)
+#DESCRIPTION RTL Passion (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.35%3a8003/play/a0ay/index.m3u8:RTL Up
 #DESCRIPTION RTL Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/67447:RTL Up (#)
+#DESCRIPTION RTL Up (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/70323.ts:RTL Up (#)
+#DESCRIPTION RTL Up (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.35%3a8003/play/a0av/index.m3u8:Super RTL
 #DESCRIPTION Super RTL
-#SERVICE 4097:0:1:ef74:3f9:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2318:SAT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55278:Super RTL (#)
+#DESCRIPTION Super RTL (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/59889.ts:Super RTL (#)
+#DESCRIPTION Super RTL (#)
+#SERVICE 4097:0:1:ef74:3f9:1:c00000:0:0:0:http%3a//154.58.202.35%3a8003/play/a0b1/index.m3u8:SAT 1
 #DESCRIPTION SAT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2280:SAT 1 Emotions
+#SERVICE 4097:0:1:ef74:3f9:1:c00000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53520:SAT 1 (#)
+#DESCRIPTION SAT 1 (#)
+#SERVICE 4097:0:1:ef74:3f9:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13956:SAT 1 (#)
+#DESCRIPTION SAT 1 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/107801:SAT 1 Emotions
 #DESCRIPTION SAT 1 Emotions
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2317:SAT 1 Gold HD
-#DESCRIPTION SAT 1 Gold HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/67448:SAT 1 Emotions (#)
+#DESCRIPTION SAT 1 Emotions (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/107801:SAT 1 Emotions (#)
+#DESCRIPTION SAT 1 Emotions (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.35%3a8003/play/a0b5/index.m3u8:SAT 1 Gold
+#DESCRIPTION SAT 1 Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78799:SAT 1 Gold (#)
+#DESCRIPTION SAT 1 Gold (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13975:SAT 1 Gold (#)
+#DESCRIPTION SAT 1 Gold (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8:Schlager Deluxe
 #DESCRIPTION Schlager Deluxe
-#SERVICE 4097:0:1:1332:3ef:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2314:Servus TV Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/278321:Schlager Deluxe (#)
+#DESCRIPTION Schlager Deluxe (#)
+#SERVICE 4097:0:1:1332:3ef:1:c00000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53553:Servus TV Deutschland
 #DESCRIPTION Servus TV Deutschland
-#SERVICE 4097:0:1:ef77:3f9:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2312:Sixx HD
-#DESCRIPTION Sixx HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2275:Tele 5 HD
-#DESCRIPTION Tele 5 HD
+#SERVICE 4097:0:1:1332:3ef:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13948:Servus TV Deutschland (#)
+#DESCRIPTION Servus TV Deutschland (#)
+#SERVICE 4097:0:1:ef77:3f9:1:c00000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53531:Sixx
+#DESCRIPTION Sixx
+#SERVICE 4097:0:1:ef77:3f9:1:c00000:0:0:0:http%3a//xplatinmedia.com%3a8080/K1discord/B54Zlkw0DbgddmP51lWi8L0bbsbxfN/53531:Sixx (#)
+#DESCRIPTION Sixx (#)
+#SERVICE 4097:0:1:ef77:3f9:1:c00000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13955:Sixx (#)
+#DESCRIPTION Sixx (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78726:Tele 5
+#DESCRIPTION Tele 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/K1discord/B54Zlkw0DbgddmP51lWi8L0bbsbxfN/78726:Tele 5 (#)
+#DESCRIPTION Tele 5 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13989:Tele 5 (#)
+#DESCRIPTION Tele 5 (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.35%3a8003/play/a0au/index.m3u8:TOGGO Plus
 #DESCRIPTION TOGGO Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53578:TOGGO Plus (#)
+#DESCRIPTION TOGGO Plus (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/2145:TOGGO Plus (#)
+#DESCRIPTION TOGGO Plus (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muc.iptv-playoutcenter.de/volksmusik/volksmusik.stream_1/chunks.m3u8:Volksmusik.TV
 #DESCRIPTION Volksmusik.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.35%3a8003/play/a0aw/index.m3u8:Vox
 #DESCRIPTION Vox
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/20786:Vox Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78827:Vox (#)
+#DESCRIPTION Vox (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/13945:Vox (#)
+#DESCRIPTION Vox (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53534:Vox Up
 #DESCRIPTION Vox Up
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2260:WELT
-#DESCRIPTION WELT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/151889:Vox Up (#)
+#DESCRIPTION Vox Up (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/98400:Vox Up (#)
+#DESCRIPTION Vox Up (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/2093:Welt
+#DESCRIPTION Welt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.35%3a8003/play/a0b4/index.m3u8:Welt (#)
+#DESCRIPTION Welt (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78828:Welt (#)
+#DESCRIPTION Welt (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8:Welt der Wunder TV
 #DESCRIPTION Welt der Wunder TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/ik%3awir24tv_hms/manifest.m3u8:Wir 24 TV (deels geoblocking)
-#DESCRIPTION Wir 24 TV (deels geoblocking)
-#SERVICE 1:64:9f:0:0:0:0:0:0:0:
+#SERVICE 1:64:fd:0:0:0:0:0:0:0:
 #DESCRIPTION ++lokale zenders++
 #SERVICE 4097:0:1:16a8:3ff:1:c00000:0:0:0:http%3a//178.248.241.103/iptv/atv.ts:a.tv HD
 #DESCRIPTION a.tv HD
@@ -215,6 +343,8 @@
 #DESCRIPTION Filstalwelle Göppingen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8:Franken Fernsehen
 #DESCRIPTION Franken Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCVwFnSaCfUD_UbkmWuZZ7FA.m3u8:Friesischer Rundfunk Friedeburg
+#DESCRIPTION Friesischer Rundfunk Friedeburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/heinstv-live/_definst_/smil%3alivestream.smil/playlist.m3u8:H1
 #DESCRIPTION H1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8:Hamburg 1
@@ -351,6 +481,8 @@
 #DESCRIPTION Saarland Fernsehen 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8:Saarland Fernsehen 2 
 #DESCRIPTION Saarland Fernsehen 2 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil%3alivestream.smil/playlist.m3u8:Schladming-Dachstein TV
+#DESCRIPTION Schladming-Dachstein TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//h056.video-stream-hosting.de/easycast7-live/_definst_/mp4%3alivestreamhd20/playlist.m3u8?ref=:Seenluft 24
 #DESCRIPTION Seenluft 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4%3alivestream/playlist.m3u8?&ref=www.studio47.de&seid=166119:Studio 47 NRW
@@ -391,7 +523,7 @@
 #DESCRIPTION Weser TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.telvi.de/hls/wwtv_hd720.m3u8:WW TV
 #DESCRIPTION WW TV
-#SERVICE 1:64:a0:0:0:0:0:0:0:0:
+#SERVICE 1:64:fe:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3 TV 
 #DESCRIPTION 1-2-3 TV 
@@ -407,8 +539,8 @@
 #DESCRIPTION Bibel TV (deels geoblocking)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8:Bibel TV Impuls 
 #DESCRIPTION Bibel TV Impuls 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8:Bibel TV Musik  
-#DESCRIPTION Bibel TV Musik  
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8:Bibel TV Musik
+#DESCRIPTION Bibel TV Musik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8:Das Ding
 #DESCRIPTION Das Ding
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a03b:Deluxe Music
@@ -419,8 +551,6 @@
 #DESCRIPTION Deutsche Welle+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8:Deutsche Welle (Spaans)
 #DESCRIPTION Deutsche Welle (Spaans)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8:Deutsches Musik Fernsehen
-#DESCRIPTION Deutsches Musik Fernsehen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.92.69.155%3a9091/play/a044:DMAX
 #DESCRIPTION DMAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/8d3c5f8c76724987a30eb69d4ba6ca80/eu-central-1/6194387526001/profile_0/chunklist.m3u8:ERF 1
@@ -467,6 +597,8 @@
 #DESCRIPTION Nahe TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//folxplay-t.b-cdn.net/streams/ch-3/master.m3u8:One 1 Music TV
 #DESCRIPTION One 1 Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8:One Adria
+#DESCRIPTION One Adria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//folxplay-t.b-cdn.net/streams/ch-2/master.m3u8:Zwei 2 Music TV
 #DESCRIPTION Zwei 2 Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8:Parlamentsfernsehen 1
@@ -497,6 +629,8 @@
 #DESCRIPTION Sofy TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//euvia.cdn.ses-ps.com/HLS-Live/index.m3u8:Sonnenklar TV HD
 #DESCRIPTION Sonnenklar TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.sonus.fm%3a1935/public/stream_source/playlist.m3u8:Sonus FM
+#DESCRIPTION Sonus FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.onairport.live/sophiatv/smil%3asophia-tv-en.smil/chunklist.m3u8:Sophia TV
 #DESCRIPTION Sophia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4%3alivestream/playlist.m3u8:Studio 47 

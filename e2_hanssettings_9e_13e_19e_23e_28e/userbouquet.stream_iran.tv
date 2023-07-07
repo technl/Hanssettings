@@ -1,5 +1,5 @@
 #NAME Stream Iran (IR)
-#SERVICE 1:64:392:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f1:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvstream.co.uk/LS-63503-4/index.m3u8:Iran International TV
 #DESCRIPTION Iran International TV
@@ -9,6 +9,8 @@
 #DESCRIPTION IRIB TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-azd204a.telewebion.com/tv3/live/1080p/index.m3u8:IRIB TV 3
 #DESCRIPTION IRIB TV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//af.ayas.ir/hls2/tv3.m3u8:IRIB TV 3 (#)
+#DESCRIPTION IRIB TV 3 (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnw.telewebion.com/tv4/live/playlist.m3u8:IRIB TV 4
 #DESCRIPTION IRIB TV 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnw.telewebion.com/tehran/live/playlist.m3u8:IRIB TV 5
@@ -135,11 +137,11 @@
 #DESCRIPTION IRIB Yazd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/296457:IRIB Zagros
 #DESCRIPTION IRIB Zagros
-#SERVICE 1:64:393:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f2:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.28/hls/stream.m3u8:4 Kurd
 #DESCRIPTION 4 Kurd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.153/hls/stream.m3u8:4U TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.4utv.live/hls/stream.m3u8:4U TV
 #DESCRIPTION 4U TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.247box.live/hls/stream.m3u8:24/7 Box TV
 #DESCRIPTION 24/7 Box TV
@@ -153,13 +155,15 @@
 #DESCRIPTION Al Kawthar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8:Al-Sirat
 #DESCRIPTION Al-Sirat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8:Al Wilayah
+#DESCRIPTION Al Wilayah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/alzahra/alzahra_hd.smil/chunklist_b3096000.m3u8:Al Zahra TV
 #DESCRIPTION Al Zahra TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nl.livekadeh.com/hls2/AMG_src.m3u8:AMG TV
 #DESCRIPTION AMG TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.asil.tv/live/asil.m3u8:Asil TV
 #DESCRIPTION Asil TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8:Assirat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8:Assirat TV
 #DESCRIPTION Assirat TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5491:AVA Family
 #DESCRIPTION AVA Family
@@ -251,18 +255,22 @@
 #DESCRIPTION iFILM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.presstv.ir/live/ifilm2.m3u8:iFILM 2
 #DESCRIPTION iFILM 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.37.92.14%3a12000/play/a0e1:iFILM Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.presstv.ir/cdnlive/smil%3aifilmarcdn.smil/playlist.m3u8:iFILM Arabic
 #DESCRIPTION iFILM Arabic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.presstv.ir/live/ifilmen.m3u8:iFILM English
 #DESCRIPTION iFILM English
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih1.m3u8:Imam Hussein TV 1 (Farsi)
-#DESCRIPTION Imam Hussein TV 1 (Farsi)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih2.m3u8:Imam Hussein TV 2 (Arabisch)
-#DESCRIPTION Imam Hussein TV 2 (Arabisch)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih3.m3u8:Imam Hussein TV 3 (Engels)
-#DESCRIPTION Imam Hussein TV 3 (Engels)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih4.m3u8:Imam Hussein TV 4 (Urdu)
-#DESCRIPTION Imam Hussein TV 4 (Urdu)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih1.m3u8:Imam Hussein TV 1
+#DESCRIPTION Imam Hussein TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih2.m3u8:Imam Hussein TV 2
+#DESCRIPTION Imam Hussein TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih3.m3u8:Imam Hussein TV 3
+#DESCRIPTION Imam Hussein TV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih4.m3u8:Imam Hussein TV 4
+#DESCRIPTION Imam Hussein TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/alzahra/alzahra_hd.smil/playlist.m3u8:Imam Hussein TV 5
+#DESCRIPTION Imam Hussein TV 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/arbaeen/arbaeen_hd.smil/index.m3u8:Imam Hussein TV 6
+#DESCRIPTION Imam Hussein TV 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.57/hls/stream.m3u8:Iran Beauty
 #DESCRIPTION Iran Beauty
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.159/hls/stream.m3u8:Irane Farda
@@ -277,6 +285,8 @@
 #DESCRIPTION Karbala Live 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-mx-us-dal-1-cdn-bny.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8:Khatereh TV
 #DESCRIPTION Khatereh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tvkomala.com/live/komala/playlist.m3u8:Komala TV
+#DESCRIPTION Komala TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.33/hls/stream.m3u8:Maah TV
 #DESCRIPTION Maah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dh4wkqcyy8768.cloudfront.net/live_2500.m3u8:Manoto

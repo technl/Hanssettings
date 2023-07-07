@@ -1,41 +1,51 @@
 #NAME Stream Finland (FI)
-#SERVICE 1:64:183b:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a37:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/18633:YLE TV 1
-#DESCRIPTION YLE TV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622540/yletv1w/yletv_video1080p50.m3u8:YLE TV 1 (deels geoblocking)
-#DESCRIPTION YLE TV 1 (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/18634:YLE TV 2
-#DESCRIPTION YLE TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622541/yletv2w/yletv_video1080p50.m3u8:YLE TV 2 (deels geoblocking)
-#DESCRIPTION YLE TV 2 (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/yletv_video1080p50.m3u8:YLE Teema & Fem (deeks geoblocking)
-#DESCRIPTION YLE Teema & Fem (deeks geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/26459:MTV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/154991:YLE 1
+#DESCRIPTION YLE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/Vladisergeevic/7eef2c4388/18633:YLE 1 -2-
+#DESCRIPTION YLE 1 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622540/yletv1w/yletv_video1080p50.m3u8:YLE 1 (deels geoblocking) -3-
+#DESCRIPTION YLE 1 (deels geoblocking) -3-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/154992:YLE 2
+#DESCRIPTION YLE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/Vladisergeevic/7eef2c4388/18634:YLE 2 -2-
+#DESCRIPTION YLE 2 -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622541/yletv2w/yletv_video1080p50.m3u8:YLE 2 (deels geoblocking) -3-
+#DESCRIPTION YLE 2 (deels geoblocking) -3-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/yletv_video1080p50.m3u8:YLE Teema & Fem (deels geoblocking)
+#DESCRIPTION YLE Teema & Fem (deels geoblocking)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/155006:YLE Fem
+#DESCRIPTION YLE Fem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/Vladisergeevic/7eef2c4388/26459:MTV 3
 #DESCRIPTION MTV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/154996:Nelonen 4
+#DESCRIPTION Nelonen 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/154997:TV 7
+#DESCRIPTION TV 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/154995:TV 7 Finland
+#DESCRIPTION TV 7 Finland
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-se/_definst_/smil%3atv7-se.smil/playlist.m3u8:TV 7 Himlen
 #DESCRIPTION TV 7 Himlen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.tv7.fi/tv7-ru/_definst_/smil%3atv7-ru.smil/chunklist.m3u8:TV 7 Nebesa
 #DESCRIPTION TV 7 Nebesa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/26992:TV 7 Plus
+#DESCRIPTION TV 7 Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-fi/_definst_/smil%3atv7-fi.smil/playlist.m3u8:TV 7 Taivas
 #DESCRIPTION TV 7 Taivas
-#SERVICE 1:64:183c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a38:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/201175:Alfa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/201175:Alfa TV
 #DESCRIPTION Alfa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8:FilmRise Sci-Fi Finland
 #DESCRIPTION FilmRise Sci-Fi Finland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kotitv.digitacdn.net/amlst%3akotitv.amlst/playlist.m3u8:Koti TV
 #DESCRIPTION Koti TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/54205:Liv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/Vladisergeevic/7eef2c4388/54205:Liv
 #DESCRIPTION Liv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/78423:MTV
-#DESCRIPTION MTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/297036:MTV Uutiset
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/78423:MTV Uutiset
 #DESCRIPTION MTV Uutiset
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.nartv.fi/live/ngrp%3aNAR_TV.stream_all/playlist.m3u8:När TV
 #DESCRIPTION När TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//virta2.nopolanews.fi%3a8443/live/smil%3aStream1.smil/playlist.m3u8:Nopola News
 #DESCRIPTION Nopola News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/24234:Sub
-#DESCRIPTION Sub

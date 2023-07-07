@@ -1,4 +1,6 @@
 #NAME Stream Frankrijk (FR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//manager7.streamradio.fr%3a2850/stream: Chansons Oubliées Ou Presque
+#DESCRIPTION  Chansons Oubliées Ou Presque
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/7fm2-0.aac:7 fm AAC+
 #DESCRIPTION 7 fm AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/7fm2.mp3:7 fm mp3
@@ -51,8 +53,6 @@
 #DESCRIPTION bruaysis fm 99.2 AAC+ 32
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radiobruaysis-128.mp3:bruaysis fm 99.2
 #DESCRIPTION bruaysis fm 99.2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//manager7.streamradio.fr%3a2850/stream: Chansons Oubliées Ou Presque
-#DESCRIPTION  Chansons Oubliées Ou Presque
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.chantefrance.com/Chante_France:Chante France (Frankrijk)
 #DESCRIPTION Chante France (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.chantefrance.com/cf-60:Chante France 60's  (Frankrijk)
@@ -71,6 +71,8 @@
 #DESCRIPTION Chérie FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/charlekingradio.mp3:CK-RADIO
 #DESCRIPTION CK-RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/clazz_hq.mp3:Clazz Radio
+#DESCRIPTION Clazz Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/cocktailfm-high.mp3:Cocktail FM
 #DESCRIPTION Cocktail FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//92.243.25.139%3a9000/;stream.mp3:Corsica Radio
@@ -179,6 +181,8 @@
 #DESCRIPTION FG Maxximum
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/7081n2b6p98uv:FG
 #DESCRIPTION FG
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice.creacast.com/figaro-radio:Figaro Radio
+#DESCRIPTION Figaro Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.fipradio.fr/live/fip-webradio6.mp3:FIP Autour  des disquaires
 #DESCRIPTION FIP Autour  des disquaires
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast.radiofrance.fr/fipgroove-midfi.mp3:FIP autour du groove
@@ -357,12 +361,8 @@
 #DESCRIPTION Generation underground
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/155752/stream/196387:Goth ‘N’ Metal (Parijs) 
 #DESCRIPTION Goth ‘N’ Metal (Parijs) 
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/hitwest-high.aac:Hit West (AAC)
-#DESCRIPTION Hit West (AAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/hitwest-low.mp3:Hit West (MP3) (Bas débit)
-#DESCRIPTION Hit West (MP3) (Bas débit)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/hitwest-high.mp3:Hit West (MP3) (Haut débit)
-#DESCRIPTION Hit West (MP3) (Haut débit)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hitwest-nantes.ice.infomaniak.ch/hitwest-nantes-128.mp3:Hit West (Nantes)
+#DESCRIPTION Hit West (Nantes)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/impactfm100musette-128.mp3:Impact FM 100 musette
 #DESCRIPTION Impact FM 100 musette
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/impactfm-64.aac:Impact FM AAC+
@@ -473,6 +473,8 @@
 #DESCRIPTION M Radio - Voix Féminines (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mfmwr-009.ice.infomaniak.ch/mfmwr-009.mp3:M Radio - Yéyé (Frankrijk)
 #DESCRIPTION M Radio - Yéyé (Frankrijk)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//megafm.ice.infomaniak.ch/megafm-high.mp3:Mega FM (Châteauneuf-sur-Loire)
+#DESCRIPTION Mega FM (Châteauneuf-sur-Loire)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/melody2:Melody
 #DESCRIPTION Melody
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mfm.ice.infomaniak.ch/mfm-128.mp3:MFM (MP3)
@@ -493,6 +495,8 @@
 #DESCRIPTION Mouv' Xtra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.mouv.fr/live/mouv-midfi.mp3:Mouv'(FR)
 #DESCRIPTION Mouv'(FR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hosting.studioradiomedia.fr%3a2125/stream:Nevers FM
+#DESCRIPTION Nevers FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/56726/mp3_128.mp3:Nostalgie -  80 les no1 (Frankrijk)
 #DESCRIPTION Nostalgie -  80 les no1 (Frankrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3               :Nostalgie - 100 plus grandes chansons (Frankrijk)
@@ -709,6 +713,8 @@
 #DESCRIPTION NRJ - À la maison
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/57186/mp3_128.mp3:NRJ Héros (France)
 #DESCRIPTION NRJ Héros (France)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//oceanefm.ice.infomaniak.ch/oceanefm-128.mp3:Océane FM 
+#DESCRIPTION Océane FM 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/ods-high.aac:ODS Radio AAC+
 #DESCRIPTION ODS Radio AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/ods-high.mp3:ODS Radio
@@ -767,6 +773,8 @@
 #DESCRIPTION Radio 74 Powered by Infomaniak.net
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radio74-high.mp3:Radio 74
 #DESCRIPTION Radio 74
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiobeton.com%3a8001/stream.mp3:Radio Béton (Tours)
+#DESCRIPTION Radio Béton (Tours)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80.82.229.202/rca?1594485425450:Radio Campus Angers (FR)
 #DESCRIPTION Radio Campus Angers (FR)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radiocampuslille-128.mp3:Radio Campus Lille
@@ -845,8 +853,8 @@
 #DESCRIPTION Radio FG.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rfj.ice.infomaniak.ch%3a80/rfj-high.aac:Radio Fréquence Jura
 #DESCRIPTION Radio Fréquence Jura
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80.82.229.202/radiog.mp3:Radio G! (Angers, FR)
-#DESCRIPTION Radio G! (Angers, FR)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio-g.fr%3a8000/fluxradiog:Radio G! (Angers)
+#DESCRIPTION Radio G! (Angers)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.rim952.fr%3a8000/stream.mp3:Radio Ici et Maintenant (MP3)
 #DESCRIPTION Radio Ici et Maintenant (MP3)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.rim952.fr%3a8001/stream.ogg:Radio Ici et Maintenant (OGG)
@@ -997,6 +1005,8 @@
 #DESCRIPTION Skyrock Urban Music Non Stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.skyrock.net/s/natio_mp3_128k:Skyrock
 #DESCRIPTION Skyrock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.studiozef.fr/stream:Studio Zef (Blois)
+#DESCRIPTION Studio Zef (Blois)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//start-sud.ice.infomaniak.ch/start-sud-high.mp3:Sud Radio
 #DESCRIPTION Sud Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rcs.revma.com/nv1hu7644k0uv:Trace FM Guadaloupe

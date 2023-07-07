@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:4ff:0:0:0:0:0:0:0:
+#SERVICE 1:64:571:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:500:0:0:0:0:0:0:0:
+#SERVICE 1:64:572:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -323,6 +323,8 @@
 #DESCRIPTION Chris Country (reli, Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s2b39cfe62/listen:Christian John (reli, Engeland)
 #DESCRIPTION Christian John (reli, Engeland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.galaxywebsolutions.com/proxy/pwddisco:Churnet Sound
+#DESCRIPTION Churnet Sound
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.27.122%3a10690/;:CityLockRadio (Londen, Engeland, UK)
 #DESCRIPTION CityLockRadio (Londen, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/JamendoLounge:Classical Radio (UK, algemeen)
@@ -403,6 +405,8 @@
 #DESCRIPTION Dream 100 (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.dubbase.fm%3a7004/;:Dubstep Radio Station (Engeland, UK)
 #DESCRIPTION Dubstep Radio Station (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playoutonestreaming.com%3a8038/stream:Dune  Radio (Noord-West kust Engeland)
+#DESCRIPTION Dune  Radio (Noord-West kust Engeland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fra-ranger01.dedicateware.com%3a8010/stream:Durham OnAir
 #DESCRIPTION Durham OnAir
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.canstream.co.uk%3a8000/eavafm.mp3:EAVA FM (Engeland, UK)
@@ -705,6 +709,8 @@
 #DESCRIPTION Hot 102.8 (Poole, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radio-uk.co.uk/hot-n-gold:Hot N Gold (Engeland, UK)
 #DESCRIPTION Hot N Gold (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.hippynet.co.uk/stream/hotradio/dorset:Hot Radio Poole
+#DESCRIPTION Hot Radio Poole
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.citrus3.com%3a8272/stream:Hot97UK (Londen, Engeland, UK)
 #DESCRIPTION Hot97UK (Londen, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.radio.co/s0de514535/listen:House FM dot Net (Engeland, UK algemeen)
@@ -1281,8 +1287,6 @@
 #DESCRIPTION Sheffield Live! (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.radio.co/s0dc6b5c9b/listen:Sami Swoi Radio (Engeland, UK)
 #DESCRIPTION Sami Swoi Radio (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rss-streaming.co.uk%3a8038/;:Sandgrounder Radio (Southport, Engeland, UK)
-#DESCRIPTION Sandgrounder Radio (Southport, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scout.radio/play/podcast-download/4689/live.mp3:Scout Radio
 #DESCRIPTION Scout Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.voscast.com%3a8074/;:Scream London (Londen, Engeland, UK)
@@ -1427,8 +1431,8 @@
 #DESCRIPTION Sun FM (Sunderland, Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//direct.sharp-stream.com/sunrise.mp3:Sunrise Radio Yorkshire (Engeland, UK)
 #DESCRIPTION Sunrise Radio Yorkshire (Engeland, UK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//109.169.46.197%3a8875/;:SunriseFm (Engeland, UK)
-#DESCRIPTION SunriseFm (Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//direct.sharp-stream.com/sunriseradio.mp3:Sunrise Radio UK
+#DESCRIPTION Sunrise Radio UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.easystream.co.uk%3a8000/herefordFM:Sunshine Radio (Engeland, UK)
 #DESCRIPTION Sunshine Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.easystream.co.uk%3a8000/sunshine855:Sunshine 855 Ludlow (Ludlow, Engeland, UK)

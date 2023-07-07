@@ -15,8 +15,8 @@
 #DESCRIPTION Al Iraqiya News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.aljawadain.org/live/aljawadaintv/playlist.m3u8:Al-Jawadain TV
 #DESCRIPTION Al-Jawadain TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8:Al-Rafidain
-#DESCRIPTION Al-Rafidain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdg8.edge.technocdn.com/arrafidaintv/source/playlist.m3u8:Al Rafidain
+#DESCRIPTION Al Rafidain
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media1.livaat.com/AL-RASHEED-HD/index.m3u8:Al Rasheed
 #DESCRIPTION Al Rasheed
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8:Al Qamar TV
@@ -85,7 +85,7 @@
 #DESCRIPTION Karbala Live 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8:Karbala Live 4
 #DESCRIPTION Karbala Live 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/live/line/C4@!a3a1@!w72A/58.m3u8:Kirkuk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8:Kirkuk TV
 #DESCRIPTION Kirkuk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1x82nydcxndze.cloudfront.net/live/index.m3u8:Kurdistan 24
 #DESCRIPTION Kurdistan 24
@@ -109,6 +109,10 @@
 #DESCRIPTION Net TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.streambrothers.com%3a1936/8226/8226/chunklist_w714146865.m3u8:NRT News
 #DESCRIPTION NRT News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nubar.tv%3a1935/private/NUBARPlus/playlist.m3u8:Nubar Plus TV
+#DESCRIPTION Nubar Plus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nubar.tv%3a1935/private/NUBARtv/playlist.m3u8:Nubar TV
+#DESCRIPTION Nubar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/live/line/C4@!a3a1@!w72A/50.m3u8:Payam TV
 #DESCRIPTION Payam TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/live/line/C4@!a3a1@!w72A/34.m3u8:Rudaw TV
@@ -123,6 +127,8 @@
 #DESCRIPTION Sterk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtarabi.live.trt.com.tr/master.m3u8:TRT Arabi
 #DESCRIPTION TRT Arabi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca-rt.onetv.app/Waar/index-0.m3u8:Waar TV
+#DESCRIPTION Waar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8:Wanasah
 #DESCRIPTION Wanasah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL%3amyStream.smil/playlist.m3u8:Zagros

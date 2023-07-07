@@ -3,6 +3,10 @@
 #DESCRIPTION 92 News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
 #DESCRIPTION 92 News UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8:Al Ehsaan TV
+#DESCRIPTION Al Ehsaan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8:Apna Punjab TV
+#DESCRIPTION Apna Punjab TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.arylive.com/arymusik/myStream/index.m3u8:ARY Musik
 #DESCRIPTION ARY Musik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arylive.com/aryqtv/myStream/index.m3u8:ARY QTV
@@ -15,40 +19,62 @@
 #DESCRIPTION Awaz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p:Barkat TV
 #DESCRIPTION Barkat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8:Bol News
+#DESCRIPTION Bol News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn8.live247stream.com/canadaone/tv/playlist.m3u8:Canada One
 #DESCRIPTION Canada One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8:Channel Win
 #DESCRIPTION Channel Win
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.citymediagroupreg.com%3a1935/citynewshd/myStream/chunklist_w1169045143.m3u8:City News HD
 #DESCRIPTION City News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8:Dawn News
+#DESCRIPTION Dawn News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamone.simpaisa.com%3a8443/pitvlive1/dhartitv.smil/playlist.m3u8:Dharti TV
 #DESCRIPTION Dharti TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8:Discover Pakistan
 #DESCRIPTION Discover Pakistan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imob.dunyanews.tv/livehd/_definst_/ngrp%3adunyalivehd_2_all/playlist.m3u8:Dunya News
 #DESCRIPTION Dunya News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//intl.dunyanews.tv/livehd/ngrp%3adunyalivehd_2_all/playlist.m3u8:Dunya News international feed
+#DESCRIPTION Dunya News international feed
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//imob.dunyanews.tv%3a1935/live/smil%3astream.smil/playlist.m3u8:Dunya TV
 #DESCRIPTION Dunya TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8:Eawaz TV (CA)
-#DESCRIPTION Eawaz TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn20.liveonlineservices.com/hls/eye95tv.m3u8:Eye 95 America (US)
-#DESCRIPTION Eye 95 America (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8:Geo News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8:Eawaz TV
+#DESCRIPTION Eawaz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8:Express Entertainment
+#DESCRIPTION Express Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/39094:Express TV
+#DESCRIPTION Express TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn20.liveonlineservices.com/hls/eye95tv.m3u8:Eye 95 America
+#DESCRIPTION Eye 95 America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/gawahi/tv/playlist.m3u8:Gawahi TV
+#DESCRIPTION Gawahi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8:Geo Kahani
+#DESCRIPTION Geo Kahani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8:Geo News
 #DESCRIPTION Geo News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8:Geo News Pakistan
-#DESCRIPTION Geo News Pakistan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//221.120.204.4/geo-super-LOCKLE/index.m3u8:Geo Super
 #DESCRIPTION Geo Super
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/grace/tv/playlist.m3u8:Grace Network
+#DESCRIPTION Grace Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8:Harpal Geo TV Entertainment
 #DESCRIPTION Harpal Geo TV Entertainment
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8?720p:HK TV  
 #DESCRIPTION HK TV  
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8:Hum News
+#DESCRIPTION Hum News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn61.liveonlineservices.com/hls/humraaz.m3u8:Humraaz TV
 #DESCRIPTION Humraaz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1909304242_b864000.m3u8:IIPC TV English
 #DESCRIPTION IIPC TV English
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/isaac/tv/playlist.m3u8:Isaac TV
+#DESCRIPTION Isaac TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive83-lh.akamaihd.net/i/dclive_1@16005/index_150_av-p.m3u8?sd=10&rebase=on:Jhumar TV
 #DESCRIPTION Jhumar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/joomusic/tv/playlist.m3u8:JooMusic
+#DESCRIPTION JooMusic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/joshua/tv/playlist.m3u8:Joshua TV
+#DESCRIPTION Joshua TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamone.simpaisa.com%3a8443/pitvlive1/k21.smil/playlist.m3u8:K21 News
 #DESCRIPTION K21 News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8:KAY 2
@@ -57,6 +83,8 @@
 #DESCRIPTION Khyber Middle East TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8:Khyber News
 #DESCRIPTION Khyber News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8:King TV
+#DESCRIPTION King TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer12.vdn.dstreamone.net/dsone/kohenoortv/playlist.m3u8:Kohenoor News
 #DESCRIPTION Kohenoor News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.24.96.74/ktn/ktn/tracks-v1a1/mono.m3u8:KTN Entertainment
@@ -89,12 +117,22 @@
 #DESCRIPTION Peace TV Urdu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.live247stream.com/pmi/tv/playlist.m3u8:PMI TV
 #DESCRIPTION PMI TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8:Prime Canada TV (CA)
-#DESCRIPTION Prime Canada TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8:PTV Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.bmstudiopk.com/pnn/smil%3aPNN.smil/playlist.m3u8:PNN News
+#DESCRIPTION PNN News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/praise/tv/playlist.m3u8:Praise TV
+#DESCRIPTION Praise TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8:Prime Canada TV
+#DESCRIPTION Prime Canada TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCMfwlaPLGMn44BKvHv15yzA/live:PTV Home
 #DESCRIPTION PTV Home
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ptv.com.pk/live/ptvworld/playlist.m3u8:PTV World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8:PTV Home -2-
+#DESCRIPTION PTV Home -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UC5RvV_LtR1dxPCVFGw6dxXA/live:PTV News
+#DESCRIPTION PTV News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live:PTV World
 #DESCRIPTION PTV World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8:PTV World -2-
+#DESCRIPTION PTV World -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hdserver.7starcloud.com%3a1935/sanatv/sanatv/playlist.m3u8:Sana TV
 #DESCRIPTION Sana TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8:Shrrang TV
@@ -105,9 +143,11 @@
 #DESCRIPTION Subrang TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn11.live247stream.com/tag/tv/playlist.m3u8:Tag TV
 #DESCRIPTION Tag TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//toronto3.live247stream.com/toronto360/tv/playlist.m3u8:Toronto 360 TV (CA)
-#DESCRIPTION Toronto 360 TV (CA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//toronto3.live247stream.com/toronto360/tv/playlist.m3u8:Toronto 360 TV
+#DESCRIPTION Toronto 360 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn4.live247stream.com/urdu/tv/playlist.m3u8:Urdu TV Toronto
 #DESCRIPTION Urdu TV Toronto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCb3vKSPkWFWiFljsSGoeyoQ/live:Waseb TV
+#DESCRIPTION Waseb TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ad386ff92705.streamlock.net/live_transcoder/ngrp%3azindagitv.stream_all/chunklist.m3u8:Zindagi TV
 #DESCRIPTION Zindagi TV

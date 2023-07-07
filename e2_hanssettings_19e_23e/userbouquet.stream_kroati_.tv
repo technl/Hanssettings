@@ -1,31 +1,79 @@
 #NAME Stream Kroatië (HR)
-#SERVICE 1:64:2f4:0:0:0:0:0:0:0:
+#SERVICE 1:64:350:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226130/04.m3u8:HRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52115:HRT 1
 #DESCRIPTION HRT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.89/PLTV/88888888/224/3221226140/04.m3u8:HRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52116:HRT 2
 #DESCRIPTION HRT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.89/PLTV/88888888/224/3221226280/04.m3u8:HRT 3 
-#DESCRIPTION HRT 3 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8:HRT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52117:HRT 3
+#DESCRIPTION HRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52118:HRT 4
 #DESCRIPTION HRT 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info:N1 Hrvatska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52119:HRT International
+#DESCRIPTION HRT International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52126:Doma TV
+#DESCRIPTION Doma TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52127:N1 Hrvatska
 #DESCRIPTION N1 Hrvatska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8:RTL Hrvatska
-#DESCRIPTION RTL Hrvatska
-#SERVICE 1:64:2f5:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52125:Nova TV
+#DESCRIPTION Nova TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/99095:Nova Cinema
+#DESCRIPTION Nova Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74910:Nova Cinema 2
+#DESCRIPTION Nova Cinema 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/99096:Nova Family
+#DESCRIPTION Nova Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/99092:Nova Premium
+#DESCRIPTION Nova Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74903:Nova Pula TV
+#DESCRIPTION Nova Pula TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8:RTL Croatia
+#DESCRIPTION RTL Croatia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52121:RTL 2
+#DESCRIPTION RTL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8:RTL Kockica
+#DESCRIPTION RTL Kockica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52130:Z1
+#DESCRIPTION Z1
+#SERVICE 1:64:351:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_122/amlst%3a200012-111298/chunklist_b2000000.m3u8:Mary TV HD
-#DESCRIPTION Mary TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8:MAXtv Promo Kanal
-#DESCRIPTION MAXtv Promo Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Radio Televizija Banovina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.cmctv.hr%3a49998/cmc/live.m3u8:CMC TV
+#DESCRIPTION CMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/99098:Cro TV
+#DESCRIPTION Cro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/122880:Diadora TV
+#DESCRIPTION Diadora TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.cmctv.hr%3a49998/kit/live.m3u8:Klape i Tambure TV
+#DESCRIPTION Klape i Tambure TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52128:Laudato TV
+#DESCRIPTION Laudato TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.luci.xyz/hls/LTV.m3u8:Libertas TV
+#DESCRIPTION Libertas TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74914:Osjecka TV
+#DESCRIPTION Osjecka TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.agatin.hr%3a3559/live/otvlive.m3u8:OTV
+#DESCRIPTION OTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55424:PickBox TV
+#DESCRIPTION PickBox TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74915:Poljoprivredna TV
+#DESCRIPTION Poljoprivredna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92269:Prigorska TV
+#DESCRIPTION Prigorska TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pool.alter-media.hr%3a1936/live/myStream/playlist.m3u8?DVR=:Radio Televizija Banovina
 #DESCRIPTION Radio Televizija Banovina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.201.163.244%3a8080/hls/hdmi.m3u8:STV
-#DESCRIPTION STV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip2.xxlservices.com%3a8081/seharaonline/live/playlist.m3u8:Sehara TV
+#DESCRIPTION Sehara TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55454:Sibenik TV
+#DESCRIPTION Sibenik TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55452:Slavonska TV
+#DESCRIPTION Slavonska TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//185.62.75.22%3a1935/trend/myStream:Trend TV
 #DESCRIPTION Trend TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.94.81.190%3a8844/sdi/aurora.m3u8:TV Aurora
-#DESCRIPTION TV Aurora
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.domaci.com.hr%3a3622/live/tvzapadlive.m3u8:Zapad TV
-#DESCRIPTION Zapad TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/99097:TV Dalmacija
+#DESCRIPTION TV Dalmacija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvjadran.stream.agatin.hr%3a3412/live/tvjadranlive.m3u8:TV Jadran
+#DESCRIPTION TV Jadran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74919:Varazdinska TV
+#DESCRIPTION Varazdinska TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74920:Zdrava TV
+#DESCRIPTION Zdrava TV

@@ -1,5 +1,5 @@
 #NAME Stream België nationaal (BE)
-#SERVICE 1:64:19cb:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bdb:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - VRT++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1-high.mp3:VRT Radio 1
 #DESCRIPTION VRT Radio 1
@@ -53,7 +53,7 @@
 #DESCRIPTION VRT Studio Brussel UNTZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs-high.mp3:VRT Studio Brussel Vuurland
 #DESCRIPTION VRT Studio Brussel Vuurland
-#SERVICE 1:64:19cc:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bdc:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen - overig nationaal++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//3755.cloudrad.io%3a8008/live:21Bis (België)
 #DESCRIPTION 21Bis (België)
@@ -407,7 +407,7 @@
 #DESCRIPTION ZZOldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//axtran.radioca.st/stream:ZZROCK
 #DESCRIPTION ZZROCK
-#SERVICE 1:64:19cd:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bdd:0:0:0:0:0:0:0:
 #DESCRIPTION ++Bruxelles et Wallonie++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rcf.streamakaci.com/rcfbe.mp3:1RCF (Wallonië - BE)
 #DESCRIPTION 1RCF (Wallonië - BE)
@@ -461,13 +461,15 @@
 #DESCRIPTION Chérie Zen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactplus.ice.infomaniak.ch/contactplus-192.mp3:Contact  Fresh
 #DESCRIPTION Contact  Fresh
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//belbelbelrtl.ice.infomaniak.ch/belbelbelrtl-192.mp3:Bel RTL 60 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//contactlaplaylistdetonton.ice.infomaniak.ch/contactlaplaylistdetonton-192.mp3:Contact La Playlist de Tonton
+#DESCRIPTION Contact La Playlist de Tonton
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//belrtl60.ice.infomaniak.ch/belrtl60-128.mp3:Bel RTL 60 
 #DESCRIPTION Bel RTL 60 
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//franco-belrtl.ice.infomaniak.ch/franco-belrtl-192.mp3:Bel RTL 70 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtl70.ice.infomaniak.ch/belrtl70-128.mp3:Bel RTL 70 
 #DESCRIPTION Bel RTL 70 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtl80.ice.infomaniak.ch/belrtl80-192.mp3:Bel RTL 80
 #DESCRIPTION Bel RTL 80
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtlparty.ice.infomaniak.ch/belrtlparty-192.mp3:Bel RTL 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//belrtl90.ice.infomaniak.ch/belrtl90-128.mp3:Bel RTL 90
 #DESCRIPTION Bel RTL 90
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//belrtlcomedie.ice.infomaniak.ch/belrtlcomedie-192.mp3:Bel RTL Comédie
 #DESCRIPTION Bel RTL Comédie
@@ -501,6 +503,8 @@
 #DESCRIPTION LN Radio live URL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-eu-a.rcs.revma.com/gvhq52bkhzzuv:LN Radio live URL
 #DESCRIPTION LN Radio live URL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/mcfu8vbkhzzuv :LN Radio Groove
+#DESCRIPTION LN Radio Groove
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.lnradio.be/lnradio-player/lnradio-metal/:LN Radio Metal
 #DESCRIPTION LN Radio Metal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-eu-a.rcs.revma.com/anew1ctrgzzuv:LN Radio News
@@ -641,8 +645,6 @@
 #DESCRIPTION RTBF Classic 21 Metal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-eventradio-128.mp3:RTBF Classic 21 Noir Jaune Rock
 #DESCRIPTION RTBF Classic 21 Noir Jaune Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-eventradio-128.mp3:RTBF Classic-21 Reggae
-#DESCRIPTION RTBF Classic-21 Reggae
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-c21-route66-128.mp3:RTBF Classic 21 Route 66
 #DESCRIPTION RTBF Classic 21 Route 66
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-c21-soul-128.mp3:RTBF Classic 21 Soul-Power
@@ -679,15 +681,17 @@
 #DESCRIPTION RTBF - Tipik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/wr-poc-spot-128.mp3:RTBF - Ukraine
 #DESCRIPTION RTBF - Ukraine
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivaplus-64.aac:RTBF - Viva+ (BE) in aac
-#DESCRIPTION RTBF - Viva+ (BE) in aac
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivaplus-128.mp3:RTBF - Viva+ (BE) in mp3
-#DESCRIPTION RTBF - Viva+ (BE) in mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivaplus-64.aac:RTBF - Viva+ 
+#DESCRIPTION RTBF - Viva+ 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivaplus-128.mp3:RTBF - Viva+
+#DESCRIPTION RTBF - Viva+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivasport-128.mp3:RTBF Viva Sport
 #DESCRIPTION RTBF Viva Sport
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtbf.l3.freecaster.net/live/rtbf/geo/drm/vivacitevision-audio_1=128000-video=2000000.m3u8 :RTBF Vivacité Vision webcam (België)
 #DESCRIPTION RTBF Vivacité Vision webcam (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivabxl-64.aac:RTBF VivaCité Bruxelles
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/viva-bw/mp3-160/me:RTBF VivaCité Brabant-Wallon
+#DESCRIPTION RTBF VivaCité Brabant-Wallon
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/viva-bxl/mp3-160/me:RTBF VivaCité Bruxelles
 #DESCRIPTION RTBF VivaCité Bruxelles
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivacharleroi-64.aac:RTBF VivaCité Charleroi
 #DESCRIPTION RTBF VivaCité Charleroi
@@ -695,10 +699,12 @@
 #DESCRIPTION RTBF VivaCité Hainaut
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivaliege-64.aac:RTBF VivaCité Liège
 #DESCRIPTION RTBF VivaCité Liège
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivalux-64.aac:RTBF VivaCité Luxembourg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/viva-lux/mp3-160/me:RTBF VivaCité Luxembourg
 #DESCRIPTION RTBF VivaCité Luxembourg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radios.rtbf.be/vivanamurbw-64.aac:RTBF VivaCité Namur - Brabant-Wallon
-#DESCRIPTION RTBF VivaCité Namur - Brabant-Wallon
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/viva-mo/mp3-160/me:RTBF VivaCité Mons
+#DESCRIPTION RTBF VivaCité Mons
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/viva-na/mp3-160/me:RTBF VivaCité Namur
+#DESCRIPTION RTBF VivaCité Namur
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media.rtl.be/data/vpl/CA00001586668.mp3:RTL Info
 #DESCRIPTION RTL Info
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n03a-eu.rcs.revma.com/95m12ehhbm0uv:SIS Radio Bruxelles
@@ -711,7 +717,7 @@
 #DESCRIPTION TradCan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//thewordradio.out.airtime.pro/thewordradio_a:The Word Radio (Brussels)
 #DESCRIPTION The Word Radio (Brussels)
-#SERVICE 1:64:19ce:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bde:0:0:0:0:0:0:0:
 #DESCRIPTION ++Oostkantons (Duitstalig)++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.brf.be%3a80/brf1-high.mp3:BRF1
 #DESCRIPTION BRF1
@@ -727,7 +733,7 @@
 #DESCRIPTION Radio Contact Ostbelgien NOW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamlive.syndicationradio.fr%3a8158/stream:Radio Sunshine
 #DESCRIPTION Radio Sunshine
-#SERVICE 1:64:19cf:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bdf:0:0:0:0:0:0:0:
 #DESCRIPTION ++algemeen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.17.3.52%3a10000/stream/1/:Dance Tunes Radio
 #DESCRIPTION Dance Tunes Radio

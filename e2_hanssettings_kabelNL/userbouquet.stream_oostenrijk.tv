@@ -1,34 +1,76 @@
 #NAME Stream Oostenrijk (AT)
-#SERVICE 1:64:24c:0:0:0:0:0:0:0:
+#SERVICE 1:64:2ae:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//185.234.217.45%3a8004/play/a06r/index.m3u8:ORF 1
+#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51132:ORF 1
 #DESCRIPTION ORF 1
-#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2328:ORF 1 -2-
-#DESCRIPTION ORF 1 -2-
-#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//185.234.217.45%3a8004/play/a06s/index.m3u8:ORF 2 Wien
-#DESCRIPTION ORF 2 Wien
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2293:ORF 3
+#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/1665:ORF 1 (#)
+#DESCRIPTION ORF 1 (#)
+#SERVICE 4097:0:1:132f:3ef:1:c00000:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/1665:ORF 1 (#)
+#DESCRIPTION ORF 1 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a07e/index.m3u8:ORF 1 (#)
+#DESCRIPTION ORF 1 (#)
+#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51133:ORF 2
+#DESCRIPTION ORF 2
+#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/1664:ORF 2 (#)
+#DESCRIPTION ORF 2 (#)
+#SERVICE 4097:0:1:1330:3ef:1:c00000:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/1664:ORF 2 (#)
+#DESCRIPTION ORF 2 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a07f/index.m3u8:ORF 2 (#)
+#DESCRIPTION ORF 2 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51120:ORF 3
 #DESCRIPTION ORF 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/113012:ORF Sport+ HD
-#DESCRIPTION ORF Sport+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:OE24.TV HD
-#DESCRIPTION OE24.TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.234.217.45%3a8004/play/a078/index.m3u8:ATV HD
-#DESCRIPTION ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2301:ATV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/3492:ORF 3 (#)
+#DESCRIPTION ORF 3 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/3492:ORF 3 (#)
+#DESCRIPTION ORF 3 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a076/index.m3u8:ORF 3 (#)
+#DESCRIPTION ORF 3 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51147:ORF Sport+
+#DESCRIPTION ORF Sport+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/2098:ORF Sport+ (#)
+#DESCRIPTION ORF Sport+ (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/2098:ORF Sport+ (#)
+#DESCRIPTION ORF Sport+ (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a077/index.m3u8:ORF Sport+ (#)
+#DESCRIPTION ORF Sport+ (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:OE24
+#DESCRIPTION OE24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51144:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/3489:ATV (#)
+#DESCRIPTION ATV (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a06y/index.m3u8:ATV (#)
+#DESCRIPTION ATV (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/12643:ATV 2
 #DESCRIPTION ATV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/2287:Puls 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/12643:ATV 2 (#)
+#DESCRIPTION ATV 2 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a06t/index.m3u8:ATV 2 (#)
+#DESCRIPTION ATV 2 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/12644:Puls 4
 #DESCRIPTION Puls 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/207376:R9 HD
-#DESCRIPTION R9 HD
-#SERVICE 4097:0:1:1331:3ef:1:c00000:0:0:0:http%3a//185.234.217.45%3a8004/play/a06t/index.m3u8:Servus TV Österreich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/12644:Puls 4
+#DESCRIPTION Puls 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/174351:Puls 24
+#DESCRIPTION Puls 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51142:Puls 24
+#DESCRIPTION Puls 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51143:R9
+#DESCRIPTION R9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cheaptv.online%3a8080/ottkiller/XCqSYUmn55LK3nkM/193532:R9 (#)
+#DESCRIPTION R9 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/193532:R9 (#)
+#DESCRIPTION R9 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a079/index.m3u8:R9 (#)
+#DESCRIPTION R9 (#)
+#SERVICE 4097:0:1:1331:3ef:1:c00000:0:0:0:http%3a//safe.avivainsur.com%3a8080/Vizyon/cKC3fXZqRVTw/51141:Servus TV Österreich
 #DESCRIPTION Servus TV Österreich
-#SERVICE 1:64:24d:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a07g/index.m3u8:Servus TV Österreich (#)
+#DESCRIPTION Servus TV Österreich (#)
+#SERVICE 1:64:2af:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:6:2:6:0:0:0:0:https%3a//5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4%3alivestream/playlist.m3u8:Antenne Voralberg - Visual Radio
-#DESCRIPTION Antenne Voralberg - Visual Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/BLKonline_high/master.m3u8:BLK TV
-#DESCRIPTION BLK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//channel.streams.ovh%3a1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8:Balkan Radio Salzburg
+#DESCRIPTION Balkan Radio Salzburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.openplayout.org/hls/dorftv/live.m3u8:Dorf TV
 #DESCRIPTION Dorf TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//folxplay-t.b-cdn.net/streams/ch-4/master.m3u8:Folx Music Television
@@ -39,30 +81,26 @@
 #DESCRIPTION K-TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.154.82%3a1935/kit/kitstream/chunklist_.m3u8:KIT-TV
 #DESCRIPTION KIT-TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/192661:Krone TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:Krone HIT
+#DESCRIPTION Krone HIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gamsgo.cyou%3a8080/argoni150Con/vU8F7dzqNqhT28gn/192661:Krone TV
 #DESCRIPTION Krone TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:Kronehit
-#DESCRIPTION Kronehit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a06v/index.m3u8:Kurier TV
+#DESCRIPTION Kurier TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8:Ländle TV
 #DESCRIPTION Ländle TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.m4tv.at/live/m4tv.stream/playlist.m3u8:M4TV
-#DESCRIPTION M4TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/ptv_vienna:P-TV
-#DESCRIPTION P-TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_vstxdcuh/tl/main/st/0/t/GR63rDXKl5UwbPGZBAuOKw/index-s32.m3u8:Radio Pilatus
-#DESCRIPTION Radio Pilatus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.rtv-ooe.at/stream.m3u8:RTV HD
 #DESCRIPTION RTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8:Schau TV
 #DESCRIPTION Schau TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/yasirali806/XWj1W9Q3vTTrpW9P/12649:Servus TV
-#DESCRIPTION Servus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a06w/index.m3u8:Starparadies Österreich
+#DESCRIPTION Starparadies Österreich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.65.146.167%3a8004/play/a07c/index.m3u8:Stimmungsgarten TV
+#DESCRIPTION Stimmungsgarten TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8:Tirol TV
 #DESCRIPTION Tirol TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.53.47/ooe/2018_44/fb_junge_wikinger_-_wallern.mp4:TV 1 Oberösterreich
 #DESCRIPTION TV 1 Oberösterreich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.markenfunk.com/t1/ngrp%3alive_all/chunklist_b2296608.m3u8:VM 1 Sehen
-#DESCRIPTION VM 1 Sehen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms01.w24.at/W24/smil%3aliveevent.smil/chunklist.m3u8:W24 TV
 #DESCRIPTION W24 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8:Zell am See - Schmitten

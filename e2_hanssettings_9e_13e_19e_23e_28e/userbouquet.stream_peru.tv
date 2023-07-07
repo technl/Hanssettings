@@ -1,5 +1,5 @@
 #NAME Stream Peru (PE)
-#SERVICE 1:64:3bb:0:0:0:0:0:0:0:
+#SERVICE 1:64:419:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh4.iblups.com/hls/irtp.m3u8:TV Peru Internacional
 #DESCRIPTION TV Peru Internacional
@@ -9,7 +9,7 @@
 #DESCRIPTION TV Peru Nacional 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8:TV Perú Noticias
 #DESCRIPTION TV Perú Noticias
-#SERVICE 1:64:3bc:0:0:0:0:0:0:0:
+#SERVICE 1:64:41a:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8:Agro TV
 #DESCRIPTION Agro TV
@@ -21,12 +21,12 @@
 #DESCRIPTION Antares Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.lhdserver.es/asiritv/live.m3u8:Asiri TV
 #DESCRIPTION Asiri TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/atmtv/index.m3u8:ATM Televisión
-#DESCRIPTION ATM Televisión
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dysmuyxh5vstv.cloudfront.net/hls/live.m3u8:ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8:ATV
 #DESCRIPTION ATV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8:ATV+ Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8:ATV+ Noticias
 #DESCRIPTION ATV+ Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8:ATV Sur
+#DESCRIPTION ATV Sur
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/autenticatvmux/index.m3u8:Auténtica Televisión
 #DESCRIPTION Auténtica Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/bellatv/index.m3u8:Bella Abanquina TV
@@ -101,8 +101,8 @@
 #DESCRIPTION Doble C Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1667517699.rsc.cdn77.org/hls/radioilo.m3u8:Expresión Tacna
 #DESCRIPTION Expresión Tacna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cu.onliv3.com/livevd1/user2.m3u8:Exitosa TV
-#DESCRIPTION Exitosa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cpliv3.onliv3.com%3a19360/exitosatv/exitosatv.m3u8:Exitosa
+#DESCRIPTION Exitosa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8:Fuego TV
 #DESCRIPTION Fuego TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/fullmu/fullmu/playlist.m3u8:Full TV
@@ -117,6 +117,8 @@
 #DESCRIPTION Goresam TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/bestcablehatuntv/index.m3u8:Hatun TV
 #DESCRIPTION Hatun TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8:Hoynet
+#DESCRIPTION Hoynet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3124/live/hchoperutvlive.m3u8:Huacho Perú TV
 #DESCRIPTION Huacho Perú TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inliveserver.com%3a1936/19002/19002/playlist.m3u8:Huanta TV
@@ -133,6 +135,8 @@
 #DESCRIPTION IPE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediastreamm.com%3a3149/live/jn19tvlive.m3u8:JN 19
 #DESCRIPTION JN 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dc1.webstream.eu/v1/jnetvhdstreaming/rtd144395a1/webstr,_video,_video_sd,_video_sd2,.mp4.urlset/master.m3u8:JNE TV
+#DESCRIPTION JNE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCwsURxTXqGqijgu98ndod3A/live:Justicia TV
 #DESCRIPTION Justicia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cu.onliv3.com/livevd/user1.m3u8:Karibeña
@@ -163,7 +167,7 @@
 #DESCRIPTION Millenium TV Pucallpa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inliveserver.com%3a1936/19018/19018/playlist.m3u8:Mitos TV
 #DESCRIPTION Mitos TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8:Monterrico TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8:Monterrico TV
 #DESCRIPTION Monterrico TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediacp.hostradios.com.ar%3a19360/8044/8044.m3u8:MTV Más Ancash
 #DESCRIPTION MTV Más Ancash
@@ -189,7 +193,7 @@
 #DESCRIPTION Panamericana TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil%3aPC.smil/playlist.m3u8:Pax TV
 #DESCRIPTION Pax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8:Perú Channel 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8:Perú Channel 1
 #DESCRIPTION Perú Channel 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8:Perú Channel 2
 #DESCRIPTION Perú Channel 2
@@ -257,12 +261,18 @@
 #DESCRIPTION RSelvaTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7.innovatestream.pe%3a19360/rtvtotal/rtvtotal.m3u8:RTV Total
 #DESCRIPTION RTV Total
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/rwtv/index.m3u8:RW Televisión Tarapoto
+#DESCRIPTION RW Televisión Tarapoto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/sanjuanera/index.m3u8:Sanjuanera TV
 #DESCRIPTION Sanjuanera TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.perucast.com/hls/stream.m3u8:Señal Perú TV
+#DESCRIPTION Señal Perú TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.portalexpress.es%3a3839/live/sistema1tvlive.m3u8:Sistema 1 TV
 #DESCRIPTION Sistema 1 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8:Sol Stereo TV
 #DESCRIPTION Sol Stereo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3409/live/soltvlive.m3u8:Sol TV
+#DESCRIPTION Sol TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lamasremixes.com/hls/cadenasurrtv/index.m3u8:Sori TV
 #DESCRIPTION Sori TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servers.amelbasoluciones.co%3a19360/5medialive/5medialive.m3u8:Stereo TV Peru
@@ -329,9 +339,9 @@
 #DESCRIPTION Unitel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/uraniotv/index.m3u8:Uranio TV Yurimaguas
 #DESCRIPTION Uranio TV Yurimaguas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.servidor.stream%3a3366/live/redeslive.m3u8:USIL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//per01-lim01.servidor.stream/usiltv/index.m3u8:USIL TV
 #DESCRIPTION USIL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.48.236.2%3a8080/live/stream.m3u8:USMP TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamusmptv.ddns.net/live/stream.m3u8:USMP TV
 #DESCRIPTION USMP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8:Vallenato Internacional
 #DESCRIPTION Vallenato Internacional
@@ -349,8 +359,8 @@
 #DESCRIPTION Visión TV Musica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8:VNP
 #DESCRIPTION VNP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/vztv/index.m3u8:VZ Televisión
-#DESCRIPTION VZ Televisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/vztv/index.m3u8:VZ TV
+#DESCRIPTION VZ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/WillaxTV:Willax TV
 #DESCRIPTION Willax TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8:Wipr

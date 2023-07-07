@@ -1,14 +1,16 @@
 #NAME Stream Armenië (AM)
-#SERVICE 1:64:32f:0:0:0:0:0:0:0:
+#SERVICE 1:64:38c:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8:H1
 #DESCRIPTION H1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s2/index.m3u8:H2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/90238:H2
 #DESCRIPTION H2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s12/index.m3u8:H3
 #DESCRIPTION H3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s6/index.m3u8:5 Channel
 #DESCRIPTION 5 Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amtv1-2.livestreamingcdn.com/am3abr/tracks-v1a1/mono.m3u8:Armediia News TV
+#DESCRIPTION Armediia News TV
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s4/index.m3u8:Armenia TV Armenië
 #DESCRIPTION Armenia TV Armenië
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s83/index.m3u8:Armenia TV Premium 1
@@ -27,8 +29,6 @@
 #DESCRIPTION ATV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s8/index.m3u8:ATV Armenië
 #DESCRIPTION ATV Armenië
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s74/index.m3u8:ATV Bazmoc
-#DESCRIPTION ATV Bazmoc
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s48/index.m3u8:ATV Filmzone
 #DESCRIPTION ATV Filmzone
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s73/index.m3u8:ATV Hay
@@ -39,14 +39,12 @@
 #DESCRIPTION ATV Tava
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uiptv.do.am/1ufc/701293058/playlist.m3u8:RBC
 #DESCRIPTION RBC
-#SERVICE 1:64:330:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/90241:Tar 21 TV
+#DESCRIPTION Tar 21 TV
+#SERVICE 1:64:38d:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8:Amga
 #DESCRIPTION Amga
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s6/index.m3u8:Ararat TV
-#DESCRIPTION Ararat TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amtv1-2.livestreamingcdn.com/am3abr/tracks-v1a1/mono.m3u8:Armediia News TV
-#DESCRIPTION Armediia News TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.usatv.com/hls/master-ARTN-NET.m3u8:ARTN
 #DESCRIPTION ARTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s3/index.m3u8:Azatutyun TV
@@ -63,13 +61,9 @@
 #DESCRIPTION Radio Van 103.0 FM Yerevan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uiptv.do.am/1ufc/602079679/playlist.m3u8:Shanson TV
 #DESCRIPTION Shanson TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/90237:Shant TV
+#DESCRIPTION Shant TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s13/index.m3u8:Shoxakat TV
 #DESCRIPTION Shoxakat TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.heru.tv%3a8092/TBNARMENIA/tracks-v1a1/mono.m3u8?token=0wLtHlBlwuSWiwrl:TBN Armenia
-#DESCRIPTION TBN Armenia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.usatv.com/hls/master-iNEWARM.m3u8:Ughigh Yet’er
-#DESCRIPTION Ughigh Yet’er
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8:US Armenia
-#DESCRIPTION US Armenia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s7/index.m3u8:Yerkir Media TV
 #DESCRIPTION Yerkir Media TV

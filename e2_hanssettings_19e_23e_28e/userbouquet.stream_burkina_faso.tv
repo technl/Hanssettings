@@ -1,9 +1,17 @@
 #NAME Stream Burkina Faso (BF)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index_3.m3u8:BF1
-#DESCRIPTION BF1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playtv4kpro.com%3a5443/LiveApp/streams/163893638025530331068059.m3u8:Faso TV
-#DESCRIPTION Faso TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge10.vedge.infomaniak.com/livecast/rtbtvlive1/chunklist.m3u8:RTB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index_3.m3u8:BF 1
+#DESCRIPTION BF 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/297362:Burkina Info
+#DESCRIPTION Burkina Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/297365:Canal 3
+#DESCRIPTION Canal 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wixa.fire33.xyz%3a2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/145707:Impact TV
+#DESCRIPTION Impact TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge21.vedge.infomaniak.com/livecast/ik%3artbtvlive1/chunklist_w1770969916.m3u8:RTB
 #DESCRIPTION RTB
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//585b674743bbb.streamlock.net/9054/9054/chunklist.m3u8:Savane TV
-#DESCRIPTION Savane TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wixa.fire33.xyz%3a2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/145706:RTB -2-
+#DESCRIPTION RTB -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.42.185.216%3a8000/8D689D5SWV/SWV8X6AJGI/144383:RTB -3-
+#DESCRIPTION RTB -3-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge20.vedge.infomaniak.com/livecast/ik%3azenith/chunklist_w1973591528.m3u8:Zénith
+#DESCRIPTION Zénith

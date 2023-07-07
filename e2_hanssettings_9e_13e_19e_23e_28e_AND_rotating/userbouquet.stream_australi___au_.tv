@@ -1,82 +1,146 @@
 #NAME Stream Australië (AU)
-#SERVICE 1:64:1813:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a0e:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1227792883?ticket=95B6D646B3CC94E61FDA58B0BCF53ABA4060FDF6&profile=pass:ABC TV HD
-#DESCRIPTION ABC TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc2/:ABC TV Plus (30 sexonden wachten)
-#DESCRIPTION ABC TV Plus (30 sexonden wachten)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002510251/:ABC Adelaide (30 seconden wachten)
-#DESCRIPTION ABC Adelaide (30 seconden wachten)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002810281/:ABC Darwin (30 seconden wachten)
-#DESCRIPTION ABC Darwin (30 seconden wachten)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002710271/:ABC Hobart (30 seconden wachten)
-#DESCRIPTION ABC Hobart (30 seconden wachten)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002310231/:ABC Melbourne (30 seconden wachten)
-#DESCRIPTION ABC Melbourne (30 seconden wachten)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/3201026102E1/:ABC Perth (30 seconden wschten)
-#DESCRIPTION ABC Perth (30 seconden wschten)
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002210221/:ABC Sydney (30 seconden wachten)
-#DESCRIPTION ABC Sydney (30 seconden wachten)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002210222/:ABC Kids (30 seconden wachten)
-#DESCRIPTION ABC Kids (30 seconden wachten)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1076955931?ticket=B1E9A5D046A77BC05272BFC69B7F5B6776AD6083&profile=pass:ABC Kids / TV Plus -2-
-#DESCRIPTION ABC Kids / TV Plus -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/101002210224/:ABC Me (30 seconden wachten)
-#DESCRIPTION ABC Me (30 seconden wachten)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/222774643?ticket=EBDB6FBCECBAE38D5F23B0C5DF5435E56BBAE15F&profile=pass:ABC Me -2-
-#DESCRIPTION ABC Me -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92376:ABC TV
+#DESCRIPTION ABC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ultratv.one%3a80/oQUCFpEeFq/u5C1DYYr/115605:ABC Australia
+#DESCRIPTION ABC Australia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-sa.m3u8:ABC TV Adelaide
+#DESCRIPTION ABC TV Adelaide
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-qld.m3u8:ABC TV Brisbane
+#DESCRIPTION ABC TV Brisbane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-act.m3u8:ABC TV Canberra
+#DESCRIPTION ABC TV Canberra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-nt.m3u8:ABC TV Darwin
+#DESCRIPTION ABC TV Darwin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-tas.m3u8:ABC TV Hobart
+#DESCRIPTION ABC TV Hobart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2930:ABC TV Melbourne
+#DESCRIPTION ABC TV Melbourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-vic.m3u8:ABC TV Melbourne (#)
+#DESCRIPTION ABC TV Melbourne (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2931:ABC TV Perth
+#DESCRIPTION ABC TV Perth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-wa.m3u8:ABC TV Perth (#)
+#DESCRIPTION ABC TV Perth (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2932:ABC TV Sydney
+#DESCRIPTION ABC TV Sydney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-nsw.m3u8:ABC TV Sydney (#)
+#DESCRIPTION ABC TV Sydney (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-tv-plus.m3u8:ABC TV Plus
+#DESCRIPTION ABC TV Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/business_in_90_seconds:ABC Business in 90 Seconds
+#DESCRIPTION ABC Business in 90 Seconds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2928:ABC Kids
+#DESCRIPTION ABC Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-kids.m3u8:ABC Kids (#)
+#DESCRIPTION ABC Kids (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92377:ABC Me
+#DESCRIPTION ABC Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/abc-me.m3u8:ABC Me (#)
+#DESCRIPTION ABC Me (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8:ABC News Australia
 #DESCRIPTION ABC News Australia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/948512069?ticket=E7E977F7194F2C14A4642F52C0D5211E00BE470F&profile=pass:ABC News Australia -2-
-#DESCRIPTION ABC News Australia -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/2086778100?ticket=0B8C44E5D3721065CA21ACBF2C98A0ECF04473D6&profile=pass:7 HD
-#DESCRIPTION 7 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/303844354?ticket=7CCA78DFD48C0DEA0126B92653BE9FE3CD9F7DC4&profile=pass:7 Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/13287:ABC News Australia (#)
+#DESCRIPTION ABC News Australia (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/news_in_90_seconds:ABC News in 90 Seconds
+#DESCRIPTION ABC News in 90 Seconds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/sport_in_90_seconds:ABC Sport in 90 Seconds
+#DESCRIPTION ABC Sport in 90 Seconds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c.mjh.nz/weather_in_90_seconds:ABC Weather in 90 Seconds
+#DESCRIPTION ABC Weather in 90 Seconds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92373:7 Two
 #DESCRIPTION 7 Two
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//120.88.123.161%3a9981/stream/channelid/1216710242?profile=pass:7 Flix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2917:7 Two Melbourne
+#DESCRIPTION 7 Two Melbourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2918:7 Two Perth
+#DESCRIPTION 7 Two Perth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2919:7 Two Sydney
+#DESCRIPTION 7 Two Sydney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28005:7 Flix
 #DESCRIPTION 7 Flix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/106133404?ticket=1E455F6A2ADAF79139632CF01BCCF1DD11767AD5&profile=pass:7 Mate HD
-#DESCRIPTION 7 Mate HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1499078674?ticket=09CD97F06A00A1E0FCA62B9392BF072B31DDB8BA&profile=pass:9 HD
-#DESCRIPTION 9 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//120.88.123.161%3a9981/stream/channelid/1187662016?profile=pass:9 Gem HD
-#DESCRIPTION 9 Gem HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/426154180?ticket=417A691BD9E71A5E6638A16F706F0E87826EE88D&profile=pass:9 Go!
-#DESCRIPTION 9 Go!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/747333059?ticket=F16B7507047673215C6EA6C35A3109F045818323&profile=pass:9 Life
-#DESCRIPTION 9 Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/56429291?ticket=2DE952C9BA06815539CC270989BCA588E21E93F9&profile=pass:9 Rush
-#DESCRIPTION 9 Rush
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1112168273?ticket=CBF29E8B8825F4210C1855CC86A12C9B514662E9&profile=pass:10 HD
-#DESCRIPTION 10 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1891345482?ticket=6209CB4097CEAA948C4CC00AC1B1812AE7F4D3EA&profile=pass:10 Bold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2916:7 Flix Adelaide
+#DESCRIPTION 7 Flix Adelaide
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2908:7 Flix Brisbane
+#DESCRIPTION 7 Flix Brisbane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2909:7 Flix Melbourne
+#DESCRIPTION 7 Flix Melbourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2910:7 Flix Perth
+#DESCRIPTION 7 Flix Perth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2911:7 Flix Sydney
+#DESCRIPTION 7 Flix Sydney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2934:9 Brisbane
+#DESCRIPTION 9 Brisbane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92380:9 Melbourne
+#DESCRIPTION 9 Melbourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2936:9 Perth
+#DESCRIPTION 9 Perth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2937:9 Sydney
+#DESCRIPTION 9 Sydney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92375:9 Gem
+#DESCRIPTION 9 Gem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28025:9 Gem Adelaide
+#DESCRIPTION 9 Gem Adelaide
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104694:9 Gem Melbourne
+#DESCRIPTION 9 Gem Melbourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28037:9 Gem Perth
+#DESCRIPTION 9 Gem Perth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28029:9 Gem Sydney
+#DESCRIPTION 9 Gem Sydney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/102461:9 Go! Brisbane
+#DESCRIPTION 9 Go! Brisbane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28046:10
+#DESCRIPTION 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/28042:10 Bold
 #DESCRIPTION 10 Bold
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/70964845?ticket=6F045F3E5BFACC1F9DCD22FD34DCBCD405660C1F&profile=pass:10 Peach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/28036:10 Peach
 #DESCRIPTION 10 Peach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/516124095?ticket=DAE30E05668DCC77DB4E6F9D27D25661D805FBF3&profile=pass:10 Shake
-#DESCRIPTION 10 Shake
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/48958880?ticket=1E5B45C8D51C47E86F40D176817B482253E56CA1&profile=pass:SBS ONE HD
-#DESCRIPTION SBS ONE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1645155934?ticket=85CF6B8483808DA7CC5ABEA03C6B851798B27CD1&profile=pass:SBS Food
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92384:SBS
+#DESCRIPTION SBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2939:SBS Brisbane
+#DESCRIPTION SBS Brisbane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2940:SBS Melbourne
+#DESCRIPTION SBS Melbourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2941:SBS Perth
+#DESCRIPTION SBS Perth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/2942:SBS Sydney
+#DESCRIPTION SBS Sydney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28014:SBS Food
 #DESCRIPTION SBS Food
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1625859261?ticket=8D1017C75DF03CBF6658434509529CB97C3F2C03&profile=pass:SBS Viceland HD
-#DESCRIPTION SBS Viceland HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/808262435?ticket=7D0F27AEA6EBBDF7E1DABDF22BCBA6839FC2E725&profile=pass:SBS World Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28017:SBS NITV
+#DESCRIPTION SBS NITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92382:SBS Viceland
+#DESCRIPTION SBS Viceland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92383:SBS World Movies
 #DESCRIPTION SBS World Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1128185890?ticket=E0AD0F8B760047A4A34C6DA18D16893DE360E4E1&profile=pass:SBS World Watch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//i.mjh.nz/sbs-world-watch.m3u8:SBS World Watch
 #DESCRIPTION SBS World Watch
-#SERVICE 1:64:1814:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28027:Sky News Australia
+#DESCRIPTION Sky News Australia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8:Ticker News
+#DESCRIPTION Ticker News
+#SERVICE 1:64:1a0f:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104305:3AW
+#DESCRIPTION 3AW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28040:ACC TV
+#DESCRIPTION ACC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8:Ausbiz TV
 #DESCRIPTION Ausbiz TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1183569834?ticket=5FCF869BC59C79789B37BBA1DA62224AE6D9E3EA&profile=pass:Extra
-#DESCRIPTION Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8:Fuel TV
-#DESCRIPTION Fuel TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52842:Ausbiz TV (#)
+#DESCRIPTION Ausbiz TV (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/63490:Australia Channel
+#DESCRIPTION Australia Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104184:Channel 31 Melbourne
+#DESCRIPTION Channel 31 Melbourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104183:Channel 44 Adelaideⓧ
+#DESCRIPTION Channel 44 Adelaideⓧ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104302:DryBar Comedy
+#DESCRIPTION DryBar Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8:Expo Channel
+#DESCRIPTION Expo Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hncfree-samsungau.amagi.tv/playlist.m3u8:Horse and Country
 #DESCRIPTION Horse and Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-samsungau.amagi.tv/playlist.m3u8:Insight TV
-#DESCRIPTION Insight TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//introuble-samsungau.amagi.tv/playlist.m3u8:Introuble TV
 #DESCRIPTION Introuble TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inwild-samsungau.amagi.tv/playlist.m3u8:Inwild TV
@@ -85,12 +149,16 @@
 #DESCRIPTION Inwonder TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//i.mjh.nz/nz/tv.juice.m3u8:Juice TV
 #DESCRIPTION Juice TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/152886670?ticket=9D97AC0960A9DEDA75A0AC0300E6267B08D65D15&profile=pass:NITV
-#DESCRIPTION NITV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/288477945?ticket=4E9A6775E22C1D7C3B0CFF0C8F4107AEF727177F&profile=pass:Racing.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28031:Outdoor Channel
+#DESCRIPTION Outdoor Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28032:PAC 12 Network
+#DESCRIPTION PAC 12 Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28018:Racing.com
 #DESCRIPTION Racing.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lds-realstories-samsungau.amagi.tv/playlist.m3u8:Real Stories
 #DESCRIPTION Real Stories
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28044:Red Bull TV
+#DESCRIPTION Red Bull TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ryanandfriends-samsungau.amagi.tv/playlist.m3u8:Ryan and Friends
 #DESCRIPTION Ryan and Friends
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8:Sky News Australia Extra 1
@@ -99,47 +167,13 @@
 #DESCRIPTION Sky News Australia Extra 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8:Sky News Australia Extra 3
 #DESCRIPTION Sky News Australia Extra 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/28020:Sky Racing 1
+#DESCRIPTION Sky Racing 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/11419:Sky Racing 2
+#DESCRIPTION Sky Racing 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//smithsonianaus-samsungau.amagi.tv/playlist.m3u8:Smithsonian Channel
 #DESCRIPTION Smithsonian Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/271947940?ticket=201BC9ACC241E2BDFC07846088A0AE48A86246CE&profile=pass:SpreeTV
-#DESCRIPTION SpreeTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lightning-tracesport-samsungau.amagi.tv/playlist.m3u8:Trace Sport Stars
 #DESCRIPTION Trace Sport Stars
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8:TVSN
 #DESCRIPTION TVSN
-#SERVICE 1:64:1815:0:0:0:0:0:0:0:
-#DESCRIPTION +++radio+++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1618888332?ticket=B65C2161BF3A52F3921B922A345EFEF3C41CB064&profile=pass:ABC Brisbane
-#DESCRIPTION ABC Brisbane
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/456440634?ticket=1B6B288E5630D70DAE5B9E34730C92354764A350&profile=pass:ABC Classic
-#DESCRIPTION ABC Classic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/839154058?ticket=BF237E441440A0F176591BC48C3CC543AFEF1F82&profile=pass:ABC Country
-#DESCRIPTION ABC Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1951145888?ticket=0C0CB3627427682AD71FBF5878D86C0CCB1C96D1&profile=pass:ABC Jazz
-#DESCRIPTION ABC Jazz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/110633306?ticket=3B6EF907244AA2248F866C1A34BEB23461640000&profile=pass:ABC Kids Listen
-#DESCRIPTION ABC Kids Listen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1699434426?ticket=BFC390D544B0C2962813107CEE73A7FFF38B97EE&profile=pass:ABC NewsRadio
-#DESCRIPTION ABC NewsRadio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1109673774?ticket=2675294A24BC76304024D2EE50A03A775DF7D701&profile=pass:ABC RN
-#DESCRIPTION ABC RN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/362971658?ticket=AAA69C9EA04CD60ACCDAD60D893A0502CEB174D9&profile=pass:Double J
-#DESCRIPTION Double J
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/2007506552?ticket=3B796E6D6DE2BDA96B21D36B24DAB0C31D1A6858&profile=pass:SBS Radio 1
-#DESCRIPTION SBS Radio 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1644623705?ticket=7CD9F0EC06D48DD946AA81AF09F1F133CFD5E88E&profile=pass:SBS Radio 2
-#DESCRIPTION SBS Radio 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/628135555?ticket=8F37530AD83E32CE1051708DB7DB2143118D9247&profile=pass:SBS Radio 3
-#DESCRIPTION SBS Radio 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1922481885?ticket=C4725C61F8730C445B800EC2FBEC136E66D38A35&profile=pass:SBS Arabic 24
-#DESCRIPTION SBS Arabic 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/52476738?ticket=A83B0982920D47CAD5DE8FEBA1339B17EC869348&profile=pass:SBS Chill
-#DESCRIPTION SBS Chill
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/429167563?ticket=F12169D4110D94858AEC9D632ABBFB4E40C68C93&profile=pass:SBS Pop Asia
-#DESCRIPTION SBS Pop Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1952073993?ticket=083197CAC010ABB82077E89155125B300F9A4949&profile=pass:SBS Pop Desi
-#DESCRIPTION SBS Pop Desi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/961237549?ticket=5DCDB88DEDA2CAB08E6E2B535256129F34001869&profile=pass:Triple J
-#DESCRIPTION Triple J
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58.96.43.228%3a9981/stream/channelid/1616835935?ticket=97BFBE311226C946E7989D87B26376DFF4FD460A&profile=pass:Triple J Unearthed
-#DESCRIPTION Triple J Unearthed

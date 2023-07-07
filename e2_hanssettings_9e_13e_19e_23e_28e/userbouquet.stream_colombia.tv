@@ -1,10 +1,12 @@
 #NAME Stream Colombia (CO)
-#SERVICE 1:64:36a:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c7:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8:Canal 1
 #DESCRIPTION Canal 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video13.virtualtronics.com/streamer/canal2_720/index.m3u8:Canal 2
 #DESCRIPTION Canal 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8:Canal 2 Alpavisión Neiva Huila
+#DESCRIPTION Canal 2 Alpavisión Neiva Huila
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8:Canal 9 Bío Bío Televisión
 #DESCRIPTION Canal 9 Bío Bío Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.117.4.70%3a8075/channel11/playlist.m3u8:Canal 11 TV Red
@@ -43,13 +45,15 @@
 #DESCRIPTION Canal CNC Pasto Son Popular
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud28.vsgtech.co%3a3052/live/psctvlive.m3u8:PSC Televisión
 #DESCRIPTION PSC Televisión
-#SERVICE 1:64:36b:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c8:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/canalacuario:Acuario Television
 #DESCRIPTION Acuario Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hvtrafico.ddns.net/amagatv/amagatv.stream/playlist.m3u8:Amagá Televisión
+#DESCRIPTION Amagá Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/atmtv/index.m3u8:ATM Televisión
 #DESCRIPTION ATM Televisión
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.ejeserver.com/live/verteve.m3u8:ATV Soacha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/verteve.m3u8:ATV Soacha
 #DESCRIPTION ATV Soacha
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8:Avivamiento TV
 #DESCRIPTION Avivamiento TV
@@ -69,6 +73,8 @@
 #DESCRIPTION Canal Latino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//g2.vxral-slo.transport.edge-access.net/a11/ngrp%3acanal_luz01-100009_all/Playlist.m3u8:Canal Luz
 #DESCRIPTION Canal Luz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/nets.m3u8:Canal Nets
+#DESCRIPTION Canal Nets
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.servers10.com%3a8081/8092/playlist.m3u8:Canal NorteVision (Pasto, Nariño)
 #DESCRIPTION Canal NorteVision (Pasto, Nariño)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//byecableiptv.com/canapycvivo/canalpyc.stream/playlist.m3u8:Canal P&C
@@ -85,6 +91,8 @@
 #DESCRIPTION CTV Barranquilla
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2.tustreaming.cl/culturaonline/index.m3u8:Cultura Online
 #DESCRIPTION Cultura Online
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8074/index.m3u8:Durán TV
+#DESCRIPTION Durán TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tustreamingvideo.com%3a3376/multi_live/play.m3u8:EDVTV Bogotà
 #DESCRIPTION EDVTV Bogotà
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https%3a//teveo.com.co/player/AcAAAgAFAADLA1IAyADIQCAAAAAAAAAA.js:Enlace Televisión
@@ -101,14 +109,18 @@
 #DESCRIPTION Huila TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv.panelcast.net/la5ta/la5ta/playlist.m3u8:La 5ta
 #DESCRIPTION La 5ta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servidordevideo.com%3a3077/live/despechadalive.m3u8:La Despechada TV
+#DESCRIPTION La Despechada TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eff35271151c.streamlock.net%3a1936/8076/ngrp%3a8076/playlist.m3u8:La Popular TV
 #DESCRIPTION La Popular TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/teledoradahd.m3u8:Más TV
 #DESCRIPTION Más TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud10.vsgtech.co%3a3262/live/memoriastv2live.m3u8:Memorias TV
 #DESCRIPTION Memorias TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8010/8010/playlist.m3u8:Multicanal Televisión (Cali, Valle del Cauca)
-#DESCRIPTION Multicanal Televisión (Cali, Valle del Cauca)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8:Mi Gente TV
+#DESCRIPTION Mi Gente TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8:Multicanal Televisión
+#DESCRIPTION Multicanal Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/mundomas/mundomas/playlist.m3u8:Mundo Mas
 #DESCRIPTION Mundo Mas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8:Net TV

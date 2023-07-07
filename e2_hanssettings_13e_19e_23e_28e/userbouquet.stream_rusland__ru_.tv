@@ -97,6 +97,8 @@
 #DESCRIPTION Channel 1 Pervyy Kanal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8:Che
 #DESCRIPTION Che
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.gtk.tv/hls/gtyar.m3u8:City TV Channel Yaroslavl
+#DESCRIPTION City TV Channel Yaroslavl
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//109.68.40.67/life/magnolia.m3u8:CP Info
 #DESCRIPTION CP Info
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8:Dagestan
@@ -221,12 +223,16 @@
 #DESCRIPTION LitKlub TV Slovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/playlist.m3u8:LitKlub TV Stikhi
 #DESCRIPTION LitKlub TV Stikhi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//venera.greenhosting.ru/LoLoLV/video.m3u8:LoLo TV
+#DESCRIPTION LoLo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.trk-luch.ru/hls/live.m3u8:Luch (Purovsk)
 #DESCRIPTION Luch (Purovsk)
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/luxury.m3u8:Luxury
 #DESCRIPTION Luxury
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s77/index.m3u8:Mama TV
 #DESCRIPTION Mama TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.dovecher.tv%3a8081/live/marsh/playlist.m3u8:Marsh TV
+#DESCRIPTION Marsh TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8:Matur TV
 #DESCRIPTION Matur TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.77.128.179%3a8089/www_mezhdunet/mezhdunet/playlist.m3u8:Mezhdu.Net Mezhdurechensk
@@ -343,8 +349,10 @@
 #DESCRIPTION Pershyy Zakhodnyy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.185.3.218%3a4000/play/603:Pervyy Kanal
 #DESCRIPTION Pervyy Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:Pervyy Muzykal'nyy Kanal
-#DESCRIPTION Pervyy Muzykal'nyy Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hz1.teleport.cc/HLS/HD.m3u8:Pervyy Muzykal'nyy Kanal HD 
+#DESCRIPTION Pervyy Muzykal'nyy Kanal HD 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2200:Pervyy Muzykal'nyy Kanal Rossiya
+#DESCRIPTION Pervyy Muzykal'nyy Kanal Rossiya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv25.vintera.tv%3a8081/1pnk/1pnk/playlist.m3u8:PNK 1
 #DESCRIPTION PNK 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sc.id-tv.kz/poehali.m3u8:Poyekhali!
@@ -381,6 +389,8 @@
 #DESCRIPTION RBK
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//online.video.rbc.ru/online/rbctv_576p/index.m3u8:RBK -2-
 #DESCRIPTION RBK -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.50.128.180/utv/1358/index.m3u8:RBC
+#DESCRIPTION RBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rednet.rs/providus/redtv_multi_hq/index.m3u8:Red TV
 #DESCRIPTION Red TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ad-hls-rentv.cdnvideo.ru/ren/smil%3aren.smil/chunklist_b1024000.m3u8:REN TV
@@ -495,7 +505,7 @@
 #DESCRIPTION Telestantsiya MIR (Novosibirsk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s71/index.m3u8:TeleTravel HD
 #DESCRIPTION TeleTravel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/telplushd/playlist.m3u8:Telplyus TV (Astrakhan')
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.astrakhan.ru/telplushd/playlist.m3u8:Telplyus TV (Astrakhan')
 #DESCRIPTION Telplyus TV (Astrakhan')
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s59/index.m3u8:TiJi
 #DESCRIPTION TiJi
@@ -543,7 +553,7 @@
 #DESCRIPTION TV Kvarts
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/tserkov-online/russo2/playlist.m3u8:TV Mana Russia
 #DESCRIPTION TV Mana Russia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.pikanal.rs/pikanal/pgm.m3u8?v=1617785340:TV Pi Canal Pirot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.pikanal.rs/pikanal/pgm.m3u8:TV Pi Canal Pirot
 #DESCRIPTION TV Pi Canal Pirot
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.tvpro-online.ru/hls/ch1.m3u8:TV Pro
 #DESCRIPTION TV Pro
@@ -603,7 +613,7 @@
 #DESCRIPTION Yurgan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv24.vintera.tv%3a8081/utv/Stream/playlist.m3u8:YUTV Cheboksary
 #DESCRIPTION YUTV Cheboksary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8:Yuvelirochka TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8:Yuvelirochka TV
 #DESCRIPTION Yuvelirochka TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s31/index.m3u8:Zagorodnyy
 #DESCRIPTION Zagorodnyy

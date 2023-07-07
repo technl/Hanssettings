@@ -1,21 +1,91 @@
 #NAME Stream Zuid-Afrika (ZA)
-#SERVICE 1:64:373:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d7:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9169:SABC 1
+#DESCRIPTION SABC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9168:SABC 2
+#DESCRIPTION SABC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9167:SABC 3
+#DESCRIPTION SABC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9166:SABC News
+#DESCRIPTION SABC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9220:KykNet
+#DESCRIPTION KykNet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9123:KykNet & Kie
+#DESCRIPTION KykNet & Kie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9072:KykNet Nou
+#DESCRIPTION KykNet Nou
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8:Cape Town TV
 #DESCRIPTION Cape Town TV
-#SERVICE 1:64:374:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige zenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boktv.interworks.in%3a1935/live/boktv/playlist.m3u8:BOK TV
-#DESCRIPTION BOK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.227.202.76/hls-live/CTV/_definst_/liveevent/livestream.m3u8:Celebration TV
-#DESCRIPTION Celebration TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/Miglior/taJA1d0G6K0WWytw/296548:Kruiskyk TV
-#DESCRIPTION Kruiskyk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9161:Soweto TV
+#DESCRIPTION Soweto TV
+#SERVICE 1:64:3d8:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9114:1 Magic
+#DESCRIPTION 1 Magic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9312:1 KZN
+#DESCRIPTION 1 KZN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9299:Africa Magic Epic
+#DESCRIPTION Africa Magic Epic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9298:Africa Magic Family
+#DESCRIPTION Africa Magic Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9112:Africa Magic Urban
+#DESCRIPTION Africa Magic Urban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream2.bokradio.co.za/hls/Bok5c_hd720.m3u8:Bok TV
+#DESCRIPTION Bok TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9105:Business Day TV
+#DESCRIPTION Business Day TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9255:Dumisa TV
+#DESCRIPTION Dumisa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9252:eNCA
+#DESCRIPTION eNCA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9234:Gau TV
+#DESCRIPTION Gau TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/chunks.m3u8:Hilaal TV
+#DESCRIPTION Hilaal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8:Homebase TV
+#DESCRIPTION Homebase TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9228:Impact TV Network
+#DESCRIPTION Impact TV Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin2.afxp.telemedia.co.za/abr/kiddiwinks/abr/kapang_kiddiwinks_480p/chunks.m3u8?id=618&ip=2001%253A1c05%253A378f%253A7100%253A387c%253A752%253Acb41%253Ae67f&override_expiration=1500&sign=7HYwZKTajv%252FrzdA58iOgcW7%252BewoLXbDUapkprvfZ0gk%253D&timestamp=:Kiddiwinks
+#DESCRIPTION Kiddiwinks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin2.afxp.telemedia.co.za/abr/limelight/abr/kapang_limelight_720p/chunks.m3u8?id=775&ip=2001%253A1c05%253A378f%253A7100%253A387c%253A752%253Acb41%253Ae67f&override_expiration=1500&sign=%252BURC%252FY6kq19qu6AtUKhdWePVcrH7HPR10jVd2IJwx6g%253D&timestamp=:Limelight
+#DESCRIPTION Limelight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnstack.internetmultimediaonline.org/lwsat/lwsatnewsStreamx/chunklist.m3u8:LN 24 SA
+#DESCRIPTION LN 24 SA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin2.afxp.telemedia.co.za/abr/lol/abr/kapang_lol_720p/chunks.m3u8?id=614&ip=2001%253A1c05%253A378f%253A7100%253A387c%253A752%253Acb41%253Ae67f&override_expiration=1500&sign=fcn%252FMqEgYBRG9dvrpzs3dUUqQNaP7QpsyoZa4HyhL3g%253D&timestamp=:LOL Africa
+#DESCRIPTION LOL Africa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8:LoveWorld Sat
 #DESCRIPTION LoveWorld Sat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8:RLW TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.nixsat.com%3a8080/play/rtm/index.m3u8:Redemption TV Ministry
+#DESCRIPTION Redemption TV Ministry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rlwtv.mambastreaming.net%3a3371/stream/play.m3u8:RLW TV
 #DESCRIPTION RLW TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8:Trace Africa
-#DESCRIPTION Trace Africa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstreaming.viewmedia.tv/web_012/Stream/live12_3/high/chunks.m3u8:ROV TV
+#DESCRIPTION ROV TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9160:Spice
+#DESCRIPTION Spice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9142:TRACE Africa
+#DESCRIPTION TRACE Africa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9141:TRACE Gospel
+#DESCRIPTION TRACE Gospel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9139:TRACE Kitoko
+#DESCRIPTION TRACE Kitoko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9140:TRACE Mziki
+#DESCRIPTION TRACE Mziki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9071:TRACE Toca
+#DESCRIPTION TRACE Toca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9020:TRACE Urban
+#DESCRIPTION TRACE Urban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9019:TRACE Vanilla
+#DESCRIPTION TRACE Vanilla
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin2.afxp.telemedia.co.za/abr/trigger/abr/kapang_trigger_480p/chunks.m3u8?id=622&ip=2001%253A1c05%253A378f%253A7100%253A387c%253A752%253Acb41%253Ae67f&override_expiration=1500&sign=X1CxmWrvzTTFFgVLpClvY4nxVLyl4e%252BZkC6ff2I2s7Q%253D&timestamp=:Trigger
+#DESCRIPTION Trigger
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/commectv_live/UBNTV/index.m3u8:UBN
 #DESCRIPTION UBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9128:Universal TV Africa
+#DESCRIPTION Universal TV Africa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9127:Vox Africa
+#DESCRIPTION Vox Africa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/9125:Wes Africa
+#DESCRIPTION Wes Africa

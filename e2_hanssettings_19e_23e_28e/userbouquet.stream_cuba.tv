@@ -1,7 +1,17 @@
 #NAME Stream Cuba (CU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.122.96.187%3a8888/http/010:CubaVision Internacional
-#DESCRIPTION CubaVision Internacional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8:Telesur
-#DESCRIPTION Telesur
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8:TV Marti
-#DESCRIPTION TV Marti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.teveo.cu/media/fr/xt/cBAU798npdCg/artifact/catVNdH2wbTkBdhJ.h264.1920-4500.media.video.m3u8:Canal Educativo
+#DESCRIPTION Canal Educativo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.42.185.216%3a8000/8D689D5SWV/SWV8X6AJGI/126549:Cuba Play
+#DESCRIPTION Cuba Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.42.185.216%3a8000/8D689D5SWV/SWV8X6AJGI/148795:Cubamax TV
+#DESCRIPTION Cubamax TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/148678:Cubavision
+#DESCRIPTION Cubavision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.42.185.216%3a8000/8D689D5SWV/SWV8X6AJGI/126552:Cubavision Internacional
+#DESCRIPTION Cubavision Internacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/297534:Mega
+#DESCRIPTION Mega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.42.185.216%3a8000/8D689D5SWV/SWV8X6AJGI/126550:RTV Martí
+#DESCRIPTION RTV Martí
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.42.185.216%3a8000/8D689D5SWV/SWV8X6AJGI/126551:Tele Rebelde
+#DESCRIPTION Tele Rebelde

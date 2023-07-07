@@ -1,126 +1,130 @@
 #NAME Stream Frankrijk (FR)
-#SERVICE 1:64:37a:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d9:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:2460:440:1:c00000:0:0:0:http%3a//livetv.ktv.zone/3/play.m3u8:TF1
+#SERVICE 4097:0:1:2460:440:1:c00000:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9210.ts:TF1
 #DESCRIPTION TF1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/22/play.m3u8:TF1 Séries Films
-#DESCRIPTION TF1 Séries Films
-#SERVICE 4097:0:1:2014:430:1:c00000:0:0:0:http%3a//livetv.ktv.zone/13/play.m3u8:TFX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9226.ts:TF1 Series Club
+#DESCRIPTION TF1 Series Club
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//obsfullhd.tv%3a25461/ahmedax100/l2CuGRvhci/419:TF1 Series Films
+#DESCRIPTION TF1 Series Films
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//obsfullhd.tv%3a25461/ahmedax100/l2CuGRvhci/414:TFX
 #DESCRIPTION TFX
-#SERVICE 4097:0:1:245a:440:1:c00000:0:0:0:http%3a//livetv.ktv.zone/4/play.m3u8:France 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9546.ts:France 2
 #DESCRIPTION France 2
-#SERVICE 4097:0:1:245d:440:1:c00000:0:0:0:http%3a//livetv.ktv.zone/5/play.m3u8:France 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//obsfullhd.tv%3a25461/ahmedax100/l2CuGRvhci/403:France 3
 #DESCRIPTION France 3
-#SERVICE 4097:0:1:21fd:44c:1:c00000:0:0:0:http%3a//livetv.ktv.zone/16/play.m3u8:France 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9544.ts:France 4
 #DESCRIPTION France 4
-#SERVICE 4097:0:1:2330:442:1:c00000:0:0:0:http%3a//livetv.ktv.zone/7/play.m3u8:France 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9543.ts:France 5
 #DESCRIPTION France 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/57/play.m3u8:France 24 English
 #DESCRIPTION France 24 English
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8:France 24 English -2-
-#DESCRIPTION France 24 English -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.94.196.204/tsstreamer/France24_HD.ts:France 24 French
 #DESCRIPTION France 24 French
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.254.16.186%3a80/France24/mono.m3u8:France 24 French -2-
-#DESCRIPTION France 24 French -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8:France 24 French -3-
-#DESCRIPTION France 24 French -3-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/29/play.m3u8:France Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/43444.ts:France Info
 #DESCRIPTION France Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5421175365ea3.streamlock.net/live/smil%3aswitch.smil/chunklist_w658967140_b2000000_t64NzIwcA==.m3u8:Francophonie 24
+#DESCRIPTION Francophonie 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8:M6
 #DESCRIPTION M6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/8/play.m3u8:M6 -2-
-#DESCRIPTION M6 -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8:M6 International
 #DESCRIPTION M6 International
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/24/play.m3u8:6ter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//obsfullhd.tv%3a25461/ahmedax100/l2CuGRvhci/415:6ter
 #DESCRIPTION 6ter
 #SERVICE 4097:0:1:2334:442:1:c00000:0:0:0:http%3a//callofliberty.fr/stream/C8/master.m3u8:C8
 #DESCRIPTION C8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/10/play.m3u8:C8 -2-
-#DESCRIPTION C8 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a01g/index.m3u8:RTL 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9507.ts:RTL 9
 #DESCRIPTION RTL 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/11/play.m3u8:W9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//obsfullhd.tv%3a25461/ahmedax100/l2CuGRvhci/408:W9
 #DESCRIPTION W9
-#SERVICE 1:64:37b:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//obsfullhd.tv%3a25461/ahmedax100/l2CuGRvhci/416:NRJ 12
+#DESCRIPTION NRJ 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/51113.ts:NRJ Hits
+#DESCRIPTION NRJ Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//obsfullhd.tv%3a25461/ahmedax100/l2CuGRvhci/52:Paris Premiere
+#DESCRIPTION Paris Premiere
+#SERVICE 1:64:3da:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9594.ts:AB1
+#DESCRIPTION AB1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9593.ts:AB3
+#DESCRIPTION AB3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END:BFM TV
 #DESCRIPTION BFM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/17/play.m3u8:BFM TV -2-
-#DESCRIPTION BFM TV -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00v/index.m3u8:BFM Business
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9586.ts:BFM Business
 #DESCRIPTION BFM Business
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlilletv/smil%3agrandlilletv.smil/playlist.m3u8:BFM Lille 
-#DESCRIPTION BFM Lille 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlittoral/smil%3agrandlittoral.smil/playlist.m3u8:BFM Littoral
-#DESCRIPTION BFM Littoral
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/27/play.m3u8:Chérie 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/126642.ts:BFM DiCi Alpes
+#DESCRIPTION BFM DiCi Alpes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/126643.ts:BFM Dici Haute Provence
+#DESCRIPTION BFM Dici Haute Provence
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/126644.ts:BFM Lyon
+#DESCRIPTION BFM Lyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/126645.ts:BFM Marseille
+#DESCRIPTION BFM Marseille
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/115444.ts:BFM Paris
+#DESCRIPTION BFM Paris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/126646.ts:BFM Toulon
+#DESCRIPTION BFM Toulon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8:Chérie 25
 #DESCRIPTION Chérie 25
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8:Chérie 25 -2-
-#DESCRIPTION Chérie 25 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=3400000.m3u8:CNews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15197.ts:CNews
 #DESCRIPTION CNews
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/18/play.m3u8:CNews -2-
-#DESCRIPTION CNews -2-
 #SERVICE 4097:0:1:2335:442:1:c00000:0:0:0:http%3a//callofliberty.fr/stream/CSTAR/master.m3u8:CStar
 #DESCRIPTION CStar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/19/play.m3u8:CStar -2-
-#DESCRIPTION CStar -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.creacast.com/d5tv/smil%3ad5tv.smil/playlist.m3u8:D5tv
-#DESCRIPTION D5tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/51150.ts:CStar Hits
+#DESCRIPTION CStar Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8:Euronews Français
 #DESCRIPTION Euronews Français
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a02t/index.m3u8:I24 News France
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/117707.ts:I24 News France
 #DESCRIPTION I24 News France
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/23/play.m3u8:L'Equipe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15155.ts:L'Equipe
 #DESCRIPTION L'Equipe
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a038/index.m3u8:La Chaine Meteo
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/249114.ts:La Chaine Meteo
 #DESCRIPTION La Chaine Meteo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/28/play.m3u8:LCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9261.ts:LCI
 #DESCRIPTION LCI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//callofliberty.fr/stream/LCP/master.m3u8:LCP
 #DESCRIPTION LCP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/15/play.m3u8:LCP -2-
-#DESCRIPTION LCP -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00r/index.m3u8:MCM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/51139.ts:LCP Assemblee Nationale
+#DESCRIPTION LCP Assemblee Nationale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15151.ts:MCM
 #DESCRIPTION MCM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00q/index.m3u8:MCM Top
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9255.ts:MCM Top
 #DESCRIPTION MCM Top
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00o/index.m3u8:MTV France
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/62227.ts:Melody TV
+#DESCRIPTION Melody TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/51109.ts:MTV France
 #DESCRIPTION MTV France
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/14/play.m3u8:NRJ 12
-#DESCRIPTION NRJ 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8:NRJ 12 -2-
-#DESCRIPTION NRJ 12 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a02o/index.m3u8:NRJ Hits
-#DESCRIPTION NRJ Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a02n/index.m3u8:RFM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15132.ts:RFM TV
 #DESCRIPTION RFM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/12/play.m3u8:TMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9233.ts:RMC Decouverte
+#DESCRIPTION RMC Decouverte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/118366.ts:RMC Story
+#DESCRIPTION RMC Story
+#SERVICE 4097:0:1:2015:430:1:c00000:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9194.ts:TMC
 #DESCRIPTION TMC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/61/play.m3u8:TV5 Monde Europe
 #DESCRIPTION TV5 Monde Europe
-#SERVICE 1:64:37c:0:0:0:0:0:0:0:
+#SERVICE 1:64:3db:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//3abn-live.akamaized.net/hls/live/2010546-b/French/master.m3u8:3ABN French
 #DESCRIPTION 3ABN French
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.youtb.workers.dev/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8:7A Limoges
-#DESCRIPTION 7A Limoges
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3aadhtv/chunklist.m3u8:Alpe d’Huez TV
 #DESCRIPTION Alpe d’Huez TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a02g/index.m3u8:Altice Studio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/40881.ts:Altice Studio
 #DESCRIPTION Altice Studio
-#SERVICE 4097:0:1:133:3e1c:13f:820000:0:0:0:https%3a//s13.tntendirect.com/arte/live/playlist.m3u8:ARTE Francais
+#SERVICE 4097:0:1:133:3e1c:13f:820000:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/51154.ts:ARTE Francais
 #DESCRIPTION ARTE Francais
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/9/play.m3u8:ARTE Francais -2-
-#DESCRIPTION ARTE Francais -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.235.38.139%3a4000/play/a03o:BET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/119331.ts:Bblack Caribbean TV
+#DESCRIPTION Bblack Caribbean TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9256.ts:BET
 #DESCRIPTION BET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//biptv.tv/live/biptvstream_orig/index.m3u8:BIP TV 
 #DESCRIPTION BIP TV 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.235.38.139%3a4000/play/a0a4:Canal J
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15231.ts:Canal J
 #DESCRIPTION Canal J
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8:CEN
+#DESCRIPTION CEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livefr.cgtn.com/1000f/prog_index.m3u8:CGTN France
 #DESCRIPTION CGTN France
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//clubbingtv-rakuten.amagi.tv/playlist.m3u8:Clubbing TV
@@ -131,6 +135,8 @@
 #DESCRIPTION Dieu TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8:Ère TV
 #DESCRIPTION Ère TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/108053.ts:Eurochannel
+#DESCRIPTION Eurochannel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Fashion TV
 #DESCRIPTION Fashion TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8:Fashion TV UHD
@@ -139,27 +145,21 @@
 #DESCRIPTION Fashion TV L'Original
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8:Fashion TV Midnite Secrets
 #DESCRIPTION Fashion TV Midnite Secrets
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8:Fashion TV New York
-#DESCRIPTION Fashion TV New York
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8:Fashion TV Paris
 #DESCRIPTION Fashion TV Paris
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8:Fashion TV PG16
 #DESCRIPTION Fashion TV PG16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8:Fashion TV Singapore
-#DESCRIPTION Fashion TV Singapore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/playlist.m3u8:Fashion TV Tsjechië/Slowakije
 #DESCRIPTION Fashion TV Tsjechië/Slowakije
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8:Fashion TV Tokyo
-#DESCRIPTION Fashion TV Tokyo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5421175365ea3.streamlock.net/live/smil%3aswitch.smil/chunklist_w658967140_b2000000_t64NzIwcA==.m3u8:Francophonie 24
-#DESCRIPTION Francophonie 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8:Fun Radio
+#DESCRIPTION Fun Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3ageneration-tv/manifest.m3u8:Generations TV
 #DESCRIPTION Generations TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/20/play.m3u8:Gulli Prime
-#DESCRIPTION Gulli Prime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.creacast.com/iltv/smil%3ailtv.smil/playlist.m3u8:ILTV
-#DESCRIPTION ILTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.235.38.139%3a4000/play/a00n:Infosport+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15160.ts:Gulli
+#DESCRIPTION Gulli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/117962.ts:IDF 1
+#DESCRIPTION IDF 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15156.ts:Infosport+
 #DESCRIPTION Infosport+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a:Juste Pour Rire
 #DESCRIPTION Juste Pour Rire
@@ -171,21 +171,27 @@
 #DESCRIPTION MDL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo 
 #DESCRIPTION Mezzo 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00p/index.m3u8:Mezzo Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15148.ts:Mezzo Live
 #DESCRIPTION Mezzo Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webtvmonacoinfo.mc/live/prod_720/index.m3u8:Monaco Info
 #DESCRIPTION Monaco Info
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/mirabelletv/smil%3amirabelletv.smil/chunklist.m3u8:Moselle TV
 #DESCRIPTION Moselle TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00h/index.m3u8:OCS Choc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/62894.ts:Museum Channel
+#DESCRIPTION Museum Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/30818.ts:My Cuisine
+#DESCRIPTION My Cuisine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15140.ts:OCS Choc
 #DESCRIPTION OCS Choc
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00i/index.m3u8:OCS City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15223.ts:OCS City
 #DESCRIPTION OCS City
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00g/index.m3u8:OCS Geants
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15139.ts:OCS Geants
 #DESCRIPTION OCS Geants
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00j/index.m3u8:OCS Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15222.ts:OCS Max
 #DESCRIPTION OCS Max
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a037/index.m3u8:Polar+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/271879.ts:OCS Pulp
+#DESCRIPTION OCS Pulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9564.ts:Polar+
 #DESCRIPTION Polar+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.presstv.ir/live/presstvfr/index.m3u8:Press TV France
 #DESCRIPTION Press TV France
@@ -201,23 +207,31 @@
 #DESCRIPTION Sport En France
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8:Stormcast Novelas TV
 #DESCRIPTION Stormcast Novelas TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//start-1.direct.live/hls/tebeo.m3u8:Tébéo TV
-#DESCRIPTION Tébéo TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//start-2.direct.live/hls/tebesud.m3u8:TébéSud
-#DESCRIPTION TébéSud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8:Tiji
+#DESCRIPTION Tiji
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.tmacaraibes.com/live/index.m3u8:TMA Caraibes
 #DESCRIPTION TMA Caraibes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tntv-samsung-fr.amagi.tv/playlist.m3u8:TNTV
 #DESCRIPTION TNTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/126648.ts:Top Santé TV
+#DESCRIPTION Top Santé TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/62920.ts:Trace Latina
+#DESCRIPTION Trace Latina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/9207.ts:Trace Naija
+#DESCRIPTION Trace Naija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15218.ts:Trace Toca
+#DESCRIPTION Trace Toca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/51114.ts:Trace Urban
+#DESCRIPTION Trace Urban
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv7.hdr-tv.com%3a1935/live/tv7/livestream/playlist.m3u8:TV 7 Colmar
 #DESCRIPTION TV 7 Colmar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a02s/index.m3u8:TV 8 Mont Blanc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/126662.ts:TV 8 Mont Blanc
 #DESCRIPTION TV 8 Mont Blanc
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.cdn.dvmr.fr/TV78/ngrp%3atv78.stream_all/master.m3u8:TV 78 
 #DESCRIPTION TV 78 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.62.119%3a8006/play/a00l/index.m3u8:TV Breizh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/15116.ts:TV Breizh
 #DESCRIPTION TV Breizh
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tvradio-pitchoun.fr/hls/live.m3u8:TV Pitchoun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/126649.ts:TV Pitchoun
 #DESCRIPTION TV Pitchoun
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8:TV3V
 #DESCRIPTION TV3V
@@ -229,6 +243,8 @@
 #DESCRIPTION Vià Ma Télé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8:Vià Occitanie
 #DESCRIPTION Vià Occitanie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv.webtvmanager.fr%3a3118/live/viatelepaeselive.m3u8:Vià TéléPaese
+#DESCRIPTION Vià TéléPaese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8:Vision 4
 #DESCRIPTION Vision 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8:Vosges TV

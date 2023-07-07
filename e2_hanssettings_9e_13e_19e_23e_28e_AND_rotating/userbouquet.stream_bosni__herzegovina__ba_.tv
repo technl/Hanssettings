@@ -1,23 +1,113 @@
 #NAME Stream Bosnië-Herzegovina (BA)
-#SERVICE 1:64:181a:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a14:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//proxy.bihnet.net%3a88/live/b1tv.m3u8:B1 TV
-#DESCRIPTION B1 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/65942:Alfa TV
+#DESCRIPTION Alfa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81387:Alternativna TV
+#DESCRIPTION Alternativna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81376:BHT 1
+#DESCRIPTION BHT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81392:Bir TV Uzivo
+#DESCRIPTION Bir TV Uzivo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dns2.rtvbn.com%3a8080/live/index.m3u8:BN TV
 #DESCRIPTION BN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//parh.rtrs.tv/tv/live/chunklist_.m3u8:RTRS TV (PTPC)
-#DESCRIPTION RTRS TV (PTPC)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webtvstream.bhtelecom.ba/gorazde_cam2.m3u8:RTV BPK
-#DESCRIPTION RTV BPK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/265789:BN 2
+#DESCRIPTION BN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/4137:BN Music
+#DESCRIPTION BN Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/47614:City TV
+#DESCRIPTION City TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/192034:Elta
+#DESCRIPTION Elta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/267611:Elta 2
+#DESCRIPTION Elta 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/47618:HIT Televizija
+#DESCRIPTION HIT Televizija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/47613:K3 TV
+#DESCRIPTION K3 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81401:Kanal 6
+#DESCRIPTION Kanal 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81372:N1
+#DESCRIPTION N1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81380:Nova BH
+#DESCRIPTION Nova BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81404:O Kanal HD
+#DESCRIPTION O Kanal HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81378:OBN HD
+#DESCRIPTION OBN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81390:OTV Valentino
+#DESCRIPTION OTV Valentino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81382:RTRS HD
+#DESCRIPTION RTRS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81383:RTRS Plus
+#DESCRIPTION RTRS Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81405:RTV Cazin
+#DESCRIPTION RTV Cazin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/10686:RTV Glas Drine
+#DESCRIPTION RTV Glas Drine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8:RTV HB
 #DESCRIPTION RTV HB
-#SERVICE 1:64:181b:0:0:0:0:0:0:0:
-#DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/malta.m3u8:Moja TV
-#DESCRIPTION Moja TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/36898:RTV Herceg Bosne
+#DESCRIPTION RTV Herceg Bosne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81406:RTV Hit Brcko
+#DESCRIPTION RTV Hit Brcko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/5371:RTV Sana
+#DESCRIPTION RTV Sana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81389:RTV TK Tuzla
+#DESCRIPTION RTV TK Tuzla
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81400:RTV Usk
+#DESCRIPTION RTV Usk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81396:RTV Visoko
+#DESCRIPTION RTV Visoko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81398:RTV Zenica
+#DESCRIPTION RTV Zenica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81391:Super TV Media
+#DESCRIPTION Super TV Media
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//balkanmedia.dynu.net/hls/tv5web.m3u8:Televizija 5
 #DESCRIPTION Televizija 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.0.130%3a8082:TV Slon Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/67512:TV Duga +
+#DESCRIPTION TV Duga +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81388:TV Sarajevo
+#DESCRIPTION TV Sarajevo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCX0QrFrUrE3Vu7wUcvwQKSw.m3u8:TV Slon Extra
 #DESCRIPTION TV Slon Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/watch?v=YHLiGONh--I:TV Slon Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.0.130%3a8082:TV Slon Extra -2-
+#DESCRIPTION TV Slon Extra -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.youtb.workers.dev/channel/UCX0QrFrUrE3Vu7wUcvwQKSw.m3u8:TV Slon Info
 #DESCRIPTION TV Slon Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/13458:TV Vijesti
+#DESCRIPTION TV Vijesti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/3454:TVSA
+#DESCRIPTION TVSA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/295252:Una TV
+#DESCRIPTION Una TV
+#SERVICE 1:64:1a15:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81381:Face HD
+#DESCRIPTION Face HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81377:Federalna
+#DESCRIPTION Federalna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81374:Hayat
+#DESCRIPTION Hayat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/3460:Hayat Folk
+#DESCRIPTION Hayat Folk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/10691:Hayat Music
+#DESCRIPTION Hayat Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81375:Hayat Plus
+#DESCRIPTION Hayat Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/20224:Izvorna TV
+#DESCRIPTION Izvorna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/67760:Lov I Ribolov
+#DESCRIPTION Lov I Ribolov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/malta.m3u8:Moja TV
+#DESCRIPTION Moja TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81395:MTV Igman
+#DESCRIPTION MTV Igman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/54961:Posavina TV
+#DESCRIPTION Posavina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/4212:Sehara TV
+#DESCRIPTION Sehara TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/10744:Sevdah TV
+#DESCRIPTION Sevdah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.xtremetv.eu%3a8000/megaott1000/gtSwbCLSSS/81394:Tatabrada TV
+#DESCRIPTION Tatabrada TV

@@ -465,10 +465,12 @@
 #DESCRIPTION CLUBsoundzFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.clubtime.fm/tunein-mp3-pls:ClubTimeFM
 #DESCRIPTION ClubTimeFM
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/coolradioclassicrock:Coolradio-1
-#DESCRIPTION Coolradio-1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/Coolradio-Jazz:Coolradio-Jazz
-#DESCRIPTION Coolradio-Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.fueralle.org/coloradio_160.mp3:coloRadio Dresden
+#DESCRIPTION coloRadio Dresden
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/coolradioclassicrock:Coolradio
+#DESCRIPTION Coolradio
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/Coolradio-Jazz:Coolradio Jazz
+#DESCRIPTION Coolradio Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//core-mix.stream.laut.fm/core-mix?t302=2017-12-06_05-30-16&uuid=b271b1b1-7ea8-499d-817d-dca8b816f365:core-mix
 #DESCRIPTION core-mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.stream.tb-group.fm/ct.mp3?:CoreTimeFM
@@ -665,8 +667,8 @@
 #DESCRIPTION Electro Swing Revolution Radio (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//emc.stream.laut.fm/emc?t302=2017-12-07_09-30-33&uuid=97ac87c6-e043-47b6-ae4e-7ce21203031a:electronic-music-club
 #DESCRIPTION electronic-music-club
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.118.87.46%3a8400/;stream:Ems-Vechte-Welle
-#DESCRIPTION Ems-Vechte-Welle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.radio-aktiv.de/evw.mp3:Ems-Vechte-Welle (Lingen)
+#DESCRIPTION Ems-Vechte-Welle (Lingen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//f5-th2.nrjaudio.fm/de/33051/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs7&adws_out_b1:Energy Acoustic
 #DESCRIPTION Energy Acoustic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//f5-pa6-2.nrjaudio.fm/de/33001/mp3_128.mp3?origine=energy.de&cdn_path=adswizz_lbs7&adws_out_a1:Energy Berlin
@@ -1965,6 +1967,8 @@
 #DESCRIPTION PELI ONE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//player.ffn.de/peppermintstream.mp3:Peppermint FM
 #DESCRIPTION Peppermint FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//piradio.de/stream/:Pi Radio + Radio Woltersdorf (Berlijn)
+#DESCRIPTION Pi Radio + Radio Woltersdorf (Berlijn)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//webradio.pirategong.de%3a8000/:Pirate Gong
 #DESCRIPTION Pirate Gong
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.streamonkey.net/fhn-pirateradio/stream/mp3:Pirate Radio Nürnberg
@@ -2599,6 +2603,8 @@
 #DESCRIPTION Radio Immanuel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4broadcast.de%3a8300:Radio IN  Ingolstadt)
 #DESCRIPTION Radio IN  Ingolstadt)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server4.streamserver24.com%3a43545/stream:Radio IRaBO (Borkum)
+#DESCRIPTION Radio IRaBO (Borkum)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.audio.3qsdn.com/9CLbQJKjt4BmhGw:Radio ISW = Inn-Salzach-Welle (Duitsland)
 #DESCRIPTION Radio ISW = Inn-Salzach-Welle (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.audio.3qsdn.com/VtcP2M83QdDnxTK:Radio ISW = Inn-Salzach-Welle - +Plus (Duitsland)
@@ -2679,9 +2685,7 @@
 #DESCRIPTION Radio Nora-Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//159.69.2.138%3a7000:Radio Nordsee International
 #DESCRIPTION Radio Nordsee International
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radio-nordseewelle.de/whv/mp3-192/radioplayer:Radio Nordseewelle Jever/Wilhelmshaven
-#DESCRIPTION Radio Nordseewelle Jever/Wilhelmshaven
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radio-nordseewelle.de/live/mp3-192/radioplayer:Radio Nordseewelle Ostfriesland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115:Radio Nordseewelle Ostfriesland
 #DESCRIPTION Radio Nordseewelle Ostfriesland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiooberhausen.cast.addradio.de/radiooberhausen/simulcast/high/stream.mp3:Radio Oberhausen (Duitsland)
 #DESCRIPTION Radio Oberhausen (Duitsland)
@@ -2695,8 +2699,8 @@
 #DESCRIPTION Radio Oldtimer
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radioosnabrueck.c.nmdn.net/fs_radioosnabrueck/livestream.mp3:Radio Osnabrück (Duitsland)
 #DESCRIPTION Radio Osnabrück (Duitsland)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fra.radiostream.de%3a36949:Radio Ostfriesland
-#DESCRIPTION Radio Ostfriesland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.radio-ostfriesland.de/ostfriesland.mp3:Radio Ostfriesland (Emden)
+#DESCRIPTION Radio Ostfriesland (Emden)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-ostrock.de:Radio Ostrock
 #DESCRIPTION Radio Ostrock
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//tuner.radiopaloma.de%3a80/:Radio Paloma
@@ -2821,8 +2825,8 @@
 #DESCRIPTION Radio Rosengarten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiorsg.c.nmdn.net/radiorsg/livestream.mp3:Radio RSG (Duitsland)
 #DESCRIPTION Radio RSG (Duitsland)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiorst.de%3a8000/rst128k:Radio RST
-#DESCRIPTION Radio RST
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4459gxr:Radio RST (Rheine)
+#DESCRIPTION Radio RST (Rheine)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiorur.c.nmdn.net/radiorur/livestream.mp3:Radio Rur (Duitsland)
 #DESCRIPTION Radio Rur (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rb-stream.de%3a8000/rrb_128.mp3:Radio Russkij-Berlin
@@ -2951,8 +2955,8 @@
 #DESCRIPTION Radio Vest (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid48.streamupsolutions.com/proxy/vipugplg/stream:Radio Vidovdan Frankfurt
 #DESCRIPTION Radio Vidovdan Frankfurt
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiowaf.c.nmdn.net/radiowaf/livestream.mp3:Radio WAF (Duitsland)
-#DESCRIPTION Radio WAF (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiowaf-live.cast.addradio.de/radiowaf/live/mp3/high:Radio WAF (Warendorf)
+#DESCRIPTION Radio WAF (Warendorf)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.wellenr.c.nmdn.net/wellenr/livestream.mp3:Radio Welle Niederrhein
 #DESCRIPTION Radio Welle Niederrhein
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.blpn.de%3a8443/r3we_128:Radio Welle West Wetterau
@@ -2977,7 +2981,7 @@
 #DESCRIPTION Radio Xanadu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//snd.radio-z.net%3a8000/Radio-Z:Radio Z
 #DESCRIPTION Radio Z
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server35303.streamplus.de/stream.mp3:Radio Zett
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ec4.yesstreaming.net%3a2375/stream:Radio Zett
 #DESCRIPTION Radio Zett
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.201.25.114%3a8000/;stream.mp3:Radio Zombiestation
 #DESCRIPTION Radio Zombiestation
@@ -4141,6 +4145,8 @@
 #DESCRIPTION WunschRadio-FM---90er
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3.wunschradio.de/wunschradio-top100.mp3:WunschRadio-FM---Top-100
 #DESCRIPTION WunschRadio-FM---Top-100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//xxl-radio.stream.laut.fm/xxl-radio:XXL-Radio (Rheda Wiedenbrück)
+#DESCRIPTION XXL-Radio (Rheda Wiedenbrück)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//yesterdayfm.schlagerparadies.de/yesterdayfm8:Yesterday.FM
 #DESCRIPTION Yesterday.FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3:You FM Club

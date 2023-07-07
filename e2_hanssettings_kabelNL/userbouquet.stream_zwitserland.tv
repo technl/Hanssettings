@@ -1,37 +1,77 @@
 #NAME Stream Zwitserland (CH)
-#SERVICE 1:64:289:0:0:0:0:0:0:0:
+#SERVICE 1:64:2f2:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/19763:RSI La 1 HD
-#DESCRIPTION RSI La 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/1993:RSI La 2 HD
-#DESCRIPTION RSI La 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00j:RTS 1 HD
-#DESCRIPTION RTS 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/1/play.m3u8:RTS 1 HD -2-
-#DESCRIPTION RTS 1 HD -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00k:RTS 2 HD
-#DESCRIPTION RTS 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/2/play.m3u8:RTS 2 HD -2-
-#DESCRIPTION RTS 2 HD -2-
-#SERVICE 4097:0:1:4331:300c:13e:820000:0:0:0:http%3a//185.236.229.31%3a9981/play/a00h:SRF 1 HD
-#DESCRIPTION SRF 1 HD
-#SERVICE 4097:0:1:4332:300c:13e:820000:0:0:0:http%3a//185.236.229.31%3a9981/play/a00i:SRF 2 HD
-#DESCRIPTION SRF 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/19753:SRF Info HD
-#DESCRIPTION SRF Info HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ultratv.one%3a80/oQUCFpEeFq/u5C1DYYr/23719:RSI La 1
+#DESCRIPTION RSI La 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/1993:RSI La 2
+#DESCRIPTION RSI La 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00j:RTS 1
+#DESCRIPTION RTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/1/play.m3u8:RTS 1 (#)
+#DESCRIPTION RTS 1 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/15851:RTS 1 (#)
+#DESCRIPTION RTS 1 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.236.229.31%3a9981/play/a00k:RTS 2
+#DESCRIPTION RTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.ktv.zone/2/play.m3u8:RTS 2 (#)
+#DESCRIPTION RTS 2 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/15850:RTS 2 (#)
+#DESCRIPTION RTS 2 (#)
+#SERVICE 4097:0:1:4331:300c:13e:820000:0:0:0:http%3a//185.236.229.31%3a9981/play/a00h:SRF 1
+#DESCRIPTION SRF 1
+#SERVICE 4097:0:1:4331:300c:13e:820000:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/4413:SRF 1 (#)
+#DESCRIPTION SRF 1 (#)
+#SERVICE 4097:0:1:4331:300c:13e:820000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/15852:SRF 1 (#)
+#DESCRIPTION SRF 1 (#)
+#SERVICE 4097:0:1:4332:300c:13e:820000:0:0:0:http%3a//185.236.229.31%3a9981/play/a00i:SRF 2
+#DESCRIPTION SRF 2
+#SERVICE 4097:0:1:4332:300c:13e:820000:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/294454:SRF 2 (#)
+#DESCRIPTION SRF 2 (#)
+#SERVICE 4097:0:1:4332:300c:13e:820000:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/39447:SRF 2 (#)
+#DESCRIPTION SRF 2 (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/2805:SRF Info
+#DESCRIPTION SRF Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/39449:SRF Info (#)
+#DESCRIPTION SRF Info (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8:SRF Regional
 #DESCRIPTION SRF Regional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/19777:3+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ultratv.one%3a80/oQUCFpEeFq/u5C1DYYr/37500:3+
 #DESCRIPTION 3+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/2809:4+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/BabNour/telegrramm/73453:3+
+#DESCRIPTION 3+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/39423:3+ (#)
+#DESCRIPTION 3+ (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/2809:4+
 #DESCRIPTION 4+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/59862:5+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/80995.ts:4+ (#)
+#DESCRIPTION 4+ (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/14262:5+
 #DESCRIPTION 5+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/14264:6+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ultratv.one%3a80/oQUCFpEeFq/u5C1DYYr/37498:5+ (#)
+#DESCRIPTION 5+ (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/14264:6+
 #DESCRIPTION 6+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.live-ip.tv%3a8080/boom_biadodo/afsdreg15fz74oi356/59861:Puls 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/39428:6+ (#)
+#DESCRIPTION 6+ (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/298476:6ter Suisse
+#DESCRIPTION 6ter Suisse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/298478:M6 Suisse
+#DESCRIPTION M6 Suisse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/83347:Puls 8
 #DESCRIPTION Puls 8
-#SERVICE 1:64:28a:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/24718:Kanal 9
+#DESCRIPTION Kanal 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3alivehd/master.m3u8:Kanal 9 en Français
+#DESCRIPTION Kanal 9 en Français
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/81977:One TV
+#DESCRIPTION One TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/82686:Swiss 1
+#DESCRIPTION Swiss 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvch.com%3a2082/Jure56Jurcevic01/AmK201j4N61/39477:TV 24
+#DESCRIPTION TV 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/145403:TV 25
+#DESCRIPTION TV 25
+#SERVICE 1:64:2f3:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/ik%3aalpen-wellelivestream/playlist.m3u8:Alpenland TV
 #DESCRIPTION Alpenland TV
@@ -45,39 +85,41 @@
 #DESCRIPTION Die Neue Zeit TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil%3adieutv.smil/playlist.m3u8:Dieu TV
 #DESCRIPTION Dieu TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3alivehd/master.m3u8:Kanal 9 en Français
-#DESCRIPTION Kanal 9 en Français
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8:La Télé
 #DESCRIPTION La Télé
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/ik%3alfmmd/manifest.m3u8:LFM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8:Léman Bleu
+#DESCRIPTION Léman Bleu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/23665:LFM
 #DESCRIPTION LFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.meteonews.net/hls/stream.m3u8:Meteonews
 #DESCRIPTION Meteonews
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vstream-cdn.ch/hls/radio3i_1080p/index.m3u8:Radio 3i
-#DESCRIPTION Radio 3i
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_vstxdcuh/tl/main/st/0/t/GR63rDXKl5UwbPGZBAuOKw/index-s32.m3u8:Radio Pilatus webcam
 #DESCRIPTION Radio Pilatus webcam
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//event.vedge.infomaniak.com/livecast/event.stream/chunklist.m3u8:Rouge TV
 #DESCRIPTION Rouge TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/82686:Swiss 1
-#DESCRIPTION Swiss 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8:Tele 1
 #DESCRIPTION Tele 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8:Tele Bärn HD
 #DESCRIPTION Tele Bärn HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/165444:Tele Bielingue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/165444:Tele Bielingue
 #DESCRIPTION Tele Bielingue
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8:Tele M1
 #DESCRIPTION Tele M1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.gruppocdt.ch/hls/teleticino.m3u8:Tele Ticino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/76988:Tele Ticino
 #DESCRIPTION Tele Ticino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/81068.ts:Tele Top
+#DESCRIPTION Tele Top
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.viptvpro.com%3a25443/live/V56zdJzgo8bn/jD2JKAYX5k/81067.ts:Tele Z
+#DESCRIPTION Tele Z
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8:Tele Züri
 #DESCRIPTION Tele Züri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8:Telebasel
 #DESCRIPTION Telebasel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/157407:TV Suedostschweiz
-#DESCRIPTION TV Suedostschweiz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/resplice/BiD8iEiMv7js1OUL/157407:TV Südostschweiz
+#DESCRIPTION TV Südostschweiz
 #SERVICE 4097:0:1:234:0:0:0:0:0:0:https%3a//tvm3.vedge.infomaniak.com/livecast/tvm3/f1tv.m3u8:TVM 3
 #DESCRIPTION TVM 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8:TVM 3 (#)
+#DESCRIPTION TVM 3 (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8:TVO
 #DESCRIPTION TVO

@@ -1,123 +1,49 @@
 #NAME Stream Denemarken (DK)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.249.7.68/alwayselvisradio:Always Elvis Radio (Denemarken)
-#DESCRIPTION Always Elvis Radio (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.anr.dk/anr:ANR
-#DESCRIPTION ANR
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webradio.classicfm.dk/classickolding:Classic.fm (Denemarken)
-#DESCRIPTION Classic.fm (Denemarken)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.wlmm.dk/classicrockkbhmp3:ClassicROCK København
-#DESCRIPTION ClassicROCK København
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n04a-eu.rcs.revma.com/gxszk2mpshruv:Club Riva
-#DESCRIPTION Club Riva
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiosolutions.dk/dk4hi:DK4 - Dansk Tophits (Denemarken)
-#DESCRIPTION DK4 - Dansk Tophits (Denemarken)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiosolutions.dk/dk4lov:DK4 - Danskbox (Denemarken)
-#DESCRIPTION DK4 - Danskbox (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//n07.rcs.revma.com/puch9s6pshruv?rj-ttl=5&rj-tok=AAABbvse48IAg9dBG0F94j65Fw:DK4 - Danstopradio (Denemarken)
-#DESCRIPTION DK4 - Danstopradio (Denemarken)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiosolutions.dk/slagerhi:DK4 - Schlager Radio (Denemarken)
-#DESCRIPTION DK4 - Schlager Radio (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A02L.mp3:DR-Nyheder
-#DESCRIPTION DR-Nyheder
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A03L.mp3:DR-P1
-#DESCRIPTION DR-P1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A04L.mp3:DR-P2-Klassisk
-#DESCRIPTION DR-P2-Klassisk
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A05L.mp3:DR-P3
-#DESCRIPTION DR-P3
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A06L.mp3:DR-P4-Bornholm
-#DESCRIPTION DR-P4-Bornholm
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A15L.mp3:DR-P4-Esbjerg
-#DESCRIPTION DR-P4-Esbjerg
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A07L.mp3:DR-P4-Fyn
-#DESCRIPTION DR-P4-Fyn
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A08L.mp3:DR-P4-Kbenhavn
-#DESCRIPTION DR-P4-Kbenhavn
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A09L.mp3:DR-P4-Midt---Vest
-#DESCRIPTION DR-P4-Midt---Vest
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A10L.mp3:DR-P4-Nordjylland
-#DESCRIPTION DR-P4-Nordjylland
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A11L.mp3:DR-P4-Sjlland
-#DESCRIPTION DR-P4-Sjlland
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A14L.mp3:DR-P4-stjylland
-#DESCRIPTION DR-P4-stjylland
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A12L.mp3:DR-P4-Syd
-#DESCRIPTION DR-P4-Syd
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A13L.mp3:DR-P4-Trekanten
-#DESCRIPTION DR-P4-Trekanten
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A25L.mp3:DR-P5
-#DESCRIPTION DR-P5
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A29L.mp3:DR-P6-Beat
-#DESCRIPTION DR-P6-Beat
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-icy.gss.dr.dk%3a8000/A/A22L.mp3:DR-P8-Jazz
-#DESCRIPTION DR-P8-Jazz
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//netradio.gofm.dk/:goFM
-#DESCRIPTION goFM
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live-bauerdk.sharp-stream.com/DK_HQ_RP20.aac:MIX (Denemarken)
-#DESCRIPTION MIX (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.myrock.fm/myrock128:myRock
-#DESCRIPTION myRock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiosolutions.dk%3a60100/NORD:Nord FM (Denemarken)
-#DESCRIPTION Nord FM (Denemarken)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//144.217.180.30%3a8062/stream:Næstved Lokal Radio
-#DESCRIPTION Næstved Lokal Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.planetradio.co.uk/planetrock.mp3:Planet Rock
-#DESCRIPTION Planet Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webradio.skala.fm/pulz:Pulz.fm (Denemarken)
-#DESCRIPTION Pulz.fm (Denemarken)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.249.7.68/abc:Radio ABC (Denemarken)
-#DESCRIPTION Radio ABC (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast1.radiostuff.dk%3a8000/Alfasydfyn128:Radio Alfa - Sydfyn
-#DESCRIPTION Radio Alfa - Sydfyn
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.249.7.68/alfamidt:Radio Alfa Midtjylland
-#DESCRIPTION Radio Alfa Midtjylland
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//radioserver.dk/alfasilk:Radio Alfa Silkeborg
-#DESCRIPTION Radio Alfa Silkeborg
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//89.249.7.68/alfa:Radio Alfa
-#DESCRIPTION Radio Alfa
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.anr.dk/aura:Radio Aura
-#DESCRIPTION Radio Aura
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast1.radiostuff.dk%3a8000/Diablo128:Radio Diablo
-#DESCRIPTION Radio Diablo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.wlmm.dk%3a8000/stream/10/:Radio Globus (Denemarken)
-#DESCRIPTION Radio Globus (Denemarken)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.wlmm.dk%3a8000/stream/5/:Radio Globus Guld (Denemarken)
-#DESCRIPTION Radio Globus Guld (Denemarken)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.249.7.68/gofm:Radio GO! FM (Denemarken)
-#DESCRIPTION Radio GO! FM (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.radioklitholm.dk%3a8000/stream:Radio Klitholm (Denemarken)
-#DESCRIPTION Radio Klitholm (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.wlmm.dk/stream/53/:Radio Køge (Denemarken)
-#DESCRIPTION Radio Køge (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//media.limfjordnetradio.dk%3a80/limfjord128:Radio Limfjord
-#DESCRIPTION Radio Limfjord
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//netradio.radiom.dk/:Radio M
-#DESCRIPTION Radio M
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//netradio.radiomax.dk%3a8002/max.mp3:Radio Max
-#DESCRIPTION Radio Max
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//netradio.radionord.dk%3a8000/RadioNord-Mobil:Radio Nord
-#DESCRIPTION Radio Nord
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.249.7.68/silkeborg:Radio Silkeborg (Denemarken)
-#DESCRIPTION Radio Silkeborg (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//netradio.radioskive.dk/:Radio Skive
-#DESCRIPTION Radio Skive
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//netradio.radioslr.dk/:Radio SLR
-#DESCRIPTION Radio SLR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//netradio.dk/:Radio Sydhavserne
-#DESCRIPTION Radio Sydhavserne
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//webradio.radioviborg.dk/viborg.aac:Radio Viborg
-#DESCRIPTION Radio Viborg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webradio.vlr.dk/vlrvejle:Radio VLR
-#DESCRIPTION Radio VLR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icecast3.radiostuff.dk%3a8000/radio2000:Radio-2000
-#DESCRIPTION Radio-2000
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//netradio.radio4.dk/radio4:Radio4 (Denemarken)
-#DESCRIPTION Radio4 (Denemarken)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//31.209.49.17%3a8010/Station_06.mp3:Sankt Annae (Denemarken)
-#DESCRIPTION Sankt Annae (Denemarken)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webradio.skala.fm/kolding:Skala FM (Denemarken)
-#DESCRIPTION Skala FM (Denemarken)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//netradio.solofm.dk/:Solo-FM
-#DESCRIPTION Solo-FM
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//195.184.101.203/voice128:The-Voice
-#DESCRIPTION The-Voice
+#SERVICE 1:64:62f:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59243:DR 1
+#DESCRIPTION DR 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59244:DR 2
+#DESCRIPTION DR 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59248:DR Ramasjang
+#DESCRIPTION DR Ramasjang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59256:TV 2
+#DESCRIPTION TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59255:TV 2 News
+#DESCRIPTION TV 2 News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59250:TV 2 Sport
+#DESCRIPTION TV 2 Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tv2bornholm.dk/stream/live/chunklist.m3u8:TV 2 Bornholm
+#DESCRIPTION TV 2 Bornholm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59252:TV 2 Charlie
+#DESCRIPTION TV 2 Charlie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59253:TV 2 Echo
+#DESCRIPTION TV 2 Echo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59254:TV 2 Fri
+#DESCRIPTION TV 2 Fri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnapi.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/http/uiConfId/32079891/a.m3u8:TV 2 Fyn
+#DESCRIPTION TV 2 Fyn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59251:TV 2 Lorry
+#DESCRIPTION TV 2 Lorry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/62137:TV 2 Ostjylland
+#DESCRIPTION TV 2 Ostjylland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvh2o.com%3a2082/ZoomMaster/j6Xk9YS6W85vM/16000:TV 3
+#DESCRIPTION TV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59262:TV 3 Puls
+#DESCRIPTION TV 3 Puls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59246:DK 4
+#DESCRIPTION DK 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59263:Kanal 4
+#DESCRIPTION Kanal 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59265:Kanal 5
+#DESCRIPTION Kanal 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59264:6 Eren
+#DESCRIPTION 6 Eren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2hubs.ddns.net%3a25461/crAig1s/myG32Vd2nc/59266:Kanal 9
+#DESCRIPTION Kanal 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w2.kringvarp.fo/uttanlands/_definst_/smil%3auttanlands.smil/chunklist_b4128000_slfao.m3u8:KVF Faroe Island (deels geoblocking)
+#DESCRIPTION KVF Faroe Island (deels geoblocking)
+#SERVICE 1:64:630:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/2158211/sp/215821100/playManifest/entryId/1_24gfa7qq/format/applehttp/protocol/https/uiConfId/41529681/a.m3u8:Folketinget
+#DESCRIPTION Folketinget

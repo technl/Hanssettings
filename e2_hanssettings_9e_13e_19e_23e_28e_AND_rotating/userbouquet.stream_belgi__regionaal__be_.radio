@@ -1,10 +1,12 @@
 #NAME Stream België regionaal (BE)
-#SERVICE 1:64:19d0:0:0:0:0:0:0:0:
+#SERVICE 1:64:1be0:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bahena.be/5fm.mp3:5FM (Hoogstraten/Meerle)
 #DESCRIPTION 5FM (Hoogstraten/Meerle)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.radiostudio.be/10fm:10 FM (Glabbeek, Linter, Tienen - BE)
 #DESCRIPTION 10 FM (Glabbeek, Linter, Tienen - BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.7080rocks.com/:7080Rocks (Tessenderlo)
+#DESCRIPTION 7080Rocks (Tessenderlo)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bluford.torontocast.com/proxy/iimfoptl/stream:'t is Vloms
 #DESCRIPTION 't is Vloms
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bluford.torontocast.com/proxy/iimfoptl/stream:'t is Vloms mp3
@@ -23,14 +25,16 @@
 #DESCRIPTION A.I.R. Radio Freestyle Slow (Brugge - BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.202.241.199%3a8888/stream:BEM-Heaven (Antwerpen - België)
 #DESCRIPTION BEM-Heaven (Antwerpen - België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beone:Be One Kust (Oostende 1)
-#DESCRIPTION Be One Kust (Oostende 1)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beone:Be One Kust (Oostende)
+#DESCRIPTION Be One Kust (Oostende)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.radiostudio.be/beonemuse:Be One Muse
+#DESCRIPTION Be One Muse
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beonenws:Be One Nieuws
 #DESCRIPTION Be One Nieuws
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beone80:Be One80 (Oostende - België)
-#DESCRIPTION Be One80 (Oostende - België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beonexmas:Be One Xmas (Oostende - België)
-#DESCRIPTION Be One Xmas (Oostende - België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beone80:Be One80 (Oostende)
+#DESCRIPTION Be One80 (Oostende)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/beonexmas:Be One Xmas (Oostende)
+#DESCRIPTION Be One Xmas (Oostende)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/bio-hits:Bio Hits (Brussel)
 #DESCRIPTION Bio Hits (Brussel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/bio-s-radio:Bio's Radio
@@ -73,8 +77,8 @@
 #DESCRIPTION ElDorado Studio 22 west
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/eazyfm:EazyFM (Brussel)
 #DESCRIPTION EazyFM (Brussel)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.vbro.be%3a9200/ElisaFM:Elisa FM (Brugge - België)
-#DESCRIPTION Elisa FM (Brugge - België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiohuis.com/ElisaFM:Elisa FM (Brugge)
+#DESCRIPTION Elisa FM (Brugge)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//media155.streampartner.nl%3a8004/live:Enkaavee (Ninove, carnavalsradio)
 #DESCRIPTION Enkaavee (Ninove, carnavalsradio)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//54.36.89.71%3a8066:Familyradio Beiaard (Dendermonde)
@@ -99,6 +103,8 @@
 #DESCRIPTION FM Goud Actueel, laatste nieuws NO Limburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ftp.fmgoud.be/actueelplus.mp3:FM Goud Actueel, laatste nieuws noord-Limburg
 #DESCRIPTION FM Goud Actueel, laatste nieuws noord-Limburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ex52.voordeligstreamen.nl/8050/stream:FM Goud Tenerife
+#DESCRIPTION FM Goud Tenerife
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s43.myradiostream.com%3a18192:Gaveromroep (Deerlijk)
 #DESCRIPTION Gaveromroep (Deerlijk)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//geelfm.nsupdate.info%3a8080/geelfm.mp3:Geel FM (Geel)
@@ -163,6 +169,8 @@
 #DESCRIPTION MFY (Houthalen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mooiradio.live-streams.nl/live:Mooi Radio (Mechelen - België)
 #DESCRIPTION Mooi Radio (Mechelen - België)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//opsinjoor2.live-streams.nl/:Mooi Radio Tenerife
+#DESCRIPTION Mooi Radio Tenerife
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//play.mooyzo.be/mooyzo.mp3:MooyZo (Pajottenland & Denderregio)
 #DESCRIPTION MooyZo (Pajottenland & Denderregio)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.twinmedia.be%3a8100:Musica FM (Leisestreek, Kortrijk en Menen - BE) 
@@ -187,7 +195,7 @@
 #DESCRIPTION Quindo (Kortrijk)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiostream.radio19.fm%3a8200/standard/:Radio 19 (België)
 #DESCRIPTION Radio 19 (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.hostingbudget.nl%3a3505/stream:Radio 777 (Hasselt)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//epanel.mediacp.eu%3a5139/stream:Radio 777 (Hasselt)
 #DESCRIPTION Radio 777 (Hasselt)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.openstream.co/4613/audio:Radio 854 Gold (Aalst/Haaltert/Ninove)
 #DESCRIPTION Radio 854 Gold (Aalst/Haaltert/Ninove)
@@ -195,13 +203,15 @@
 #DESCRIPTION Radio 9420 (Haaltert)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.clubfmserver.be%3a8000/accent.mp3:Radio Accent (Gent en Wetteren)
 #DESCRIPTION Radio Accent (Gent en Wetteren)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//quincy.torontocast.com%3a2945/stream:Radio Addictive 50's
+#DESCRIPTION Radio Addictive 50's
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.streemlion.com%3a2555/stream:Radio Albatros (Asse - België)
 #DESCRIPTION Radio Albatros (Asse - België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast2.wirelessbelgie.be%3a8310/;stream.mp3:Radio Alma (Brussel)
 #DESCRIPTION Radio Alma (Brussel)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streamserv3.digipal.nl%3a8006/;stream.mp3:Radio Amigo's
 #DESCRIPTION Radio Amigo's
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.59.195.28%3a8198/stream:Radio Apollo (Wiekevorst/Heist op den Berg)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioapollo.beheerstream.nl/8004/stream:Radio Apollo (Wiekevorst/Heist op den Berg)
 #DESCRIPTION Radio Apollo (Wiekevorst/Heist op den Berg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//caster04.streampakket.com%3a8862/stream?1557676545698.mp3:Radio Ariane (Kortessem - België)
 #DESCRIPTION Radio Ariane (Kortessem - België)
@@ -213,7 +223,7 @@
 #DESCRIPTION Radio Beach (De Panne + Nieuwpoort - België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//54.36.89.71%3a8066:Radio Beiaard - Dendermonde (België)
 #DESCRIPTION Radio Beiaard - Dendermonde (België)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//remote.radiobenelux.be%3a8080/MP3:Radio Benelux (Paal-Beringen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//remote.radiobenelux.be%3a8080/MP3:Radio Benelux (Paal-Beringen)
 #DESCRIPTION Radio Benelux (Paal-Beringen)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//livestream.beverland.info%3a8009/Beverland:Radio Beverland (Waasland - België)
 #DESCRIPTION Radio Beverland (Waasland - België)
@@ -241,6 +251,8 @@
 #DESCRIPTION Radio Diamant (Waregem)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.clubfmserver.be%3a8000/domino.mp3:Radio Domino (Kluisbergen, Ouidenaarde, Zingem)
 #DESCRIPTION Radio Domino (Kluisbergen, Ouidenaarde, Zingem)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//quincy.torontocast.com%3a2965/stream:Radio Eurodance Classic
+#DESCRIPTION Radio Eurodance Classic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live2.radiostudio.be/europegold:Radio Europe Gold
 #DESCRIPTION Radio Europe Gold
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.clubfmserver.be%3a8000/expres.mp3:Radio Expres (Antwerpen - BE)
@@ -283,16 +295,14 @@
 #DESCRIPTION Radio Land van Waas (BE - regionaal)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.ledemedia.be%3a8010/radiolede:Radio Lede (Lede)
 #DESCRIPTION Radio Lede (Lede)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.148.11%3a8114/:Radio Lichtaart (Lichtaart)
-#DESCRIPTION Radio Lichtaart (Lichtaart)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lorali.shoutcaststream.com%3a8328/;:Radio Lorali (Lummen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cloud-faro.beheerstream.com/proxy/radiolichtaart:Radio Lichtaart
+#DESCRIPTION Radio Lichtaart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cloud-faro.beheerstream.com/proxy/lorali?mp=/stream:Radio Lorali (Lummen)
 #DESCRIPTION Radio Lorali (Lummen)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cc3b.beheerstream.com%3a8328/;:Radio Lorali (Lummen) - alternatief
-#DESCRIPTION Radio Lorali (Lummen) - alternatief
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.255.85.19/lrmradio:Radio LRM (Bree/Kinrooi/Maaseik- BE)
 #DESCRIPTION Radio LRM (Bree/Kinrooi/Maaseik- BE)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antares.dribbcast.com/proxy/maaskant:Radio Maaskant (Maasmechelen - BE)
-#DESCRIPTION Radio Maaskant (Maasmechelen - BE)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rbx2.hnux.com/http%3a//e15200.cloudrad.io%3a8000/ludo:Radio Ludo (Tongeren en regio)
+#DESCRIPTION Radio Ludo (Tongeren en regio)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.movemedia.be/meteor:Radio Meteor (Aalter en Tielt)
 #DESCRIPTION Radio Meteor (Aalter en Tielt)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2424.cloudrad.io%3a8248/live:Radio Mfm (Brakel, SL Houtem, Zottegem)
@@ -303,12 +313,10 @@
 #DESCRIPTION Radio MIG (Geraardsbergen, Ninove en Zottegem)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radiominerva.be/minerva:Radio Minerva (Antwerpen)
 #DESCRIPTION Radio Minerva (Antwerpen)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.movemedia.be/minerva:Radio Minerva
-#DESCRIPTION Radio Minerva
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiominervanieuws.be/cursiefje.mp3:Radio Minerva cursiefje (Antwerpen)
-#DESCRIPTION Radio Minerva cursiefje (Antwerpen)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiominervanieuws.be/nieuws.mp3:Radio Minerva laatste nieuws (Antwerpen)
-#DESCRIPTION Radio Minerva laatste nieuws (Antwerpen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiominervanieuws.be/cursiefje.mp3:Radio Minerva cursiefje
+#DESCRIPTION Radio Minerva cursiefje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiominervanieuws.be/nieuws.mp3:Radio Minerva laatste nieuws
+#DESCRIPTION Radio Minerva laatste nieuws
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/feelgoodradiooo:Radio Moetoen (Vilvoorde)
 #DESCRIPTION Radio Moetoen (Vilvoorde)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomol.ice.infomaniak.ch/radiomol-192.mp3:Radio Mol (Mol)
@@ -325,10 +333,12 @@
 #DESCRIPTION Radio Noordzee - Oostende (België)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/info:Radio Noordzee Info - Oostende (België)
 #DESCRIPTION Radio Noordzee Info - Oostende (België)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/zomer:Radio Noordzee - Kerstradio
-#DESCRIPTION Radio Noordzee - Kerstradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/gold:Radio Noordzee - Noordzee Gold
 #DESCRIPTION Radio Noordzee - Noordzee Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/zomer:Radio Noordzee - Zomerradio
+#DESCRIPTION Radio Noordzee - Zomerradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//54.36.89.71%3a8754/ommeland:Radio Ommeland (Oostkamp-Brugge)
+#DESCRIPTION Radio Ommeland (Oostkamp-Brugge)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be%3a8000/roa:Radio Omroep Aalst
 #DESCRIPTION Radio Omroep Aalst
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s43.myradiostream.com/%3a18762/;:Radio Onda
@@ -341,8 +351,6 @@
 #DESCRIPTION Radio Oost West (oost West Vl. en west Oost Vl.)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8800:Radio Opsinjoor (Mechelen)
 #DESCRIPTION Radio Opsinjoor (Mechelen)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//opsinjoor2.live-streams.nl/:Radio Opsinjoor 2
-#DESCRIPTION Radio Opsinjoor 2
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//streams.movemedia.eu%3a8054/:Radio Park FM (Antwerpen - BE)
 #DESCRIPTION Radio Park FM (Antwerpen - BE)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//167.172.62.28%3a8000/radio.mp3:Radio Palermo Essen (BE)
@@ -515,7 +523,7 @@
 #DESCRIPTION WAV - We Are Various (Antwerpen)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.viastreaming.net%3a8505/:WebRadio Atlantis (Mol, Zandvliet, Oostende en Kortrijk- BE)
 #DESCRIPTION WebRadio Atlantis (Mol, Zandvliet, Oostende en Kortrijk- BE)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hazel.torontocast.com%3a2310/;:Webradio Aan Zee (Bredene)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast1.torontocast.com%3a2000/stream:Webradio Aan Zee (Bredene)
 #DESCRIPTION Webradio Aan Zee (Bredene)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hazel.torontocast.com/waasland:Webradio Waasland
 #DESCRIPTION Webradio Waasland
@@ -535,13 +543,11 @@
 #DESCRIPTION XL Air (Brussel - ma t/m do 17-00.00)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/yolo-life-is-like-a-dance:YOLO (Bree, Kinrooi)
 #DESCRIPTION YOLO (Bree, Kinrooi)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3:Zen FM (Gent)
-#DESCRIPTION Zen FM (Gent)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.movemedia.be/zoe128:Zoe FM (Voorkempen - Zoersel)
 #DESCRIPTION Zoe FM (Voorkempen - Zoersel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zro.be/zro.mp3:ZRO (Zelzate)
 #DESCRIPTION ZRO (Zelzate)
-#SERVICE 1:64:19d1:0:0:0:0:0:0:0:
+#SERVICE 1:64:1be1:0:0:0:0:0:0:0:
 #DESCRIPTION ++Brussel en Wallonië++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.48fm.com%3a8000/48fm-64:48FM (Luik)
 #DESCRIPTION 48FM (Luik)
@@ -555,6 +561,8 @@
 #DESCRIPTION BUZZ (Charleroi)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bxfmradio.ice.infomaniak.ch/bxfmradio-192.mp3:BXFM (Brussel)
 #DESCRIPTION BXFM (Brussel)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fmcpmediatest.ice.infomaniak.ch/c-rap.aac:C-Rap (Charleroi Metropole)
+#DESCRIPTION C-Rap (Charleroi Metropole)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//lecentrefm.ice.infomaniak.ch/lecentrefm-acc.aac:CFM Radio (Haine Saint Paul)
 #DESCRIPTION CFM Radio (Haine Saint Paul)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//charlekingradio.ice.infomaniak.ch/ckradio-192.mp3:CK RADIO Charleking
@@ -575,6 +583,8 @@
 #DESCRIPTION Gold FM (Brussel voor Turken)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//94.23.31.72%3a8000/hitradio.mp3:Hit Radio Namur (Namen)
 #DESCRIPTION Hit Radio Namur (Namen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiohorizon2.ice.infomaniak.ch/radiohorizon93fm128.mp3:Horizon Belgique
+#DESCRIPTION Horizon Belgique
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//impactfm.ice.infomaniak.ch%3a80/impactfm-64.aac:Impact FM (Malmedy e.o.)
 #DESCRIPTION Impact FM (Malmedy e.o.)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.kif.be/kif_mp3:KIF - hiphop/r&b (Brussel)
@@ -607,6 +617,12 @@
 #DESCRIPTION Pep's Radio (Bastogne, Vielsalm e.o.)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/pharefm:Phare FM (Mulhouse Cedex)
 #DESCRIPTION Phare FM (Mulhouse Cedex)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/pharefm_louange:Phare FM Louange
+#DESCRIPTION Phare FM Louange
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/pharefm_mons:Phare FM Mons
+#DESCRIPTION Phare FM Mons
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/pharefm_worship:Phare FM Worship
+#DESCRIPTION Phare FM Worship
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//flux.proxiradio.be/proxi.mp3:Proxi Radio (Bruxelles)
 #DESCRIPTION Proxi Radio (Bruxelles)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.221.158%3a9073/stream:Radio 4910 (Theux, Spa)
@@ -617,8 +633,8 @@
 #DESCRIPTION Radio Alma (Brussel)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.radio.co/sd51381bcd/listen:Radio Beloeil 
 #DESCRIPTION Radio Beloeil 
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//163.172.96.134%3a8172/;:Radio Bonheur (BE Wallonië)
-#DESCRIPTION Radio Bonheur (BE Wallonië)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//163.172.96.134%3a8172/;:Radio Bonheur
+#DESCRIPTION Radio Bonheur
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.radiocampus.be%3a8000/stream.mp3:Radio Campus Bruxelles
 #DESCRIPTION Radio Campus Bruxelles
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.radiocampus.be%3a8000/stream.mp3:Radio Campus Bruxelles
@@ -707,3 +723,5 @@
 #DESCRIPTION Warm FM 104.2 (Luik)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//proxy.webradio.tools/ecmanager.pro-fhi.net%3a1710/;stram.mp3:YES FM
 #DESCRIPTION YES FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//youfm.ice.infomaniak.ch/youfm-96:YouFM
+#DESCRIPTION YouFM

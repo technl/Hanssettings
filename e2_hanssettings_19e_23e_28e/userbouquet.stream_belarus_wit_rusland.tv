@@ -1,6 +1,6 @@
 #NAME Stream Belarus/Wit-Rusland (BY)
-#SERVICE 1:64:2db:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
+#SERVICE 1:64:337:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.209.197.187%3a8080/udp/239.0.100.1%3a1234:Belarus 1
 #DESCRIPTION Belarus 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ngtrk.dc.beltelecom.by/ngtrk/smil%3abelarus1.smil/playlist.m3u8:Belarus 1 -2-
@@ -23,8 +23,10 @@
 #DESCRIPTION Belarus 5 International
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv30.vintera.tv%3a8081/belarus24/belarus24/playlist.m3u8:Belarus 24
 #DESCRIPTION Belarus 24
-#SERVICE 1:64:2dc:0:0:0:0:0:0:0:
-#DESCRIPTION Overige zenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCRokSp8CGOuQO4R0F1RxRGg.m3u8:Belsat TV
+#DESCRIPTION Belsat TV
+#SERVICE 1:64:338:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300/:1 Music 1
 #DESCRIPTION 1 Music 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300/:1 Music 2
@@ -45,8 +47,8 @@
 #DESCRIPTION Mama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.209.197.187%3a8080/udp/239.0.100.8%3a1234:MIR
 #DESCRIPTION MIR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.209.197.187%3a8080/udp/239.0.100.6%3a1234:NTV Belarus
-#DESCRIPTION NTV Belarus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.209.197.187%3a8080/udp/239.0.100.6%3a1234:NTV Wit-Rusland
+#DESCRIPTION NTV Wit-Rusland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.209.197.187%3a8080/udp/239.0.100.4%3a1234:ONT
 #DESCRIPTION ONT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.46.208.8%3a26259/nashe:Our TV
@@ -67,3 +69,5 @@
 #DESCRIPTION THT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8:Vitebsk TV Channel
 #DESCRIPTION Vitebsk TV Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flu.vtv.by/tvt-non-by/index.m3u8:VTV
+#DESCRIPTION VTV

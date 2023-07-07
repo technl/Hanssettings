@@ -1,5 +1,13 @@
 #NAME Stream Tanzania (TZ)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.68.138.119%3a8080/low/5a8993709ea19/index.m3u8:IBN TV
-#DESCRIPTION IBN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/startvtanzania:Star TV
-#DESCRIPTION Star TV
+#SERVICE 1:64:3b7:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_5ffe3dc07b8f11ec89fd476d1ed4a755/index.m3u8:TBC 1
+#DESCRIPTION TBC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_36e8f510dfee11ec9dc2d5b207a2c04f/index.m3u8:TBC 2
+#DESCRIPTION TBC 2
+#SERVICE 1:64:3b8:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8:Bongo TV
+#DESCRIPTION Bongo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.41.209%3a8080/live/5d9a537c64b9c/index.m3u8:IBN TV Africa
+#DESCRIPTION IBN TV Africa

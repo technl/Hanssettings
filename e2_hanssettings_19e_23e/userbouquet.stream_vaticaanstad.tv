@@ -1,13 +1,25 @@
 #NAME Stream Uruguay (UY)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/charruatvcanal:Charrúa Televisión
-#DESCRIPTION Charrúa Televisión
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videosenlared.fullstreaming.ar%3a3501/live/grupocitylive.m3u8:Ciudad Mágica
-#DESCRIPTION Ciudad Mágica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8:Latino Kids
-#DESCRIPTION Latino Kids
+#SERVICE 1:64:38d:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/bukedde1flussonic/tracks-v1a1/mono.m3u8:Bukedde TV 1
+#DESCRIPTION Bukedde TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/bukedde2flussonic/tracks-v1a1/mono.m3u8:Bukedde TV 2
+#DESCRIPTION Bukedde TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/boratv/tracks-v1a1/mono.m3u8:TV East
+#DESCRIPTION TV East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/tvwest-flussonic/tracks-v1a1/mono.m3u8:TV West
+#DESCRIPTION TV West
+#SERVICE 1:64:38e:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCUxioxgZ7obrP3wVJApAK1w.m3u8:Cámara de Representantes
+#DESCRIPTION Cámara de Representantes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCyM7oro5NhR5oPyMEFB_rUA.m3u8:Cámara de Senadores
+#DESCRIPTION Cámara de Senadores
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.seo.tv.bo%3a3645/live/franzleonel0live.m3u8:SEO TV
 #DESCRIPTION SEO TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.seo.tv.bo%3a3337/live/franzbalboa2live.m3u8:SEO TV Novelas
 #DESCRIPTION SEO TV Novelas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/tevexinter/index.m3u8:Tevex
-#DESCRIPTION Tevex
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.familylatinatv.com%3a88/live/5de910ea0ec86/index.m3u8:Tele 8 Mercedes
+#DESCRIPTION Tele 8 Mercedes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/luotv-flussonic/tracks-v1a1/mono.m3u8:Wan Luo TV
+#DESCRIPTION Wan Luo TV

@@ -1,13 +1,13 @@
 #NAME Stream webcams dieren
-#SERVICE 1:64:22c:0:0:0:0:0:0:0:
+#SERVICE 1:64:286:0:0:0:0:0:0:0:
 #DESCRIPTION --- Nederland ---
-#SERVICE 1:64:22d:0:0:0:0:0:0:0:
+#SERVICE 1:64:287:0:0:0:0:0:0:0:
 #DESCRIPTION ++nestkastjes vogels algemeen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//584b389d712f9.streamlock.net/live/pindacam.stream/playlist.m3u8:Harlingen - Vogelcam
 #DESCRIPTION Harlingen - Vogelcam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-67.stream-server.nl%3a1936/PoesjesTV/PoesjesTV/playlist.m3u8:Poesjes TV
 #DESCRIPTION Poesjes TV
-#SERVICE 1:64:22e:0:0:0:0:0:0:0:
+#SERVICE 1:64:288:0:0:0:0:0:0:0:
 #DESCRIPTION ++Nestkast Live++
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//5d881567b7568.streamlock.net/live/Dras.stream/chunklist.m3u8:NestkastLIVE - Dras
 #DESCRIPTION NestkastLIVE - Dras
@@ -43,7 +43,7 @@
 #DESCRIPTION NestkastLIVE - Voerplaats
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n2.burst.cdn.jetstre.am/sz/bdl/wowza4/live/Zeearend1/chunklist.m3u8:NestkastLIVE - Zeearend
 #DESCRIPTION NestkastLIVE - Zeearend
-#SERVICE 1:64:22f:0:0:0:0:0:0:0:
+#SERVICE 1:64:289:0:0:0:0:0:0:0:
 #DESCRIPTION - diverse -
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56d7ccce550bc.streamlock.net/rtplive/neushoorn-2.sdp/playlist.m3u8:Diergaarde Blijdorp / Rotterdam Zoo - Indische neushoorn
 #DESCRIPTION Diergaarde Blijdorp / Rotterdam Zoo - Indische neushoorn
@@ -53,11 +53,11 @@
 #DESCRIPTION Texel - Ecomare
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza3.videostreamingwowza.com/visdeurbel/visdeurbel.stream/chunklist_w939673072.m3u8:Visdeurbel - Utrecht
 #DESCRIPTION Visdeurbel - Utrecht
-#SERVICE 1:64:230:0:0:0:0:0:0:0:
+#SERVICE 1:64:28a:0:0:0:0:0:0:0:
 #DESCRIPTION --- Engeland ---
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wildlifestreaming.io%3a1935/WildlifeKate/HDMammal.stream/playlist.m3u8:wildlivekate.co.uk - Mammal Box Cam
 #DESCRIPTION wildlivekate.co.uk - Mammal Box Cam
-#SERVICE 1:64:231:0:0:0:0:0:0:0:
+#SERVICE 1:64:28b:0:0:0:0:0:0:0:
 #DESCRIPTION --- Estland ---
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo playpath=cam1286 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/oja.html:Tallinn - Zoo Amur-Leopard I - Estland
 #DESCRIPTION Tallinn - Zoo Amur-Leopard I - Estland
@@ -79,7 +79,7 @@
 #DESCRIPTION Tallinn - Zoo Schneeleopard II - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo2 playpath=cam1618 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/lume3.html:Tallinn - Zoo Schneeleopard III - Estland
 #DESCRIPTION Tallinn - Zoo Schneeleopard III - Estland
-#SERVICE 1:64:232:0:0:0:0:0:0:0:
+#SERVICE 1:64:28c:0:0:0:0:0:0:0:
 #DESCRIPTION --- Polen ---
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/krakow_cam_66c146/krakow_cam_66c146.stream/playlist.m3u8:Polen - Kraków Pasieka - bijen
 #DESCRIPTION Polen - Kraków Pasieka - bijen
@@ -91,7 +91,7 @@
 #DESCRIPTION Polen - vogels 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls15.webcamera.pl/klekusiowo_cam_cd36d8/klekusiowo_cam_cd36d8.stream/playlist.m3u8:Polen - vogels 3
 #DESCRIPTION Polen - vogels 3
-#SERVICE 1:64:233:0:0:0:0:0:0:0:
+#SERVICE 1:64:28d:0:0:0:0:0:0:0:
 #DESCRIPTION --- United States of America ---
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.zoosociety.org%3a1935/live/lion.stream/.m3u8:Milwaukee Zoo - leeuw (USA)
 #DESCRIPTION Milwaukee Zoo - leeuw (USA)

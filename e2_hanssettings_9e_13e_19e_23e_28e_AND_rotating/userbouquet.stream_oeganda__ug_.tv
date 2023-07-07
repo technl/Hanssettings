@@ -1,21 +1,25 @@
 #NAME Stream Oeganda (UG)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arktelevision.org/hlslive/test/test.m3u8:Ark TV
-#DESCRIPTION Ark TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/boratv/index.m3u8:Bora TV
-#DESCRIPTION Bora TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/bukedde1flussonic/index.m3u8:Bukedde 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/bukedde1flussonic/tracks-v1a1/mono.m3u8:Bukedde 1
 #DESCRIPTION Bukedde 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/bukedde2flussonic/index.m3u8:Bukedde 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/bukedde2flussonic/tracks-v1a1/mono.m3u8:Bukedde 2
 #DESCRIPTION Bukedde 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//128.199.114.2%3a8080/hls/stream.m3u8:Dream TV
 #DESCRIPTION Dream TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vse-cdn1-readymedia.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/5-20-hls/live.m3u8:NBS TV
-#DESCRIPTION NBS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive38-lh.akamaihd.net/i/dclive_1@692676/index_150_av-p.m3u8:Salt TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.streambrothers.com%3a19360/8028/8028.m3u8:Family TV
+#DESCRIPTION Family TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fort.co-works.org%3a8080/hls/live.stream.m3u8:Fort TV
+#DESCRIPTION Fort TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8:NTV Uganda
+#DESCRIPTION NTV Uganda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/298026:NTV Uganda -2-
+#DESCRIPTION NTV Uganda -2-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//salttelevision.com/memfs/d1b981f8-317d-4750-8eb0-1c116add469c.m3u8:Salt TV
 #DESCRIPTION Salt TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/tvwest-flussonic/index.m3u8:TV West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/boratv/tracks-v1a1/mono.m3u8:TV East
+#DESCRIPTION TV East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/tvwest-flussonic/tracks-v1a1/mono.m3u8:TV West
 #DESCRIPTION TV West
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/urban-flussonic/index.m3u8:Urban Tubaale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/urban-flussonic/tracks-v1a1/mono.m3u8:Urban Tubaale
 #DESCRIPTION Urban Tubaale
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeug.com/luotv-flussonic/index.m3u8:Wan Luo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.hydeinnovations.com/luotv-flussonic/tracks-v1a1/mono.m3u8:Wan Luo TV
 #DESCRIPTION Wan Luo TV

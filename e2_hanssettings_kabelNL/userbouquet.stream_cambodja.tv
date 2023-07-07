@@ -1,26 +1,18 @@
 #NAME Stream Cambodja (KH)
-#SERVICE 1:64:1f0:0:0:0:0:0:0:0:
+#SERVICE 1:64:251:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8:TVK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8:TVK 1
 #DESCRIPTION TVK 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8:TVK 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8:TVK 2
 #DESCRIPTION TVK 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.176.130.123%3a8989/live/tv5_480k.stream/playlist.m3u8:TV5 Cambodia
-#DESCRIPTION TV5 Cambodia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.176.130.123%3a8989/live/ctv9_480k.stream/chunklist_.m3u8:TV9 Cambodia
-#DESCRIPTION TV9 Cambodia
-#SERVICE 1:64:1f1:0:0:0:0:0:0:0:
+#SERVICE 1:64:252:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.176.130.123%3a8989/live/bayontv_480k.stream/chunklist_.m3u8:Bayon TV
 #DESCRIPTION Bayon TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.176.130.123%3a8989/live/bayontv1_480k.stream/chunklist_.m3u8:BTV News
 #DESCRIPTION BTV News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//167.99.65.12%3a1935/live/ngrp%3amyStream_all/chunklist_.m3u8:Fresh News
-#DESCRIPTION Fresh News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//124.248.165.18%3a1935/live/myStream.smil/chunklist_.m3u8:MSJ TV
 #DESCRIPTION MSJ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//netlink.netlinkbroadcaster.com/hls/test.m3u8:Netlink TV
-#DESCRIPTION Netlink TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.176.130.123%3a8989/live/pnn_480k.stream/playlist.m3u8:PNN
 #DESCRIPTION PNN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//seatv.netlinkbroadcaster.com/hls/test.m3u8:Sea TV

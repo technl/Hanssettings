@@ -1,64 +1,38 @@
 #NAME Stream Guatemala (GT)
-#SERVICE 1:64:214:0:0:0:0:0:0:0:
+#SERVICE 1:64:277:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8:Canal 3
-#DESCRIPTION Canal 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/141:Canal 5
 #DESCRIPTION Canal 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8:Canal 7 Televisiete
-#DESCRIPTION Canal 7 Televisiete
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3697/live/canal8starosalive.m3u8:Canal 8
 #DESCRIPTION Canal 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/103:Canal 9 Barbe TV
 #DESCRIPTION Canal 9 Barbe TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3859/live/ixchiguanlive.m3u8:Canal 9 Ixchiguán
 #DESCRIPTION Canal 9 Ixchiguán
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3237/live/canal9tvgtlive.m3u8:Canal 9 Tolimán
-#DESCRIPTION Canal 9 Tolimán
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8:Canal 10 TV Radio Maya TGBA
 #DESCRIPTION Canal 10 TV Radio Maya TGBA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3398/live/auroramflive.m3u8:Canal 17 Aurora Media Films
 #DESCRIPTION Canal 17 Aurora Media Films
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8:TN 23
-#DESCRIPTION TN 23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlatina.live%3a1936/8030/8030/playlist.m3u8:Canal 29 Nuevo Mundo TV
-#DESCRIPTION Canal 29 Nuevo Mundo TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3824/live/telemaxlive.m3u8:Canal 32 Telemax
-#DESCRIPTION Canal 32 Telemax
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8:Canal 38 Fe Viviente
-#DESCRIPTION Canal 38 Fe Viviente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.appclicksgt.com%3a3305/live/tvcanal27live.m3u8:Canal 27
+#DESCRIPTION Canal 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3948/live/yepotvlive.m3u8:Canal 35 Yepocapa
+#DESCRIPTION Canal 35 Yepocapa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3189/live/jesustvlive.m3u8:Canal 98 Jesús TV
 #DESCRIPTION Canal 98 Jesús TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/106:Canal 100 Chinique
 #DESCRIPTION Canal 100 Chinique
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv91.hostingnuclear.com%3a19360/telecosta/telecosta.m3u8:Telecosta
 #DESCRIPTION Telecosta
-#SERVICE 1:64:215:0:0:0:0:0:0:0:
+#SERVICE 1:64:278:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/playlist.m3u8:Canal Antigua
-#DESCRIPTION Canal Antigua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv91.hostingnuclear.com%3a19360/amigostv/amigostv.m3u8:Amigos TV Chiquimula
+#DESCRIPTION Amigos TV Chiquimula
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3840/live/penielfamlive.m3u8:Canal Peniel
 #DESCRIPTION Canal Peniel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/128:Candelaria TV
-#DESCRIPTION Candelaria TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/142:Cariñosa TV
-#DESCRIPTION Cariñosa TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/143:CNI Digital
-#DESCRIPTION CNI Digital
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8476/8476/playlist.m3u8:El Olam TV
-#DESCRIPTION El Olam TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3508/live/extvlive.m3u8:Expresión TV
-#DESCRIPTION Expresión TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.oursnetworktv.com/latin/franchstv/playlist.m3u8:Franchs TV
 #DESCRIPTION Franchs TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3845/live/fullchannelgtlive.m3u8:Full Channel
-#DESCRIPTION Full Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3589/live/guatvgtlive.m3u8:Gua TV
 #DESCRIPTION Gua TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/playlist.m3u8:Guatevisión
-#DESCRIPTION Guatevisión
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/133:Izabal TV
-#DESCRIPTION Izabal TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/100:Mi Canal
 #DESCRIPTION Mi Canal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/134:Nim TV
@@ -67,8 +41,6 @@
 #DESCRIPTION Peniel Kids & Young
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/137:Peniel Musical
 #DESCRIPTION Peniel Musical
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/61:PlayMedios Digital
-#DESCRIPTION PlayMedios Digital
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8:Presencia TV
 #DESCRIPTION Presencia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8:Rhema TV
@@ -79,21 +51,15 @@
 #DESCRIPTION TDS Televisión Departamental Sololá
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inliveserver.com%3a1936/8050_1/8050_1/playlist.m3u8:Televideo Regional
 #DESCRIPTION Televideo Regional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3862/live/teveglobolive.m3u8:Teve Globo
-#DESCRIPTION Teve Globo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3209/live/totovisiongtlive.m3u8:Totovisión TV
 #DESCRIPTION Totovisión TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3852/live/tunevisionlive.m3u8:Tunevisión
 #DESCRIPTION Tunevisión
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3819/live/tvflorencialive.m3u8:TV Florencia
-#DESCRIPTION TV Florencia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3832/live/tvtunlive.m3u8:TV Tun
 #DESCRIPTION TV Tun
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3531/live/tvsretrogtlive.m3u8:TVS Retro
 #DESCRIPTION TVS Retro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.streamhispanatv.net%3a3642/live/unicatvlive.m3u8:Única TV
 #DESCRIPTION Única TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//twitch.tv/veacanalgt:Vea Canal
-#DESCRIPTION Vea Canal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.12.202.90%3a8080/playgt/playgt2023/59:Visión TV
 #DESCRIPTION Visión TV

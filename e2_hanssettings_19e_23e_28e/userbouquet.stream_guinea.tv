@@ -1,6 +1,14 @@
 #NAME Stream Guinea (Guinee, GN) en Guinee-Bissau (GW)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge17.vedge.infomaniak.com/livecast/ik%3aespacetv/chunklist_w1013068571_b6000000.m3u8?spark=1ac3384b-ca9d-4e2b-bbd1-1f4c72231c55&token=:Espace TV
+#DESCRIPTION Espace TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge12.vedge.infomaniak.com/livecast/ik%3akalactv/chunklist_w114903696.m3u8?spark=e42b9b38-9adc-4420-a813-463725289d41&token=:Kalac TV
+#DESCRIPTION Kalac TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8:Master Show TV
 #DESCRIPTION Master Show TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/11990:RTG
+#DESCRIPTION RTG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/tracks-v1a1/mono.m3u8:RTG 2
+#DESCRIPTION RTG 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8:TV CN Agitos
 #DESCRIPTION TV CN Agitos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8:TVGE Internacional

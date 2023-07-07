@@ -49,6 +49,8 @@
 #DESCRIPTION Ichtys Radio (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s41.myradiostream.com%3a32046/;stream.mp3:Jem Radio (Kingstown, Saint Vincent and the Grenadines)
 #DESCRIPTION Jem Radio (Kingstown, Saint Vincent and the Grenadines)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cloud-faro.beheerstream.com%3a8320/stream:Klokradio (Alblasserdam en Molenwaard)
+#DESCRIPTION Klokradio (Alblasserdam en Molenwaard)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playoutonestreaming.com/proxy/konnectradio:Konnect Radio
 #DESCRIPTION Konnect Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icy2.abacast.com/starcom-lifeaac-32:Life FM (reli - Barbados)
@@ -59,6 +61,14 @@
 #DESCRIPTION Maasbach Radio (Den Haag)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//i2.cdn.jetstre.am%3a8000/sz%253Dnice-broadcast-media-gmbh%253Dsmb-DAB-128-mp3:Münchner Kirchenradio
 #DESCRIPTION Münchner Kirchenradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/pharefm:Phare FM (Mulhouse Cedex)
+#DESCRIPTION Phare FM (Mulhouse Cedex)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/pharefm_louange:Phare FM Louange
+#DESCRIPTION Phare FM Louange
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/pharefm_mons:Phare FM Mons
+#DESCRIPTION Phare FM Mons
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/pharefm_worship:Phare FM Worship
+#DESCRIPTION Phare FM Worship
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge-audio-03-gos2.sharp-stream.com/premiernational.aac:Premier Christian Radio 1332 (Engeland, UK, religie)
 #DESCRIPTION Premier Christian Radio 1332 (Engeland, UK, religie)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//islam2day.tv%3a4000:Quran Translation (religie)

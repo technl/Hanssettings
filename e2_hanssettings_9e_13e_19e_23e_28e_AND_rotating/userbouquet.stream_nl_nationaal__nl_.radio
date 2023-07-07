@@ -1,5 +1,5 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:19b5:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bc5:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders++
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
@@ -41,7 +41,7 @@
 #DESCRIPTION FunX Utrecht
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
 #DESCRIPTION Spreekbuis Radio
-#SERVICE 1:64:19b6:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bc6:0:0:0:0:0:0:0:
 #DESCRIPTION ++(commerciële) HOOFDzenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//40rockstream.live-streams.nl/live:40ROCK Radio
 #DESCRIPTION 40ROCK Radio
@@ -125,6 +125,8 @@
 #DESCRIPTION Concertzender
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/barok:Concertzender Barok
 #DESCRIPTION Concertzender Barok
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/chanson:Concertzender Chanson
+#DESCRIPTION Concertzender Chanson
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.greenhost.nl%3a8006/amateurmuziek:Concertzender De Muzikant (amateurmuziek)
 #DESCRIPTION Concertzender De Muzikant (amateurmuziek)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.greenhost.nl%3a8080/film:Concertzender Filmmuziek
@@ -269,8 +271,6 @@
 #DESCRIPTION KINK 80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/KINK_DISTORTION.mp3:KINK Distortion
 #DESCRIPTION KINK Distortion
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/KINKINDIE.mp3:KINK Indie
-#DESCRIPTION KINK Indie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22593.live.streamtheworld.com/KINK.mp3:KINK No Alternativ
 #DESCRIPTION KINK No Alternativ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.layzer.nl/layzer.mp3:Layzer
@@ -529,10 +529,14 @@
 #DESCRIPTION Tomorrow One World Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hofhosting.nl/proxy/traffic_main?mp=/stream:Traffic Radio
 #DESCRIPTION Traffic Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp2.live-streams.nl%3a8182/radio:Unique Classic Rock
+#DESCRIPTION Unique Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp3.live-streams.nl%3a8212/live:Unique Gold
 #DESCRIPTION Unique Gold
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp4.live-streams.nl%3a8112/radio.mp3:Unique Offshore Radio Tribute
 #DESCRIPTION Unique Offshore Radio Tribute
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp4.live-streams.nl%3a8212/radio:Unique Smooth
+#DESCRIPTION Unique Smooth
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//77.164.95.243%3a8035/URBAN:Urban Traxx (Camfactor)
 #DESCRIPTION Urban Traxx (Camfactor)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.vibradio.nl/vib192mp3:VIB Radio
@@ -545,7 +549,7 @@
 #DESCRIPTION Willem II Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
 #DESCRIPTION ZTACK
-#SERVICE 1:64:19b7:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bc7:0:0:0:0:0:0:0:
 #DESCRIPTION ++religieus++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
 #DESCRIPTION Bright FM
@@ -567,6 +571,8 @@
 #DESCRIPTION Groot Nieuws Radio non-stop
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.kerkradioapeldoorn.nl%3a88/broadwave.mp3:Kerkradio Apeldoorn
 #DESCRIPTION Kerkradio Apeldoorn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cloud-faro.beheerstream.com%3a8320/stream:Klokradio (Alblasserdam en Molenwaard)
+#DESCRIPTION Klokradio (Alblasserdam en Molenwaard)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.maasbachradio.com%3a8064/stream:Maasbach Radio
 #DESCRIPTION Maasbach Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audio.radiobloemendaal.nl/mp3;:Radio Bloemendaal
@@ -583,13 +589,13 @@
 #DESCRIPTION Trans World Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
 #DESCRIPTION Urk FM Geestelijk
-#SERVICE 1:64:19b8:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bc8:0:0:0:0:0:0:0:
 #DESCRIPTION ++Sinterklaas++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tbmp.nl%3a8000/sinterklaasradiohigh.aac:Sint FM
 #DESCRIPTION Sint FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream06.dotpoint.nl%3a8004/stream:SinterklaasRadio
 #DESCRIPTION SinterklaasRadio
-#SERVICE 1:64:19b9:0:0:0:0:0:0:0:
+#SERVICE 1:64:1bc9:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
 #DESCRIPTION 18Hits (NL Nationaal)
@@ -675,8 +681,8 @@
 #DESCRIPTION Crossroads Country Radio (NL-nationaal)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//24.132.246.121%3a8004/;:DaCosta Radio
 #DESCRIPTION DaCosta Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.dancefm.net%3a8000/mp3-hq:DANCE.FM %3a%3a The Beat of Amsterdam
-#DESCRIPTION DANCE.FM :: The Beat of Amsterdam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.dancefm.net//mp3:Dance FM 
+#DESCRIPTION Dance FM 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.31.118.194%3a19580/;:DanceanbleRadio
 #DESCRIPTION DanceanbleRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.db962.nl%3a8030:db962 Dance Radio (NL-nationaal)
@@ -983,6 +989,8 @@
 #DESCRIPTION Radio HiTec (NL nationaal, overig)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//mediaserv68.live-streams.nl%3a18062/live:Radio Holland Online
 #DESCRIPTION Radio Holland Online
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid33.streamupsolutions.com/proxy/ymcjfxfb?mp=/stream:Radio Just4You
+#DESCRIPTION Radio Just4You
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.team24-hosting.nl%3a2020/stream/lady/stream:Radio Lady Monza
 #DESCRIPTION Radio Lady Monza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp4.live-streams.nl%3a8192/live.mp3:Radio Loosduinen
@@ -1093,6 +1101,8 @@
 #DESCRIPTION ToonFM - alleen in het weekeind (NL - overig)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.trafficstream.nl/traffic_main.mp3:Traffic Radio
 #DESCRIPTION Traffic Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wimfilemon.radioca.st/live:Trend Radio
+#DESCRIPTION Trend Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.252.14%3a8108/;:TurnON Radio International (vanuit USA voor alle NL's)
 #DESCRIPTION TurnON Radio International (vanuit USA voor alle NL's)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.ujala.nl/stream/2/listen.mp3:Ujala (Bollywood minded)

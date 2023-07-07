@@ -1,21 +1,21 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:1e6:0:0:0:0:0:0:0:
+#SERVICE 1:64:237:0:0:0:0:0:0:0:
 #DESCRIPTION ++NPO - werkt niet in iedere ontvanger!++
-#SERVICE 4097:0:19:5225:c99:3:eb0000:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/2995:NPO 1
+#SERVICE 4097:0:19:5225:c99:3:eb0000:0:0:0:http%3a//46.244.63.133%3a4423/udp/239.3.4.17%3a2000:NPO 1
 #DESCRIPTION NPO 1
-#SERVICE 4097:0:19:17c0:c82:3:eb0000:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/2996:NPO 2
+#SERVICE 4097:0:19:17c0:c82:3:eb0000:0:0:0:http%3a//46.244.63.133%3a4423/udp/239.3.4.103%3a2000:NPO 2
 #DESCRIPTION NPO 2
-#SERVICE 4097:0:19:5230:c99:3:eb0000:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/2997:NPO 3
+#SERVICE 4097:0:19:5230:c99:3:eb0000:0:0:0:http%3a//46.244.63.133%3a4423/udp/239.3.4.104%3a2000:NPO 3
 #DESCRIPTION NPO 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/18679:NPO 1 Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.244.63.133%3a4423/udp/239.3.4.115%3a2000:NPO 1 Extra
 #DESCRIPTION NPO 1 Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/17201:NPO 2 Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.244.63.133%3a4423/udp/239.3.4.116%3a2000:NPO 2 Extra
 #DESCRIPTION NPO 2 Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//line.team-tv.link%3a80/kV3mkGGkNz/EykM2Cnjwm/3079:NPO Politiek en Nieuws
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//es.xipi3.xyz%3a2052/tofiqmixxxxx/znk896576272728282822828228282828/96027:NPO Politiek en Nieuws
 #DESCRIPTION NPO Politiek en Nieuws
-#SERVICE 4097:0:16:1645:42c:1:c00000:0:0:0:http%3a//62.2.85.68%3a39981/play/a00t:BVN 
+#SERVICE 4097:0:16:1645:42c:1:c00000:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/5634:BVN 
 #DESCRIPTION BVN 
-#SERVICE 1:64:1e7:0:0:0:0:0:0:0:
+#SERVICE 1:64:238:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:4ed1:c99:3:eb0000:0:0:0:https%3a//bnr-cache-cdp.triple-it.nl/studio/1648910007-fast-1280-720-800000-index.m3u8:BNR Nieuwsradio
 #DESCRIPTION BNR Nieuwsradio
@@ -33,7 +33,7 @@
 #DESCRIPTION Radio Continu (Tweede Exloermond, NL met soms epg)
 #SERVICE 4097:0:1:2b28:803:600:ffff0000:0:0:0:http%3a//5f1b356656745.streamlock.net/radiocontinu/live/chunklist.m3u8:Radio Continu (Tweede Exloermond, NL met soms epg)
 #DESCRIPTION Radio Continu (Tweede Exloermond, NL met soms epg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radionl.tv%3a1935/radionl/radionl/stream.m3u8:Radio NL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radionl.tv/radionltv/radionltv/chunklist_.m3u8:Radio NL
 #DESCRIPTION Radio NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioveronica.prd1.talpatvcdn.nl/a1115cc610fd42418e2f6d7e29a01c3c/index_1.m3u8:Radio Veronica
 #DESCRIPTION Radio Veronica
@@ -47,7 +47,7 @@
 #DESCRIPTION Tommy TV (met epg via Ziggo)
 #SERVICE 4097:0:1:4cfc:81c:600:ffff0000:0:0:0:http%3a//ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8 :XITE HD
 #DESCRIPTION XITE HD
-#SERVICE 1:64:1e8:0:0:0:0:0:0:0:
+#SERVICE 1:64:239:0:0:0:0:0:0:0:
 #DESCRIPTION +++Radio Toppers+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-67.stream-server.nl%3a1936/RadioToppers/RadioToppers/playlist.m3u8:Radio Toppers
 #DESCRIPTION Radio Toppers
@@ -57,7 +57,7 @@
 #DESCRIPTION Poesjes TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server-23.stream-server.nl%3a1936/WinkRadio/WinkRadio/playlist.m3u8:Wink Radio
 #DESCRIPTION Wink Radio
-#SERVICE 1:64:1e9:0:0:0:0:0:0:0:
+#SERVICE 1:64:23a:0:0:0:0:0:0:0:
 #DESCRIPTION ++NL amateur-tv++
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.pi6atv.com%3a8081/scoop/pi6atv-hd/playlist.m3u8  :PI6atv (NL amateur tv)
 #DESCRIPTION PI6atv (NL amateur tv)

@@ -1,45 +1,47 @@
 #NAME Stream Servie (RS)
-#SERVICE 1:64:188b:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a86:0:0:0:0:0:0:0:
 #DESCRIPTION ++RTS-hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.202.204.202%3a8000/play/a01l/index.m3u8:RTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3448:RTS 1
 #DESCRIPTION RTS 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.202.204.202%3a8000/play/a010/index.m3u8:RTS 1 -2-
 #DESCRIPTION RTS 1 -2-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3448:RTS 1 -3-
-#DESCRIPTION RTS 1 -3-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3449:RTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3449:RTS 2
 #DESCRIPTION RTS 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3450:RTS 3
-#DESCRIPTION RTS 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/20257:RTS Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3450:RS%3a RTS 3
+#DESCRIPTION RS: RTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/20257:RTS Drama
 #DESCRIPTION RTS Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/20258:RTS Kolo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/20258:RTS Kolo
 #DESCRIPTION RTS Kolo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/57857:RTS Muzika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/57857:RTS Muzika
 #DESCRIPTION RTS Muzika
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/286759:RTS Poletarac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/298011:RTS Nauka
+#DESCRIPTION RTS Nauka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/286759:RTS Poletarac
 #DESCRIPTION RTS Poletarac
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/20261:RTS Svet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/20261:RTS Svet
 #DESCRIPTION RTS Svet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/20262:RTS Trezor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/20262:RTS Trezor
 #DESCRIPTION RTS Trezor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/20263:RTS Zivot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/20263:RTS Zivot
 #DESCRIPTION RTS Zivot
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.202.204.202%3a8000/play/a01r/index.m3u8:RTRS
 #DESCRIPTION RTRS
-#SERVICE 1:64:188c:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a87:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/286764:K1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4133:B92
+#DESCRIPTION B92
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/286764:K1
 #DESCRIPTION K1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/280141:Kanal 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/280141:Kanal 10
 #DESCRIPTION Kanal 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4169:KCN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4169:KCN 1
 #DESCRIPTION KCN 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4170:KCN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4170:KCN 2
 #DESCRIPTION KCN 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4171:KCN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4171:KCN 3
 #DESCRIPTION KCN 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/23055:N1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/23055:N1
 #DESCRIPTION N1
 #SERVICE 4097:0:1:a195:b98e:ec:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0:N1 B&H
 #DESCRIPTION N1 B&H
@@ -49,115 +51,113 @@
 #DESCRIPTION N1 RS
 #SERVICE 4097:0:1:b456:6c83:ec:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0:N1 SRB
 #DESCRIPTION N1 SRB
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3413:Pink
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3406:Nova BH
+#DESCRIPTION Nova BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3409:Nova M
+#DESCRIPTION Nova M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/10717:Nova S
+#DESCRIPTION Nova S
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/84781:Nova Sport
+#DESCRIPTION Nova Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3413:Pink
 #DESCRIPTION Pink
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rednet.rs/providus/redtv_multi.m3u8:Red TV
 #DESCRIPTION Red TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4216:RTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4216:RTV 1
 #DESCRIPTION RTV 1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:mmsh%3a//212.200.255.151/rtv2:RTV 2
 #DESCRIPTION RTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4083:RTV 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4083:RTV 21
 #DESCRIPTION RTV 21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4084:RTV 21 Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4084:RTV 21 Junior
 #DESCRIPTION RTV 21 Junior
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4086:RTV 21 Mix
-#DESCRIPTION RTV 21 Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/2549:RTV 21 Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/2549:RTV 21 Plus
 #DESCRIPTION RTV 21 Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/6909:RTV 21 Popullore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/6909:RTV 21 Popullore
 #DESCRIPTION RTV 21 Popullore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv1.adriatelekom.com/TVAS/index.m3u8:RTV As
 #DESCRIPTION RTV As
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/47463:RTV Bor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/47463:RTV Bor
 #DESCRIPTION RTV Bor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/12396:RTV Fontana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/12396:RTV Fontana
 #DESCRIPTION RTV Fontana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3453:Studio B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3453:Studio B
 #DESCRIPTION Studio B
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/10759:TV 1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/6722:T7
+#DESCRIPTION T7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/10759:TV 1000
 #DESCRIPTION TV 1000
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3415:Vesti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3415:Vesti
 #DESCRIPTION Vesti
-#SERVICE 1:64:188d:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a88:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajb.getaj.net/AJB/index.m3u8:Al Jazeera Balkans
 #DESCRIPTION Al Jazeera Balkans
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/195878:Diva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/195878:Diva
 #DESCRIPTION Diva
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4051:First Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5aa64ca8b95b8.streamlock.net%3a4443/edutv/edutelevizija/playlist.m3u8:Edu TV
+#DESCRIPTION Edu TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4051:First Channel
 #DESCRIPTION First Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3441:Ha Ha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3441:Ha Ha
 #DESCRIPTION Ha Ha
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3446:Happy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3446:Happy
 #DESCRIPTION Happy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/20222:IDJ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/20222:IDJ TV
 #DESCRIPTION IDJ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/47469:Jefimija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/47469:Jefimija
 #DESCRIPTION Jefimija
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2.catcast.tv/content/37925/index.m3u8:Kinozal
 #DESCRIPTION Kinozal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/51988:KTV Kohavision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/51988:KTV Kohavision
 #DESCRIPTION KTV Kohavision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kurir-tv.haste-cdn.net/providus/live2805.m3u8:Kurir TV
 #DESCRIPTION Kurir TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3440:Lol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3440:Lol
 #DESCRIPTION Lol
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-8/playlist.m3u8:Muzzik Flashback
 #DESCRIPTION Muzzik Flashback
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-4/playlist.m3u8:Muzzik Jeka
 #DESCRIPTION Muzzik Jeka
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-2/playlist.m3u8:Muzzik OKK
-#DESCRIPTION Muzzik OKK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-2/playlist.m3u8:Muzzik Moba
+#DESCRIPTION Muzzik Moba
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-3/playlist.m3u8:Muzzik Popstar
 #DESCRIPTION Muzzik Popstar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-a5/playlist.m3u8:Muzzik Riviera
-#DESCRIPTION Muzzik Riviera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-1/playlist.m3u8:Muzzik Rock & Roll
 #DESCRIPTION Muzzik Rock & Roll
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-a5/playlist.m3u8:Muzzik Tiktak
+#DESCRIPTION Muzzik Tiktak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-6/playlist.m3u8:Muzzik TV
 #DESCRIPTION Muzzik TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-5/playlist.m3u8:Muzzik Worldwide
-#DESCRIPTION Muzzik Worldwide
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-5/playlist.m3u8:Muzzik Worldwide Riviera
+#DESCRIPTION Muzzik Worldwide Riviera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//muzzik-live.morescreens.com/mts-a4/playlist.m3u8:Muzzik ZZ TV
 #DESCRIPTION Muzzik ZZ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3406:Nova BH
-#DESCRIPTION Nova BH
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3409:Nova M
-#DESCRIPTION Nova M
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/10717:Nova S
-#DESCRIPTION Nova S
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/84781:Nova Sport
-#DESCRIPTION Nova Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/13448:Parovi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/13448:Parovi
 #DESCRIPTION Parovi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4188:Pink World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4188:Pink World
 #DESCRIPTION Pink World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3417:Pink World Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/3417:Pink World Cinema
 #DESCRIPTION Pink World Cinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5562:Prva World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/5562:Prva World
 #DESCRIPTION Prva World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/3414:Red TV
-#DESCRIPTION Red TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod1.laki.eu/sandzak/video.m3u8:Sandzak TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/10743:Sandzak TV
 #DESCRIPTION Sandzak TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip2.xxlservices.com%3a8081/seharatv/live/chunks.m3u8:Sehara TV
 #DESCRIPTION Sehara TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/27418:Superstar TV
-#DESCRIPTION Superstar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/27418:Superstar
+#DESCRIPTION Superstar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.tv-project.com%3a1935/live/live1/playlist.m3u8:Svarožiči
 #DESCRIPTION Svarožiči
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/65854:TV Banovina
-#DESCRIPTION TV Banovina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.92.29.10%3a1935/tvduga/tvduga/playlist.m3u8:TV Duga Plus 
 #DESCRIPTION TV Duga Plus 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod1.laki.eu/live/hram/index.m3u8:TV Hram
 #DESCRIPTION TV Hram
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/171912:TV Kladovo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/171912:TV Kladovo
 #DESCRIPTION TV Kladovo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/67530:TV Novi Pazar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/67530:TV Novi Pazar
 #DESCRIPTION TV Novi Pazar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/4181:TV Palma Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/4181:TV Palma Plus
 #DESCRIPTION TV Palma Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/23150:Zico TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premiumiptvmk.com%3a8080/Streamteam5723/90ac349e/23150:Zico TV
 #DESCRIPTION Zico TV
