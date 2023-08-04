@@ -2188,7 +2188,7 @@ Radio509
 p:Ziggo
 4a3d:ffff0000:0805:0600:25:0
 BBC News
-p:Ziggo,c:050001,c:098808
+p:Ziggo,c:050001,c:098800
 4a3e:ffff0000:0805:0600:31:0
 ESPN UHD
 p:Ziggo,c:050007
@@ -4643,6 +4643,9 @@ p:Ziggo,c:050001
 1fac:ffff0000:0cac:0600:25:0
 DitisHelmond TV
 p:Ziggo,c:050001
+1fad:ffff0000:0cac:0600:25:0
+Omroep Meierij
+p:Ziggo
 1fae:ffff0000:0cac:0600:25:0
 Omroep Veldhoven
 p:Ziggo,c:050001
@@ -4658,6 +4661,9 @@ p:Ziggo,c:050001
 1fb5:ffff0000:0cac:0600:25:0
 VOS TV
 p:Ziggo,c:050001
+1fb6:ffff0000:0cac:0600:25:0
+Centraal TV
+p:Ziggo
 1c02:ffff0000:0906:2210:2:0
 NH Radio
 p:KPN
@@ -5392,13 +5398,13 @@ NH Nieuws
 p:Ziggo,c:050001
 4b0c:ffff0000:080e:0600:25:0
 RTV West
-p:Ziggo
+p:Ziggo,c:050001,c:098800
 4b0d:ffff0000:080e:0600:25:0
 Omroep Zeeland
 p:Ziggo,c:050001
 4b0e:ffff0000:080e:0600:25:0
 Omrop Fryslân
-p:Ziggo
+p:Ziggo,c:050001
 52d7:ffff0000:080e:0600:25:0
 RTV Utrecht
 p:Ziggo,c:050001
@@ -5461,7 +5467,7 @@ Discovery
 p:Ziggo,c:050001,c:098800
 4b1a:ffff0000:080f:0600:25:0
 Canvas
-p:Ziggo,c:050001,c:090202
+p:Ziggo,c:050001,c:098800
 1519:ffff0000:0036:25a8:25:0
 Babes TV HD
 p:SKV
@@ -5557,19 +5563,19 @@ TV West HD
 p:SKV
 544f:ffff0000:083b:0600:25:0
 RTV Noord
-p:Ziggo
+p:Ziggo,c:050001
 5457:ffff0000:083b:0600:25:0
 RTV Drenthe
-p:Ziggo
+p:Ziggo,c:050001
 5458:ffff0000:083b:0600:25:0
 RTV Oost
-p:Ziggo
+p:Ziggo,c:050001
 5459:ffff0000:083b:0600:25:0
 Omroep Brabant
 p:Ziggo,c:050001,c:098800
 545a:ffff0000:083b:0600:25:0
 Omroep Gelderland
-p:Ziggo
+p:Ziggo,c:050001,c:098800
 4c7d:ffff0000:083b:0600:25:0
 Eurosport 2
 p:Ziggo,c:050001

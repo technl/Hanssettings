@@ -1,7 +1,7 @@
 #NAME Stream Iran (IR)
-#SERVICE 1:64:3f1:0:0:0:0:0:0:0:
+#SERVICE 1:64:3b6:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvstream.co.uk/LS-63503-4/index.m3u8:Iran International TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8:Iran International TV
 #DESCRIPTION Iran International TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-azd204b.telewebion.com/tv1/live/1080p/index.m3u8:IRIB TV 1
 #DESCRIPTION IRIB TV 1
@@ -137,7 +137,9 @@
 #DESCRIPTION IRIB Yazd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/296457:IRIB Zagros
 #DESCRIPTION IRIB Zagros
-#SERVICE 1:64:3f2:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itnhls.wns.live/hls/stream.m3u8:ITN
+#DESCRIPTION ITN
+#SERVICE 1:64:3b7:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.28/hls/stream.m3u8:4 Kurd
 #DESCRIPTION 4 Kurd
@@ -147,6 +149,10 @@
 #DESCRIPTION 24/7 Box TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8:AFN TV
 #DESCRIPTION AFN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//af.ayas.ir/hls2/aiosport.m3u8:Aio Sport 1
+#DESCRIPTION Aio Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//af.ayas.ir/hls2/aiosport2.m3u8:Aio Sport 2
+#DESCRIPTION Aio Sport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.131/hls/stream.m3u8:Al Ahvaz TV
 #DESCRIPTION Al Ahvaz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.alalam.ir/alalam.m3u8:Al Alam
@@ -165,9 +171,9 @@
 #DESCRIPTION Asil TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8:Assirat TV
 #DESCRIPTION Assirat TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/5491:AVA Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//familyhls.avatv.live/hls/stream.m3u8:AVA Family
 #DESCRIPTION AVA Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.4/hls/stream.m3u8:AVA Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//avaserieshls.wns.live/hls/stream.m3u8:AVA Series
 #DESCRIPTION AVA Series
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.149/hls/stream.m3u8:Avang TV
 #DESCRIPTION Avang TV
@@ -175,16 +181,24 @@
 #DESCRIPTION BBC Persian
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.beitolabbas.tv/live/beitolabbastv.m3u8:Beitol Abbas TV
 #DESCRIPTION Beitol Abbas TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.16/hls/stream.m3u8:Bravo
-#DESCRIPTION Bravo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bravoohls.wns.live/hls/stream.m3u8:Bravo Farsi TV
+#DESCRIPTION Bravo Farsi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cafetradehls.wns.live/hls/stream.m3u8:Cafe Trade TV
+#DESCRIPTION Cafe Trade TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vid1.caltexmusic.com/hls/caltextv.m3u8:Caltex Music
 #DESCRIPTION Caltex Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8:Cartoon Network Arabic
 #DESCRIPTION Cartoon Network Arabic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.140/hls/stream.m3u8:Channel One
 #DESCRIPTION Channel One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch1hls.wns.live/hls/stream.m3u8:Channel Yek
+#DESCRIPTION Channel Yek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//damac-tv.icdndhcp.com/hls/stream.m3u8:Damac Persian
+#DESCRIPTION Damac Persian
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.40/hls/stream.m3u8:Ecran Movie
 #DESCRIPTION Ecran Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fxtvhls.wns.live/hls/stream.m3u8:FX TV
+#DESCRIPTION FX TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8:Ganje Hozoor
 #DESCRIPTION Ganje Hozoor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/166809:GEM 24B
@@ -245,12 +259,16 @@
 #DESCRIPTION Golestan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.hastitv.com/hls/livetv.m3u8:Hasti TV
 #DESCRIPTION Hasti TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8:Health Media TV
+#DESCRIPTION Health Media TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8:High Vision
 #DESCRIPTION High Vision
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.12/hls/stream.m3u8:Hod Hod TV
-#DESCRIPTION Hod Hod TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.7/hls/stream.m3u8:Icnet TV
-#DESCRIPTION Icnet TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.hodhod.live/hls/stream.m3u8:HodHod Farsi TV
+#DESCRIPTION HodHod Farsi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//icchls.wns.live/hls/stream.m3u8:ICC TV
+#DESCRIPTION ICC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//60ba7ef02e687.streamlock.net/ICNET/ngrp%3amy.stream_all/playlist.m3u8:ICnet 1
+#DESCRIPTION ICnet 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.37.92.14%3a12000/play/a0dz:iFILM
 #DESCRIPTION iFILM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.presstv.ir/live/ifilm2.m3u8:iFILM 2
@@ -259,6 +277,8 @@
 #DESCRIPTION iFILM Arabic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.presstv.ir/live/ifilmen.m3u8:iFILM English
 #DESCRIPTION iFILM English
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.presstv.ir/live/ifilmfa.m3u8:iFILM Persian
+#DESCRIPTION iFILM Persian
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih1.m3u8:Imam Hussein TV 1
 #DESCRIPTION Imam Hussein TV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.imamhossaintv.com/live/ih2.m3u8:Imam Hussein TV 2
@@ -271,47 +291,61 @@
 #DESCRIPTION Imam Hussein TV 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/arbaeen/arbaeen_hd.smil/index.m3u8:Imam Hussein TV 6
 #DESCRIPTION Imam Hussein TV 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.relentlessinnovations.net%3a1936/imantv/imantv/playlist.m3u8:Iman TV (480p)
+#DESCRIPTION Iman TV (480p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.57/hls/stream.m3u8:Iran Beauty
 #DESCRIPTION Iran Beauty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.159/hls/stream.m3u8:Irane Farda
-#DESCRIPTION Irane Farda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iran620.com%3a1935/derakhte-zendegi/test/playlist.m3u8:Iran Jewish TV
+#DESCRIPTION Iran Jewish TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.iranfarda.live/hls/stream.m3u8:Irane Farda TV
+#DESCRIPTION Irane Farda TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//irna-tv.icdndhcp.com/live/stream/index.m3u8:IRNA 24
+#DESCRIPTION IRNA 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sht2-cdn.sepehrtv.ir/securelive3/jamejam3sd/576p.m3u8?s=9cWi_fk0nHv4V8BYnvNyOg&t=1674941848:Jam Jam Global Network 1
 #DESCRIPTION Jam Jam Global Network 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sht2-cdn.sepehrtv.ir/securelive3/jamejam2sd/1080p.m3u8?s=4Npd6qFGnwms36VisK1_jw&t=1674942077:Jam Jam Global Network 3
 #DESCRIPTION Jam Jam Global Network 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nl.livekadeh.com/hls2/javanantv.m3u8:Javanan TV
+#DESCRIPTION Javanan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e11be0b2c93a.streamlock.net/live/ngrp%3akalemeh_all/chunklist_w1550094531_b2865293.m3u8:Kalemeh TV
 #DESCRIPTION Kalemeh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kjhls.wns.live/hls/stream.m3u8:Kanal Jadid
+#DESCRIPTION Kanal Jadid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8:Karbala Live 1
 #DESCRIPTION Karbala Live 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-mx-us-dal-1-cdn-bny.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8:Khatereh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//khaterehhls.wns.live/hls/stream.m3u8:Khatereh TV
 #DESCRIPTION Khatereh TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tvkomala.com/live/komala/playlist.m3u8:Komala TV
 #DESCRIPTION Komala TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.33/hls/stream.m3u8:Maah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.maahtv.live/hls/stream.m3u8:Maah TV
 #DESCRIPTION Maah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dh4wkqcyy8768.cloudfront.net/live_2500.m3u8:Manoto
 #DESCRIPTION Manoto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefa.marjaeyattv.com/mtv_fa/playlist.m3u8:Marjaeyat
 #DESCRIPTION Marjaeyat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefa.marjaeyattv.com/mtv_en/playlist.m3u8:Marjaeyat TV English
+#DESCRIPTION Marjaeyat TV English
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8:MBC Persia
 #DESCRIPTION MBC Persia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv.mihantv.com/mihantv/playlist1/index.m3u8:Mihan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv.mihantv.com/mihantv/playlist.m3u8:Mihan TV
 #DESCRIPTION Mihan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.11.235.251%3a1935/live_transcoder/ngrp%3amohabat.stream_all/chunklist.m3u8:Mohabat TV
 #DESCRIPTION Mohabat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mtchls.wns.live/hls/stream.m3u8:MTC
+#DESCRIPTION MTC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.254.225.25/hls/stream.m3u8:My Movie
 #DESCRIPTION My Movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.130/hls/stream.m3u8:Navahang
-#DESCRIPTION Navahang
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv.negahtv.com/negahtv/playlist2/index.m3u8:Negah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.navahang.live/hls/stream.m3u8:Navahang TV
+#DESCRIPTION Navahang TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv.negahtv.com/negahtv/playlist.m3u8:Negah TV
 #DESCRIPTION Negah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.bestream.io%3a19360/elfaro4/elfaro4.m3u8:Nour
 #DESCRIPTION Nour
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/chunks.m3u8?md5=7_6dbGbz1E77UsuVJGNASQ&expires=1674938960:Omid Javedan
 #DESCRIPTION Omid Javedan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.38/hls/stream.m3u8:Omide Iran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//oitnhls.wns.live/hls/stream.m3u8:Omide Iran
 #DESCRIPTION Omide Iran
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.254.225.26/hls/stream.m3u8:Oxir TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.oxir.live/hls/stream.m3u8:Oxir TV
 #DESCRIPTION Oxir TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.parnian.tv/hls/live/play.m3u8:Parnian TV
 #DESCRIPTION Parnian TV
@@ -329,11 +363,11 @@
 #DESCRIPTION PBC Tapesh TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/196369:Persian Bazar
 #DESCRIPTION Persian Bazar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.135/hls/stream.m3u8:Persian Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pfilmhls.wns.live/hls/stream.m3u8:Persian Film
 #DESCRIPTION Persian Film
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.persiantv1.com/ptv1/playlist1/index.m3u8:Persian TV One
 #DESCRIPTION Persian TV One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.147/hls/stream.m3u8:Persiana HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//persiana-hd.icdndhcp.com/hls/stream.m3u8:Persiana HD
 #DESCRIPTION Persiana HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//168.119.248.171/hls/stream.m3u8:Persiana Cinema
 #DESCRIPTION Persiana Cinema
@@ -351,22 +385,24 @@
 #DESCRIPTION Persiana Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.20/hls/stream.m3u8:Persiana Nostalgia
 #DESCRIPTION Persiana Nostalgia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.21/hls/stream.m3u8:Persiana One HD
-#DESCRIPTION Persiana One HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//persiana-one.icdndhcp.com/hls/stream.m3u8:Persiana One
+#DESCRIPTION Persiana One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.21/hls/stream.m3u8:Persiana Plus
 #DESCRIPTION Persiana Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.163/hls/stream.m3u8:Persiana Rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//persiana-rap.icdndhcp.com/hls/stream.m3u8:Persiana Rap
 #DESCRIPTION Persiana Rap
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.26/hls/stream.m3u8:Persiana Science
 #DESCRIPTION Persiana Science
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.58/hls/stream.m3u8:Persiana Sonnati
 #DESCRIPTION Persiana Sonnati
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/287468:Persiana Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//af.ayas.ir/hls2/persiana.m3u8:Persiana Sports
 #DESCRIPTION Persiana Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.pmchd.live/hls/stream.m3u8:PMC
 #DESCRIPTION PMC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.29/hls/stream.m3u8:PMC Royale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rohls.pmc.live/hls/stream.m3u8:PMC Royale
 #DESCRIPTION PMC Royale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.pokertvfa.live/hls/stream.m3u8:Poker TV
+#DESCRIPTION Poker TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.presstv.ir/cdnlive/smil%3acdnlive.smil/chunklist_b644100_slen.m3u8:Press TV English
 #DESCRIPTION Press TV English
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live1.presstv.ir/live/presstvfr/index.m3u8:Press TV French
@@ -389,9 +425,9 @@
 #DESCRIPTION Sepanj TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8:Simay Azadi TV
 #DESCRIPTION Simay Azadi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.3/hls/stream.m3u8:SL 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//slonehls.wns.live/hls/stream.m3u8:SL 1
 #DESCRIPTION SL 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.2/hls/stream.m3u8:SL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sltwohls.wns.live/hls/stream.m3u8:SL 2
 #DESCRIPTION SL 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.snn.ir/hls/snn/index.m3u8:SNN TV
 #DESCRIPTION SNN TV
@@ -401,11 +437,15 @@
 #DESCRIPTION Tapesh 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/1gbw5/tintv/tintv/playlist.m3u8:Tin TV
 #DESCRIPTION Tin TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//todayhls.wns.live/hls/stream.m3u8:Today TV
+#DESCRIPTION Today TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.227.134/hls/stream.m3u8:Toonix
 #DESCRIPTION Toonix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nl.livekadeh.com/hls2/velayattv.m3u8:Velayat TV
+#DESCRIPTION Velayat TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_1080/chunklist.m3u8:VoA Persian
 #DESCRIPTION VoA Persian
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.8/hls/stream.m3u8:VOX 1 TVG
-#DESCRIPTION VOX 1 TVG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.vox1.live/hls/stream.m3u8:VOX 1
+#DESCRIPTION VOX 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.yourtime.live/hls/stream.m3u8:Your Time
 #DESCRIPTION Your Time

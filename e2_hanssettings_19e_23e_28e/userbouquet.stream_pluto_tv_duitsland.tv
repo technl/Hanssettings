@@ -1,5 +1,5 @@
 #NAME Stream Pluto TV Duitsland
-#SERVICE 1:64:401:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c7:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto buitenland++
 #SERVICE 4097:0:1:1000:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4f56242d4ec87bdcbbb333/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MST3K
 #DESCRIPTION MST3K
@@ -19,7 +19,7 @@
 #DESCRIPTION Totally Turtles (OV)
 #SERVICE 4097:0:1:635:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb963c98ec06d00077d63cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Wipeout (OV)
 #DESCRIPTION Wipeout (OV)
-#SERVICE 1:64:402:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c8:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto comedy++
 #SERVICE 4097:0:1:35:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64105834925bd50008f5cde5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Bewegte Männer
 #DESCRIPTION Bewegte Männer
@@ -53,7 +53,7 @@
 #DESCRIPTION Takeshi's Castle
 #SERVICE 4097:0:1:620:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:The Pet Collective
 #DESCRIPTION The Pet Collective
-#SERVICE 1:64:403:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c9:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto Crime & Mystery++
 #SERVICE 4097:0:1:265:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Crime
 #DESCRIPTION Pluto TV Crime
@@ -65,7 +65,7 @@
 #DESCRIPTION Pluto TV True Crime
 #SERVICE 4097:0:1:10:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/642abea1283aa4000805bb5b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Täterjagd
 #DESCRIPTION Täterjagd
-#SERVICE 1:64:404:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ca:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto documentaire & wetenschap++
 #SERVICE 4097:0:1:275:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Auction Hunters
 #DESCRIPTION Auction Hunters
@@ -95,7 +95,7 @@
 #DESCRIPTION Pluto TV Space
 #SERVICE 4097:0:1:250:102:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d765a05f65029ce2385aa30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.2993&deviceLon=9.4910&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Slow TV
 #DESCRIPTION Slow TV
-#SERVICE 1:64:405:0:0:0:0:0:0:0:
+#SERVICE 1:64:3cb:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto TV Entertainment++
 #SERVICE 4097:0:1:280:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62bc15ef5843e70007dfbb47/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Are You The One?
 #DESCRIPTION Are You The One?
@@ -115,7 +115,7 @@
 #DESCRIPTION Pluto TV Weddings
 #SERVICE 4097:0:1:5:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c69d76808b74000759a085/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Punk'd
 #DESCRIPTION Punk'd
-#SERVICE 1:64:406:0:0:0:0:0:0:0:
+#SERVICE 1:64:3cc:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto extra++
 #SERVICE 4097:0:1:4f4f:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7b8923fc302800079e4f4f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CC Made in Germany+
 #DESCRIPTION CC Made in Germany+
@@ -155,7 +155,7 @@
 #DESCRIPTION Pluto TV Sitcoms+
 #SERVICE 4097:0:1:d8e9:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f3d2c4e501f18000788d8e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Spongebob Schwammkopf+
 #DESCRIPTION Spongebob Schwammkopf+
-#SERVICE 1:64:407:0:0:0:0:0:0:0:
+#SERVICE 1:64:3cd:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto films++
 #SERVICE 4097:0:1:35:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6305ca798bd95300072d2f93/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Filmgold
 #DESCRIPTION Filmgold
@@ -189,7 +189,7 @@
 #DESCRIPTION Pluto TV Western
 #SERVICE 4097:0:1:75:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cc81e793798650e4f7d9fd3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:The Asylum Channel
 #DESCRIPTION The Asylum Channel
-#SERVICE 1:64:408:0:0:0:0:0:0:0:
+#SERVICE 1:64:3ce:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto games++
 #SERVICE 4097:0:1:955:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9bc207ef2767e1846e5a0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:IGN
 #DESCRIPTION IGN
@@ -197,7 +197,7 @@
 #DESCRIPTION MinecrafTV
 #SERVICE 4097:0:1:965:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Unbeaten Esports
 #DESCRIPTION Unbeaten Esports
-#SERVICE 1:64:409:0:0:0:0:0:0:0:
+#SERVICE 1:64:3cf:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto jeugd++
 #SERVICE 4097:0:1:840:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Beyblade Burst
 #DESCRIPTION Beyblade Burst
@@ -237,7 +237,7 @@
 #DESCRIPTION Totally Turtles
 #SERVICE 4097:0:1:30:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/643683519b32b400094e0a40/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Transformers TV
 #DESCRIPTION Transformers TV
-#SERVICE 1:64:40a:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d0:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto lifestyle++
 #SERVICE 4097:0:1:400:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:BBC Travel
 #DESCRIPTION BBC Travel
@@ -255,7 +255,7 @@
 #DESCRIPTION Pluto TV Home
 #SERVICE 4097:0:1:270:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ede464e7be0030007c58b73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Storage Wars
 #DESCRIPTION Storage Wars
-#SERVICE 1:64:40b:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d1:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto millennials++
 #SERVICE 4097:0:1:191:102:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.2993&deviceLon=9.4910&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:iCarly
 #DESCRIPTION iCarly
@@ -271,7 +271,7 @@
 #DESCRIPTION Totally Turtles
 #SERVICE 4097:0:1:192:102:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9b70ad36f16211eca6a1001dec12a44c&deviceLat=51.2993&deviceLon=9.4910&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=7cfb0cb26a8c49f7830f28ddfa3b0da2&userId=:Victorious
 #DESCRIPTION Victorious
-#SERVICE 1:64:40c:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d2:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto MTV++
 #SERVICE 4097:0:1:655:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245cf8ac69baf000718295a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Approved Hip Hop
 #DESCRIPTION MTV Approved Hip Hop
@@ -313,7 +313,7 @@
 #DESCRIPTION MTV True Life
 #SERVICE 4097:0:1:695:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Unplugged
 #DESCRIPTION MTV Unplugged
-#SERVICE 1:64:40d:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d3:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto muziek++
 #SERVICE 4097:0:1:715:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f982c3420de4100070a545e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Beat Club
 #DESCRIPTION Beat Club
@@ -327,7 +327,7 @@
 #DESCRIPTION MTV Tu Fiesta Latina
 #SERVICE 4097:0:1:690:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/603d01a55123740007f8375a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Live in Concert
 #DESCRIPTION Pluto TV Live in Concert
-#SERVICE 1:64:40e:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d4:0:0:0:0:0:0:0:
 #DESCRIPTION ++Pluto series++
 #SERVICE 4097:0:1:5:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbf91afb1b10000880dd08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Auf Achse
 #DESCRIPTION Auf Achse
@@ -401,7 +401,7 @@
 #DESCRIPTION Wer ist hier der Boss?
 #SERVICE 4097:0:1:15:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/642d7e029189ce0008958af5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:X-Factor%3a Das Unfassbare
 #DESCRIPTION X-Factor: Das Unfassbare
-#SERVICE 1:64:40f:0:0:0:0:0:0:0:
+#SERVICE 1:64:3d5:0:0:0:0:0:0:0:
 #DESCRIPTION ++ Pluto sport++
 #SERVICE 4097:0:1:940:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Action Sports
 #DESCRIPTION Action Sports

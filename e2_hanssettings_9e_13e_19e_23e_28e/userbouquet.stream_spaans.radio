@@ -1,5 +1,5 @@
 #NAME Stream Spaans (ES)
-#SERVICE 1:64:63c:0:0:0:0:0:0:0:
+#SERVICE 1:64:603:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/crtve/rne1/main/mp3/high:RNE Radio Nacional
 #DESCRIPTION RNE Radio Nacional
@@ -13,7 +13,13 @@
 #DESCRIPTION RNE Radio Clásica
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/crtve/rneree/main/mp3/high:RNE Exterior
 #DESCRIPTION RNE Exterior
-#SERVICE 1:64:63d:0:0:0:0:0:0:0:
+#SERVICE 1:64:604:0:0:0:0:0:0:0:
+#DESCRIPTION --- Spanje - Canarische Eilanden ---
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//panel.amediastream.eu%3a8500/live:Holland FM
+#DESCRIPTION Holland FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mooiradio.live-streams.nl/live:Mooi Radio
+#DESCRIPTION Mooi Radio
+#SERVICE 1:64:605:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige zenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.10.10.225/zaragoza/live-web/chunklist_b128000.m3u8?GKID=dc544ece277711e9809800163e914f69:Aragón Radio
 #DESCRIPTION Aragón Radio

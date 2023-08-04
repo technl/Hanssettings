@@ -1,15 +1,13 @@
 #NAME Stream Peru (PE)
-#SERVICE 1:64:39e:0:0:0:0:0:0:0:
+#SERVICE 1:64:364:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh4.iblups.com/hls/irtp.m3u8:TV Peru Internacional
-#DESCRIPTION TV Peru Internacional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/R9WtilpKKB.m3u8:TV Peru Nacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8:TV Peru Nacional
 #DESCRIPTION TV Peru Nacional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.streamingtv-mediacp.online%3a1936/kdlrqjcp/kdlrqjcp/playlist.m3u8:TV Peru Nacional 2
-#DESCRIPTION TV Peru Nacional 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8:TV Perú Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8:TV Perú Internacional
+#DESCRIPTION TV Perú Internacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8:TV Perú Noticias
 #DESCRIPTION TV Perú Noticias
-#SERVICE 1:64:39f:0:0:0:0:0:0:0:
+#SERVICE 1:64:365:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8:Agro TV
 #DESCRIPTION Agro TV
@@ -31,13 +29,13 @@
 #DESCRIPTION Auténtica Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/bellatv/index.m3u8:Bella Abanquina TV
 #DESCRIPTION Bella Abanquina TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/mascumbiatvonline/index.m3u8:Best Cable Mas Cumbia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8:Best Cable Mas Cumbia
 #DESCRIPTION Best Cable Mas Cumbia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/bestcablemusic/index.m3u8:Best Cable Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8:Best Cable Music
 #DESCRIPTION Best Cable Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/bestcable/index.m3u8:Best Cable Peru
 #DESCRIPTION Best Cable Peru
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/bestcablesports/index.m3u8:Best Cable Sports Peru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8:Best Cable Sports Peru
 #DESCRIPTION Best Cable Sports Peru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.ujjina.com%3a1935/iptvbhtv/livebhtvtv/playlist.m3u8:BHTV
 #DESCRIPTION BHTV
@@ -115,7 +113,7 @@
 #DESCRIPTION Gold Valley TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.plixitv.live/goresamtv/goresamtv/playlist.m3u8:Goresam TV
 #DESCRIPTION Goresam TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/bestcablehatuntv/index.m3u8:Hatun TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8:Hatun TV
 #DESCRIPTION Hatun TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8:Hoynet
 #DESCRIPTION Hoynet
@@ -149,6 +147,8 @@
 #DESCRIPTION La Luz TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8070/index.m3u8:La Ribereña Pucallpa
 #DESCRIPTION La Ribereña Pucallpa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.intervenhosting.net%3a3639/live/latinatvlive.m3u8:Latina TV
+#DESCRIPTION Latina TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdo.grupolimalive.com%3a3245/multi_web/play_720.m3u8:Lima Live
 #DESCRIPTION Lima Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8:Lot Plus TV

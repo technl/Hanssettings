@@ -1,5 +1,5 @@
 #NAME Stream Azerbadjan (AZ)
-#SERVICE 1:64:300:0:0:0:0:0:0:0:
+#SERVICE 1:64:2c3:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/3f6d5b2f/ps9nhaJ3ffTPrLaX/16529:ARB
 #DESCRIPTION ARB
@@ -35,7 +35,7 @@
 #DESCRIPTION Real TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.az-mediaserver.com%3a1935/7064/7064/chunklist_w464537904.m3u8:TV7
 #DESCRIPTION TV7
-#SERVICE 1:64:301:0:0:0:0:0:0:0:
+#SERVICE 1:64:2c4:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.53.162%3a1935/live/eltv/chunklist.m3u8:EL TV
 #DESCRIPTION EL TV

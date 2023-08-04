@@ -1,28 +1,34 @@
 #NAME Stream Costa Rica (CR)
-#SERVICE 1:64:319:0:0:0:0:0:0:0:
+#SERVICE 1:64:2dc:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video20.klm99.com%3a3993/live/canal1crlive.m3u8:Canal 1
+#DESCRIPTION Canal 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8:Canal 1 (#)
+#DESCRIPTION Canal 1 (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teleunotv.cr%3a1935/TVUNO/TVUNO/playlist.m3u8:Tele 1 TV
 #DESCRIPTION Tele 1 TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8:CDR Canal 2
-#DESCRIPTION CDR Canal 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8:Canal 2
+#DESCRIPTION Canal 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8:TD+2
 #DESCRIPTION TD+2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.7.192.164%3a8002/play/s12:Canal 4 Repretel
-#DESCRIPTION Canal 4 Repretel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8:Canal 4
+#DESCRIPTION Canal 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8:Canal 5 San Vito Televisión
 #DESCRIPTION Canal 5 San Vito Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//inliveserver.com%3a1935/14510/14510/playlist.m3u8:Antena 6
 #DESCRIPTION Antena 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.7.192.164%3a8002/play/s11:Canal 6 Repretel
-#DESCRIPTION Canal 6 Repretel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8:Canal 6
+#DESCRIPTION Canal 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/teletica:Teletica 7
 #DESCRIPTION Teletica 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http%3a//www.multimedios.com:Canal 8
 #DESCRIPTION Canal 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8:Canal Ocho TV
+#DESCRIPTION Canal Ocho TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/TVSUR/TVSUR/playlist.m3u8:TV Sur Canal 9
 #DESCRIPTION TV Sur Canal 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8:Canal 11 Repretel
-#DESCRIPTION Canal 11 Repretel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8:Canal 11
+#DESCRIPTION Canal 11
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//dailymotion.com/sinart:Canal 13 Nuestro Canal
 #DESCRIPTION Canal 13 Nuestro Canal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvn.obix.tv%3a1935/TVN/CH14.stream_720p/playlist.m3u8:TVN Canal 14 HD
@@ -39,10 +45,14 @@
 #DESCRIPTION Canal 38 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.dailymotion.com/extratv42:Extra TV 42
 #DESCRIPTION Extra TV 42
-#SERVICE 1:64:31a:0:0:0:0:0:0:0:
+#SERVICE 1:64:2dd:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:Colosal TV HD
 #DESCRIPTION Colosal TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8020/index.m3u8:Cordoba TV
+#DESCRIPTION Cordoba TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8030/index.m3u8:Coto Brus TV
+#DESCRIPTION Coto Brus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//11554-1.b.cdn13.com/EnlaceTV/smil%3aenlace-hd.smil/playlist.m3u8:Enlace
 #DESCRIPTION Enlace
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//11554-1.b.cdn13.com/EJTV/smil%3aejtv-hd.smil/playlist.m3u8:Enlace Juvenil
@@ -55,6 +65,8 @@
 #DESCRIPTION HBTV TicaVisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.info/iqtv/envivo/playlist.m3u8:IQ Channel
 #DESCRIPTION IQ Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/limontv1/limontv1/playlist.m3u8:Limón TV
+#DESCRIPTION Limón TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lstv.duckdns.org%3a449/hls/lstv.m3u8:Los Santos TV
 #DESCRIPTION Los Santos TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdo.luznacientetv.com%3a3555/live/luznacientetvlive.m3u8:Luz Naciente TV
@@ -63,10 +75,14 @@
 #DESCRIPTION MZ Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8:Nicoya TV
 #DESCRIPTION Nicoya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videohd.live%3a19360/8076/8076.m3u8:Norte Informativo TV
+#DESCRIPTION Norte Informativo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/chunklist_w1223558379.m3u8:Radio 88 Stereo
 #DESCRIPTION Radio 88 Stereo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a19360/8212/8212.m3u8:RT TV
 #DESCRIPTION RT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.info/sanjosetv/envivo/playlist.m3u8:San José TV
+#DESCRIPTION San José TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cp.sradiotv.com%3a1936/8064/8064/playlist.m3u8:San Rafael en Linea
 #DESCRIPTION San Rafael en Linea
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lstv.duckdns.org%3a449/hls/stv.m3u8:Sarapiqui TV
@@ -81,6 +97,8 @@
 #DESCRIPTION Teletica Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8:Tica TV+
 #DESCRIPTION Tica TV+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8:TV Curré
+#DESCRIPTION TV Curré
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/videotour/videotour/playlist.m3u8:Video Tour Channel
 #DESCRIPTION Video Tour Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8:VM Latino

@@ -1,5 +1,5 @@
 #NAME Stream Italië (IT)
-#SERVICE 1:64:37a:0:0:0:0:0:0:0:
+#SERVICE 1:64:340:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-tn.com%3a8080/IptvRestream@telgramma/svtv.xyz_100exchange@americacentral/12676:Rai 1
 #DESCRIPTION Rai 1
@@ -95,7 +95,7 @@
 #DESCRIPTION Sportitalia SoloCalcio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8:Sportitalia TV/Sportitalia/SI
 #DESCRIPTION Sportitalia TV/Sportitalia/SI
-#SERVICE 1:64:37b:0:0:0:0:0:0:0:
+#SERVICE 1:64:341:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:8 Video Calabria
 #DESCRIPTION 8 Video Calabria
@@ -203,6 +203,8 @@
 #DESCRIPTION Cremona 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8:Cusano Italia TV
 #DESCRIPTION Cusano Italia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/dtelevision/playlist.m3u8:D Television Antenna 10
+#DESCRIPTION D Television Antenna 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.88.73%3a1935/di_tv_90/live/playlist.m3u8:Di.TV 90
 #DESCRIPTION Di.TV 90
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8:Deejay TV
@@ -315,6 +317,8 @@
 #DESCRIPTION Love in Venice
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/lucaniatv/lucaniatv/playlist.m3u8:Lucania TV 
 #DESCRIPTION Lucania TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8:M2o TV
+#DESCRIPTION M2o TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvx1.selftv.video/dmchannel/live/playlist.m3u8:Made in BO
 #DESCRIPTION Made in BO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1601580044.rsc.cdn77.org/live/_jcn_/amlst%3aItaliasette/playlist.m3u8:María+Visión Medjugorje
@@ -703,6 +707,10 @@
 #DESCRIPTION Telemolise
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8:Telemonteve
 #DESCRIPTION Telemonteve
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newyorkstream.ddns.net%3a1935/telenord8/telenord8/playlist.m3u8:Telenord 8
+#DESCRIPTION Telenord 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newyorkstream.ddns.net%3a1935/telenord10/telenord10/playlist.m3u8:Telenord Canal 10
+#DESCRIPTION Telenord Canal 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wms.shared.streamshow.it/telenord/telenord/playlist.m3u8:TeleNordest
 #DESCRIPTION TeleNordest
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-fs.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8:TelePace
@@ -737,6 +745,8 @@
 #DESCRIPTION TG Norba 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash2.streaming.xdevel.com%3a80/radiotouring10496/radiotouring10496/playlist.m3u8:Touring TV 
 #DESCRIPTION Touring TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.it-innov.com/tr24/index.m3u8:TR 24
+#DESCRIPTION TR 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetr.teleromagna.it/mia/live/playlist.m3u8:TR Sport
 #DESCRIPTION TR Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/trc/trc/playlist.m3u8:TRC Santeramo
@@ -795,6 +805,8 @@
 #DESCRIPTION TVA Vicenza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8:TVL Toscana
 #DESCRIPTION TVL Toscana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/televita/playlist.m3u8:TVR Sicilia HD
+#DESCRIPTION TVR Sicilia HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8:TVRS Marche
 #DESCRIPTION TVRS Marche
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//umbriatv.stream.rubidia.it%3a8083/live/umbriatv/playlist.m3u8:Umbria TV

@@ -1,42 +1,36 @@
 #NAME  Series
-#SERVICE 1:64:d17:0:0:0:0:0:0:0:
-#DESCRIPTION ●●●● Intelsat 20/36 (68.5E) - Ku Band ●●●●
-#SERVICE 1:64:d18:0:0:0:0:0:0:0:
-#DESCRIPTION ———    ———
-#SERVICE 1:0:1:32b:3e8:49:2ad0000:0:0:0:
-#SERVICE 1:0:1:33c:3e8:49:2ad0000:0:0:0:
-#SERVICE 1:0:1:32d:3e8:49:2ad0000:0:0:0:
-#SERVICE 1:64:d19:0:0:0:0:0:0:0:
+#SERVICE 1:64:aae:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Yamal 402 (55.0E) - Ku Band ●●●●
-#SERVICE 1:64:d1a:0:0:0:0:0:0:0:
+#SERVICE 1:64:aaf:0:0:0:0:0:0:0:
 #DESCRIPTION ———  GAZPROM_SS  ———
 #SERVICE 1:0:19:3:9:1:2252bac:0:0:0:
-#SERVICE 1:64:d1b:0:0:0:0:0:0:0:
-#DESCRIPTION ———  Service Provider  ———
-#SERVICE 1:0:1:5:1:ffff:2252b8f:0:0:0:
-#SERVICE 1:64:d1c:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab0:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Yahlive (52.5E) - Ku Band ●●●●
-#SERVICE 1:64:d1d:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab1:0:0:0:0:0:0:0:
 #DESCRIPTION ———  DU  ———
 #SERVICE 1:0:19:5:18:20d:20d0000:0:0:0:
 #SERVICE 1:0:19:a:18:20d:20d0000:0:0:0:
-#SERVICE 1:64:d1e:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab2:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● TurkmenAlem/MonacoSat (52.0E) ●●●●
-#SERVICE 1:64:d1f:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab3:0:0:0:0:0:0:0:
 #DESCRIPTION ———  2  ———
 #SERVICE 1:0:19:263:2:3:2080000:0:0:0:
-#SERVICE 1:64:d20:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab4:0:0:0:0:0:0:0:
 #DESCRIPTION ———  4  ———
 #SERVICE 1:0:19:330:4:3:2080000:0:0:0:
-#SERVICE 1:64:d21:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab5:0:0:0:0:0:0:0:
+#DESCRIPTION ———  AREF  ———
+#SERVICE 1:0:19:336:4:3:2080000:0:0:0:
+#SERVICE 1:0:19:338:4:3:2080000:0:0:0:
+#SERVICE 1:64:ab6:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Big Bang TV  ———
 #SERVICE 1:0:19:20f:1:3:2080000:0:0:0:
-#SERVICE 1:64:d22:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab7:0:0:0:0:0:0:0:
 #DESCRIPTION ———  WNS  ———
 #SERVICE 1:0:1:15:194e:194e:2080000:0:0:0:
-#SERVICE 1:64:d23:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab8:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Intelsat 12 (45.0E) ●●●●
-#SERVICE 1:64:d24:0:0:0:0:0:0:0:
+#SERVICE 1:64:ab9:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Vivacom  ———
 #SERVICE 1:0:19:e1:2:d5:1c20000:0:0:0:
 #SERVICE 1:0:19:73:1:d5:1c20000:0:0:0:
@@ -45,17 +39,17 @@
 #SERVICE 1:0:19:20:3:d5:1c20000:0:0:0:
 #SERVICE 1:0:19:16:3:d5:1c20000:0:0:0:
 #SERVICE 1:0:19:15:3:d5:1c20000:0:0:0:
-#SERVICE 1:64:d25:0:0:0:0:0:0:0:
+#SERVICE 1:64:aba:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Turksat 2A/3A/4A (42.0E) - Ku Band ●●●●
-#SERVICE 1:64:d26:0:0:0:0:0:0:0:
+#SERVICE 1:64:abb:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Digit�rk  ———
 #SERVICE 1:0:19:408e:9fc5:2a:1a40000:0:0:0:
 #SERVICE 1:0:19:408f:9fc5:2a:1a40000:0:0:0:
 #SERVICE 1:0:19:408c:9fc5:2a:1a40000:0:0:0:
 #SERVICE 1:0:19:408d:9fc5:2a:1a40000:0:0:0:
-#SERVICE 1:64:d27:0:0:0:0:0:0:0:
+#SERVICE 1:64:abc:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Hellas Sat 2 (39.0E) ●●●●
-#SERVICE 1:64:d28:0:0:0:0:0:0:0:
+#SERVICE 1:64:abd:0:0:0:0:0:0:0:
 #DESCRIPTION ———  A1 Bulgaria  ———
 #SERVICE 1:0:19:dc:b2:39e:1860000:0:0:0:
 #SERVICE 1:0:19:d6:b2:39e:1860000:0:0:0:
@@ -64,7 +58,7 @@
 #SERVICE 1:0:19:d9:b2:39e:1860000:0:0:0:
 #SERVICE 1:0:19:88:b1:39e:1860000:0:0:0:
 #SERVICE 1:0:19:ce:b2:39e:1860000:0:0:0:
-#SERVICE 1:64:d29:0:0:0:0:0:0:0:
+#SERVICE 1:64:abe:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Bulsatcom  ———
 #SERVICE 1:0:1:a2:2:1:1862fa2:0:0:0:
 #SERVICE 1:0:1:38:2:1:1862fa2:0:0:0:
@@ -73,39 +67,39 @@
 #SERVICE 1:0:1:1e:3:1:186b0c2:0:0:0:
 #SERVICE 1:0:1:1c:3:1:186b0c2:0:0:0:
 #SERVICE 1:0:1:46:6:1:18630ec:0:0:0:
-#SERVICE 1:64:d2a:0:0:0:0:0:0:0:
+#SERVICE 1:64:abf:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Orange Romania  ———
 #SERVICE 1:0:1:a2:10:1c:1860000:0:0:0:
 #SERVICE 1:0:1:69:e:1c:1860000:0:0:0:
 #SERVICE 1:0:1:c8:f:1c:1860000:0:0:0:
 #SERVICE 1:0:1:df:10:1c:1860000:0:0:0:
-#SERVICE 1:64:d2b:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac0:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Tring Digital  ———
 #SERVICE 1:0:19:83e:3f2:39e:1860000:0:0:0:
 #SERVICE 1:0:19:938:3f2:39e:1860000:0:0:0:
 #SERVICE 1:0:19:eb0:3f2:39e:1860000:0:0:0:
-#SERVICE 1:64:d2c:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac1:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Tring TV  ———
 #SERVICE 1:0:19:7da:3f2:39e:1860000:0:0:0:
 #SERVICE 1:0:19:1194:3fc:39e:1860000:0:0:0:
-#SERVICE 1:64:d2d:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac2:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat 36B / Express AMU1 (36.0E) ●●●●
-#SERVICE 1:64:d2e:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac3:0:0:0:0:0:0:0:
 #DESCRIPTION ———    ———
 #SERVICE 1:0:19:3eb:37:1:1683113:0:0:0:
 #SERVICE 1:0:19:3e9:37:1:1683113:0:0:0:
-#SERVICE 1:64:d2f:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac4:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Multichoice Africa  ———
 #SERVICE 1:0:19:3ec:ff82:36e:1680000:0:0:0:
 #SERVICE 1:0:1:327:ff80:36e:1680000:0:0:0:
 #SERVICE 1:0:1:38c:ff81:36e:1680000:0:0:0:
 #SERVICE 1:0:1:a97:ff93:36e:1680000:0:0:0:
-#SERVICE 1:64:d30:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac5:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Overon  ———
 #SERVICE 1:0:19:75:f5:1:1682c51:0:0:0:
-#SERVICE 1:64:d31:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac6:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Astra 2E/2F/2G (28.2E) - Ku Band ●●●●
-#SERVICE 1:64:d32:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac7:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Sky Digital  ———
 #SERVICE 1:0:1:83d:83d:2:11a0000:0:0:0:
 #SERVICE 1:0:1:837:83d:2:11a0000:0:0:0:
@@ -124,37 +118,37 @@
 #SERVICE 1:0:19:145c:7e4:2:11a0000:0:0:0:
 #SERVICE 1:0:19:f2c:7e5:2:11a0000:0:0:0:
 #SERVICE 1:0:1:992:7d7:2:11a0000:0:0:0:
-#SERVICE 1:64:d33:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac8:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Badr 4/5/6/7 (26.0E) - Ku Band ●●●●
-#SERVICE 1:64:d34:0:0:0:0:0:0:0:
+#SERVICE 1:64:ac9:0:0:0:0:0:0:0:
 #DESCRIPTION ———  beIN Sports  ———
 #SERVICE 1:0:19:9d09:fb4:e0:1040000:0:0:0:
-#SERVICE 1:64:d35:0:0:0:0:0:0:0:
+#SERVICE 1:64:aca:0:0:0:0:0:0:0:
 #DESCRIPTION ———  BeIn  ———
 #SERVICE 1:0:19:9d74:fbe:e0:1040000:0:0:0:
 #SERVICE 1:0:19:9e3e:fd2:e0:1040000:0:0:0:
-#SERVICE 1:64:d36:0:0:0:0:0:0:0:
+#SERVICE 1:64:acb:0:0:0:0:0:0:0:
 #DESCRIPTION ———  DU  ———
 #SERVICE 1:0:1:e:1f7:2be:1040000:0:0:0:
-#SERVICE 1:64:d37:0:0:0:0:0:0:0:
+#SERVICE 1:64:acc:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Hellas Sat  ———
 #SERVICE 1:0:1:839:15:2be:1040000:0:0:0:
-#SERVICE 1:64:d38:0:0:0:0:0:0:0:
+#SERVICE 1:64:acd:0:0:0:0:0:0:0:
 #DESCRIPTION ———  MBC  ———
 #SERVICE 1:0:19:133:17f8:2be:1040000:0:0:0:
 #SERVICE 1:0:19:136:17f8:2be:1040000:0:0:0:
-#SERVICE 1:64:d39:0:0:0:0:0:0:0:
+#SERVICE 1:64:ace:0:0:0:0:0:0:0:
 #DESCRIPTION ———  MOI  ———
 #SERVICE 1:0:19:456:7594:77e:1040000:0:0:0:
-#SERVICE 1:64:d3a:0:0:0:0:0:0:0:
+#SERVICE 1:64:acf:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat 25B (Es'hail 1) (25.5E) - Ku Band ●●●●
-#SERVICE 1:64:d3b:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad0:0:0:0:0:0:0:0:
 #DESCRIPTION ———  BeIn  ———
 #SERVICE 1:0:19:4e88:7da:e0:ff0000:0:0:0:
 #SERVICE 1:0:19:28a7:410:e0:ff0000:0:0:0:
-#SERVICE 1:64:d3c:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad1:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Astra 3B (23.5E) - Ku Band ●●●●
-#SERVICE 1:64:d3d:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad2:0:0:0:0:0:0:0:
 #DESCRIPTION ———  SkyLink  ———
 #SERVICE 1:0:19:3b6a:c8d:3:eb0000:0:0:0:
 #SERVICE 1:0:19:315:c94:3:eb0000:0:0:0:
@@ -164,7 +158,7 @@
 #SERVICE 1:0:19:339f:c89:3:eb0000:0:0:0:
 #SERVICE 1:0:19:36ec:c8c:3:eb0000:0:0:0:
 #SERVICE 1:0:19:3b64:c8d:3:eb0000:0:0:0:
-#SERVICE 1:64:d3e:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad3:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Telekom Srbija  ———
 #SERVICE 1:0:19:4f36:c8a:3:eb0000:0:0:0:
 #SERVICE 1:0:19:4e64:ca4:3:eb0000:0:0:0:
@@ -172,21 +166,20 @@
 #SERVICE 1:0:19:4e74:c86:3:eb0000:0:0:0:
 #SERVICE 1:0:19:4f0a:c81:3:eb0000:0:0:0:
 #SERVICE 1:0:19:4e7b:c8b:3:eb0000:0:0:0:
-#SERVICE 1:0:19:4e5e:c86:3:eb0000:0:0:0:
-#SERVICE 1:64:d3f:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad4:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat 21B (21.6E) ●●●●
-#SERVICE 1:64:d40:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad5:0:0:0:0:0:0:0:
 #DESCRIPTION ———  MBC  ———
 #SERVICE 1:0:19:1:45:800:d70000:0:0:0:
-#SERVICE 1:64:d41:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad6:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Astra 1KR/1L/1M/1N (19.2E) - Ku Band ●●●●
-#SERVICE 1:64:d42:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad7:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Austriasat  ———
 #SERVICE 1:0:1:101d:451:35:c00000:0:0:0:
-#SERVICE 1:64:d43:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad8:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Bis  ———
 #SERVICE 1:0:19:427d:446:1:c00000:0:0:0:
-#SERVICE 1:64:d44:0:0:0:0:0:0:0:
+#SERVICE 1:64:ad9:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Canal+ France  ———
 #SERVICE 1:0:19:2266:438:1:c00000:0:0:0:
 #SERVICE 1:0:19:24bf:43c:1:c00000:0:0:0:
@@ -194,11 +187,11 @@
 #SERVICE 1:0:19:22d5:434:1:c00000:0:0:0:
 #SERVICE 1:0:19:232b:442:1:c00000:0:0:0:
 #SERVICE 1:0:19:2201:44c:1:c00000:0:0:0:
-#SERVICE 1:64:d45:0:0:0:0:0:0:0:
+#SERVICE 1:64:ada:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Kabelkiosk  ———
 #SERVICE 1:0:19:7f:d:85:c00000:0:0:0:
 #SERVICE 1:0:19:16:2:85:c00000:0:0:0:
-#SERVICE 1:64:d46:0:0:0:0:0:0:0:
+#SERVICE 1:64:adb:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Movistar+  ———
 #SERVICE 1:0:1:7732:416:1:c00000:0:0:0:
 #SERVICE 1:0:19:7856:41a:1:c00000:0:0:0:
@@ -207,69 +200,67 @@
 #SERVICE 1:0:1:77bc:40a:1:c00000:0:0:0:
 #SERVICE 1:0:1:746f:3f0:1:c00000:0:0:0:
 #SERVICE 1:0:1:746e:3f0:1:c00000:0:0:0:
-#SERVICE 1:0:19:7882:414:1:c00000:0:0:0:
-#SERVICE 1:0:1:7696:41e:1:c00000:0:0:0:
 #SERVICE 1:0:19:78b6:3ec:1:c00000:0:0:0:
 #SERVICE 1:0:1:76ca:40e:1:c00000:0:0:0:
 #SERVICE 1:0:19:7825:428:1:c00000:0:0:0:
 #SERVICE 1:0:19:7888:414:1:c00000:0:0:0:
 #SERVICE 1:0:1:76cb:40e:1:c00000:0:0:0:
-#SERVICE 1:64:d47:0:0:0:0:0:0:0:
+#SERVICE 1:64:adc:0:0:0:0:0:0:0:
 #DESCRIPTION ———  SES  ———
 #SERVICE 1:0:19:290f:45e:1:c00000:0:0:0:
-#SERVICE 1:64:d48:0:0:0:0:0:0:0:
+#SERVICE 1:64:add:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Sky Deutschland  ———
 #SERVICE 1:0:19:d:6:85:c00000:0:0:0:
 #SERVICE 1:0:19:17:4:85:c00000:0:0:0:
 #SERVICE 1:0:19:7b:8:85:c00000:0:0:0:
-#SERVICE 1:64:d49:0:0:0:0:0:0:0:
+#SERVICE 1:64:ade:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat 16A/C (16.0E) - Ku Band ●●●●
-#SERVICE 1:64:d4a:0:0:0:0:0:0:0:
+#SERVICE 1:64:adf:0:0:0:0:0:0:0:
 #DESCRIPTION ———    ———
 #SERVICE 1:0:19:71f:c5a8:16e:a00000:0:0:0:
-#SERVICE 1:64:d4b:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae0:0:0:0:0:0:0:0:
 #DESCRIPTION ———  A1 Broadcasting  ———
 #SERVICE 1:0:19:4ea:76c1:16e:a00000:0:0:0:
 #SERVICE 1:0:19:7d5:9e98:16e:a00000:0:0:0:
 #SERVICE 1:0:19:453:526c:16e:a00000:0:0:0:
 #SERVICE 1:0:19:7d9:9e98:16e:a00000:0:0:0:
 #SERVICE 1:0:19:483:76c0:16e:a00000:0:0:0:
-#SERVICE 1:64:d4c:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae1:0:0:0:0:0:0:0:
 #DESCRIPTION ———  A1 HR  ———
 #SERVICE 1:0:19:73b:c5a8:16e:a00000:0:0:0:
 #SERVICE 1:0:19:71c:c5a8:16e:a00000:0:0:0:
-#SERVICE 1:64:d4d:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae2:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Freesat Romania  ———
 #SERVICE 1:0:19:9:1f4:5:a00000:0:0:0:
-#SERVICE 1:64:d4e:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae3:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Max TV  ———
 #SERVICE 1:0:19:3e:1:40:a00000:0:0:0:
 #SERVICE 1:0:19:c0:2:40:a00000:0:0:0:
 #SERVICE 1:0:19:a6:2:40:a00000:0:0:0:
 #SERVICE 1:0:19:126:3:40:a00000:0:0:0:
-#SERVICE 1:64:d4f:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae4:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Pink International  ———
 #SERVICE 1:0:19:62:cb2b:16e:a00000:0:0:0:
 #SERVICE 1:0:19:3a:cb2c:16e:a00000:0:0:0:
-#SERVICE 1:64:d50:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae5:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Total TV  ———
 #SERVICE 1:0:19:2ff:9d08:16e:a00000:0:0:0:
 #SERVICE 1:0:19:2f:1:40:a00000:0:0:0:
 #SERVICE 1:0:19:6ec:c544:16e:a00000:0:0:0:
 #SERVICE 1:0:19:368:c3b4:16e:a00000:0:0:0:
 #SERVICE 1:0:19:1171:9ca4:16e:a00000:0:0:0:
-#SERVICE 1:64:d51:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae6:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat Hot Bird 13B/13C/13E (13.0E) ●●●●
-#SERVICE 1:64:d52:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae7:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Bis  ———
 #SERVICE 1:0:19:140:3e1c:13f:820000:0:0:0:
-#SERVICE 1:64:d53:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae8:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Mediaset  ———
 #SERVICE 1:0:19:84:4b0:110:820000:0:0:0:
-#SERVICE 1:64:d54:0:0:0:0:0:0:0:
+#SERVICE 1:64:ae9:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Nova  ———
 #SERVICE 1:0:19:1bc8:17d4:13e:820000:0:0:0:
-#SERVICE 1:64:d55:0:0:0:0:0:0:0:
+#SERVICE 1:64:aea:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Orange Polska  ———
 #SERVICE 1:0:19:1c87:1ce8:71:820000:0:0:0:
 #SERVICE 1:0:19:c2a:1e78:71:820000:0:0:0:
@@ -279,32 +270,31 @@
 #SERVICE 1:0:19:3a9a:514:13e:820000:0:0:0:
 #SERVICE 1:0:19:1cac:1ce8:71:820000:0:0:0:
 #SERVICE 1:0:19:2905:1edc:71:820000:0:0:0:
-#SERVICE 1:64:d56:0:0:0:0:0:0:0:
+#SERVICE 1:64:aeb:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Platforma Canal+  ———
 #SERVICE 1:0:19:3acc:514:13e:820000:0:0:0:
-#SERVICE 1:64:d57:0:0:0:0:0:0:0:
+#SERVICE 1:64:aec:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Polsat Box  ———
 #SERVICE 1:0:19:1c96:1ce8:71:820000:0:0:0:
 #SERVICE 1:0:19:4290:2bc0:13e:820000:0:0:0:
 #SERVICE 1:0:19:4240:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:19:3e20:2ee0:13e:820000:0:0:0:
 #SERVICE 1:0:19:3d5c:2c88:13e:820000:0:0:0:
-#SERVICE 1:64:d58:0:0:0:0:0:0:0:
+#SERVICE 1:64:aed:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Sky Italia  ———
 #SERVICE 1:0:19:38c5:1af4:fbff:820000:0:0:0:
-#SERVICE 1:0:19:2d00:2260:fbff:820000:0:0:0:
 #SERVICE 1:0:19:1090:2008:fbff:820000:0:0:0:
 #SERVICE 1:0:19:2da4:2260:fbff:820000:0:0:0:
-#SERVICE 1:64:d59:0:0:0:0:0:0:0:
+#SERVICE 1:64:aee:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TeleSat  ———
 #SERVICE 1:0:19:1c4:26ac:13f:820000:0:0:0:
-#SERVICE 1:64:d5a:0:0:0:0:0:0:0:
+#SERVICE 1:64:aef:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat 9B (9.0E) - Ku Band ●●●●
-#SERVICE 1:64:d5b:0:0:0:0:0:0:0:
+#SERVICE 1:64:af0:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Cosmote  ———
 #SERVICE 1:0:19:416:4:aa:5a0000:0:0:0:
 #SERVICE 1:0:19:417:6:aa:5a0000:0:0:0:
-#SERVICE 1:64:d5c:0:0:0:0:0:0:0:
+#SERVICE 1:64:af1:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Kabelkiosk  ———
 #SERVICE 1:0:19:26c:206c:9c:5a0000:0:0:0:
 #SERVICE 1:0:19:bea:1bbc:9c:5a0000:0:0:0:
@@ -313,29 +303,29 @@
 #SERVICE 1:0:19:672:1fa4:9c:5a0000:0:0:0:
 #SERVICE 1:0:19:4ef6:21fc:9c:5a0000:0:0:0:
 #SERVICE 1:0:19:4eeb:21fc:9c:5a0000:0:0:0:
-#SERVICE 1:64:d5d:0:0:0:0:0:0:0:
+#SERVICE 1:64:af2:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Mediaset  ———
 #SERVICE 1:0:19:866:389:110:5a0000:0:0:0:
-#SERVICE 1:64:d5e:0:0:0:0:0:0:0:
+#SERVICE 1:64:af3:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Visat  ———
 #SERVICE 1:0:1:6:1:4d2:5a0000:0:0:0:
-#SERVICE 1:64:d5f:0:0:0:0:0:0:0:
+#SERVICE 1:64:af4:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● SES 5 / Astra 4A (4.8E) - Ku Band ●●●●
-#SERVICE 1:64:d60:0:0:0:0:0:0:0:
+#SERVICE 1:64:af5:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TV3 Group  ———
 #SERVICE 1:0:19:28d7:ca:55:300000:0:0:0:
 #SERVICE 1:0:19:27e7:c9:55:300000:0:0:0:
 #SERVICE 1:0:19:294a:cb:55:300000:0:0:0:
-#SERVICE 1:64:d61:0:0:0:0:0:0:0:
+#SERVICE 1:64:af6:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Viasat Ukraine  ———
 #SERVICE 1:0:19:a14:18:44:300000:0:0:0:
-#SERVICE 1:64:d62:0:0:0:0:0:0:0:
+#SERVICE 1:64:af7:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Viasat  ———
 #SERVICE 1:0:19:bd6:1a:44:300000:0:0:0:
 #SERVICE 1:0:19:a18:18:44:300000:0:0:0:
-#SERVICE 1:64:d63:0:0:0:0:0:0:0:
+#SERVICE 1:64:af8:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Bulgariasat (1.9E) - Ku Band ●●●●
-#SERVICE 1:64:d64:0:0:0:0:0:0:0:
+#SERVICE 1:64:af9:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Neosat  ———
 #SERVICE 1:0:19:1f5:17:3:130000:0:0:0:
 #SERVICE 1:0:19:1f4:17:3:130000:0:0:0:
@@ -343,24 +333,24 @@
 #SERVICE 1:0:19:222:18:3:130000:0:0:0:
 #SERVICE 1:0:19:9e:10:3:130000:0:0:0:
 #SERVICE 1:0:19:9d:10:3:130000:0:0:0:
-#SERVICE 1:64:d65:0:0:0:0:0:0:0:
+#SERVICE 1:64:afa:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Intelsat 10-02 / Thor 5/6/7 (0.8W) - Ku Band ●●●●
-#SERVICE 1:64:d66:0:0:0:0:0:0:0:
+#SERVICE 1:64:afb:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Allente  ———
 #SERVICE 1:0:19:584:e:46:e080000:0:0:0:
 #SERVICE 1:0:19:1f0d:23:46:e080000:0:0:0:
-#SERVICE 1:64:d67:0:0:0:0:0:0:0:
+#SERVICE 1:64:afc:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Digi TV  ———
 #SERVICE 1:0:19:1b63:af7:bb:e080000:0:0:0:
 #SERVICE 1:0:1:400:2:1:e0831b3:0:0:0:
 #SERVICE 1:0:1:79f3:2c8:600:e080000:0:0:0:
+#SERVICE 1:0:1:5aa:c:1:e082e7c:0:0:0:
 #SERVICE 1:0:1:60e:4:1:e08af9c:0:0:0:
-#SERVICE 1:64:d68:0:0:0:0:0:0:0:
+#SERVICE 1:64:afd:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Focus Sat  ———
 #SERVICE 1:0:1:2afb:b:1111:e082f3c:0:0:0:
 #SERVICE 1:0:1:2afc:b:1111:e082f3c:0:0:0:
 #SERVICE 1:0:1:78cd:2c5:600:e080000:0:0:0:
-#SERVICE 1:0:1:2afe:b:1111:e082f3c:0:0:0:
 #SERVICE 1:0:1:2afd:b:1111:e082f3c:0:0:0:
 #SERVICE 1:0:1:2afa:b:1111:e082f3c:0:0:0:
 #SERVICE 1:0:19:1787:af6:bb:e080000:0:0:0:
@@ -369,41 +359,41 @@
 #SERVICE 1:0:19:fac:af4:bb:e080000:0:0:0:
 #SERVICE 1:0:19:7923:2c6:600:e080000:0:0:0:
 #SERVICE 1:0:1:798a:2c7:600:e080000:0:0:0:
-#SERVICE 1:64:d69:0:0:0:0:0:0:0:
+#SERVICE 1:64:afe:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Slovak Telekom  ———
 #SERVICE 1:0:19:fad:af4:bb:e080000:0:0:0:
-#SERVICE 1:64:d6a:0:0:0:0:0:0:0:
+#SERVICE 1:64:aff:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Amos 2/3 (4.0W) - Ku Band ●●●●
-#SERVICE 1:64:d6b:0:0:0:0:0:0:0:
+#SERVICE 1:64:b00:0:0:0:0:0:0:0:
 #DESCRIPTION ———  SLM  ———
 #SERVICE 1:0:1:e:65:61:de80000:0:0:0:
-#SERVICE 1:64:d6c:0:0:0:0:0:0:0:
+#SERVICE 1:64:b01:0:0:0:0:0:0:0:
 #DESCRIPTION ———  T-Home  ———
 #SERVICE 1:0:19:51b:3:64:de80000:0:0:0:
 #SERVICE 1:0:19:657:6:64:de80000:0:0:0:
 #SERVICE 1:0:19:5dd:5:64:de80000:0:0:0:
 #SERVICE 1:0:19:5e6:5:64:de80000:0:0:0:
-#SERVICE 1:64:d6d:0:0:0:0:0:0:0:
+#SERVICE 1:64:b02:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat 5 West A (5.0W) - Ku Band ●●●●
-#SERVICE 1:64:d6e:0:0:0:0:0:0:0:
+#SERVICE 1:64:b03:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Bis  ———
 #SERVICE 1:0:19:cb:4ee8:55f:dde0000:0:0:0:
 #SERVICE 1:0:19:bb8:4e84:55f:dde0000:0:0:0:
-#SERVICE 1:64:d6f:0:0:0:0:0:0:0:
+#SERVICE 1:64:b04:0:0:0:0:0:0:0:
 #DESCRIPTION ———  MHD7  ———
 #SERVICE 1:0:19:a01:a:20fa:dde0000:0:0:0:
-#SERVICE 1:64:d70:0:0:0:0:0:0:0:
+#SERVICE 1:64:b05:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Nilesat 102/201 / Eutelsat 7 West A (7.0W) - Ku Band ●●●●
-#SERVICE 1:64:d71:0:0:0:0:0:0:0:
+#SERVICE 1:64:b06:0:0:0:0:0:0:0:
 #DESCRIPTION ———  du  ———
 #SERVICE 1:0:1:6:9c68:77e:dca0000:0:0:0:
-#SERVICE 1:64:d72:0:0:0:0:0:0:0:
+#SERVICE 1:64:b07:0:0:0:0:0:0:0:
 #DESCRIPTION ———  ERTU  ———
 #SERVICE 1:0:1:25e:6:800:dca0000:0:0:0:
-#SERVICE 1:64:d73:0:0:0:0:0:0:0:
+#SERVICE 1:64:b08:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Gulfsat  ———
 #SERVICE 1:0:19:17a2:190:5000:dca0000:0:0:0:
-#SERVICE 1:64:d74:0:0:0:0:0:0:0:
+#SERVICE 1:64:b09:0:0:0:0:0:0:0:
 #DESCRIPTION ———  NILESAT  ———
 #SERVICE 1:0:1:70a:12:800:dca0000:0:0:0:
 #SERVICE 1:0:1:70d:12:800:dca0000:0:0:0:
@@ -414,38 +404,38 @@
 #SERVICE 1:0:1:89f:16:800:dca0000:0:0:0:
 #SERVICE 1:0:1:839:15:800:dca0000:0:0:0:
 #SERVICE 1:0:1:b07:1c:800:dca0000:0:0:0:
-#SERVICE 1:64:d75:0:0:0:0:0:0:0:
+#SERVICE 1:64:b0a:0:0:0:0:0:0:0:
 #DESCRIPTION ———  ViewMedia  ———
 #SERVICE 1:0:1:5:1:ffff:dca2a3f:0:0:0:
-#SERVICE 1:64:d76:0:0:0:0:0:0:0:
+#SERVICE 1:64:b0b:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Eutelsat 8 West B (8.0W) - Ku Band ●●●●
-#SERVICE 1:64:d77:0:0:0:0:0:0:0:
+#SERVICE 1:64:b0c:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Gulfsat  ———
 #SERVICE 1:0:1:f00:384:5000:dc00000:0:0:0:
-#SERVICE 1:64:d78:0:0:0:0:0:0:0:
+#SERVICE 1:64:b0d:0:0:0:0:0:0:0:
 #DESCRIPTION ———  MOI  ———
 #SERVICE 1:0:19:456:7594:77e:dc00000:0:0:0:
-#SERVICE 1:64:d79:0:0:0:0:0:0:0:
+#SERVICE 1:64:b0e:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Orbit Showtime Network  ———
 #SERVICE 1:0:19:a91:1:2a:dc00000:0:0:0:
-#SERVICE 1:64:d7a:0:0:0:0:0:0:0:
+#SERVICE 1:64:b0f:0:0:0:0:0:0:0:
 #DESCRIPTION ———  OSN  ———
 #SERVICE 1:0:19:a92:1:2a:dc00000:0:0:0:
-#SERVICE 1:64:d7b:0:0:0:0:0:0:0:
+#SERVICE 1:64:b10:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Express AM8 (14.0W) - Ku Band ●●●●
-#SERVICE 1:64:d7c:0:0:0:0:0:0:0:
+#SERVICE 1:64:b11:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Service Provider  ———
 #SERVICE 1:0:1:5:1:ffff:d842da9:0:0:0:
-#SERVICE 1:64:d7d:0:0:0:0:0:0:0:
+#SERVICE 1:64:b12:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Hispasat 30W-4/30W-5 (30.0W) ●●●●
-#SERVICE 1:64:d7e:0:0:0:0:0:0:0:
+#SERVICE 1:64:b13:0:0:0:0:0:0:0:
 #DESCRIPTION ———    ———
 #SERVICE 1:0:19:1795:26:36:ce40000:0:0:0:
-#SERVICE 1:64:d7f:0:0:0:0:0:0:0:
+#SERVICE 1:64:b14:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Meo  ———
 #SERVICE 1:0:19:e7:30:36:ce40000:0:0:0:
 #SERVICE 1:0:19:1388:30:36:ce40000:0:0:0:
-#SERVICE 1:64:d80:0:0:0:0:0:0:0:
+#SERVICE 1:64:b15:0:0:0:0:0:0:0:
 #DESCRIPTION ———  Nos  ———
 #SERVICE 1:0:19:193:27:36:ce40000:0:0:0:
 #SERVICE 1:0:19:37b:26:36:ce40000:0:0:0:

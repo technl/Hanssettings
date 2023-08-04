@@ -1,5 +1,5 @@
 #NAME Stream Polen (PL)
-#SERVICE 1:64:1a7b:0:0:0:0:0:0:0:
+#SERVICE 1:64:17fb:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders TVP++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52491:TVP 1
 #DESCRIPTION TVP 1
@@ -25,7 +25,7 @@
 #DESCRIPTION TVP Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.129.193.20/tsstreamer/TVP_SD.ts:TVP World
 #DESCRIPTION TVP World
-#SERVICE 1:64:1a7c:0:0:0:0:0:0:0:
+#SERVICE 1:64:17fc:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52787:Polonia 1
 #DESCRIPTION Polonia 1
@@ -109,7 +109,7 @@
 #DESCRIPTION TVT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/52739:TVT Zgorzelec
 #DESCRIPTION TVT Zgorzelec
-#SERVICE 1:64:1a7d:0:0:0:0:0:0:0:
+#SERVICE 1:64:17fd:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4 Fun TV
 #DESCRIPTION 4 Fun TV

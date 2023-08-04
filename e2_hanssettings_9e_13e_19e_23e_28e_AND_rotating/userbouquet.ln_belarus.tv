@@ -1,11 +1,16 @@
 #NAME LN-Belarus
-#SERVICE 1:64:1018:0:0:0:0:0:0:0:
+#SERVICE 1:64:da0:0:0:0:0:0:0:0:
+#DESCRIPTION ●●●● Belintersat 1 (51.5E) - Ku Band ●●●●
+#SERVICE 1:64:da1:0:0:0:0:0:0:0:
+#DESCRIPTION ———  Belintersat  ———
+#SERVICE 1:0:19:c29:3:ff00:2032c56:0:0:0:
+#SERVICE 1:64:da2:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Astra 3B (23.5E) - Ku Band ●●●●
-#SERVICE 1:64:1019:0:0:0:0:0:0:0:
+#SERVICE 1:64:da3:0:0:0:0:0:0:0:
 #DESCRIPTION ———  TeleSat  ———
 #SERVICE 1:0:19:1b90:c88:3:eb0000:0:0:0:
-#SERVICE 1:64:101a:0:0:0:0:0:0:0:
+#SERVICE 1:64:da4:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●● Express AM8 (14.0W) - Ku Band ●●●●
-#SERVICE 1:64:101b:0:0:0:0:0:0:0:
+#SERVICE 1:64:da5:0:0:0:0:0:0:0:
 #DESCRIPTION ———    ———
 #SERVICE 1:0:19:3:2:1:d84ad75:0:0:0:

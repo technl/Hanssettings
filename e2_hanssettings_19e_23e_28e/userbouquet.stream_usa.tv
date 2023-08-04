@@ -1,5 +1,5 @@
 #NAME Stream USA (US)
-#SERVICE 1:64:3c4:0:0:0:0:0:0:0:
+#SERVICE 1:64:38a:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders networks++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//4.59.210.197%3a8815/udp/127.0.0.1%3a6007:ABC 7 New York
 #DESCRIPTION ABC 7 New York
@@ -65,7 +65,7 @@
 #DESCRIPTION VoA TV Africa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8:VoA Persian
 #DESCRIPTION VoA Persian
-#SERVICE 1:64:3c5:0:0:0:0:0:0:0:
+#SERVICE 1:64:38b:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/7299:A&E
 #DESCRIPTION A&E
@@ -177,7 +177,7 @@
 #DESCRIPTION USA Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2do1g43aq7264.cloudfront.net/playlist.m3u8:Vice East
 #DESCRIPTION Vice East
-#SERVICE 1:64:3c6:0:0:0:0:0:0:0:
+#SERVICE 1:64:38c:0:0:0:0:0:0:0:
 #DESCRIPTION ++landelijke nieuwszenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/7129:ABC News
 #DESCRIPTION ABC News
@@ -265,7 +265,7 @@
 #DESCRIPTION WION
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8:Yahoo! Finance
 #DESCRIPTION Yahoo! Finance
-#SERVICE 1:64:3c7:0:0:0:0:0:0:0:
+#SERVICE 1:64:38d:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders sport++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/6235:AT&T Sportsnet
 #DESCRIPTION AT&T Sportsnet
@@ -327,7 +327,7 @@
 #DESCRIPTION WWE Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.devtv.nl%3a80/iptreee/sdacfexexxx/7396:Yes Network
 #DESCRIPTION Yes Network
-#SERVICE 1:64:3c8:0:0:0:0:0:0:0:
+#SERVICE 1:64:38e:0:0:0:0:0:0:0:
 #DESCRIPTION ++nieuwsfeeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8:ABC News 1
 #DESCRIPTION ABC News 1
@@ -389,7 +389,7 @@
 #DESCRIPTION NBC News Now Event 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8:WSJ Live 
 #DESCRIPTION WSJ Live 
-#SERVICE 1:64:3c9:0:0:0:0:0:0:0:
+#SERVICE 1:64:38f:0:0:0:0:0:0:0:
 #DESCRIPTION ++regionale informatieve uitzendingen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil%3awbrz-live.smil/chunklist.m3u8:ABC 2 Baton Rouge
 #DESCRIPTION ABC 2 Baton Rouge
@@ -591,7 +591,7 @@
 #DESCRIPTION NBC 26 Green Bay
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2-playlistserver.aws.syncbak.com/cpl/20980038/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk4MDAzOCIsImNpZCI6MjE5MDMsInNpZCI6MTU4LCJtZDUiOiIwN2QxMmRjNjAwOTM2MGI0MmY3NjNkNTRiMWIwZjI1NCIsImlhdCI6MTY2MDkxMzU2MCwiZXhwIjoxNjkyNDQ5NTYwLCJpc3MiOiJTeW5jYmFrIChURykifQ.JrWVgwzIn_RcNuWhkzIjr1i4qjXU1v4n0KFrSzoTQvQ:WDAM Detroit
 #DESCRIPTION WDAM Detroit
-#SERVICE 1:64:3ca:0:0:0:0:0:0:0:
+#SERVICE 1:64:390:0:0:0:0:0:0:0:
 #DESCRIPTION ++lokale uitzendingen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8:7 News Boston
 #DESCRIPTION 7 News Boston
@@ -1163,7 +1163,7 @@
 #DESCRIPTION WTGL-TV Good Life 45
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls-cdn.tvstartup16.net/tvstartup16-channel/live/mp4%3ajimbobklynedge/playlist.m3u8:WWON TV CH 48
 #DESCRIPTION WWON TV CH 48
-#SERVICE 1:64:3cb:0:0:0:0:0:0:0:
+#SERVICE 1:64:391:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8:3ABN
 #DESCRIPTION 3ABN

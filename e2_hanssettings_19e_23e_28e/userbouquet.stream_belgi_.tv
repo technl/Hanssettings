@@ -1,5 +1,5 @@
 #NAME Stream België (BE)
-#SERVICE 1:64:1e1:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a7:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - landelijk+++
 #SERVICE 4097:0:1:5221:c99:3:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/6895:VRT één
 #DESCRIPTION VRT één
@@ -25,17 +25,19 @@
 #DESCRIPTION VTM NWS - tijdens journaal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.parolis.be%3a1935/live/PLN_NL/chunklist_w27225067.m3u8:Federaal parlement BE (tijdens vergaderingen)
 #DESCRIPTION Federaal parlement BE (tijdens vergaderingen)
-#SERVICE 1:64:1e2:0:0:0:0:0:0:0:
+#SERVICE 1:64:1a8:0:0:0:0:0:0:0:
 #DESCRIPTION +++Vlaanderen - regionaal+++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_107244/1080n/index.m3u8:ATV (Antwerpen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/cmaf/29375_107244/master.m3u8?HLS_version=ts:ATV (Antwerpen)
 #DESCRIPTION ATV (Antwerpen)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_395477/playlist.m3u8:ROB TV (Regionale Omroep Brabant - België)
-#DESCRIPTION ROB TV (Regionale Omroep Brabant - België)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_395474/playlist.m3u8:TVL - TV Limburg (België)
-#DESCRIPTION TVL - TV Limburg (België)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/streams/29375_399410/playlist.m3u8:TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
-#DESCRIPTION TVO - TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
-#SERVICE 1:64:1e3:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/cmaf/29375_107244/master.m3u8:ATV (Antwerpen)
+#DESCRIPTION ATV (Antwerpen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/cmaf/29375_395477/media_4.m3u8:ROB TV (Regionale Omroep Brabant)
+#DESCRIPTION ROB TV (Regionale Omroep Brabant)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/cmaf/29375_395474/master.m3u8:TVL (Limburg)
+#DESCRIPTION TVL (Limburg)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.zendzend.com/cmaf/29375_399410/master.m3u8:TVO (Oost-Vlaanderen)
+#DESCRIPTION TVO (Oost-Vlaanderen)
+#SERVICE 1:64:1a9:0:0:0:0:0:0:0:
 #DESCRIPTION ++Vlaanderen radio webcams++
 #SERVICE 4097:0:1:101a:451:35:c00000:0:0:0:https%3a//live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8:VRT Radio 1 studiocam
 #DESCRIPTION VRT Radio 1 studiocam
@@ -53,9 +55,9 @@
 #DESCRIPTION JOE studiocam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8:Radio PROS (webcam) Heldergem-België
 #DESCRIPTION Radio PROS (webcam) Heldergem-België
-#SERVICE 1:64:1e4:0:0:0:0:0:0:0:
+#SERVICE 1:64:1aa:0:0:0:0:0:0:0:
 #DESCRIPTION +++Bruxelles/Wallonie+++
-#SERVICE 1:64:1e5:0:0:0:0:0:0:0:
+#SERVICE 1:64:1ab:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/65453:La Une
 #DESCRIPTION La Une
@@ -69,7 +71,7 @@
 #DESCRIPTION RTL Plug!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8:RTL TVi
 #DESCRIPTION RTL TVi
-#SERVICE 1:64:1e6:0:0:0:0:0:0:0:
+#SERVICE 1:64:1ac:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8:BEL RTL
 #DESCRIPTION BEL RTL

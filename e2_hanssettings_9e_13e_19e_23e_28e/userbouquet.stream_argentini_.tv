@@ -1,5 +1,5 @@
 #NAME Stream Argentinië (AR)
-#SERVICE 1:64:3a6:0:0:0:0:0:0:0:
+#SERVICE 1:64:36b:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nd106.republicaservers.com%3a4433/hls/c6611/index.m3u8:Canal 2 de Ushuaia
 #DESCRIPTION Canal 2 de Ushuaia
@@ -47,6 +47,8 @@
 #DESCRIPTION 5 TV Corrientes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/c/c5n/live:C5N
 #DESCRIPTION C5N
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8:Canal 5 del Pueblo
+#DESCRIPTION Canal 5 del Pueblo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8:Canal 5 Pico Truncado
 #DESCRIPTION Canal 5 Pico Truncado
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8:Canal 5 Santa Fé
@@ -139,7 +141,7 @@
 #DESCRIPTION Canal 13 La Rioja
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arcast.live/sanluistv/ngrp%3asanluistv_all/playlist.m3u8:Canal 13 San Luis
 #DESCRIPTION Canal 13 San Luis
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.streamtvradio.com%3a8443/uv096/uv096/playlist.m3u8:Canal 15.1 Panc TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.trixserver.com%3a8443/uv096/uv096/playlist.m3u8:Canal 15.1 Panc TV
 #DESCRIPTION Canal 15.1 Panc TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videostream.shockmedia.com.ar%3a19360/neotvdigital/neotvdigital.m3u8:Neo TV 16
 #DESCRIPTION Neo TV 16
@@ -183,7 +185,7 @@
 #DESCRIPTION Net TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.coninfo.net%3a1935/tvlink/live/playlist.m3u8:NG Federal
 #DESCRIPTION NG Federal
-#SERVICE 1:64:3a7:0:0:0:0:0:0:0:
+#SERVICE 1:64:36c:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59c5c86e10038.streamlock.net%3a1935/6605140/6605140/playlist.m3u8:24/7 Canal de Noticias
 #DESCRIPTION 24/7 Canal de Noticias
@@ -203,12 +205,16 @@
 #DESCRIPTION Antena 91
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.sersat.com/hls/argentinisima.m3u8:Argentinísima Satelital
 #DESCRIPTION Argentinísima Satelital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8:ATV Argentina
+#DESCRIPTION ATV Argentina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming02.gbasat.com.ar%3a19360/bayrestv/bayrestv.m3u8:Bayres TV
 #DESCRIPTION Bayres TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videostream.shockmedia.com.ar%3a19360/beatsradio/beatsradio.m3u8:Beats Radio
 #DESCRIPTION Beats Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vivo.solumedia.com%3a19360/bvconline/bvconline.m3u8:BVC
 #DESCRIPTION BVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arcast.com.ar/casse/casse/playlist.m3u8:Cable Imagen Armstrong
+#DESCRIPTION Cable Imagen Armstrong
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d52c5a5ce5e.streamlock.net%3a4443/cadena103/cadena103/playlist.m3u8:Cadena 103
 #DESCRIPTION Cadena 103
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videostream.shockmedia.com.ar%3a19360/tvnoficial/tvnoficial.m3u8:Cadena VIVO
@@ -217,6 +223,8 @@
 #DESCRIPTION Calchaquí TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.dattalive.com/canal907/canal907/playlist.m3u8:Canal 907 FM
 #DESCRIPTION Canal 907 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8:Canal E
+#DESCRIPTION Canal E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.dattalive.com/8138/8138/playlist.m3u8:Canal Coop
 #DESCRIPTION Canal Coop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.telered.com.ar/provincial/streaming/mystream.m3u8:Canal Provincial
@@ -243,7 +251,7 @@
 #DESCRIPTION Cine.Ar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//coninfo.net%3a1935/chacodxdtv/live/playlist.m3u8:Ciudad Chaco
 #DESCRIPTION Ciudad Chaco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videosenlared.fullstreaming.ar%3a3501/live/grupocitylive.m3u8:Ciudad Mágica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.initium.net.ar%3a3235/live/grupocitylive.m3u8:Ciudad Mágica
 #DESCRIPTION Ciudad Mágica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediacp.hostradios.com.ar%3a19360/canal7/canal7.m3u8:Corrientes TV (CTV)
 #DESCRIPTION Corrientes TV (CTV)
@@ -251,7 +259,7 @@
 #DESCRIPTION CPE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.dattalive.com/8066/8066/playlist.m3u8:Demos Radio Visual
 #DESCRIPTION Demos Radio Visual
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8:Depor TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8:Depor TV
 #DESCRIPTION Depor TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.210.221.119/Processor3_9_chunklist_b1300000.m3u8:DirecTV Sports
 #DESCRIPTION DirecTV Sports
@@ -287,6 +295,8 @@
 #DESCRIPTION IP Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming02.arcast.com.ar%3a1935/la90fm/la90fm/playlist.m3u8:La 90 FM
 #DESCRIPTION La 90 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8:La Voz de Tucumán
+#DESCRIPTION La Voz de Tucumán
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.limplay.ml/limtv.m3u8:LIM TV
 #DESCRIPTION LIM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.limplay.ml/limtv.m3u8:LIM TV
@@ -295,13 +305,19 @@
 #DESCRIPTION Litus TV Santa Fe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ltocatamarca.github.io/ltotv.m3u8:LTO Televisión
 #DESCRIPTION LTO Televisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.ath.cx%3a1936/lunatv/lunatv/playlist.m3u8:Luna TV
+#DESCRIPTION Luna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamlov.alsolnet.com/malbecplay/live/playlist.m3u8:Malbec Play
+#DESCRIPTION Malbec Play
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8:Marivisión TV
 #DESCRIPTION Marivisión TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vivo.solumedia.com%3a19360/masfm/masfm.m3u8:Más FM 95.9
 #DESCRIPTION Más FM 95.9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vivo.solumedia.com%3a19360/corrientes/corrientes.m3u8:Maxima TV
+#DESCRIPTION Maxima TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefocamundo.com%3a8081/megavisiontv/index.m3u8:Megavisión
 #DESCRIPTION Megavisión
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.alfasocialmedia.com.ar%3a3396/live/milleniumtvlive.m3u8:Milenium TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8:Milenium TV
 #DESCRIPTION Milenium TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8:Mirador
 #DESCRIPTION Mirador
@@ -309,6 +325,8 @@
 #DESCRIPTION Misiones Cuatro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8:Music Top
 #DESCRIPTION Music Top
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.streamcasthd.com%3a3076/live/sonicaargentinalive.m3u8:Neox TV
+#DESCRIPTION Neox TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//panel.dattalive.com%3a1935/8124/8124/chunklist_w283163661.m3u8:OK Radio
 #DESCRIPTION OK Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8:Pakapaka
@@ -317,6 +335,8 @@
 #DESCRIPTION Panc TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.elpinguino.com%3a1935/live/pinguinotv_720p/hasbahca.m3u8:Pinguino TV
 #DESCRIPTION Pinguino TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videostream.shockmedia.com.ar%3a19360/radio1045/radio1045.m3u8:Power Max Radio TV
+#DESCRIPTION Power Max Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.telpin.com.ar%3a1935/live-powerTV/power.stream/playlist.m3u8:Power TV
 #DESCRIPTION Power TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arcast.live/quatro/quatro/playlist.m3u8:Quatro TV
@@ -325,6 +345,8 @@
 #DESCRIPTION Radio Fenix TV La Rioja
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inliveserver.com%3a1936/14102/14102/playlist.m3u8:Radio FM Trujui
 #DESCRIPTION Radio FM Trujui
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8:Radio Sublime Gracia TV
+#DESCRIPTION Radio Sublime Gracia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.veemesoft.com.ar%3a1935/8436/8436/playlist.m3u8:Radio Sur 105.1 FM Berisso
 #DESCRIPTION Radio Sur 105.1 FM Berisso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59537faa0729a.streamlock.net/rbdvideo/rbdvideo/playlist.m3u8:RBD Radio TV
@@ -353,13 +375,15 @@
 #DESCRIPTION Solive TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8:Somos La Pampa
 #DESCRIPTION Somos La Pampa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.misistemareseller.com/8118/8118/playlist.m3u8:Tango TV
+#DESCRIPTION Tango TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8:Te Lo Cuento
 #DESCRIPTION Te Lo Cuento
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.initium.net.ar%3a3939/live/tectvmainlive.m3u8:TEC TV
 #DESCRIPTION TEC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//panel.dattalive.com/8012/8012/playlist.m3u8:Telecreativa
 #DESCRIPTION Telecreativa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediacp.hostradios.com.ar%3a19360/telediario/telediario.m3u8:Telediario TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8:Telediario TV
 #DESCRIPTION Telediario TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videohd.live%3a19360/8020/8020.m3u8:Telediez
 #DESCRIPTION Telediez
@@ -375,8 +399,8 @@
 #DESCRIPTION TeleMix
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.coninfo.net%3a1935/previsoratv/live/playlist.m3u8:TeleNord Corrientes
 #DESCRIPTION TeleNord Corrientes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/ARBtv/teleplus/playlist.m3u8:Telered Television
-#DESCRIPTION Telered Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video20.klm99.com%3a3558/live/teleredlive.m3u8:Telered
+#DESCRIPTION Telered
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnnsanjuan.com%3a9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8:Telesol
 #DESCRIPTION Telesol
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//4585-186-3-179-208.ngrok.io/hls/stream.m3u8:Televisión Manabita
@@ -393,6 +417,8 @@
 #DESCRIPTION TN Todo Noticias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8:TV Aire
 #DESCRIPTION TV Aire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w2.manasat.com/tvmana-ar/smil%3atvmana-ar.smil/playlist.m3u8:TV Maná Argentina
+#DESCRIPTION TV Maná Argentina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8:TV Pública
 #DESCRIPTION TV Pública
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canadaremar2.todostreaming.es/live/argentina-web.m3u8:TV Solidaria
@@ -405,7 +431,11 @@
 #DESCRIPTION Uniteve
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8:UR TV
 #DESCRIPTION UR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8:Varied TV
+#DESCRIPTION Varied TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live:Vorterix
 #DESCRIPTION Vorterix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8:VTV Mendoza
+#DESCRIPTION VTV Mendoza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8:X24
 #DESCRIPTION X24

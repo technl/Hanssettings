@@ -1,5 +1,5 @@
 #NAME Stream Palestina (PS)
-#SERVICE 1:64:3fb:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c1:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvpalsat.mada.ps%3a8888/audeh/index.m3u8:Auwdeh
 #DESCRIPTION Auwdeh
@@ -11,27 +11,37 @@
 #DESCRIPTION Musawa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvpalsat.mada.ps%3a8888/PBCLive/tracks-v1a1/mono.m3u8:Palestine Mubasher
 #DESCRIPTION Palestine Mubasher
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pbc.furrera.ps/palestinelivehd/index.m3u8:Palestine Today
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.paltodaytv.com/paltv/live/playlist.m3u8:Palestine Today
 #DESCRIPTION Palestine Today
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pbc.furrera.ps/palestinehd/index.m3u8:Palestinian Satellite Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pbc.furrera.ps/palestinelivehd/index.m3u8:Palestinian Satellite Channel
 #DESCRIPTION Palestinian Satellite Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8:Wanasah
 #DESCRIPTION Wanasah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvint.mada.ps%3a8889/orient/tracks-v1a1/mono.m3u8?v=86757236:Watar TV
 #DESCRIPTION Watar TV
-#SERVICE 1:64:3fc:0:0:0:0:0:0:0:
+#SERVICE 1:64:3c2:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8:Al Aqsa Channel
 #DESCRIPTION Al Aqsa Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming2.qou.edu/hls/stream.m3u8:Al Quds Open University
+#DESCRIPTION Al Quds Open University
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.alqudstoday.tv%3a8080/hls/alqudstv/alqudstv.m3u8:Al Quds Today TV
+#DESCRIPTION Al Quds Today TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/alhiwar_live/smil%3aalhiwar.smil/playlist.m3u8:Alhiwar TV
 #DESCRIPTION Alhiwar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8:Falastini TV
 #DESCRIPTION Falastini TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.zaytonatube.com%3a8081/Hekaya_New_ST/hekayans/playlist.m3u8:Hekaya TV
+#DESCRIPTION Hekaya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.hettin.tv/stream/hls/hettin.m3u8:Hettin
+#DESCRIPTION Hettin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.zaytonatube.com%3a8080/radioalbalad/radioalbalad/playlist.m3u8:Radio Albalad TV
+#DESCRIPTION Radio Albalad TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/palabroad/live/playlist.m3u8:Rajeen TV
 #DESCRIPTION Rajeen TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live01.iflex.ps/Aqsa/index.m3u8:Seraj TV
 #DESCRIPTION Seraj TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.zaytonatube.com%3a8081/ShababFM/shabab/index.m3u8:Shabab FM
 #DESCRIPTION Shabab FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvmada.mada.ps%3a8888/wattan/index.m3u8?v=86757236:Wattan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvmada.mada.ps%3a8888/wattan/index.m3u8:Wattan TV
 #DESCRIPTION Wattan TV

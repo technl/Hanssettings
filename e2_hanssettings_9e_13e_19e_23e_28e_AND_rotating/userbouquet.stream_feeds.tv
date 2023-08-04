@@ -1,11 +1,11 @@
 #NAME Stream Feeds
-#SERVICE 1:64:191e:0:0:0:0:0:0:0:
+#SERVICE 1:64:169e:0:0:0:0:0:0:0:
 #DESCRIPTION ++Nederland feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ec2.prd1.talpatvcdn.nl/c8fb5a45d7bd4b41b73b2fe59a334ace/index_1.m3u8:SBS 6 Event Channel 1
 #DESCRIPTION SBS 6 Event Channel 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ec1.prd1.talpatvcdn.nl/5e865f953b0d4fc7bfd63fa64eb6979f/index_2.m3u8:SBS 6 Event Channel 2
 #DESCRIPTION SBS 6 Event Channel 2
-#SERVICE 1:64:191f:0:0:0:0:0:0:0:
+#SERVICE 1:64:169f:0:0:0:0:0:0:0:
 #DESCRIPTION +België-Vlaanderen feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8:DPG Medialaan 1
 #DESCRIPTION DPG Medialaan 1
@@ -27,7 +27,7 @@
 #DESCRIPTION VRT Events 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-cf-vrt.akamaized.net/groupa/live/7d5f0e4a-3429-4861-91d4-aa3229d7ad7b/live_aes.isml/live_aes-audio_track_0_0_dut=128000-video_track=3000000.m3u8?hd%3aSporza Livestream:VRT Feed
 #DESCRIPTION VRT Feed
-#SERVICE 1:64:1920:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a0:0:0:0:0:0:0:0:
 #DESCRIPTION ++Canada feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//github.com/geonsey/Free2ViewTV/blob/master/videos/GlobalNews_Notice.mp4?raw=true:Global News Live Stream
 #DESCRIPTION Global News Live Stream
@@ -39,13 +39,13 @@
 #DESCRIPTION CTV News Live 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8:CTV News Live 4
 #DESCRIPTION CTV News Live 4
-#SERVICE 1:64:1921:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a1:0:0:0:0:0:0:0:
 #DESCRIPTION ++China feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cd-live-stream.news.cctvplus.com/live/smil%3aCHANNEL1.smil/playlist.m3u8:CCTV+ 1
 #DESCRIPTION CCTV+ 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cd-live-stream.news.cctvplus.com/live/smil%3aCHANNEL2.smil/playlist.m3u8:CCTV+ 2
 #DESCRIPTION CCTV+ 2
-#SERVICE 1:64:1922:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a2:0:0:0:0:0:0:0:
 #DESCRIPTION ++Duitsland feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8:ARD Event 1
 #DESCRIPTION ARD Event 1
@@ -149,17 +149,17 @@
 #DESCRIPTION ZDF Event 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8:ZDF Event 6
 #DESCRIPTION ZDF Event 6
-#SERVICE 1:64:1923:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a3:0:0:0:0:0:0:0:
 #DESCRIPTION ++EBS (Europe By Satellite)++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8:EbS Live
 #DESCRIPTION EbS Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8:EbS+ Live
 #DESCRIPTION EbS+ Live
-#SERVICE 1:64:1924:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a4:0:0:0:0:0:0:0:
 #DESCRIPTION ++Griekenland++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live-bcbs15228.siliconweb.com/media/ert_news_2/ert_news_2medium.m3u8:ERT News 2
 #DESCRIPTION ERT News 2
-#SERVICE 1:64:1925:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a5:0:0:0:0:0:0:0:
 #DESCRIPTION ++Spanje feeds++
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/rtvesec/oca/irtve01_main_1080.m3u8:RTVE Play 1 HD
 #DESCRIPTION RTVE Play 1 HD
@@ -169,15 +169,15 @@
 #DESCRIPTION RTVE Play 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/rtvesec/oca/irtve04_main_1080.m3u8:RTVE Play 4 HD
 #DESCRIPTION RTVE Play 4 HD
-#SERVICE 1:64:1926:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a6:0:0:0:0:0:0:0:
 #DESCRIPTION ++NATO++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cofelylpi-livepush.video.llnw.net/NATO-LIVE-PUSH/video_0/video_0.m3u8:NATO feed
 #DESCRIPTION NATO feed
-#SERVICE 1:64:1927:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a7:0:0:0:0:0:0:0:
 #DESCRIPTION ++VN++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8:UN Web TV
 #DESCRIPTION UN Web TV
-#SERVICE 1:64:1928:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a8:0:0:0:0:0:0:0:
 #DESCRIPTION ++USA feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8:Reuters TV News
 #DESCRIPTION Reuters TV News
@@ -221,7 +221,7 @@
 #DESCRIPTION NBC News Now Event 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nbcnews-lh.akamaihd.net/i/nbc_live21@183428/master.m3u8:NBC News Now Event 5
 #DESCRIPTION NBC News Now Event 5
-#SERVICE 1:64:1929:0:0:0:0:0:0:0:
+#SERVICE 1:64:16a9:0:0:0:0:0:0:0:
 #DESCRIPTION ++Australië feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2glaw7ih6ssjl.cloudfront.net/livea.m3u8:9 News
 #DESCRIPTION 9 News

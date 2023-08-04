@@ -1,11 +1,11 @@
 #NAME Stream Cambodja (KH)
-#SERVICE 1:64:1a18:0:0:0:0:0:0:0:
+#SERVICE 1:64:1798:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8:TVK 1
 #DESCRIPTION TVK 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8:TVK 2
 #DESCRIPTION TVK 2
-#SERVICE 1:64:1a19:0:0:0:0:0:0:0:
+#SERVICE 1:64:1799:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.176.130.123%3a8989/live/bayontv_480k.stream/chunklist_.m3u8:Bayon TV
 #DESCRIPTION Bayon TV

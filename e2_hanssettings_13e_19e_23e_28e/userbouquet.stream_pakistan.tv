@@ -1,6 +1,6 @@
 #NAME Stream Pakistan (PK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8:92 News
-#DESCRIPTION 92 News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8:92 News HD
+#DESCRIPTION 92 News HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
 #DESCRIPTION 92 News UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8:Al Ehsaan TV
@@ -57,7 +57,7 @@
 #DESCRIPTION Geo Super
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/grace/tv/playlist.m3u8:Grace Network
 #DESCRIPTION Grace Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8:Harpal Geo TV Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/index.m3u8:Harpal Geo TV Entertainment
 #DESCRIPTION Harpal Geo TV Entertainment
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8?720p:HK TV  
 #DESCRIPTION HK TV  
@@ -99,6 +99,8 @@
 #DESCRIPTION Madani Channel English
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8:Madani Channel Urdu
 #DESCRIPTION Madani Channel Urdu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/missionasia/tv/playlist.m3u8:Mission Asia
+#DESCRIPTION Mission Asia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8:MTA 1 English
 #DESCRIPTION MTA 1 English
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/index_3000_av-p.m3u8:MTA 1
@@ -121,6 +123,8 @@
 #DESCRIPTION PNN News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecdn.live247stream.com/praise/tv/playlist.m3u8:Praise TV
 #DESCRIPTION Praise TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//primeasia.selfip.net/Samsung/index.m3u8:Prime Asia TV
+#DESCRIPTION Prime Asia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8:Prime Canada TV
 #DESCRIPTION Prime Canada TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCMfwlaPLGMn44BKvHv15yzA/live:PTV Home

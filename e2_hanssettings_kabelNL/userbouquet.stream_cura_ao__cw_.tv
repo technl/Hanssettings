@@ -1,9 +1,15 @@
 #NAME Stream Curaçao (CW)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8:Bonce TV
 #DESCRIPTION Bonce TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8:Nos Pais TV
+#SERVICE 4097:0:1:0:0:176f:0:0:0:0:http%3a//highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8:Nos Pais TV
 #DESCRIPTION Nos Pais TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott.streann.com/loadbalancer/services/public/channels-secure/6008e761e4b0f2f15dcb3441/playlist.m3u8:TCFM
+#DESCRIPTION TCFM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott.streann.com/loadbalancer/services/public/channels-secure/5ed71e232cdc24a3d08cd6de/playlist.m3u8:Tele Curaçao
+#DESCRIPTION Tele Curaçao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.42.185.216%3a8000/8D689D5SWV/SWV8X6AJGI/151360:TeleCuracao
 #DESCRIPTION TeleCuracao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/tvdirect/stream1/chunks.m3u8:TV Direct 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.tvdirect13.com/live/playlist.m3u8:TV Direct 13
 #DESCRIPTION TV Direct 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cur.watch/api/get_stream/vam/basilachill/mystream.m3u8:VAM Vid’s & More
+#DESCRIPTION VAM Vid’s & More

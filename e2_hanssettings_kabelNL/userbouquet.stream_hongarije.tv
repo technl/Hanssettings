@@ -1,89 +1,121 @@
 #NAME Stream Hongarije (HU)
-#SERVICE 1:64:27b:0:0:0:0:0:0:0:
+#SERVICE 1:64:23c:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/14980:M1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.59.85.40%3a89/m1sd/index.m3u8:M1
 #DESCRIPTION M1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/50627:M2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.59.85.40%3a89/m2/index.m3u8:M2
 #DESCRIPTION M2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/14998:M5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/47708:M4 Sport
+#DESCRIPTION M4 Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.59.85.40%3a89/m5/index.m3u8:M5
 #DESCRIPTION M5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/14990:TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/14990:TV 2
 #DESCRIPTION TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/50622:TV 2 Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a031/index.m3u8:TV 2 Comedy
 #DESCRIPTION TV 2 Comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/47734:TV 2 Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.59.85.40%3a89/tv2kids/index.m3u8:TV 2 Kids
 #DESCRIPTION TV 2 Kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/47719:Super TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a02s/index.m3u8:TV 2 Séf
+#DESCRIPTION TV 2 Séf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/47719:Super TV 2
 #DESCRIPTION Super TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/296876:Viasat 2
-#DESCRIPTION Viasat 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/23935:Fem 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/23935:Fem 3
 #DESCRIPTION Fem 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/14991:Viasat 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/14991:Viasat 3
 #DESCRIPTION Viasat 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/280262:Arena 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/280262:Arena 4
 #DESCRIPTION Arena 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kuchini.site%3a8080/tomstme300/tomasarenatelegramme300/50620:Galaxy 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/77756:Film 4
+#DESCRIPTION Film 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/50620:Galaxy 4
 #DESCRIPTION Galaxy 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/47732:Story 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/47732:Story 4
 #DESCRIPTION Story 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/23938:Viasat 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a02z/index.m3u8:TV 4
+#DESCRIPTION TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/23938:Viasat 6
 #DESCRIPTION Viasat 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.y5.hu/stream/stream_bekescsaba/stream.m3u8:TV 7 Bekescsaba
 #DESCRIPTION TV 7 Bekescsaba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/7185:ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/7185:ATV
 #DESCRIPTION ATV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8:ATV (deels geoblocking)
-#DESCRIPTION ATV (deels geoblocking)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/47725:Cool TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8:ATV (#)
+#DESCRIPTION ATV (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.59.85.40%3a89/atvspirit/index.m3u8:ATV Spirit
+#DESCRIPTION ATV Spirit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/47725:Cool TV
 #DESCRIPTION Cool TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/14997:Duna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.59.85.40%3a89/dunahd/index.m3u8:Duna TV
 #DESCRIPTION Duna TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/50601:Duna World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/14997:Duna TV (#)
+#DESCRIPTION Duna TV (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.59.85.40%3a89/dunaworld/index.m3u8:Duna World
 #DESCRIPTION Duna World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/72626:Hir TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/50601:Duna World (#)
+#DESCRIPTION Duna World (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/72626:Hir TV
 #DESCRIPTION Hir TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/14999:RTL II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/23934:Izaura TV
+#DESCRIPTION Izaura TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a01e/index.m3u8:RTL Hungary
+#DESCRIPTION RTL Hungary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/14999:RTL II
 #DESCRIPTION RTL II
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/50661:RTL Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a05h/index.m3u8:RTL Gold
 #DESCRIPTION RTL Gold
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/23933:RTL Klub
-#DESCRIPTION RTL Klub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/72616:Sorozat+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/50661:RTL Gold (#)
+#DESCRIPTION RTL Gold (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a02a/index.m3u8:RTL Három
+#DESCRIPTION RTL Három
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a01z/index.m3u8:RTL Kettö
+#DESCRIPTION RTL Kettö
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a05e/index.m3u8:Sorozat+
 #DESCRIPTION Sorozat+
-#SERVICE 1:64:27c:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/72133:TV Paprika
+#DESCRIPTION TV Paprika
+#SERVICE 1:64:23d:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/90660:Apostol TV
-#DESCRIPTION Apostol TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront41.lexanetwork.com%3a1344/relay01/livestream002.sdp/chunks.m3u8:Bajai TV
 #DESCRIPTION Bajai TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/286653:Balaton Televizio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/286653:Balaton Televizio
 #DESCRIPTION Balaton Televizio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.y5.hu/stream/stream_bonum/stream.m3u8:Bonum TV
 #DESCRIPTION Bonum TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//citytv.hu/media/live/stream.m3u8:City TV Budapest
-#DESCRIPTION City TV Budapest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/47733:Digi World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//79.120.178.90%3a1935/csurgotv/csurgolive/playlist.m3u8:Csurgó TV
+#DESCRIPTION Csurgó TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a04h/index.m3u8:Dikh TV
+#DESCRIPTION Dikh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/47733:Digi World
 #DESCRIPTION Digi World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/198874:Dikh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/198874:Dikh TV
 #DESCRIPTION Dikh TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1442/hlsrelay003/hls/livestream.sdp.m3u8:DTV Budapest
 #DESCRIPTION DTV Budapest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.onrender.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8:Euronews Hungary
-#DESCRIPTION Euronews Hungary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv01.eurocable.co.hu%3a443/EC-EGYKERTVHD/index.m3u8:Elsö Kerület TV
+#DESCRIPTION Elsö Kerület TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/freerelay/fehervartv.sdp/playlist.m3u8:Fehérvár TV
 #DESCRIPTION Fehérvár TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.streaming4u.hu/FonixTV/index.fmp4.m3u8:Főnix TV
+#DESCRIPTION Főnix TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.medialive.hu/gran/grantvlive/playlist.m3u8:Gran TV
+#DESCRIPTION Gran TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront41.lexanetwork.com%3a1344/relay02/livestream005.sdp/chunks.m3u8:Gyöngyösi TV
 #DESCRIPTION Gyöngyösi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.battanet.hu%3a8080/hls/livestream1/1_2/index.m3u8:Halom TV
 #DESCRIPTION Halom TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iptv01.eurocable.co.hu%3a443/EC-HANGULATTV/index.m3u8:Hangulat TV
+#DESCRIPTION Hangulat TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lpmedia.hu%3a1935/Hatoscsatorna/livestream:Hatoscsatorna
 #DESCRIPTION Hatoscsatorna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.hegyvidek.hu/hvtv/hvstream.m3u8:Hegyvidek TV Budapest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.hegyvidek.hu/stream_mpeg.flv:Hegyvidek TV Budapest
 #DESCRIPTION Hegyvidek TV Budapest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/286658:Hit Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.hegyvidek.hu/hvtv/hvstream.m3u8:Hegyvidek TV Budapest (#)
+#DESCRIPTION Hegyvidek TV Budapest (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/286658:Hit Music
 #DESCRIPTION Hit Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/77776:Jocky TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.59.85.40%3a89/izaura/index.m3u8:Izaura TV
+#DESCRIPTION Izaura TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/77776:Jocky TV
 #DESCRIPTION Jocky TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/freerelay/kanizsavtv.sdp/chunks.m3u8:Kanizsa TV
 #DESCRIPTION Kanizsa TV
@@ -91,40 +123,44 @@
 #DESCRIPTION Kapos TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp1.40e.hu%3a8000/live/ktv.m3u8:Kecskemeti TV
 #DESCRIPTION Kecskemeti TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/286662:Komlos TV
-#DESCRIPTION Komlos TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.225.32.62%3a8890/live.m3u8:Liceum
 #DESCRIPTION Liceum
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/14995:Life TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/14995:Life TV
 #DESCRIPTION Life TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streamer1.streamhost.org/salive/hungarian:Light Channel TV
 #DESCRIPTION Light Channel TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//makomedia.mikrohalo.hu/hls/makotv.m3u8:Makói Városi TV
 #DESCRIPTION Makói Városi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.mhzrt.hu/live/mitv/playlist.m3u8:Miskolc TV
-#DESCRIPTION Miskolc TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/freerelay/morvtv.sdp/chunks.m3u8:Mór Városi TV
 #DESCRIPTION Mór Városi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/18820:Music Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/14983:Moziverzum
+#DESCRIPTION Moziverzum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/18820:Music Channel
 #DESCRIPTION Music Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.unrealhosting.hu%3a7982/live.m3u8:Ózdi Városi TV
-#DESCRIPTION Ózdi Városi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/77787:Ozone TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.76.186.33%3a8000/play/a05f/index.m3u8:Muzsika TV
+#DESCRIPTION Muzsika TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.streaming4u.hu/ObudaTV/index.m3u8:Óbuda TV
+#DESCRIPTION Óbuda TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//plenaris.parlament.hu%3a1935/edgelive/smil%3amkogyplen.smil/playlist.m3u8:Országgyűlés (Plenáris)
+#DESCRIPTION Országgyűlés (Plenáris)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tab.parlament.hu%3a1935/edgelive/smil%3amkogytab.smil/playlist.m3u8:Országgyűlés (Törvényalkotási Bizottság)
+#DESCRIPTION Országgyűlés (Törvényalkotási Bizottság)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/77787:Ozone TV
 #DESCRIPTION Ozone TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.unrealhosting.hu%3a443/hls/pannonrtv/live.m3u8:Pannon RTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.nmih.hu%3a4102/live.m3u8:Pannon RTV
 #DESCRIPTION Pannon RTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/163990:Pax TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/163990:Pax TV
 #DESCRIPTION Pax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/50641:Prime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/50641:Prime
 #DESCRIPTION Prime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.47.126.198%3a5080/LiveApp/streams/902003217052313577741820.m3u8?token=null:Putnok Városi TV
-#DESCRIPTION Putnok Városi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rakosmentetv.hu%3a8080/hls/rmtv.m3u8:Rákosmente TV
 #DESCRIPTION Rákosmente TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvtree.net%3a8080/Vladisergeevic/2f71144da3/18418:Slager TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/relay01/HDE038.sdp/playlist.m3u8:SIXO TV
+#DESCRIPTION SIXO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/18418:Slager TV
 #DESCRIPTION Slager TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.tiszatv.hu/onlinetv/tiszatv_1.m3u8:Tisza TV
-#DESCRIPTION Tisza TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aanax.com%3a8080/argoni150Con/vU8F7dzqNqhT28gn/72616:Sorozat+
+#DESCRIPTION Sorozat+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tveger.hu%3a8010/live.m3u8:TV Eger
 #DESCRIPTION TV Eger
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nmih.hu%3a7960/live.m3u8:VTV Füzesabony
@@ -133,3 +169,5 @@
 #DESCRIPTION VTV Mór
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//79.120.178.90%3a1935/williams/williamstv/chunklist.m3u8:Williams TV
 #DESCRIPTION Williams TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/relay01/HDE051.sdp/playlist.m3u8:XVTV
+#DESCRIPTION XVTV

@@ -1,5 +1,5 @@
 #NAME Stream Vietnam (VN)
-#SERVICE 1:64:431:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f7:0:0:0:0:0:0:0:
 #DESCRIPTION ++VTC / VTV-hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/7134:VTC 2 / VietNews
 #DESCRIPTION VTC 2 / VietNews
@@ -21,7 +21,7 @@
 #DESCRIPTION VTV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/7148:VTV 9
 #DESCRIPTION VTV 9
-#SERVICE 1:64:432:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f8:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xplatinmedia.com%3a8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/7114:ANTV
 #DESCRIPTION ANTV
@@ -107,7 +107,7 @@
 #DESCRIPTION VOV TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vinhphuctv.vn%3a8090/vinhphuclive/web.stream/playlist.m3u8:VP TV
 #DESCRIPTION VP TV
-#SERVICE 1:64:433:0:0:0:0:0:0:0:
+#SERVICE 1:64:3f9:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8:Air Lao TV
 #DESCRIPTION Air Lao TV

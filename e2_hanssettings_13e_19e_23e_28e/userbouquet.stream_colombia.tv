@@ -1,5 +1,5 @@
 #NAME Stream Colombia (CO)
-#SERVICE 1:64:3ab:0:0:0:0:0:0:0:
+#SERVICE 1:64:371:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8:Canal 1
 #DESCRIPTION Canal 1
@@ -7,6 +7,8 @@
 #DESCRIPTION Canal 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8:Canal 2 Alpavisión Neiva Huila
 #DESCRIPTION Canal 2 Alpavisión Neiva Huila
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canaldos.internetinalambrico.com.co%3a1936/live/canal2.stream/playlist.m3u8:Canal Dos
+#DESCRIPTION Canal Dos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8:Canal 9 Bío Bío Televisión
 #DESCRIPTION Canal 9 Bío Bío Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.117.4.70%3a8075/channel11/playlist.m3u8:Canal 11 TV Red
@@ -45,12 +47,16 @@
 #DESCRIPTION Canal CNC Pasto Son Popular
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud28.vsgtech.co%3a3052/live/psctvlive.m3u8:PSC Televisión
 #DESCRIPTION PSC Televisión
-#SERVICE 1:64:3ac:0:0:0:0:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8:TV+ Canal 54
+#DESCRIPTION TV+ Canal 54
+#SERVICE 1:64:372:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.twitch.tv/canalacuario:Acuario Television
 #DESCRIPTION Acuario Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hvtrafico.ddns.net/amagatv/amagatv.stream/playlist.m3u8:Amagá Televisión
 #DESCRIPTION Amagá Televisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//samson.streamerr.co%3a8081/rudydurisimotv/index.m3u8:Area 809 El Original
+#DESCRIPTION Area 809 El Original
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v4.tustreaming.cl/atmtv/index.m3u8:ATM Televisión
 #DESCRIPTION ATM Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movil.ejeserver.com/live/verteve.m3u8:ATV Soacha
@@ -61,6 +67,8 @@
 #DESCRIPTION Buenísima Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8:Cablenoticias Bogotà
 #DESCRIPTION Cablenoticias Bogotà
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.convergen.co/ctv/ctv.stream/playlist.m3u8:Cahaya Banten TV
+#DESCRIPTION Cahaya Banten TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video17.virtualtronics.com/streamer/canalcampotv.m3u8:Campo Televisión Santa Marta
 #DESCRIPTION Campo Televisión Santa Marta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8:Canal Cali TV
@@ -119,6 +127,8 @@
 #DESCRIPTION Memorias TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8:Mi Gente TV
 #DESCRIPTION Mi Gente TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//servers.amelbasoluciones.co%3a19360/monitvlive/monitvlive.m3u8:Moni TV
+#DESCRIPTION Moni TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8:Multicanal Televisión
 #DESCRIPTION Multicanal Televisión
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/mundomas/mundomas/playlist.m3u8:Mundo Mas
@@ -153,6 +163,8 @@
 #DESCRIPTION Telepacifico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https%3a//teveo.com.co/player/AcAAAgAIAAE7A1IAyADIUCAAAAAAAAAA.js:Telepetróleo
 #DESCRIPTION Telepetróleo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hvtraficonew.ddns.net/tvsangil/tvsangil_360p/index.m3u8:Telesangil
+#DESCRIPTION Telesangil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8:UAO Play
 #DESCRIPTION UAO Play
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cur.watch/api/get_stream/vam/streann/playlist.m3u8:VAM Vid's & More

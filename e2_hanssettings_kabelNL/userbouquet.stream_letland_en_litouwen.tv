@@ -1,5 +1,5 @@
 #NAME Stream Letland (LV) en Litouwen (LT)
-#SERVICE 1:64:29b:0:0:0:0:0:0:0:
+#SERVICE 1:64:25c:0:0:0:0:0:0:0:
 #DESCRIPTION ++Letland++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.216.83.245/lnk/index.m3u8:LNK
 #DESCRIPTION LNK
@@ -9,7 +9,7 @@
 #DESCRIPTION TV Jūrmala
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//straume.vdtv.lv/vdtv2/index.m3u8:Vidusdaugavas Televīzija
 #DESCRIPTION Vidusdaugavas Televīzija
-#SERVICE 1:64:29c:0:0:0:0:0:0:0:
+#SERVICE 1:64:25d:0:0:0:0:0:0:0:
 #DESCRIPTION ++Litouwen++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.216.83.245/lrt/index.m3u8:LRT TV
 #DESCRIPTION LRT TV
@@ -29,7 +29,7 @@
 #DESCRIPTION TV 6 Lithuania
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.216.83.245/tv8/index.m3u8:TV 8 Lithuania
 #DESCRIPTION TV 8 Lithuania
-#SERVICE 1:64:29d:0:0:0:0:0:0:0:
+#SERVICE 1:64:25e:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//m-1.data.lt/m-1/smil%3am-1.smil/chunklist_b1000000.m3u8:M-1 Visual Radio
 #DESCRIPTION M-1 Visual Radio

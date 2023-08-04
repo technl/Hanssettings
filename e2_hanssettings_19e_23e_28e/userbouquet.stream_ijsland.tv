@@ -1,5 +1,5 @@
 #NAME Stream IJsland (IS)
-#SERVICE 1:64:36b:0:0:0:0:0:0:0:
+#SERVICE 1:64:331:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8:RUV 1
 #DESCRIPTION RUV 1
@@ -13,7 +13,7 @@
 #DESCRIPTION RUV 2 (deels geoblocking)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.tv.c.is/n4/03.m3u8:N4 HD
 #DESCRIPTION N4 HD
-#SERVICE 1:64:36c:0:0:0:0:0:0:0:
+#SERVICE 1:64:332:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//althingi-live.secure.footprint.net/althingi/live/index.m3u8:Altingi HD
 #DESCRIPTION Altingi HD

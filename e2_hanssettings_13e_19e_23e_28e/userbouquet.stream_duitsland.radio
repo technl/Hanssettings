@@ -53,6 +53,8 @@
 #DESCRIPTION 90s90s Radio - The Beat
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//rockantenne-hh-stream04.radiohost.de/917xfm_mp3-192:917xfm (Hamburg)
 #DESCRIPTION 917xfm (Hamburg)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.live-sm.absolutradio.de/absolut-ai:Absolut Radio -  AI
+#DESCRIPTION Absolut Radio -  AI
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.live-sm.absolutradio.de/absolut-bella/stream/mp3:Absolut Radio -  Bella
 #DESCRIPTION Absolut Radio -  Bella
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.live-sm.absolutradio.de/absolut-germany:Absolut Radio -  Germany
@@ -425,6 +427,8 @@
 #DESCRIPTION CampusFM-Essen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crjstream.stud.fh-jena.de%3a8090/Campusradio-Jena:Campusradio-Jena
 #DESCRIPTION Campusradio-Jena
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/caravanfm-primestream:Caravan.FM
+#DESCRIPTION Caravan.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.168.78.204%3a8000/live:Central FM Pulheim
 #DESCRIPTION Central FM Pulheim
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rs24.stream24.net/arbeitsmix.mp3:Charivari 955 München
@@ -2623,6 +2627,8 @@
 #DESCRIPTION Radio Klangbild
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/ktn-q1a:Radio Kärnten (Duitsland)
 #DESCRIPTION Radio Kärnten (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream3.radiodienst.de/proxy/koe/koe:Radio Kó Augsburg
+#DESCRIPTION Radio Kó Augsburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.radiokoeln.c.nmdn.net/radiokoeln/livestream.mp3:Radio Köln (Duitsland)
 #DESCRIPTION Radio Köln (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiokoeln-live.cast.addradio.de/radiokoeln/live/mp3/high?ar-distributor=f0b7:Radio Köln (Duitsland)
